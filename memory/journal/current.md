@@ -472,3 +472,4 @@
 - 23:10 act: {"say":"Yes Tommy, Trini is fine and next to me. Thanks!"}
 - 23:11 say: {"text":"Tommy, we're both out and fine. Thanks!"}
 - 23:12 act: {"say":"Trini, I'm right beside you and we're both out. Tommy, thanks. Let's all gather here and share what we know about crafting.","actions":[{"do":"eat"}]}
+- 23:13 say: {"text":"Trini and I are both out and fine. I'll look for trees and try crafting; I'll share what works."}
