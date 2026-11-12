@@ -202,3 +202,6 @@
 - 20:48 act: {"actions":[{"do":"unstick"},{"do":"place","block":"birch_planks","at":"feet"},{"do":"place","block":"birch_planks","at":"feet"}]}
 - 20:48 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":218}}]}
 - 20:48 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":191,"y":53,"z":222}},{"do":"goto","target":{"x":191,"y":54,"z":222}}]}
+- 20:49 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_
+- 20:49 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":191,"y":53,"z":221}}]}
+- 20:49 act: {"actions":[{"do":"unstick"}]}
