@@ -98,3 +98,4 @@
 - 18:39 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 18:39 act: {"actions":[{"do":"goto","target":{"x":177,"y":64,"z":269}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 18:39 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I can craft sticks now. Making a pickaxe. Billy, Jason, hold on."}
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":176,"y":64,"z":270}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
