@@ -110,3 +110,5 @@
 - 19:25 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":223}}]}
 - 19:25 act: {"actions":[{"do":"goto","target":{"x":177,"y":64,"z":270}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 19:26 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":7}],"say":"Billy, I gave you 7 dirt. Stack it to climb out."}
+- 19:27 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"sand"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":194,"y":58,"z":225}}]}
