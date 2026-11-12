@@ -182,3 +182,4 @@
 - 20:34 act: {"actions":[{"do":"goto","target":{"x":192,"y":53,"z":223}}]}
 - 20:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 20:35 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"birch_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_
+- 20:37 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":192,"y":53,"z":223}},{"do":"goto","target":{"x":192,"y":54,"z":223}}]}
