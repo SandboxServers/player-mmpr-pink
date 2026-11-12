@@ -448,3 +448,7 @@
 - 23:01 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":347}},{"do":"goto","target":{"x":-223,"y":60,"z":347}}]}
 - 23:02 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 23:02 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 23:03 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 23:03 act: {"actions":[{"do":"unstick"}]}
+- 23:03 act: {"actions":[{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:03 act: {"actions":[{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
