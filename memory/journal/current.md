@@ -349,3 +349,4 @@
 - 22:15 act: {"say":"Trini, digging down to you.","actions":[{"do":"mine","block":"dirt","count":3}]}
 - 22:15 act: {"say":"Trini, are you still there?","actions":[{"do":"goto","target":{"x":-222,"y":66,"z":345}}]}
 - 22:15 act: {"say":"Trini, I'm at your spot -222,65,345 and I walked in freely. Try moving toward me now."}
+- 22:16 say: {"text":"Trini, you're 2 blocks from me. Are you free now? Come to me if you can."}
