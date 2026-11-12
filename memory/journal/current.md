@@ -473,3 +473,4 @@
 - 23:11 say: {"text":"Tommy, we're both out and fine. Thanks!"}
 - 23:12 act: {"say":"Trini, I'm right beside you and we're both out. Tommy, thanks. Let's all gather here and share what we know about crafting.","actions":[{"do":"eat"}]}
 - 23:13 say: {"text":"Trini and I are both out and fine. I'll look for trees and try crafting; I'll share what works."}
+- 23:13 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations"
