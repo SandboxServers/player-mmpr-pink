@@ -489,3 +489,7 @@
 - 23:32 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
 - 23:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
 - 23:33 act: {"actions":[{"do":"goto","target":{"x":-200,"y":65,"z":347}}]}
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-200,"y":65,"z":347}}]}
+- 23:34 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}]}
+- 23:35 act: {"intent":{"goal":"reach_surface","program":"travel","arguments":{"x":-200,"y":65,"z":347},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations":200}
+- 23:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-200,"y":65,"z":347}}]}
