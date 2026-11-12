@@ -343,3 +343,6 @@
 - 22:12 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":358}}]}
 - 22:12 say: {"text":"Tommy, you seem free now. Good to see you both."}
 - 22:12 act: {"actions":[{"do":"goto","target":{"x":-222,"y":65,"z":346}}],"say":"Trini, I'm coming to you."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-224,"y":66,"z":348}}]}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-222,"y":66,"z":346}}],"say":"Trini, I'm near you. Can you hear me?"}
+- 22:14 act: {"actions":[{"do":"mine","block":"grass_block","count":1}],"say":"Trini, are you below me? Say something."}
