@@ -197,3 +197,5 @@
 - 20:44 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"birch_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
 - 20:45 act: {"actions":[{"do":"place","block":"sand","at":"feet"}]}
 - 20:45 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:46 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:46 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"birch_planks"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":20}}}
