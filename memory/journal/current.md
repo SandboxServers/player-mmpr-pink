@@ -154,3 +154,5 @@
 - 19:58 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
 - 20:00 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
 - 20:03 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
+- 20:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
+- 20:09 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":193,"y":53,"z":223}}]}
