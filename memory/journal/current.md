@@ -400,3 +400,7 @@
 - 22:40 act: {"actions":[{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"goto","target":{"x":-223,"y":63,"z":347}}],"reasoning":"Now at y60 on dirt. Follow 
 - 22:40 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":347}}],"reasoning":"Goto is not moving me up from y60. Unstick, then try again."}
 - 22:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-222,"y":59,"z":347}},{"do":"goto","target":{"x":-222,"y":61,"z":347}}],"reasoning":"Last attempt: place a block under my current cell and step up on
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 22:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:41 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operatio
+- 22:42 say: {"text":"Tommy, I'm at (-223,59,347), still in the pit with Trini. Placing dirt doesn't raise me. Please dig a stair down from the edge, or stand at z346 and place blocks beside us."}
