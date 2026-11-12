@@ -262,3 +262,6 @@
 - 21:19 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
 - 21:19 act: {"actions":[{"do":"unstick"}]}
 - 21:19 say: {"text":"Trini, yes, I'm still stuck in the pit at 189,53,223. Please place dirt next to me, or stack a pillar at 190,53-55,223 so I can climb."}
+- 21:20 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:20 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":190,"y":54,"z":223}}]}
+- 21:20 act: {"say":"Trini, I'm still at 189,53,223 in the water. Please place dirt at 190,53,223 so I can step up.","actions":[{"do":"wait","seconds":30}]}
