@@ -478,3 +478,13 @@
 - 23:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":80}}}
 - 23:23 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":40}}}
 - 23:24 act: {"say":"Trini, mine doesn't work either: my shelter build did nothing. I'll wait for day."}
+- 23:29 act: {"intent":{"goal":"gather_logs_8","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 23:29 act: {"actions":[{"do":"unstick"}]}
+- 23:30 act: {"intent":{"goal":"gather_logs_8","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":-210,"y":64,"z":348}}]}
+- 23:31 act: {"actions":[{"do":"goto","target":{"x":-190,"y":60,"z":348}}],"reasoning":"Hop east toward trees or animals."}
+- 23:31 act: {"actions":[{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
+- 23:31 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
+- 23:32 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
+- 23:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-190,"y":60,"z":348}}]}
