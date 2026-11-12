@@ -247,3 +247,6 @@
 - 21:10 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"place","block":"birch_planks","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 21:10 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":223}},{"do":"place","block":"sand","at":{"x":192,"y":53,"z":223}}]}
 - 21:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 21:12 act: {"actions":[{"do":"place","block":"birch_planks","at":"feet"},{"do":"craft","item":"birch_planks","count":8},{"do":"place","block":"birch_planks","at":"feet"}]}
+- 21:13 act: {"actions":[{"do":"place","block":"birch_planks","at":"feet"},{"do":"place","block":"birch_planks","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 21:13 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"birch_log"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
