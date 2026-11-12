@@ -299,3 +299,16 @@
 - 21:34 act: {"actions":[{"do":"goto","target":{"x":187,"y":62,"z":224}},{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
 - 21:34 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":188,"y":68,"z":224},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
 - 21:36 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"target":{"x":188,"y":68,"z":224}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operatio
+- 21:39 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":6,"avoid":"water","near":{"x":188,"y":69,"z":224},"alt_near":{"x":181,"y":70,"z":236}},"wake_on":["goal
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":186,"y":68,"z":226}},{"do":"mine","block":"birch_log","count":6}]}
+- 21:39 act: {"actions":[{"do":"goto","target":{"x":186,"y":68,"z":226}},{"do":"mine","block":"birch_log","count":6}]}
+- 21:39 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":186,"y":68,"z":226}}]}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":186,"y":62,"z":226}}]}
+- 21:40 act: {"intent":{"goal":"reach_birch_log","program":"travel","arguments":{"target":{"x":186,"y":68,"z":226}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_op
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":186,"y":68,"z":226}}]}
+- 21:40 act: {"actions":[{"do":"unstick"}]}
+- 21:40 act: {"actions":[{"do":"goto","target":{"x":186,"y":68,"z":226}},{"do":"mine","block":"birch_log","count":6}]}
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":183,"y":54,"z":222}},{"do":"goto","target":{"x":180,"y":58,"z":222}},{"do":"goto","target":{"x":178,"y":66,"z":222}}],"reasoning":"Follow the errand: west hops t
+- 21:41 act: {"actions":[{"do":"goto","target":{"x":186,"y":56,"z":221}},{"do":"goto","target":{"x":183,"y":54,"z":222}},{"do":"goto","target":{"x":180,"y":58,"z":222}},{"do":"goto","target":{"x":178,"y":66,"z":22
+- 21:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":186,"y":56,"z":221}}],"reasoning":"Position unchanged after goto; try unstick then one hop."}
+- 21:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":186,"y":56,"z":221}}]}
