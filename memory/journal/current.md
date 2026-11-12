@@ -43,3 +43,5 @@
 - 17:56 act: {"actions":[{"do":"mine","block":"birch_log","count":4}]}
 - 17:57 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
 - 17:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"mine","block":"stone","count":2}]}
+- 17:58 act: {"actions":[{"do":"unstick"}]}
+- 17:58 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
