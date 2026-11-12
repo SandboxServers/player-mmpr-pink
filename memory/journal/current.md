@@ -404,3 +404,9 @@
 - 22:41 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 22:41 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operatio
 - 22:42 say: {"text":"Tommy, I'm at (-223,59,347), still in the pit with Trini. Placing dirt doesn't raise me. Please dig a stair down from the edge, or stand at z346 and place blocks beside us."}
+- 22:43 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:43 act: {"actions":[{"do":"goto","target":{"x":-222,"y":60,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
+- 22:43 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":20}}}
+- 22:44 say: {"text":"Tommy, Kimberly and Trini are at y59 near (-225,59,348), inside the pit. Please place dirt in a staircase down from the edge at x-224/z348."}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:45 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
