@@ -117,3 +117,5 @@
 - 19:29 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":192,"y":53,"z":223}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 19:29 act: {"actions":[{"do":"mine","block":"stone","count":4}]}
 - 19:29 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":192,"y":53,"z":223}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:30 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":192,"y":53,"z":223}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:30 act: {"intent":{"goal":"make_pickaxe","program":"craft","arguments":{"item":"wooden_pickaxe","count":1},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operati
