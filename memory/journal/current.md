@@ -371,3 +371,17 @@
 - 22:23 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-222,"y":68,"z":342}}]}
 - 22:23 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-222,"y":68,"z":342}}]}
 - 22:23 act: {"say":"Anyone near (-224,59,348)? I'm stuck in a deep pit. Please dig a stair down or help me out.","actions":[{"do":"mine","block":"stone","count":4}]}
+- 22:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:24 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 22:27 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 22:27 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 22:28 say: {"text":"Trini, stop filling! I'm at y59 (-224,59,348) and my air is dropping. Please dig down to me instead."}
+- 22:28 act: {"actions":[{"do":"mine","block":"dirt","count":3}]}
+- 22:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 22:28 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 22:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":350}}]}
+- 22:33 act: {"actions":[{"do":"goto","target":{"x":-223,"y":64,"z":350}},{"do":"goto","target":{"x":-223,"y":64,"z":350}}]}
+- 22:34 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 22:35 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"mine","block":"dirt","count":2},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:36 say: {"text":"Tommy, I'm still in the pit at y60 (-223,60,348), healthy. Please dig a stair or drop dirt beside me so I can step up."}
