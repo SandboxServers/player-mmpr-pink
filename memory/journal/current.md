@@ -410,3 +410,6 @@
 - 22:44 say: {"text":"Tommy, Kimberly and Trini are at y59 near (-225,59,348), inside the pit. Please place dirt in a staircase down from the edge at x-224/z348."}
 - 22:45 act: {"actions":[{"do":"goto","target":{"x":-224,"y":60,"z":348}},{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 22:45 act: {"actions":[{"do":"mine","block":"dirt","count":4},{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":-224,"y":62,"z":347}}]}
+- 22:47 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-225,"y":60,"z":348}}]}
+- 22:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":3}]}
