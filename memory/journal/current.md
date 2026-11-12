@@ -459,3 +459,9 @@
 - 23:05 act: {"say":"Tommy: Kimberly and Trini still at y59 in the pit near (-224,59,347). Please dig a ramp down from the edge."}
 - 23:06 act: {"actions":[{"do":"goto","target":{"x":-224,"y":61,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 23:06 act: {"actions":[{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:07 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:07 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":61,"z":346}},{"do":"goto","target":{"x":-223,"y":61,"z":346}}]}
+- 23:07 act: {"actions":[{"do":"goto","target":{"x":-224,"y":63,"z":346}}]}
+- 23:08 act: {"actions":[{"do":"unstick"}]}
+- 23:08 act: {"actions":[{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:08 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
