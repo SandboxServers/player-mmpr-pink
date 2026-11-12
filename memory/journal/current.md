@@ -17,3 +17,17 @@
 - 17:39 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
 - 17:41 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}},{"do":"mine","block":"birch_log","count":3}]}
 - 17:41 act: {"actions":[{"do":"unstick"},{"do":"wait","seconds":10}]}
+- 17:44 act: {"intent":{"goal":"flee_spiders","program":"flee","arguments":{},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":20}}}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":230,"y":64,"z":260}}]}
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":215,"y":64,"z":240}},{"do":"goto","target":{"x":240,"y":64,"z":260}}]}
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":160,"y":64,"z":200}}]}
+- 17:46 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"birch_log","count":4}]}
+- 17:47 act: {"actions":[{"do":"goto","target":{"x":181,"y":68,"z":235}},{"do":"mine","block":"birch_log","count":4}],"reasoning":"Spider closing from NE. Move away SW toward birch cluster at 181,68,236, then mine
+- 17:47 act: {"actions":[{"do":"unstick"}],"reasoning":"Goto failed with precondition_failed; status shows falling. Unstick first."}
+- 17:47 act: {"actions":[{"do":"goto","target":{"x":181,"y":67,"z":235}}],"reasoning":"Retry goto to a spot adjacent to the birch at 181,68,236, southwest, away from spider."}
+- 17:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":186,"y":61,"z":232}}],"reasoning":"Test whether any movement works; small step away from spider."}
+- 17:47 act: {"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":181,"y":67,"z":235}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_op
+- 17:48 act: {"actions":[{"do":"unstick"}],"reasoning":"Intent ended; clear the body state before retrying movement."}
+- 17:48 act: {"actions":[{"do":"goto","target":{"x":182,"y":66,"z":236}},{"do":"mine","block":"birch_log","count":4}],"reasoning":"Spiders gone from view. Go to birch column at x181 z236, then mine."}
+- 17:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":184,"y":61,"z":233}}],"reasoning":"Goto blocked; unstick then a short hop west-southwest, away from spider."}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":181,"y":66,"z":235}}]}
