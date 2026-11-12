@@ -57,3 +57,9 @@
 - 18:10 act: {"actions":[{"do":"goto","target":{"x":182,"y":62,"z":235}}]}
 - 18:10 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations"
 - 18:11 act: {"actions":[{"do":"goto","target":{"x":189,"y":61,"z":233}},{"do":"goto","target":{"x":187,"y":61,"z":233}}]}
+- 18:12 act: {"actions":[{"do":"goto","target":{"x":188,"y":62,"z":228}}],"reasoning":"Errand: reach birch logs via small goto steps."}
+- 18:12 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2
+- 18:13 act: {"actions":[{"do":"goto","target":{"x":188,"y":62,"z":228}}]}
+- 18:13 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":188,"y":62,"z":228}}]}
+- 18:13 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":188,"y":63,"z":227}}]}
+- 18:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":188,"y":62,"z":228}}]}
