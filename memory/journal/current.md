@@ -350,3 +350,9 @@
 - 22:15 act: {"say":"Trini, are you still there?","actions":[{"do":"goto","target":{"x":-222,"y":66,"z":345}}]}
 - 22:15 act: {"say":"Trini, I'm at your spot -222,65,345 and I walked in freely. Try moving toward me now."}
 - 22:16 say: {"text":"Trini, you're 2 blocks from me. Are you free now? Come to me if you can."}
+- 22:16 act: {"intent":{"goal":"go_to_farm","program":"travel","arguments":{"x":-250,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations":32}},"s
+- 22:17 act: {"actions":[{"do":"unstick"}]}
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}}]}
+- 22:17 act: {"actions":[{"do":"mine","block":"dirt","count":6},{"do":"goto","target":{"x":-250,"y":68,"z":353}}]}
+- 22:18 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
+- 22:18 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
