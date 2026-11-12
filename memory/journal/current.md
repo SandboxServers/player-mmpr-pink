@@ -342,3 +342,4 @@
 - 22:12 act: {"intent":{"goal":"reach_tommy","program":"travel","arguments":{"x":-234,"y":67,"z":363},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
 - 22:12 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":358}}]}
 - 22:12 say: {"text":"Tommy, you seem free now. Good to see you both."}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-222,"y":65,"z":346}}],"say":"Trini, I'm coming to you."}
