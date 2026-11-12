@@ -475,3 +475,4 @@
 - 23:13 say: {"text":"Trini and I are both out and fine. I'll look for trees and try crafting; I'll share what works."}
 - 23:13 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations"
 - 23:14 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":4800,"max_block_operation
+- 23:17 act: {"intent":{"goal":"shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":80}}}
