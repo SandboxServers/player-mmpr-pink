@@ -127,3 +127,5 @@
 - 19:34 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":191,"y":54,"z":224}},{"do":"place","block":"birch_planks","at":{"x":191,"y":53,"z":224}}]}
 - 19:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":53,"z":230}}]}
 - 19:36 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
+- 19:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
