@@ -242,3 +242,5 @@
 - 21:07 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
 - 21:08 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"birch_planks","count":6},{"do":"give","to":"ag_zack_01","item":"birch_planks","count":6}],"say":"Billy, Zack: gave you 6 planks each. I'm stuck too.
 - 21:09 act: {"actions":[{"do":"place","block":"birch_planks","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 21:10 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"place","block":"birch_planks","at":"feet"},{"do":"goto","target":{"x":192,"y":57,"z":224}}]}
+- 21:10 act: {"actions":[{"do":"unstick"}]}
