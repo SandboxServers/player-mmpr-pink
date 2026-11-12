@@ -122,3 +122,4 @@
 - 19:31 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":192,"y":53,"z":223}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 19:31 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":192,"y":53,"z":223}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 19:32 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":191,"y":54,"z":223}},{"do":"place","block":"birch_planks","at":{"x":192,"y":54,"z":223}}]}
+- 19:33 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"goto","target":{"x":191,"y":53,"z":224}}]}
