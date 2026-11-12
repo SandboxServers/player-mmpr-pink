@@ -259,3 +259,6 @@
 - 21:16 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":192,"y":53,"z":223}},{"do":"goto","target":{"x":192,"y":54,"z":223}}]}
 - 21:18 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:18 say: {"text":"Trini, I'm still in the pit at 189,53,223 and my moves don't work. Please stack dirt near me if you can."}
+- 21:19 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 21:19 act: {"actions":[{"do":"unstick"}]}
+- 21:19 say: {"text":"Trini, yes, I'm still stuck in the pit at 189,53,223. Please place dirt next to me, or stack a pillar at 190,53-55,223 so I can climb."}
