@@ -513,3 +513,6 @@
 - 23:50 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"I'm out. Thanks Trini and Tommy. Staying near you, away from the villager."}
 - 23:50 act: {"actions":[{"do":"attack","target":"villager"}]}
 - 23:50 act: {"intent":{"goal":"stay_with_friends","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operation
+- 23:51 act: {"intent":{"goal":"dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
+- 23:53 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":347}},{"do"
+- 23:54 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-225,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":347}},{"do"
