@@ -414,3 +414,6 @@
 - 22:47 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-225,"y":60,"z":348}}]}
 - 22:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":3}]}
 - 22:48 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operatio
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 22:50 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":348}},{"do":"goto","target":{"x":-226,"y":60,"z":348}}]}
+- 22:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":348}},{"do":"goto","target":{"x":-225,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-224,"y":60,"z":348}},{"do":"goto","tar
