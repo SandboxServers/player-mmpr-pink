@@ -272,3 +272,4 @@
 - 21:22 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":191,"y":58,"z":223}}]}
 - 21:22 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":190,"y":54,"z":222}}]}
 - 21:22 act: {"actions":[{"do":"goto","target":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":54,"z":223}}]}
+- 21:23 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
