@@ -79,3 +79,5 @@
 - 18:29 act: {"intent":{"goal":"gather_birch_log_6","program":"gather","arguments":{"block":"birch_log","count":6,"at":{"x":183,"y":64,"z":252}},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_b
 - 18:30 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"crafting_table","count":1}]}
 - 18:30 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"goto","target":{"x":176,"y":64,"z":268}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 18:31 act: {"actions":[{"do":"craft","item":"birch_planks","count":8},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 18:31 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
