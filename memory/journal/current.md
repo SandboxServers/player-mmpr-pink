@@ -99,3 +99,10 @@
 - 18:39 act: {"actions":[{"do":"goto","target":{"x":177,"y":64,"z":269}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
 - 18:39 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I can craft sticks now. Making a pickaxe. Billy, Jason, hold on."}
 - 18:40 act: {"actions":[{"do":"goto","target":{"x":176,"y":64,"z":270}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":177,"y":64,"z":269}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:21 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:21 act: {"intent":{"goal":"make_pickaxe","program":"craft","arguments":{"item":"wooden_pickaxe","count":1},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_operati
+- 19:21 act: {"actions":[{"do":"craft","item":"stick","count":4}]}
+- 19:22 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"wait","seconds":3}]}
+- 19:22 act: {"actions":[{"do":"craft","item":"wood_pickaxe","count":1},{"do":"craft","item":"wooden_axe","count":1}]}
+- 19:22 act: {"intent":{"goal":"bring_dirt","program":"travel","arguments":{"x":191,"y":58,"z":225},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4000,"max_block_operations":50}},"sa
