@@ -106,3 +106,7 @@
 - 19:22 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"wait","seconds":3}]}
 - 19:22 act: {"actions":[{"do":"craft","item":"wood_pickaxe","count":1},{"do":"craft","item":"wooden_axe","count":1}]}
 - 19:22 act: {"intent":{"goal":"bring_dirt","program":"travel","arguments":{"x":191,"y":58,"z":225},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4000,"max_block_operations":50}},"sa
+- 19:25 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":223}}]}
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":177,"y":64,"z":270}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 19:26 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"dirt","count":7}],"say":"Billy, I gave you 7 dirt. Stack it to climb out."}
