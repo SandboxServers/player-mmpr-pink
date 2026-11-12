@@ -332,3 +332,4 @@
 - 21:51 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":185,"y":60,"z":222}}]}
 - 21:52 act: {"actions":[{"do":"goto","target":{"x":184,"y":58,"z":222}}]}
 - 21:53 act: {"actions":[{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"potatoes","count":3},{"do":"eat"}]}
+- 21:54 act: {"actions":[{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"potatoes","count":2},{"do":"mine","block":"oak_log","count":4}]}
