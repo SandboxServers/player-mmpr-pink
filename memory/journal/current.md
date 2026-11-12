@@ -516,3 +516,9 @@
 - 23:51 act: {"intent":{"goal":"dirt_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks"
 - 23:53 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":347}},{"do"
 - 23:54 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-225,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":347}},{"do"
+- 23:56 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 23:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-225,"y":59,"z":348}},{"do":"place","block":"dirt","at":{"x":-226,"y":59,"z":347}},{"do"
+- 23:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":347}},{"do":"place","block":"dirt","at":{"x":-226,"y":60,"z":349}},{"do":"place","block":"dirt","at":{"x":-226,"y":61,"z":348}},{"do"
+- 23:57 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"say":"Still boxed in at dusk. Trying to get enclosed; if you're near, please tell me which side is open."}
+- 23:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-228,"y":61,"z":348}}]}
+- 23:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-229,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":347}},{"do"
