@@ -207,3 +207,4 @@
 - 20:49 act: {"actions":[{"do":"unstick"}]}
 - 20:50 act: {"actions":[{"do":"place","block":"birch_planks","at":"feet"},{"do":"place","block":"birch_planks","at":"feet"},{"do":"place","block":"birch_planks","at":"feet"}]}
 - 20:51 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 20:51 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block
