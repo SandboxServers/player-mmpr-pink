@@ -443,3 +443,6 @@
 - 22:59 act: {"actions":[{"do":"mine","block":"dirt","count":6}]}
 - 22:59 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 23:00 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:00 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:01 act: {"say":"Tommy, I'm still at (-223,59,348), standing on stone. Please place or dig dirt beside me.","actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 23:01 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":60,"z":347}},{"do":"goto","target":{"x":-223,"y":60,"z":347}}]}
