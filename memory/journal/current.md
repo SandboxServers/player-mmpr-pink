@@ -252,3 +252,5 @@
 - 21:13 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"birch_log"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
 - 21:13 act: {"actions":[{"do":"place","block":"sand","at":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 21:13 act: {"actions":[{"do":"unstick"}]}
+- 21:14 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 21:15 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
