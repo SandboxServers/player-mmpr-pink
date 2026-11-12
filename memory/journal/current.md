@@ -430,3 +430,5 @@
 - 22:54 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 22:54 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operation
 - 22:55 act: {"actions":[{"do":"unstick"}]}
+- 22:56 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
