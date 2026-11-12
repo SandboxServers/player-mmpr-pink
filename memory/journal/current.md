@@ -494,3 +494,5 @@
 - 23:35 act: {"intent":{"goal":"reach_surface","program":"travel","arguments":{"x":-200,"y":65,"z":347},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations":200}
 - 23:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-200,"y":65,"z":347}}]}
 - 23:36 act: {"intent":{"goal":"escape_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":20}}}
+- 23:37 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 23:37 act: {"actions":[{"do":"goto","target":{"x":-225,"y":59,"z":345}}]}
