@@ -503,3 +503,13 @@
 - 23:40 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-215,"y":59,"z":347}},{"do":"sleep"}]}
 - 23:41 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
 - 23:47 act: {"actions":[{"do":"unstick"}],"say":"Thank you all. Trying unstick again."}
+- 23:48 say: {"text":"Thank you, Trini, Tommy and Jason, for watching over me last night."}
+- 23:48 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 23:48 act: {"actions":[{"do":"unstick"}],"say":"Thanks, I'm still stuck. Trying unstick now.","intent":{"goal":"get_free_of_pit","program":"travel","arguments":{"x":-226,"y":60,"z":348},"wake_on":["goal_complete
+- 23:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":60,"z":350}}],"say":"Trying to walk away from the villager now."}
+- 23:49 act: {"intent":{"goal":"climb_out_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}},"say":"I
+- 23:49 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-231,"y":60,"z":349}}],"say":"Air is running low. Digging out west."}
+- 23:49 act: {"actions":[{"do":"attack","target":"villager"}],"say":"A villager is attacking me. I'm defending myself."}
+- 23:50 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"I'm out. Thanks Trini and Tommy. Staying near you, away from the villager."}
+- 23:50 act: {"actions":[{"do":"attack","target":"villager"}]}
+- 23:50 act: {"intent":{"goal":"stay_with_friends","program":"follow","arguments":{"target":"ag_tommy_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operation
