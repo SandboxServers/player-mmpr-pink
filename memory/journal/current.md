@@ -135,3 +135,5 @@
 - 19:47 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":191,"y":53,"z":224}},{"do":"wait","seconds":5},{"do":"goto","target":{"x":191,"y":54,"z":225}}]}
 - 19:47 act: {"actions":[{"do":"mine","block":"stone","count":3}]}
 - 19:47 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":3}]}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
