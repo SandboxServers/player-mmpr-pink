@@ -470,3 +470,4 @@
 - 23:09 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 23:10 act: {"say":"Thanks Tommy! I'm out, Trini is next to me and fine."}
 - 23:10 act: {"say":"Yes Tommy, Trini is fine and next to me. Thanks!"}
+- 23:11 say: {"text":"Tommy, we're both out and fine. Thanks!"}
