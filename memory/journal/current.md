@@ -31,3 +31,7 @@
 - 17:48 act: {"actions":[{"do":"goto","target":{"x":182,"y":66,"z":236}},{"do":"mine","block":"birch_log","count":4}],"reasoning":"Spiders gone from view. Go to birch column at x181 z236, then mine."}
 - 17:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":184,"y":61,"z":233}}],"reasoning":"Goto blocked; unstick then a short hop west-southwest, away from spider."}
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":181,"y":66,"z":235}}]}
+- 17:50 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":5},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 17:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":182,"y":64,"z":236}}]}
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":182,"y":66,"z":236}}]}
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":184,"y":63,"z":234}}]}
