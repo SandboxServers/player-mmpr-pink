@@ -161,3 +161,6 @@
 - 20:26 act: {"actions":[{"do":"goto","target":{"x":191,"y":53,"z":228}}]}
 - 20:27 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
 - 20:27 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":3},{"do":"goto","target":{"x":191,"y":53,"z":226}}]}
+- 20:28 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"unstick"}]}
+- 20:28 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":192,"y":53,"z":223}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 20:28 act: {"actions":[{"do":"mine","block":"stone","count":5}]}
