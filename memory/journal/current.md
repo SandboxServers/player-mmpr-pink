@@ -313,3 +313,11 @@
 - 21:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":186,"y":56,"z":221}}],"reasoning":"Position unchanged after goto; try unstick then one hop."}
 - 21:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":186,"y":56,"z":221}}]}
 - 21:43 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3600,"max_block_operati
+- 21:45 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations"
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}},{"do":"mine","block":"birch_log","count":6}],"reasoning":"Errand: walk to birch logs and mine about 6. Going to the first log position.","sa
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":187,"y":69,"z":212}},{"do":"mine","block":"birch_log","count":6}],"reasoning":"First goto was interrupted. Retry with the second log at 187,69,212, then mine."}
+- 21:46 act: {"actions":[{"do":"unstick"}],"reasoning":"In water near deep water, gotos keep failing. Unstick first to get out."}
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:47 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":188,"y":69,"z":222},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}}
+- 21:47 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":223}}]}
+- 21:47 act: {"actions":[{"do":"unstick"}]}
