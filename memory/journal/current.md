@@ -334,3 +334,4 @@
 - 21:53 act: {"actions":[{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"potatoes","count":3},{"do":"eat"}]}
 - 21:54 act: {"actions":[{"do":"mine","block":"carrots","count":3},{"do":"mine","block":"potatoes","count":2},{"do":"mine","block":"oak_log","count":4}]}
 - 21:55 act: {"actions":[{"do":"mine","block":"carrots","count":3}]}
+- 21:55 act: {"actions":[{"do":"goto","target":{"x":-248,"y":68,"z":352}},{"do":"mine","block":"potatoes","count":3}],"say":"Zack, Billy: the farm is at -250,68,352. I'm out of the water now."}
