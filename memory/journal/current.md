@@ -273,3 +273,11 @@
 - 21:22 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":190,"y":54,"z":222}}]}
 - 21:22 act: {"actions":[{"do":"goto","target":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":54,"z":223}}]}
 - 21:23 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 21:24 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}],"reasoning":"Need to climb out of the pit toward the birch logs, avoiding the deep water."}
+- 21:26 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":191,"y":58,"z":224}}],"reasoning":"Still perched in the pit. Try unstick, then head to the rim Trini is on."}
+- 21:26 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":188,"y":68,"z":224}}],"reasoning":"I now hold one dirt. Air is low, so place it under me to climb and 
+- 21:27 say: {"text":"Trini, I'm stuck in the water at 189,54,223 and air is dropping. Please place dirt at 189,55,223 so I can climb."}
+- 21:27 act: {"actions":[{"do":"place","block":"dirt","at":{"x":189,"y":53,"z":223}},{"do":"goto","target":{"x":189,"y":58,"z":226}}]}
+- 21:28 say: {"text":"Trini, I'm at 189,54,223 in the pit, nearly out of air. Please give me dirt, or place it at 189,55,223 and 189,56,223. Thank you."}
+- 21:28 act: {"actions":[{"do":"unstick"}]}
