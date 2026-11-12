@@ -290,3 +290,12 @@
 - 21:30 say: {"text":"I'm still stuck in the pit at 188,54,222. Walking and unstick do not move me. Trini, please stack dirt beside me so I can climb out."}
 - 21:30 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":223}}]}
 - 21:31 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":4},"wake_on":["goal_completed"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 21:32 act: {"actions":[{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
+- 21:32 act: {"actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 21:32 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Pillar up with dirt. Water is east, so stay west and climb straight up, then head to birch."}
+- 21:33 act: {"actions":[{"do":"mine","block":"dirt","count":2}],"say":"Trini, I'm out of dirt at 187,56,223. Could you give me 2 dirt?","reasoning":"Dirt I placed is gone from my hands. Mine nearby dirt to climb 
+- 21:33 act: {"actions":[{"do":"wait","seconds":20}],"reasoning":"Inventory is empty after placing and mining. Waiting briefly for Trini to hand over dirt."}
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":186,"y":60,"z":226}}]}
+- 21:34 act: {"actions":[{"do":"goto","target":{"x":187,"y":62,"z":224}},{"do":"goto","target":{"x":188,"y":68,"z":224}}]}
+- 21:34 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"x":188,"y":68,"z":224},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operations":100}}}
+- 21:36 act: {"intent":{"goal":"reach_birch","program":"travel","arguments":{"target":{"x":188,"y":68,"z":224}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":6000,"max_block_operatio
