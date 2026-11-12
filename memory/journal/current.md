@@ -265,3 +265,10 @@
 - 21:20 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
 - 21:20 act: {"actions":[{"do":"place","block":"sand","at":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":190,"y":54,"z":223}}]}
 - 21:20 act: {"say":"Trini, I'm still at 189,53,223 in the water. Please place dirt at 190,53,223 so I can step up.","actions":[{"do":"wait","seconds":30}]}
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":191,"y":57,"z":223}},{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:21 act: {"actions":[{"do":"unstick"},{"do":"place","block":"sand","at":"feet"}]}
+- 21:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":189,"y":54,"z":223}},{"do":"place","block":"sand","at":{"x":188,"y":53,"z":223}},{"do":"goto","target":{"x":188,"y":54,"z":223}}],"say":"Trini, I'm a
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":191,"y":54,"z":223}},{"do":"goto","target":{"x":191,"y":58,"z":223}}]}
+- 21:22 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":190,"y":54,"z":222}}]}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":190,"y":53,"z":223}},{"do":"goto","target":{"x":191,"y":54,"z":223}}]}
