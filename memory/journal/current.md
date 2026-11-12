@@ -394,3 +394,9 @@
 - 22:38 act: {"actions":[{"do":"goto","target":{"x":-222,"y":60,"z":348}},{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":346}}]}
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"goto","target":{"x":-223,"y":63,"z":340}}]}
 - 22:39 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
+- 22:40 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Errand: get out of pit by stacking dirt under fe
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-222,"y":60,"z":348}},{"do":"goto","target":{"x":-223,"y":63,"z":347}}],"reasoning":"Placing at feet did not raise me; the look shows still y59. Try stepping ont
+- 22:40 act: {"intent":{"goal":"climb_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_o
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-222,"y":61,"z":348}},{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"goto","target":{"x":-223,"y":63,"z":347}}],"reasoning":"Now at y60 on dirt. Follow 
+- 22:40 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":347}}],"reasoning":"Goto is not moving me up from y60. Unstick, then try again."}
+- 22:40 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-222,"y":59,"z":347}},{"do":"goto","target":{"x":-222,"y":61,"z":347}}],"reasoning":"Last attempt: place a block under my current cell and step up on
