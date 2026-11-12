@@ -67,3 +67,6 @@
 - 18:15 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":225}}]}
 - 18:15 act: {"actions":[{"do":"place","block":"dirt","at":{"x":190,"y":60,"z":227}},{"do":"goto","target":{"x":190,"y":60,"z":227}},{"do":"place","block":"dirt","at":{"x":190,"y":60,"z":226}},{"do":"goto","target
 - 18:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":190,"y":61,"z":226}}]}
+- 18:17 act: {"actions":[{"do":"goto","target":{"x":188,"y":69,"z":224}}]}
+- 18:17 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":4800,"max_block_operation
+- 18:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":192,"y":60,"z":227}},{"do":"goto","target":{"x":192,"y":61,"z":227}}]}
