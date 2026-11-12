@@ -385,3 +385,7 @@
 - 22:34 act: {"intent":{"goal":"climb_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}}}
 - 22:35 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"mine","block":"dirt","count":2},{"do":"place","block":"dirt","at":"feet"}]}
 - 22:36 say: {"text":"Tommy, I'm still in the pit at y60 (-223,60,348), healthy. Please dig a stair or drop dirt beside me so I can step up."}
+- 22:36 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 22:36 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-223,"y":63,"z":347}}]}
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":347}}]}
+- 22:37 act: {"actions":[{"do":"goto","target":{"x":-223,"y":62,"z":346}},{"do":"goto","target":{"x":-223,"y":63,"z":345}}]}
