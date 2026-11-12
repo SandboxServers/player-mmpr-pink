@@ -337,3 +337,8 @@
 - 21:55 act: {"actions":[{"do":"goto","target":{"x":-248,"y":68,"z":352}},{"do":"mine","block":"potatoes","count":3}],"say":"Zack, Billy: the farm is at -250,68,352. I'm out of the water now."}
 - 22:09 act: {"actions":[{"do":"mine","block":"wheat","count":8}]}
 - 22:11 act: {"actions":[{"do":"goto","target":{"x":-250,"y":68,"z":353}},{"do":"mine","block":"wheat","count":8}]}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-234,"y":67,"z":363}}],"say":"Tommy, I'm coming."}
+- 22:12 act: {"intent":{"goal":"reach_tommy","program":"travel","arguments":{"x":-234,"y":67,"z":363},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
+- 22:12 act: {"intent":{"goal":"reach_tommy","program":"travel","arguments":{"x":-234,"y":67,"z":363},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}}
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":358}}]}
+- 22:12 say: {"text":"Tommy, you seem free now. Good to see you both."}
