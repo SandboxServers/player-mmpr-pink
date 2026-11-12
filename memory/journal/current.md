@@ -254,3 +254,8 @@
 - 21:13 act: {"actions":[{"do":"unstick"}]}
 - 21:14 act: {"actions":[{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
 - 21:15 act: {"actions":[{"do":"place","block":"sand","at":"feet"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 21:16 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":192,"y":58,"z":224}}]}
+- 21:16 act: {"intent":{"goal":"pillar_up","program":"build","arguments":{"blueprint":"pillar","block":"birch_planks"},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":600,"max_block_
+- 21:16 act: {"actions":[{"do":"place","block":"birch_planks","at":{"x":192,"y":53,"z":223}},{"do":"goto","target":{"x":192,"y":54,"z":223}}]}
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":191,"y":58,"z":224}}]}
+- 21:18 say: {"text":"Trini, I'm still in the pit at 189,53,223 and my moves don't work. Please stack dirt near me if you can."}
