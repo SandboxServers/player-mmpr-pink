@@ -497,3 +497,6 @@
 - 23:37 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 23:37 act: {"actions":[{"do":"goto","target":{"x":-225,"y":59,"z":345}}]}
 - 23:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":59,"z":347}}]}
+- 23:38 act: {"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":40}}}
+- 23:39 say: {"text":"I'm stuck and can't move or sleep. Tommy, Trini, could you help? Maybe break blocks around me at (-222,59,347)."}
+- 23:39 act: {"actions":[{"do":"unstick"}]}
