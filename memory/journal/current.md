@@ -457,3 +457,5 @@
 - 23:04 act: {"intent":{"goal":"pillar_out","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operatio
 - 23:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":365}}]}
 - 23:05 act: {"say":"Tommy: Kimberly and Trini still at y59 in the pit near (-224,59,347). Please dig a ramp down from the edge."}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":-224,"y":61,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":-224,"y":62,"z":347}},{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
