@@ -467,3 +467,5 @@
 - 23:08 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
 - 23:09 act: {"actions":[{"do":"goto","target":{"x":-223,"y":63,"z":346}}]}
 - 23:09 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-223,"y":61,"z":346}},{"do":"goto","target":{"x":-223,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-223,"y":62,"z":345}},{"do":"goto","tar
+- 23:09 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}]}
+- 23:10 act: {"say":"Thanks Tommy! I'm out, Trini is next to me and fine."}
