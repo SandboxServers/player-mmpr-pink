@@ -966,3 +966,7 @@
 - 12:02 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":61,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-243,"
 - 12:03 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-242,"y":61,"z":347}},{"do":"place","block":"dirt","at":{"x":-243,"y":61,"z":348}
 - 12:07 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Morning. I'm trying to walk to Jason with the potato now.","reasoning":"Dawn. Try to reach Jason with the potato."}
+- 12:11 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-242,"y":62,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-243,"y":62,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-243,"
+- 12:11 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-242,"
+- 12:15 act: {"say":"Trini, I'm alive, at -243,62,346 in the pit. Please drop your cobblestone to my feet. Thank you.","intent":{"goal":"wall_in_pit","program":"build","arguments":{"blueprint":"wall","block":"cobb
+- 12:15 act: {"say":"Still in the pit at -243,62,346, not walled in. Trini, if you can, drop cobblestone to my feet. I have a potato for Jason when I can get out.","reasoning":"Build intent failed; the placements 
