@@ -1127,3 +1127,4 @@
 - 15:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":364}},"wake_on":["directly_addressed"
 - 15:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
 - 15:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you Billy, I'm at the bed beside you, going to sleep now. Tommy, welcome."}
+- 15:19 act: {"say":"Kimberly here. I'm full and safe at the yellow beds. I'll go to food at first light; Zack, I'll try to dig to you in the morning.","actions":[{"do":"sleep"}],"reasoning":"Night, beside a bed, 
