@@ -1255,3 +1255,11 @@
 - 16:52 act: {"intent":{"goal":"gather_wheat_at_farm","program":"gather","arguments":{"block":"wheat","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
 - 16:52 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"target":{"x":-290,"y":69,"z":287}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":300
 - 16:53 act: {"say":"I am at the farm now. The wheat here is not ripe yet. I have nothing in my pack. I will wait nearby for it to ripen.","reasoning":"I reached the farm at -290,68,287. Only unripe wheat is here,
+- 16:57 act: {"intent":{"goal":"gather_ripe_wheat","program":"gather","arguments":{"block":"wheat","count":3},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":1200,
+- 16:57 act: {"intent":{"goal":"gather_ripe_beetroot","program":"gather","arguments":{"block":"beetroots","count":2},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 16:57 act: {"say":"I have 2 ripe beetroot and some seeds, at the farm near -294,69,293. Billy, Zack, come here and I will give them to whoever is hungriest.","reasoning":"I have 2 beetroot. Billy and Zack are hu
+- 16:58 act: {"intent":{"goal":"bring_beetroot_to_billy","program":"travel","arguments":{"target":{"x":-203,"y":58,"z":350}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 16:58 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beetroot","count":2}],"reasoning":"I am at -199,64,352, close to Billy at the shore. Try to hand over the 2 beetroot now."}
+- 16:59 say: {"text":"Billy, Zack, I'm at -199,64,352 on the cobble above the shore with 2 beetroot. Come up to me and I'll give it to you."}
+- 16:59 say: {"text":"Billy, I'm not going down to the water. I'm staying here at -200,64,351. Come up to me and I'll give you the beetroot."}
+- 17:03 say: {"text":"Zack, Billy, I'm staying up here tonight. At first light I'll come down with the 2 beetroot. Stay sheltered until then."}
