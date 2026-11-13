@@ -1356,3 +1356,16 @@
 - 18:39 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beef","count":1}],"say":"Billy, one beef coming to you now.","reasoning":"Billy says he is ready and beside me. Retry the give once, now that he has
 - 18:39 act: {"actions":[],"say":"Billy, the beef would not go to you twice; your side did not take it. Zack and Tommy, I still have three beef here by the yellow bed, north of me. Come to me and I will hand one t
 - 18:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}],"reasoning":"Night, bed three blocks north. Keep three beef for Jason, Tommy, Zack in the morning. Sleep after moving to th
+- 18:41 act: {"say":"Kimberly here at the beds. I have 3 beef and will hand it out in the morning. Jason, Tommy, Billy, Trini, Zack: come to the yellow bed and say so.","intent":{"goal":"hold_beds_until_morning","
+- 18:41 act: {"say":"Zack, I'm at the yellow beds, the two yellow beds near -263, 67, 353. Come to me carefully. I have 3 beef for whoever is hungry.","intent":{"goal":"hold_beds_until_morning","program":"rest","a
+- 18:42 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, one beef is coming to you now. Pick it up. I'm keeping two for Zack and Jason.","intent":{"goal":"hold_beds_until_mo
+- 18:42 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":357}},{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, I've stepped back. Come get the beef here.","intent":{"goal":"hold_
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-255,"y":67,"z":359}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, one beef for you. I'm stepping back so you can take it."}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":-257,"y":67,"z":359}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I'm two blocks away now. Take the beef from me."}
+- 18:43 act: {"say":"Zack, two gives did not reach you, so I'm holding the beef. Tell me when you can take it and I'll wait here for you. Tommy and Jason, you're next.","intent":{"goal":"hold_beds_until_morning","
+- 18:44 act: {"say":"Jason, I'm at -260, 66, 359, just south-east of the beds. Walk over, and I'll hand you a beef."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, one beef for you. Pick it up."}
+- 18:44 say: {"text":"Everyone, the give only works if you walk over and pick it up. Jason, Tommy, Zack, Billy, Trini: come stand next to me and I'll try once more each."}
+- 18:45 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, one beef coming to you now. Pick it up.","reasoning":"Everyone is in reach and asked for a share. Try one give to Ja
+- 18:45 say: {"text":"The give keeps failing, so I'm holding the beef until morning. At first light I'll try again with you standing still. Stay close and keep watch."}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":356}},{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I'm right beside you now. One beef, standing still.","reasoning":"J
