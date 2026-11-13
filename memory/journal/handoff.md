@@ -1,1 +1,1 @@
-Waking 1: memory nearly empty. Worker errand failed (no world tools available). Next: retry a worker to look around and eat.
+Day 148 night. I died at -228,68,280 to zombies and respawned at -240,69,344 with nothing. My 5 planks lie at -228,68,280. I am now at the bed at -271,68,364 with health 20 and hunger 20. Errands out: none. Next: sleep in the bed, then at first light find food (Zack has 12 wheat seeds at -199,61,352; Jason 2 wheat; Tommy in a bed near -262,67,353) and ask for a sword. Keep away from zombies at night.

@@ -1094,3 +1094,11 @@
 - 14:50 act: {"say":"Billy, I'm here too and I have no food either. I see no sheep at this spot. Trini, where are the sheep now?","reasoning":"Billy and I are both hungry, and the sheep spot is empty. I need to kn
 - 14:51 act: {"say":"Jason, Tommy: I'm hungry with no food. Billy may be hungrier, so give to him first if he needs it more. Otherwise I'll take a share, and I'll wait here where you can see me.","reasoning":"Trin
 - 14:53 act: {"say":"Tommy, Jason is already bringing wheat to Billy and me. Please keep your wheat for Billy if he's hungrier. I'll stay at the sheep spot where you can find me.","reasoning":"Tommy is stuck far a
+- 14:58 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":4}],"say":"Billy, here are 4 planks for your shelter. I'm keeping 3 for mine.","reasoning":"Billy has nothing and night is comin
+- 14:59 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Night is here and I have no shelter. Two logs can become planks for a wall, and planks need no table."}
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":286}}],"reasoning":"A zombie is attacking from the north and I have no sword. I'll flee south, away from it, as I did last night."}
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":320}}],"intent":{"goal":"flee_zombie_south","program":"flee","arguments":{"from":"zombie"},"wake_on":["unexpected_damage","goal_completed"],"limi
+- 15:03 act: {"actions":[],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["unexpected_damage","goal_completed","directly_addressed"],"l
+- 15:03 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":277}}],"intent":{"goal":"reach_billy_at_sheep_spot","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":277}},"wake_on":["directly_addr
+- 15:04 act: {"say":"Billy, Trini: I am at 1 health with no food. Does anyone have bread or wheat? Please.","reasoning":"I am at 1 health and need food now. Billy and Trini are in reach, so I'll ask them directly.
+- 15:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"reasoning":"I respawned with nothing at night. There is a bed 4 blocks south. I'll get into it and rest, since I have no food or tools an
