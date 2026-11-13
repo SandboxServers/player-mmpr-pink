@@ -978,3 +978,6 @@
 - 12:27 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-243,"y":66,"z":345}},{"do"
 - 12:31 say: {"text":"Jason, I still have your potato. I'm at -243,66,346, but I can't reach you from here. Tell me where you are."}
 - 12:36 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":64,"z":347}
+- 12:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, here is my potato. Jason, I promised you that potato, but Tommy is right beside me and hungry, and you are walled 
+- 12:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Retry give to adjacent hungry Tommy, then place dirt to keep sealing."}
+- 12:45 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still open at night. Keep stacking at feet to get enclosed."}
