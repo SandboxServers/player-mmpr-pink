@@ -1128,3 +1128,39 @@
 - 15:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
 - 15:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you Billy, I'm at the bed beside you, going to sleep now. Tommy, welcome."}
 - 15:19 act: {"say":"Kimberly here. I'm full and safe at the yellow beds. I'll go to food at first light; Zack, I'll try to dig to you in the morning.","actions":[{"do":"sleep"}],"reasoning":"Night, beside a bed, 
+- 15:26 act: {"intent":{"goal":"reach_farm_food","program":"travel","arguments":{"x":-288,"y":69,"z":292},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":3000,"max
+- 15:26 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}],"reasoning":"Previous travel intent did not start. Retry as a direct goto to the farm."}
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":289}},{"do":"mine","block":"wheat","count":3}],"say":"Trini, Kimberly here. I'm harvesting ripe wheat from the farm. I'll take some to Zack after
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":66,"z":340}}],"say":"I have 2 wheat for Zack. Leaving the farm now, and I'll go east toward him.","reasoning":"Golem closing; leave the farm. Head east 
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-210,"y":64,"z":352}}],"say":"Zack, I'm coming east toward you with wheat. Keep your head up.","reasoning":"Continue east toward Zack at -199,61,352 with 2 wheat
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-206,"y":70,"z":349}}],"say":"Zack, I'm close. Trying a different path around the trees.","reasoning":"Last goto timed out on path search. Try a nearby waypoint 
+- 15:27 act: {"actions":[{"do":"goto","target":{"x":-200,"y":69,"z":351}}],"say":"Zack, I'm on the surface above you, around -200,69,351. Trying to reach you.","reasoning":"Zack is 8 blocks east and 8 down. Get to
+- 15:27 act: {"actions":[{"do":"mine","block":"stone","count":8}],"say":"Zack, I'm mining down toward you now. Hold still.","reasoning":"Dig a shaft down toward Zack who is 8 blocks below and 2 east. Mine stone ne
+- 15:28 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"reasoning":"Stone mining timed out on path search. Try digging dirt nearby to get closer and down toward Zack."}
+- 15:28 act: {"actions":[{"do":"mine","block":"stone","count":3}],"say":"Zack, I'm 4 blocks above you, digging down.","reasoning":"Keep digging down toward Zack at -199,61,352."}
+- 15:28 act: {"actions":[{"do":"mine","block":"cobblestone","count":3}],"reasoning":"Mining stone gained nothing; the block ahead is cobblestone. Try that."}
+- 15:28 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"reasoning":"Two more blocks down to reach Zack's level."}
+- 15:29 act: {"actions":[{"do":"mine","block":"cobblestone","count":2}],"reasoning":"Continue down; Zack should be about 3 blocks below."}
+- 15:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I dug down to you. Here is 2 wheat. Eat, then we get you out.","reasoning":"Zack is within reach. Give him my 2 wheat
+- 15:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":1}],"reasoning":"Give failed with 2 wheat. Try one wheat instead, since Zack is in reach."}
+- 15:29 act: {"actions":[{"do":"note","text":"Day 150: reached Zack by digging down from surface at -200,69,351 to -200,62,353. Two give attempts failed ('not possible right now'). Zack says he is eating and we wi
+- 15:30 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm coming down beside you now. Here's wheat for you.","reasoning":"Zack is out a
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}],"say":"Zack, I'm heading to the farm for food. Come along if you like.","reasoning":"Give keeps failing; food is at the farm. Go there, th
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":292}}],"reasoning":"Travel intent stopped early; use direct goto toward farm."}
+- 15:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-206,"y":70,"z":349}}],"reasoning":"Long path failed from inside shaft. Get out, then take a short leg that worked before."}
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":-201,"y":69,"z":351}}],"reasoning":"Need to climb out of shaft; target the known surface entry."}
+- 15:30 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"mine","block":"dirt","count":2}],"reasoning":"Shaft walls blocked the climb. Mine nearby blocks to open a way up, then retry goto."}
+- 15:30 act: {"actions":[{"do":"goto","target":{"x":-206,"y":70,"z":349}}],"reasoning":"Out of the bottom of the shaft; short goto to surface."}
+- 15:31 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-206,"y":70,"z":349}}],"reasoning":"Trapped in a shaft loop. Build up under my feet, then unsti
+- 15:31 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick
+- 15:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"re
+- 15:31 act: {"actions":[{"do":"note","text":"Stuck in a shaft at -199,64,354. Pillar and unstick failed. Need help digging out."}],"say":"I'm stuck in a pit at about -199,64,354. Could someone dig a way up to me,
+- 15:31 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"mine","block":"dirt","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Dig sideways for a stair, then pilla
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":288}}],"intent":{"goal":"reach_farm","program":"travel","arguments":{"target":{"x":-288,"y":69,"z":288}},"wake_on":["goal_completed","directly_ad
+- 15:31 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Pillar up one block at a time toward the surface, since 
+- 15:32 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"unstick"},{"do":"goto","target":{"x":-196,"y":68,"z":351}}],"reasoning":"Open the wall with mining, then take a short leg up and out."}
+- 15:32 act: {"actions":[{"do":"note","text":"Stuck in pit near -196,64,352. Mining and pillaring did not get me up. Need a helper to dig a stair or lower a block."}],"say":"I am still in a pit near -196,64,352. C
+- 15:33 act: {"say":"Zack, I'm at -196,64,352, above you. Digging a stair west toward you now.","actions":[{"do":"mine","block":"stone","count":3}],"reasoning":"Zack is trapped below me. Dig toward him to open a r
+- 15:33 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":288}}],"reasoning":"Path looks open now. Head for the farm."}
+- 15:34 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":288}}],"reasoning":"Keep stepping toward the farm."}
+- 15:38 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Dusk, not enclosed. Try sealing a cobblestone block under me and hold in the pit for the night."}
