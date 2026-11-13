@@ -970,3 +970,8 @@
 - 12:11 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-242,"
 - 12:15 act: {"say":"Trini, I'm alive, at -243,62,346 in the pit. Please drop your cobblestone to my feet. Thank you.","intent":{"goal":"wall_in_pit","program":"build","arguments":{"blueprint":"wall","block":"cobb
 - 12:15 act: {"say":"Still in the pit at -243,62,346, not walled in. Trini, if you can, drop cobblestone to my feet. I have a potato for Jason when I can get out.","reasoning":"Build intent failed; the placements 
+- 12:18 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"say":"I'm walling in with what I have. Trini, thank you for the cobblestone.","reasoning":"Dusk
+- 12:18 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-243,"y":64,"z":345}},{"do"
+- 12:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Side placements were blocked. Climb higher by stacking under me, then check enclosure."}
+- 12:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Stack up again to get out of the pit's floor level."}
+- 12:19 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-243,"y":66,"z":345}},{"do"
