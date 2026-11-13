@@ -761,3 +761,5 @@
 - 07:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-236,"y":62,"z":344}}],"reasoning":"I'm walled in. Open one plank wall to get out, then reach the shaft to drop dirt
 - 07:49 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_planks","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":62,"z":345}}],"reasoning":"Movement fails from this pocket. Clear body st
 - 07:50 act: {"intent":{"goal":"climb_out_pocket","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}},"say":
+- 07:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":62,"z":344}}],"say":"Kimberly here. I'm still in the pocket at -230,62,346 and trying to reach the shaft to drop dirt for Jason and Tom
+- 07:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-231,"y":63,"z":345}}],"say":"Still boxed in at -230,62,346 at dusk. I'll keep trying to climb, and I'll drop dirt when
