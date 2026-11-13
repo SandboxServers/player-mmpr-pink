@@ -698,3 +698,12 @@
 - 06:26 act: {"say":"Jason: place a block at my feet, then unstick, and repeat. Each cycle lifts me one block. Works for me.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"pla
 - 06:27 act: {"say":"Billy: I'm out and standing on stone at -237,50,344. I did not need to move first. Place dirt at feet, then unstick, and repeat. If it fails, try cobblestone. I have spare cobblestone if you n
 - 06:27 act: {"actions":[{"do":"note","text":"Day 123 dawn: escaped pit at -237,50,344 by placing cobblestone at feet then unstick, repeated. Now out. Shelter build started; giving help to Billy and Jason."}],"int
+- 06:27 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
+- 06:29 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"cobblestone","count":4}],"say":"Billy: sent you 4 cobblestone. Trini: I don't mine. I placed one block at my feet, then unstick, and repeated it. Di
+- 06:29 act: {"actions":[{"do":"mine","block":"stone","count":3}],"say":"Jason, I'm digging toward you from the east side now.","reasoning":"Mine adjacent stone to open a path toward Jason at -239,48,344."}
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":-238,"y":49,"z":344}}],"reasoning":"Try moving toward Jason; check result."}
+- 06:29 act: {"actions":[{"do":"mine","block":"stone","count":4},{"do":"goto","target":{"x":-238,"y":50,"z":344}}],"reasoning":"Dig a path west toward Jason."}
+- 06:30 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Urgent: in water, air low. Get out of the water."}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":343}}],"reasoning":"Swim up out of the water column."}
+- 06:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":52,"z":344}},{"do":"goto","target":{"x":-236,"y":56,"z":344}}],"reasoning":"Emergency: drowning. Get up through water to air."}
+- 06:30 act: {"say":"Warning: I drowned. Under the pit near -236,45,344 is deep water, around y 42 to 47. Do not dig west or south there. I respawned at -272,67,360 with nothing.","actions":[{"do":"note","text":"D
