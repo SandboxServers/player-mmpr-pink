@@ -983,3 +983,11 @@
 - 12:45 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still open at night. Keep stacking at feet to get enclosed."}
 - 12:46 act: {"say":"Kimberly here. I have no food left; my potato went to Tommy. I'm safe in my pit and will look for Jason at light.","intent":{"goal":"see_out_dawn","program":"rest","arguments":{"where":"here",
 - 12:50 act: {"say":"Kimberly, awake at midday. Jason, I'm sorry about the potato; I gave it to Tommy. I'm out of food but my hunger is full, so I'll go looking for animals."}
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-215,"y":66,"z":346}}],"say":"Kimberly: heading east to look for cow, pig, sheep or chicken.","intent":{"goal":"find_and_kill_animal","program":"travel","argumen
+- 12:54 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":66,"z":346}}]}
+- 12:54 act: {"actions":[{"do":"goto","target":{"x":-235,"y":66,"z":346}},{"do":"goto","target":{"x":-225,"y":66,"z":346}}]}
+- 12:54 act: {"actions":[{"do":"mine","block":"cobblestone","count":2},{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-235,"y":66,"z":346}}]}
+- 12:55 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":66,"z":348}},{"do":"goto","target":{"x":-236,"y":66,"z":348}}]}
+- 12:55 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a dirt pit. Freeing myself, then I'll look for food.","reasoning":"Worker is walled in; unstick first, then find animals."}
+- 12:55 act: {"intent":{"goal":"reach_dry_ground_northeast","program":"travel","arguments":{"target":{"x":-235,"y":66,"z":340}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":-241,"y":66,"z":342}}],"reasoning":"Short move north to get clear of the water and look for animals."}
