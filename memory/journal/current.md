@@ -680,3 +680,7 @@
 - 06:03 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 06:06 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"say":"Still in the pit at dawn. Trying an unstick and a dirt placement at my feet."}
 - 06:06 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-240,"y":51,"z":345}},{"do":"place","block":"dirt","at":{"x":-239,"y":52,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":51,"z":344}
+- 06:07 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 06:08 act: {"say":"Kimberly, still in the pit, not enclosed. Build keeps stopping at \"way blocked\". Thanks Trini, I'll shout when clear.","reasoning":"Build is running; wait for its outcome rather than polling
+- 06:08 act: {"intent":{"goal":"wall_cobble","program":"build","arguments":{"blueprint":"wall","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
+- 06:08 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-240,"y":52,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-238,"y":52,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-239,"
