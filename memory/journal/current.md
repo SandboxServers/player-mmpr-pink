@@ -864,3 +864,10 @@
 - 10:06 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":326}}],"reasoning":"My dropped pack is just south. Grab it before the spider and creeper close in, then head east away from them."}
 - 10:06 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}],"reasoning":"A spider is attacking me from the south. I have no sword, but it is one 
 - 10:06 say: {"text":"Kimberly here, back at the spawn with nothing. I died in the night west of here. Hungry; anyone with spare food, please share. I'll stay on the grass away from the pool."}
+- 10:07 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, Billy, I'm at the spawn with an empty pack. I'm heading to you on the grass.","reasoning":"It is morning and Zack is 16 blocks away. Go to
+- 10:07 act: {"actions":[],"say":"Zack, I'm right beside you with an empty pack and hunger 20. If you have any spare food or wheat, could you give it to me? An iron golem is 10 blocks east, so I'll stay here.","re
+- 10:09 act: {"actions":[{"do":"eat"}],"say":"Thank you Zack and Jason. I'll eat and keep away from the golem.","reasoning":"Zack gave wheat and Jason is sending six potatoes. Eat what I have now, then take the po
+- 10:12 act: {"actions":[],"say":"Jason, I haven't received the potatoes yet. My pack is still empty. Could you give them to me directly? I'm at -240,69,346 by Zack.","reasoning":"Potatoes from Jason never reached
+- 10:16 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":346}}],"say":"Coming to you now, Jason. No golem in sight at the moment.","reasoning":"Jason has the potatoes and is stuck. The golem is out of v
+- 10:16 act: {"actions":[],"say":"Jason, I'm at -236,68,346 now. I don't see you nearby. Can you hand me the potatoes?","reasoning":"I reached the spot but Jason is not in my view. Tell him where I am and wait for
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"It's getting dark. I'm going to the beds by Zack to try to sleep. Jason, the potatoes can wait until morning.","reas
