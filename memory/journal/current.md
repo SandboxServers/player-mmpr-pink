@@ -661,3 +661,6 @@
 - 04:53 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-238,"y":51,"z":348}}],"reasoning":"Keep cycling: mine, place, move towa
 - 04:55 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"Keep opening cells, then wait."}
 - 04:59 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Night has come; keep trying to wall in whil
+- 05:00 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block
+- 05:01 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5}],"reasoning":"Placement at feet did not raise me. Unstick, then retry the placement once."}
+- 05:01 act: {"actions":[{"do":"mine","block":"stone","count":2}],"intent":{"goal":"retry_mine_out","program":"gather","arguments":{"block":"stone","count":4},"wake_on":["goal_completed","unexpected_damage"],"limi
