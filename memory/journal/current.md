@@ -893,3 +893,11 @@
 - 11:06 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":6}],"say":"Morning Zack. Sharing now: 6 potatoes to you for Trini and Tommy. I'm keeping 6 for whoever is hungriest.","reasoning":"Da
 - 11:07 act: {"actions":[{"do":"goto","target":{"x":-245,"y":63,"z":346}},{"do":"give","to":"ag_tommy_01","item":"potato","count":4}],"say":"Tommy, coming to the stone with potatoes. Stay put.","reasoning":"The ea
 - 11:08 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":4}],"say":"Tommy, 4 potatoes for you. Golem is close, so I'm going back to the beds after.","reasoning":"Tommy is within reach. Retr
+- 11:08 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":6}],"say":"Tommy, giving you 6 potatoes now. Trini, I'll bring you the rest next.","reasoning":"Tommy is nearest and starving on sto
+- 11:08 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":346}},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Tommy, six potatoes are with you. I'm stepping off the stone to pick up the loose 
+- 11:08 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":69,"z":344}}],"reasoning":"Golem closing at 3.5 blocks; get clear east toward the beds, where Trini is waiting for potatoes."}
+- 11:09 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Escape water and golem east toward the beds."}
+- 11:09 act: {"actions":[{"do":"goto","target":{"x":-243,"y":63,"z":345}}],"reasoning":"Short hop east to dry ground, away from the golem."}
+- 11:09 act: {"actions":[],"say":"Tommy, you should have 6 potatoes. I'm holding 12 for Trini and you. Trini, tell me where you are and I'll bring them.","intent":{"goal":"hold_and_share_potatoes","program":"rest"
+- 11:09 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":4},{"do":"give","to":"ag_trini_01","item":"potato","count":4}],"say":"Tommy, 4 potatoes for you. Trini, 4 for you at the beds. I'm k
+- 11:10 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, trying one potato directly now. Tell me if it reaches you.","reasoning":"Test whether direct give works at this ra
