@@ -620,3 +620,11 @@
 - 03:06 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
 - 03:06 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
 - 03:06 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:07 say: {"text":"Thanks Zack. I'm at (-238, 53, 346), still in the pit. I have 27 dirt and I'm stacking up. Dirt from you would help, but I can keep going."}
+- 03:07 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:07 say: {"text":"Zack, I'm at (-238, 53, 346), standing on dirt at the bottom of the pit. Please drop about 10 dirt right next to me, on the east and north sides. Thank you."}
+- 03:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"unstick"}]}
+- 03:14 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:16 say: {"text":"Zack, I'm at (-239, 51, 346), on stone at the bottom of the pit. I have 26 dirt and I'm stacking up. I'll call you if I need more. Thank you."}
+- 03:20 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Trini, I'm at (-239, 51, 346) and digging a step 
