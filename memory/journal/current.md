@@ -790,3 +790,5 @@
 - 08:31 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":345}},{"do":"unstick"}]}
 - 08:32 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-243,"y":62,"z":345}}],"intent":{"goal":"escape_water_east","program":"travel","arguments":{"target":{"x":-243,"y":63,"z":
 - 08:33 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":62,"z":345}},{"do":"place","block":"dirt","at":{"x":-244,"y":63,"z":345}}]}
+- 08:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":69,"z":343}}],"intent":{"goal":"reach_bed_dry_land","program":"travel","arguments":{"target":{"x":-242,"y":69,"z":343}},"wake_on":["goa
+- 08:36 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":342}}],"intent":{"goal":"reach_bed_dry_land","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":342}},"wake_on":["goal_completed","une
