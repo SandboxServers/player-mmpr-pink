@@ -1477,3 +1477,7 @@
 - 20:20 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-271,"y":67,"z":337}},{"do":"place","block":"cobblestone","at":{"x":-269,"y":67,"z":337}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"
 - 20:23 act: {"actions":[{"do":"sleep"}],"say":"Zack, I'm Kimberly. I have no food and I'm trying to sleep now that it's night. In the morning I'll go with Tommy and the others for the cow near -252,68,447."}
 - 20:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Kimberly here. It's night and I have no food, hunger 20 for now. I'm going to the white bed to rest and will go for the cow with th
+- 20:25 act: {"say":"Night is here. Heading to the yellow bed to sleep; first light for the cow with Tommy and Trini.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-274,"y":
+- 20:25 act: {"intent":{"goal":"reach_free_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 20:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:26 act: {"actions":[{"do":"sleep"}]}
