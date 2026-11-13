@@ -806,3 +806,8 @@
 - 08:58 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
 - 08:59 act: {"actions":[{"do":"goto","target":{"x":-241,"y":68,"z":344}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","un
 - 09:08 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":344}}],"intent":{"goal":"reach_bed_by_day","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","unexp
+- 09:11 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"limits":{
+- 09:11 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-242,"y":69,"z":344}}],"say":"Kimberly: I'm still boxed in at -245,65,344. Trying to pillar up with di
+- 09:11 act: {"intent":{"goal":"climb_dirt_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_op
+- 09:11 act: {"intent":{"goal":"reach_bed_now","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 09:11 act: {"actions":[{"do":"note","text":"Got out of the pit (now at -240,69,343, beside the beds). Not enclosed. Iron golem 6 west, Trini beside me. Food still 0 on me; hunger 20."}],"say":"Kimberly: I'm out 
