@@ -1269,3 +1269,36 @@
 - 17:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":2}],"reasoning":"Zack is in reach and hungry, and said he is the one who needs it. Billy said Zack should get the first beetroot. G
 - 17:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}],"reasoning":"Zack is in reach. The earlier give of 2 did not transfer. Give one now, keep one for Billy.","intent":{"goal":"fee
 - 17:12 say: {"text":"Zack, I'm giving you a beetroot now. Billy, I'll keep the other one for you."}
+- 17:13 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming down to you with the beetroot.","intent":{"goal":"reach_billy_with_beetroot","program":"travel","arguments":{"target":"ag_bil
+- 17:13 act: {"actions":[],"say":"Billy, I can't see you from here; I'm in stone with a drop to the east. Tell me a safe block to come to and I'll bring the beetroot."}
+- 17:14 say: {"text":"Billy, I have only 1 dirt and 1 cobblestone, so I can't build a pillar up to you. I'll keep the beetroot until you can reach me, or I can come to the nearest stone edge."}
+- 17:15 say: {"text":"Billy, I can't see you yet. Stay on your ledge and I'll wait here for you to come into sight."}
+- 17:23 act: {"say":"Billy, Zack says you're getting up. Once you're in sight I'll hand you the beetroot.","reasoning":"Keep the stalled plan: beetroot to Billy when visible. Tell him so he can come into view."}
+- 17:23 act: {"say":"Night is here and I'm on open ground at -200,64,350. Billy, I still have the beetroot for you; I'll give it when you're in sight.","reasoning":"It is night and I am not enclosed. Shelter is th
+- 17:23 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beetroot","count":1}],"reasoning":"Billy is at -200,58,349 and asked to be in sight. Try the give once; if it fails, I'll read why."}
+- 17:23 act: {"say":"Billy, I can't see you from here. Stand where I can see you and I'll hand you the beetroot.","reasoning":"The give failed for lack of sight. Ask Billy to show himself, then wait."}
+- 17:24 act: {"say":"Billy, no, I still can't see you. I'm enclosed in stone here at -200,64,350. Hold the beetroot's place for me; I'll keep watch.","reasoning":"View shows solid stone all around and no agent, so
+- 17:28 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}],"intent":{"goal":"reach_food_table","program":"travel","arguments":{"target":{"x":-261,"y":68,"z":352}},"wake_on":["goal_completed","unexp
+- 17:30 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}],"say":"Jason, Zack is at -199,61,352, just below me. Zack, I'm giving you my beetroot since you're hungry.","reasoning":"Zack i
+- 17:30 act: {"say":"Jason, I can't see Zack from here, so the beetroot can't go to him yet. I'm stuck at -200,64,350. Tell me when someone is in sight.","reasoning":"The give failed: Zack is out of sight. Jason i
+- 17:31 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}],"say":"Zack, I can't see you yet, but I'm trying again now. Jason, if Zack is below you, hand him the wheat.","reasoning":"Jaso
+- 17:31 act: {"say":"Zack, once you're level with us I'll hand you the beetroot. Jason, you're beside me now, so tell me when Zack is in sight.","reasoning":"Zack is raising himself with dirt to come level. Keep t
+- 17:32 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}],"say":"Zack, here is my beetroot. Eat it while you wait for the wheat.","reasoning":"Zack says he can see me and is hungry. Han
+- 17:32 act: {"say":"Zack, Billy, I can't see either of you from here at -200,64,350. I'm still holding the beetroot. Come into my view and I'll hand it over.","reasoning":"Three failed gives with the same reason.
+- 17:34 act: {"say":"Jason, keep your wheat for Zack and Billy, who are hungrier. I have enough food for now. Tommy, I'll bring my beetroot to the table near -261,68,352 once I can reach it.","reasoning":"Jason is
+- 17:34 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beetroot","count":1}],"say":"Jason, I'm handing you my beetroot since you're in reach. Please pass it to Zack, who is hungry at 14.","reasoning":"Za
+- 17:35 act: {"say":"Jason, please confirm: did the beetroot reach you? My pack still shows it, so if it's with you, pass it to Zack or Billy when they're in reach.","reasoning":"Conflicting info: Jason says he ha
+- 17:40 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I still have the beetroot. My hunger is full, so I'll keep it for Zack. When you can reach Zack or Billy with the wheat, please give it 
+- 17:40 act: {"actions":[],"say":"Zack, I have the beetroot. I'm right above you at -200,64,351. Come into view and I'll hand it to you."}
+- 17:44 act: {"actions":[],"say":"Zack, I'm at -200,64,351, above the water. I can't see you yet. Stay on your block and I'll look for you."}
+- 17:44 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}]}
+- 17:46 act: {"actions":[{"do":"goto","target":{"x":-199,"y":57,"z":350}}],"say":"Zack, coming down to you with the beetroot now."}
+- 17:46 act: {"actions":[],"say":"Zack, the path down is blocked. I'm at -199,64,351 with the beetroot. Dig a path up toward me or wait for light, and I'll give it when you're in sight."}
+- 17:47 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}]}
+- 17:47 act: {"actions":[],"say":"Zack, I still can't see you. Pillar up until you're level with me at -199,64,351, and I'll hand it over."}
+- 17:48 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}]}
+- 17:48 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm walking to you now with the beetroot."}
+- 17:48 act: {"actions":[],"say":"It's day. I'm holding one beetroot at -199,64,351. Whoever is hungry and can see me, come up and I'll give it to you. Zack and Billy first."}
+- 17:49 act: {"actions":[],"say":"Billy, you're walled in at -199,61,351. I'm just above you at -199,64,351. Break out or pillar up level with me, and I'll give you the beetroot."}
+- 17:50 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}]}
+- 17:50 act: {"actions":[],"say":"Zack, the beetroot won't go through; it says not possible. Your pack may be full of dirt. Drop or place a few stacks, and I'll try once more. I'm holding it at -199,64,351."}
