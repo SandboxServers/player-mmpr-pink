@@ -811,3 +811,27 @@
 - 09:11 act: {"intent":{"goal":"climb_dirt_pillar","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_op
 - 09:11 act: {"intent":{"goal":"reach_bed_now","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
 - 09:11 act: {"actions":[{"do":"note","text":"Got out of the pit (now at -240,69,343, beside the beds). Not enclosed. Iron golem 6 west, Trini beside me. Food still 0 on me; hunger 20."}],"say":"Kimberly: I'm out 
+- 09:12 act: {"say":"Kimberly here, at the beds. Hunger is full, so I'll keep Trini's porkchop for whoever is hungrier. Thank you, Trini.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{"at":{"x":-2
+- 09:12 act: {"intent":{"goal":"hold_at_beds","program":"rest","arguments":{"at":{"x":-240,"y":69,"z":343}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":24
+- 09:18 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1},{"do":"attack","target":"villager"}],"say":"A villager is attacking me at the beds. I'm arming up with a wooden sword and will fight it off."
+- 09:19 say: {"text":"Kimberly here at the beds with Trini. I'm not sealed in yet, so I'll stand guard with my sword until morning. Trini, stay close."}
+- 09:28 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":345}},{"do":"give","to":"ag_jason_01","item":"dirt","count":9}],"say":"Jason, I'm coming to the shaft with 9 dirt for you. Hold tight."}
+- 09:28 act: {"say":"Jason, I'm at -239,69,344 and can't hand you the dirt; you're out of reach. Can you climb toward me or tell me where the shaft opening is? I'll drop the dirt there."}
+- 09:28 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":345}},{"do":"place","block":"dirt","at":{"x":-239,"y":55,"z":345}}],"say":"Jason, I'm trying to place the dirt straight down at -239,55,345. Trin
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":342}}]}
+- 09:29 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}]}
+- 09:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":69,"z":345}}]}
+- 09:29 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-242,"y":69,"z":345}}]}
+- 09:29 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-248,"y":59,"z":346}},{"do":"place","block":"dirt","at":{"x":-248,"y":61,"z":346}},{"do":"goto","target":{"x":-248,"y":62,"z":345}}]}
+- 09:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":69,"z":345}}],"say":"I'm climbing out of the pool toward the beds. Jason, I'll bring dirt to your shaft once I'm dry."}
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":345}}]}
+- 09:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-242,"y":69,"z":345}}]}
+- 09:29 act: {"actions":[{"do":"unstick"}],"say":"Kimberly: I'm perched on water near -244,62,347, out of the pool but stuck. Health steady, hunger 17. Trini, if you can, bring a porkchop when you're near."}
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":345}}]}
+- 09:30 act: {"actions":[{"do":"eat"},{"do":"unstick"}],"say":"Thank you Trini. Eating now. Tommy, Jason's shaft is at -239,54,345; I'm on the water near -244,62,347."}
+- 09:31 act: {"actions":[{"do":"goto","target":{"x":-241,"y":66,"z":343}}],"say":"Kimberly: I'm still perched on water at -244,62,347. Trying to walk to the grass north-east of me. Billy, Tommy, I have 8 dirt if y
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":-240,"y":64,"z":352}},{"do":"unstick"}]}
+- 09:33 act: {"actions":[{"do":"attack","target":"iron_golem"}],"say":"Kimberly: the iron golem is attacking me and I'm stuck on the water. I'm defending myself."}
+- 09:33 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Kimberly: I died by the golem at the pool and respawned at the beds. My items are on the ground at -245,62,349. I'm staying near th
+- 09:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 09:34 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Kimberly: I'm back at the beds with an empty pack. Golem by the pool is the danger, so stay off the water near -245,62. Could someo
