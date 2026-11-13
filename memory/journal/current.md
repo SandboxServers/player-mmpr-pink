@@ -901,3 +901,13 @@
 - 11:09 act: {"actions":[],"say":"Tommy, you should have 6 potatoes. I'm holding 12 for Trini and you. Trini, tell me where you are and I'll bring them.","intent":{"goal":"hold_and_share_potatoes","program":"rest"
 - 11:09 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":4},{"do":"give","to":"ag_trini_01","item":"potato","count":4}],"say":"Tommy, 4 potatoes for you. Trini, 4 for you at the beds. I'm k
 - 11:10 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, trying one potato directly now. Tell me if it reaches you.","reasoning":"Test whether direct give works at this ra
+- 11:10 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":4}],"say":"Trini, sending 4 potatoes to you now. Tell me when they arrive.","reasoning":"Trini asked for 4 at the beds; she is the o
+- 11:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"reasoning":"Golem attacking from the west. Retreat east/up to the beds, where Trini is."}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Trini, I'm heading to you now, away from the golem.","intent":{"goal":"reach_beds_safe","program":"travel","arguments":{"target":{"
+- 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":64,"z":345}}]}
+- 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":63,"z":346}}]}
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":-242,"y":66,"z":344}},{"do":"goto","target":{"x":-241,"y":69,"z":344}}]}
+- 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-245,"y":62,"z":344}}]}
+- 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Trini, the golem is out of sight for now. I'm working my way to you."}
+- 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":64,"z":343}}]}
+- 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":66,"z":344}}],"say":"Trini, I'm stuck in the water here and the golem is closing in. I still have 11 potatoes for you."}
