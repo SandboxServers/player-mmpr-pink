@@ -1369,3 +1369,9 @@
 - 18:45 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, one beef coming to you now. Pick it up.","reasoning":"Everyone is in reach and asked for a share. Try one give to Ja
 - 18:45 say: {"text":"The give keeps failing, so I'm holding the beef until morning. At first light I'll try again with you standing still. Stay close and keep watch."}
 - 18:47 act: {"actions":[{"do":"goto","target":{"x":-258,"y":66,"z":356}},{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I'm right beside you now. One beef, standing still.","reasoning":"J
+- 18:49 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, here is one beef for you. Morning."}
+- 18:49 act: {"actions":[{"do":"wait","seconds":3},{"do":"give","to":"ag_jason_01","item":"beef","count":1}]}
+- 18:49 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I'm holding the beef out for you now."}
+- 18:49 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":350}}],"say":"Jason, I'll step back a little so the beef can be tossed to you."}
+- 18:49 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}]}
+- 18:49 act: {"actions":[],"say":"Jason, the give keeps failing, so I'll hold the 3 beef here by the beds. I'll keep looking for a way to hand it over. Good luck finding food."}
