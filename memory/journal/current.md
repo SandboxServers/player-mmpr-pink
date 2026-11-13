@@ -1263,3 +1263,9 @@
 - 16:59 say: {"text":"Billy, Zack, I'm at -199,64,352 on the cobble above the shore with 2 beetroot. Come up to me and I'll give it to you."}
 - 16:59 say: {"text":"Billy, I'm not going down to the water. I'm staying here at -200,64,351. Come up to me and I'll give you the beetroot."}
 - 17:03 say: {"text":"Zack, Billy, I'm staying up here tonight. At first light I'll come down with the 2 beetroot. Stay sheltered until then."}
+- 17:07 say: {"text":"Zack, it's dawn. I'm right above you at -200,64,351 with 2 beetroot. Dig up to me or step out and I'll hand them over. Billy, if you're free, head to the farm and I'll meet you there."}
+- 17:10 say: {"text":"Zack, Billy, I still don't see either of you from up here at -200,64,351. If you're on the ledge, say which block you're next to and I'll come to the nearest safe spot above you."}
+- 17:11 say: {"text":"Zack, come up to me at -200,64,351, I'm on stone with air around me. I'll give you the beetroot as soon as you're here."}
+- 17:11 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":2}],"reasoning":"Zack is in reach and hungry, and said he is the one who needs it. Billy said Zack should get the first beetroot. G
+- 17:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}],"reasoning":"Zack is in reach. The earlier give of 2 did not transfer. Give one now, keep one for Billy.","intent":{"goal":"fee
+- 17:12 say: {"text":"Zack, I'm giving you a beetroot now. Billy, I'll keep the other one for you."}
