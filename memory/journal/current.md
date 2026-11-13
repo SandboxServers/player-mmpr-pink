@@ -554,3 +554,4 @@
 - 01:00 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-283,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_blo
 - 01:02 act: {"intent":{"goal":"climb_out_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_opera
 - 01:03 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"place","block":"dirt","at":"feet"}]}
+- 01:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-222,"y":61,"z":349}}]}
