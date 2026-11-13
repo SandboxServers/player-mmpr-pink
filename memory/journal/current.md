@@ -1080,3 +1080,17 @@
 - 14:27 act: {"actions":[{"do":"mine","block":"oak_log","count":2}],"reasoning":"Nearest wood is adjacent; gathering it gives me something to trade or craft. Food search follows."}
 - 14:27 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Planks are the start of a shelter and can be traded. Food still unknown."}
 - 14:27 say: {"text":"I have 8 oak planks now. Does anyone have food to trade for planks? Zack, Billy, Trini, tell me what you need."}
+- 14:39 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"intent":{"goal":"hold_at_night_and_wait_for_light","program":"rest","arguments":{"reason":"night, no food, no shelter yet"},"wake_on":["di
+- 14:42 act: {"actions":[{"do":"goto","target":{"x":-237,"y":68,"z":362}}],"say":"A zombie is hitting me. I have no sword, so I'm moving away south.","intent":{"goal":"flee_zombie_south","program":"flee","argument
+- 14:46 act: {"actions":[{"do":"goto","target":{"x":-255,"y":68,"z":370}}],"say":"Morning. I'm heading southwest across the grass to look for seeds or animals. I'll call out anything I find.","intent":{"goal":"sea
+- 14:47 act: {"actions":[{"do":"goto","target":{"x":-268,"y":68,"z":364}}],"say":"Morning. I have no food. Is there any food or seeds you can spare, or any trade you offer?","intent":{"goal":"approach_villager_for
+- 14:47 act: {"actions":[],"say":"Zack, Jason: I have no food and no seeds. I have 7 planks. Could Zack share some of the wheat seeds with me? I can plant them if I have a patch of dirt to till."}
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-200,"y":63,"z":352}}],"say":"Zack, I'm coming to you for the seeds. Call out where you are when I get close.","intent":{"goal":"reach_zack_for_seeds","program":
+- 14:48 act: {"actions":[],"say":"Zack, I'm here at -200,69,352. I can't see you yet. Stand where I can see you and I'll come to you for seeds. Thank you, Trini, for the sheep."}
+- 14:49 act: {"actions":[],"say":"Thank you, Zack. I'll plant them in the dirt here and tell you when they grow."}
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-235,"y":70,"z":270}}],"say":"Zack, I still have no seeds in my pack, so the handoff didn't happen. I'm heading north to Trini's sheep now. Meet me there.","inte
+- 14:50 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":277}}],"say":"I'm going to the sheep spot at -226,68,276. I'm hungry and have no food, so I'd ask for a share.","intent":{"goal":"reach_sheep_for
+- 14:50 act: {"say":"Trini, I'm hungry and have no food. Could I have a share of the sheep meat or any food you have?","reasoning":"I reached the sheep area. Trini is nearby and holds food. Asking directly is the 
+- 14:50 act: {"say":"Billy, I'm here too and I have no food either. I see no sheep at this spot. Trini, where are the sheep now?","reasoning":"Billy and I are both hungry, and the sheep spot is empty. I need to kn
+- 14:51 act: {"say":"Jason, Tommy: I'm hungry with no food. Billy may be hungrier, so give to him first if he needs it more. Otherwise I'll take a share, and I'll wait here where you can see me.","reasoning":"Trin
+- 14:53 act: {"say":"Tommy, Jason is already bringing wheat to Billy and me. Please keep your wheat for Billy if he's hungrier. I'll stay at the sheep spot where you can find me.","reasoning":"Tommy is stuck far a
