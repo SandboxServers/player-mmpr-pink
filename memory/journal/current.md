@@ -1524,3 +1524,4 @@
 - 21:01 act: {"say":"Trini, Zack, I'm heading to the yellow beds now. I have no food, but I can help find a bed and a shelter.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"x":-279,"y":69,
 - 21:01 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-279,"y":69,"z":289}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
 - 21:01 act: {"say":"Trini, I'm by the yellow beds, with no food either. I'll sleep in a bed here for the night. First light, we search for animals together.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":
+- 21:02 act: {"say":"Kimberly here, at the yellow beds near -262,67,354. I have no food yet, but hunger is 20. I'll join the search for cows or sheep at first light, and I'll check on Trini.","actions":[{"do":"got
