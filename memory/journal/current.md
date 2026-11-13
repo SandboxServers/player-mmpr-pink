@@ -958,3 +958,6 @@
 - 11:51 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"View shows I am boxed in by dirt. Mine the dirt out, then walk to Jason. Placements fa
 - 11:51 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Mining works, so dig a way out. Keep clearing 
 - 11:51 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":62,"z":345}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Digging dirt next
+- 11:52 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Try once more to open the east side toward Jas
+- 11:52 act: {"actions":[],"say":"Jason, I am stuck in my pit and cannot walk to you yet. Billy's dirt will help you. I will keep trying to dig out and hold the potato for you.","reasoning":"I cannot reach Jason. 
+- 11:53 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"say":"Trini, yes, I still need blocks. Please bring cobblestone to my feet at the pit, and I will hold the potato for Jason.","intent":{"goal":"dig
