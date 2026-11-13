@@ -877,3 +877,12 @@
 - 10:46 act: {"say":"Morning. I'm safe in the bed shelter with Zack. Jason, I'll wait here for the potatoes. Tommy and Trini, I have one wheat and can't reach you yet.","intent":{"goal":"receive_potatoes_from_jaso
 - 10:47 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":345}}],"say":"Jason, I'm stepping out next to you. Hand the potatoes over."}
 - 10:47 act: {"say":"Jason, I'm out in the open at -239,69,344, next to you. Drop the potatoes or give them to me now. I'm not moving.","intent":{"goal":"collect_potatoes","program":"rest","arguments":{"seconds":1
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-243,"y":68,"z":346}}],"say":"Jason, thanks. I'm going to look for the potatoes on the ground near -243,68,346."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":344}}],"say":"I have the 12 potatoes, thank you Jason. A golem is closing from the west, so I'm going back to the beds. Tommy, I'll share food on
+- 10:48 act: {"say":"I have 12 potatoes now, thanks Jason. Tommy and Trini on the stone by the pool, tell me where to drop them and I'll bring some when I can reach you safely.","intent":{"goal":"hold_beds_and_sha
+- 10:48 act: {"say":"Tommy, I'll bring potatoes to the stone at -245,62,348 once the golems are gone from the west. I'm staying at the beds for now.","intent":{"goal":"wait_for_golems_to_clear","program":"rest","a
+- 10:53 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, I'm giving you six potatoes. I'm keeping six for Tommy at the pool.","reasoning":"Trini has no food and is nearby.
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":344}}],"reasoning":"An item lies one step north. Walking onto it picks it up. Then I can decide about the pool.","intent":{"goal":"wait_for_golem
+- 10:54 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, trying the potatoes again. If the give fails, come to me in the open.","reasoning":"The potatoes came back to me, 
+- 10:54 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, I'm next to you now. Taking the potatoes.","reasoning":"Give at range drops i
+- 10:54 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, I'm giving six potatoes now. I'm right beside you.","reasoning":"Trini is close, per her message. Try the give onc
