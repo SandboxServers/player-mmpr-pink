@@ -932,3 +932,8 @@
 - 11:17 act: {"say":"Got Tommy's potato. I'm keeping it for when I'm hungry. Trini, I can't reach land yet; I'll send food if I find any.","reasoning":"Holding one potato. Hunger is full so eating now is refused. 
 - 11:18 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, I have one potato and my hunger is full. Trying to give it to you now. Tommy, Trini: hold on, I'm on my way when I
 - 11:23 act: {"say":"Night is here and I'm on one stone block in the water, not sheltered. Zack, Jason: if you can drop a few dirt or cobble within reach of me, I can wall in. I have one potato and I'm holding it.
+- 11:24 act: {"say":"Tommy, I'm at -244,63,346 on the stone in the water. Please drop 6 cobblestone within reach, on the stone next to me. Billy, thank you, I'll wait for you at the water edge.","reasoning":"Tommy
+- 11:25 act: {"intent":{"goal":"wall_in_for_night","program":"rest","arguments":{"note":"hold stone block at -244,63,346 until blocks arrive, then wall in"},"wake_on":["directly_addressed","unexpected_damage","pre
+- 11:26 act: {"actions":[{"do":"note","text":"Alive on stone at -244,63,346. Trini arriving with 8 cobblestone."}],"say":"Trini, I'm alive on my stone at -244,63,346. Give me the cobblestone, I'm waiting here."}
+- 11:26 act: {"intent":{"goal":"hold_until_blocks_arrive","program":"rest","arguments":{"note":"stay on stone at -244,63,346 until Trini's cobblestone arrives"},"wake_on":["directly_addressed","unexpected_damage",
+- 11:26 act: {"say":"Trini, come within 2 blocks of me and I'll take them. Or drop them on the ground here. I'm at -244,63,346."}
