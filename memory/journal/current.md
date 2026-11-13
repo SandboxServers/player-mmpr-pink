@@ -792,3 +792,10 @@
 - 08:33 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":62,"z":345}},{"do":"place","block":"dirt","at":{"x":-244,"y":63,"z":345}}]}
 - 08:35 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":69,"z":343}}],"intent":{"goal":"reach_bed_dry_land","program":"travel","arguments":{"target":{"x":-242,"y":69,"z":343}},"wake_on":["goa
 - 08:36 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":342}}],"intent":{"goal":"reach_bed_dry_land","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":342}},"wake_on":["goal_completed","une
+- 08:46 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":63,"z":345}},{"do":"unstick"}],"reasoning":"Stuck in water at night. Try placing dirt above and getting free, then reassess.","say":"Kimberl
+- 08:46 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"climb_out_of_water_to_bed","program"
+- 08:46 act: {"actions":[{"do":"goto","target":{"x":-239,"y":65,"z":344}}],"intent":{"goal":"drop_dirt_down_shaft_to_jason","program":"travel","arguments":{"target":{"x":-239,"y":65,"z":344}},"wake_on":["goal_comp
+- 08:47 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":344}}],"intent":{"goal":"get_away_from_golem_to_bed","program":"travel","arguments":{"target":{"x":-239,"y":69,"z":344}},"wake_on":["goal_complet
+- 08:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"reasoning":"Golem adjacent and attacking; goto keeps failing. Unstick first, then try moving to the bed."}
+- 08:48 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":344}}],"reasoning":"Move east away from the golem. If it fails again, I will consider defending myself."}
+- 08:49 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_away_from_golem","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_complete
