@@ -843,3 +843,11 @@
 - 09:37 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}},{"do":"goto","target":{"x":-240,"y":70,"z":345}}],"say":"Thanks Tommy, collecting the cobblestone. Staying off the pool."}
 - 09:37 act: {"actions":[{"do":"note","text":"Got Tommy's cobblestone partly; more items fell to -240,67,347 near a drop. Left them. Holding at the beds, health 20, hunger 20."}]}
 - 09:41 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"note","text":"Night, day 132. Going to bed at the beds. Zack, Tommy near. Jason safe at bottom of shaft, waiting. Golem still at poo
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"I'm at a white bed near Trini, night, trying to sleep here."}
+- 09:42 act: {"actions":[{"do":"note","text":"Night. Sleep attempts failed (blocked, took too long). Now at -292,69,349, not enclosed, iron golem 16 east at -276,66,351. Moving away from it is the priority."}]}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-300,"y":69,"z":350}}],"say":"Two iron golems are to my north-east, so I'm moving west away from them. Tommy, stay out of the water if you can; I can't reach the
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":350}},{"do":"sleep"}]}
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Night, no food, not enclosed. Try the nearby bed again; if it fails, stay put on solid ground.","say":"Heading
+- 09:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"A villager is attacking me from the north. Flee south to the white beds and try sleep there."}
+- 09:47 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":347}}],"intent":{"goal":"find_food","program":"gather","arguments":{"block":"oak_log","count":1},"wake_on":["directly_addressed","precondition_fa
+- 09:47 act: {"actions":[{"do":"goto","target":{"x":-302,"y":68,"z":336}}],"reasoning":"Three iron golems are within 22 blocks to the east and south. Pull west, away from them."}
