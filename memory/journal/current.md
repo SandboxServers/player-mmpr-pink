@@ -717,3 +717,11 @@
 - 06:39 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-252,"y":67,"z":378}},{"do":"place","block":"oak_planks","at":{"x":-252,"y":67,"z":380}},{"do":"place","block":"oak_planks","at":{"x":-251,"y":
 - 06:42 say: {"text":"Tommy, I'm not digging yet. My placing fails too, and it's night. I'm at -252,67,379, far east of your pit. I'll try again at dawn."}
 - 06:47 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-252,"y":68,"z":379}}]}
+- 06:48 act: {"intent":{"goal":"reach_pit_edge","program":"travel","arguments":{"x":-236,"y":56,"z":352},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":1200,"max_
+- 06:48 act: {"actions":[{"do":"goto","target":{"x":-236,"y":56,"z":352}}],"say":"Jason, Tommy, Billy: I'm coming to the pit edge with 30 oak planks. Hold on."}
+- 06:48 act: {"actions":[{"do":"goto","target":{"x":-236,"y":60,"z":350}}],"say":"I'm at the pit's north-east edge with 30 oak planks. Tell me where to put them and whether to place them at your feet."}
+- 06:49 act: {"actions":[{"do":"goto","target":{"x":-236,"y":55,"z":348}},{"do":"place","block":"oak_planks","at":{"x":-237,"y":52,"z":348}},{"do":"place","block":"oak_planks","at":{"x":-237,"y":51,"z":348}}],"say
+- 06:49 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":10},{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":10}],"say":"Placing into the pit fails for me, so I'm trying to 
+- 06:51 act: {"say":"Billy, Tommy, Jason: placing and giving to you both failed, so I still have all 30 planks. I can't reach you from here. Tell me a block position I can reach and I'll try again."}
+- 06:51 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I have no pickaxe, so I'm craf
+- 06:52 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-235,"y":67,"z":348}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
