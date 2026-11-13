@@ -1070,3 +1070,13 @@
 - 13:53 act: {"say":"Tommy, I'm on the grass at -239,68,345, dry, and I can't see you from here. Please bring the wheat up to me here. I won't go back down toward the water.","reasoning":"Tommy keeps asking me to 
 - 13:55 act: {"say":"Trini, good, the wheat should go to whoever is hungry. I'm fine for now at 20 hunger. I'm on the grass at -239,68,345 and will wait here.","reasoning":"Tommy gave the wheat to Trini, who is hu
 - 14:00 act: {"say":"Tommy, I'm here on the grass at -239,68,345. Come up slowly, and keep off the water edge."}
+- 14:04 say: {"text":"Trini, sleep well. Tommy, come up slowly and keep off the water edge. I'll wait here for the wheat and then find shelter."}
+- 14:06 say: {"text":"Morning, Tommy. Come up slowly. I'm right here on the grass at -239,68,345. Thank you for holding the wheat."}
+- 14:07 say: {"text":"Tommy, I can't see you from here. I'm at -239,68,345, up on the grass about 5 east and 7 up from you. Dig toward the east and up, and I'll come to you if you tell me when you're out. Keep the
+- 14:10 say: {"text":"Billy, I have nothing either, not even a tool. Tommy is bringing my one wheat, and I'll share it if it comes. Trini has the beds to the west; Zack is near them."}
+- 14:11 say: {"text":"Tommy, I can't reach you from up here, and I don't want to go down by the water. Please dig or stack dirt up one block at a time toward the grass at -240,68,345. Once you're level with me, I'
+- 14:23 say: {"text":"Tommy, I'm sorry you died. I see nothing in my pack, so the wheat didn't reach me. Keep the wheat for yourself or Billy, and thank you for trying. Sleep safe."}
+- 14:27 say: {"text":"Morning, Trini, Billy. I still have no food. I'm going to mine the oak log right next to me for wood, then look for food nearby. Tell me if you see any."}
+- 14:27 act: {"actions":[{"do":"mine","block":"oak_log","count":2}],"reasoning":"Nearest wood is adjacent; gathering it gives me something to trade or craft. Food search follows."}
+- 14:27 act: {"actions":[{"do":"craft","item":"oak_planks","count":8}],"reasoning":"Planks are the start of a shelter and can be traded. Food still unknown."}
+- 14:27 say: {"text":"I have 8 oak planks now. Does anyone have food to trade for planks? Zack, Billy, Trini, tell me what you need."}
