@@ -1006,3 +1006,29 @@
 - 13:15 act: {"say":"Still on the dry patch, not enclosed. Trying a dirt wall around me before dark gets worse.","intent":{"goal":"wall_dirt_shelter","program":"build","arguments":{"blueprint":"wall","block":"dirt
 - 13:19 act: {"say":"Night is here and I'm still open to the sky. Trying to place dirt by hand, one block to my east.","actions":[{"do":"place","block":"dirt","at":{"x":-243,"y":64,"z":349}}]}
 - 13:19 act: {"say":"Hand placing works. Walling myself in with dirt for the night.","actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":349}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":3
+- 13:19 act: {"actions":[{"do":"sleep"}],"say":"Sealed in for the night. Tommy, I'll look for Zack and the others at first light."}
+- 13:20 act: {"actions":[{"do":"note","text":"Night 143: sleep failed twice, beds occupied; snapshot says not enclosed. Waiting for light, then find food and help Zack."}]}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-236,"y":64,"z":350}}],"say":"Trini, morning. I'm at -244,64,349 with no pickaxe, but I have 14 dirt. I'm coming toward you to see if I can help."}
+- 13:28 act: {"actions":[{"do":"unstick"}]}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-244,"y":64,"z":349}}]}
+- 13:28 act: {"actions":[{"do":"unstick"}]}
+- 13:28 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 13:28 act: {"actions":[{"do":"unstick"}]}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":-244,"y":64,"z":349}}],"intent":{"goal":"reach_dry_land","program":"travel","arguments":{"target":{"x":-244,"y":64,"z":349}},"wake_on":["goal_completed","unexpec
+- 13:29 act: {"actions":[{"do":"unstick"}]}
+- 13:29 act: {"actions":[{"do":"unstick"},{"do":"unstick"}]}
+- 13:29 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 13:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":64,"z":349}}]}
+- 13:29 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-243,"y":60,"z":349}},{"do":"goto","target":{"x":-243,"y":64,"z":349}}],"say":"Trini, I'm in the water near -244,60,349, low on health. I'm trying to
+- 13:29 act: {"actions":[{"do":"unstick"}]}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
+- 13:30 act: {"actions":[{"do":"mine","block":"oak_log","count":4}],"say":"I drowned and lost my dirt in the lake; I'm on dry ground now with nothing. I'm gathering oak logs from the trees to the south-west.","int
+- 13:32 act: {"actions":[{"do":"craft","item":"oak_planks","count":4}]}
+- 13:32 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}]}
+- 13:32 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 13:32 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Trini, Tommy: my dirt fell into the water, so I have none to bring. I have no food either. I am looking for some now."}
+- 13:32 act: {"intent":{"goal":"reach_grass_west_look_for_food","program":"travel","arguments":{"target":{"x":-252,"y":66,"z":347}},"wake_on":["unexpected_damage","precondition_failed","goal_completed","directly_a
+- 13:32 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":344}}]}
+- 13:33 act: {"actions":[{"do":"unstick"}]}
+- 13:33 act: {"actions":[{"do":"mine","block":"dirt","count":3}]}
+- 13:33 act: {"actions":[{"do":"goto","target":{"x":-252,"y":66,"z":341}}]}
