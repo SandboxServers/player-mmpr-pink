@@ -1312,3 +1312,13 @@
 - 18:08 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beetroot","count":1}],"say":"Billy, here is my beetroot. I'm at the beds too. Someone shot at me on the way, so I'll keep watch for a bed."}
 - 18:08 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"My beetroot was eaten by reflex, sorry Billy. I'm going to the bed to sleep."}
 - 18:08 act: {"say":"Kimberly here at the beds. I have no food, only seeds and cobblestone. Zack goes first with the wheat, Trini. I can give seeds if anyone wants to plant."}
+- 18:13 act: {"say":"Kimberly here. No food on me either, only seeds. I'll search north, where nobody has looked yet.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":330}}],"intent":{"goal":"find_food_north
+- 18:13 act: {"say":"Nothing edible up north, only oak logs. There's an iron golem close by, so I'm going back to the beds.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z":350}}],"intent":{"goal":"return_to
+- 18:18 act: {"say":"Kimberly here at the beds. I have no wheat, only 3 wheat seeds and 7 beetroot seeds. Zack, if you plant, I'll help tend it and I'll share what grows.","actions":[]}
+- 18:20 act: {"say":"Kimberly here. Dusk has come and I'm going to bed. I have no food, but hunger is 18. Trini, first light, we all look for food.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do
+- 18:20 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 18:20 act: {"actions":[{"do":"unstick"}]}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"x":-262,"y":67,"z":353},"wake_on":["goal_completed"
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_near_beds","program":"travel","arguments":{"x":-271,"y":68,"z":364},"wake_on":["goal_complet
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_bed_at_263_67_353","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","directly_
+- 18:21 act: {"actions":[{"do":"sleep"}],"say":"I am at the bed. Trying to sleep now; at first light I will search for wheat or animals with Trini and Jason."}
