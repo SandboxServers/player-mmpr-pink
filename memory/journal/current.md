@@ -725,3 +725,8 @@
 - 06:51 act: {"say":"Billy, Tommy, Jason: placing and giving to you both failed, so I still have all 30 planks. I can't reach you from here. Tell me a block position I can reach and I'll try again."}
 - 06:51 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"I have no pickaxe, so I'm craf
 - 06:52 act: {"actions":[{"do":"place","block":"crafting_table","at":{"x":-235,"y":67,"z":348}},{"do":"craft","item":"wooden_pickaxe","count":1}]}
+- 06:53 act: {"actions":[{"do":"goto","target":{"x":-237,"y":66,"z":349}},{"do":"give","to":"ag_tommy_01","item":"oak_planks","count":10}],"say":"Tommy, Billy, Jason, I'm at the north-east rim now with 26 oak plan
+- 06:53 act: {"actions":[{"do":"note","text":"At rim (-237,67,349). Gives to Tommy did not reach him; no one in range. Holding 26 oak planks for the pit folk. Waiting for someone to come into reach."}],"say":"Jaso
+- 06:56 act: {"actions":[],"say":"Tommy, I only carry oak planks, no dirt or cobblestone. I'm at the rim, about 10 blocks above you, so I can't reach. Zack has cobblestone; Zack, please send Tommy 3."}
+- 07:00 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Shelter build did not start. A yellow bed sits 7 blocks NW at -241,69,344. Go there to sleep."}
