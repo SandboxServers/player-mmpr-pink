@@ -930,3 +930,5 @@
 - 11:17 act: {"say":"Tommy, I'm on a stone block in the water at -244,63,346 with an empty pack. Please drop a potato on the stone next to me, and any blocks or a boat you can spare.","reasoning":"Empty pack, stra
 - 11:17 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":346}},{"do":"eat"}],"say":"Thank you Tommy. There is an item on the stone at my feet. I'm trying to pick it up now.","reasoning":"A potato is on 
 - 11:17 act: {"say":"Got Tommy's potato. I'm keeping it for when I'm hungry. Trini, I can't reach land yet; I'll send food if I find any.","reasoning":"Holding one potato. Hunger is full so eating now is refused. 
+- 11:18 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, I have one potato and my hunger is full. Trying to give it to you now. Tommy, Trini: hold on, I'm on my way when I
+- 11:23 act: {"say":"Night is here and I'm on one stone block in the water, not sheltered. Zack, Jason: if you can drop a few dirt or cobble within reach of me, I can wall in. I have one potato and I'm holding it.
