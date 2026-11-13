@@ -1451,3 +1451,18 @@
 - 20:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 20:01 act: {"actions":[{"do":"sleep"}]}
 - 20:02 act: {"say":"Night. I'm going to sleep in this bed. Jason, I'll bring you the seeds in the morning.","actions":[{"do":"sleep"}]}
+- 20:02 act: {"actions":[{"do":"wait","seconds":1}],"say":"Goodnight, Jason. Glad the seeds reached you. I'm in the bed beside you."}
+- 20:02 act: {"actions":[{"do":"wait","seconds":1}],"say":"Morning. I have no food, only 3 wheat seeds, 7 beetroot seeds, dirt and cobblestone. Jason, the seeds are yours to plant by the beds. Let's share what we 
+- 20:11 act: {"intent":{"goal":"reach_sheep_spot","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 20:11 act: {"actions":[{"do":"wait","seconds":1}],"say":"I'm at the sheep spot now. I see no sheep yet. I'll search the grass to the south and call out if I find any."}
+- 20:11 act: {"intent":{"goal":"search_grass_south_for_animals","program":"travel","arguments":{"target":{"x":-250,"y":66,"z":410}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"
+- 20:11 act: {"actions":[{"do":"wait","seconds":1}],"say":"Zack, no sheep or cows seen by me yet. I'm searching south now, with a drop to the north. I'll call out if I find any."}
+- 20:11 act: {"intent":{"goal":"search_further_south_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":66,"z":430}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":
+- 20:11 act: {"actions":[{"do":"unstick"}]}
+- 20:11 act: {"intent":{"goal":"search_southeast_for_animals","program":"travel","arguments":{"target":{"x":-225,"y":66,"z":425}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"ma
+- 20:11 act: {"intent":{"goal":"reach_cow_at_south_west","program":"travel","arguments":{"target":{"x":-251,"y":68,"z":441}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 20:11 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 20:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I got beef from the cow. Here is one piece for you. Tommy and Billy, I still have one more; come to me if you are hung
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-246,"y":69,"z":424}}],"say":"Something hit me and blew up near me. I am moving north to get clear. Zack, I have beef for you; tell me where you are."}
+- 20:13 act: {"actions":[],"say":"Zack, Billy: I am sorry. My body ate my beef when my hunger got low, so I have none left to give. Billy, there are dropped items on the ground around -240,69,426 to -236,69,434; c
+- 20:13 act: {"actions":[],"say":"Tommy, I have no beef left, sorry; my body ate it. Billy got beef from the cow and is sharing. I am full now and will search south-east for more cows and sheep so we are not short
