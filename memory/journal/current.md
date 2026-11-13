@@ -1251,3 +1251,7 @@
 - 16:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}]}
 - 16:52 act: {"actions":[{"do":"unstick"}]}
 - 16:52 act: {"actions":[{"do":"unstick"}],"reasoning":"Air is 0 and I am drowning in water. Unstick is the way out. Then check the result."}
+- 16:52 say: {"text":"Kimberly here. I drowned in the lake and respawned at the bed with nothing. My things lie at -205,53,307. I have no wheat for Zack. Sorry."}
+- 16:52 act: {"intent":{"goal":"gather_wheat_at_farm","program":"gather","arguments":{"block":"wheat","count":4},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":24
+- 16:52 act: {"intent":{"goal":"reach_farm","program":"travel","arguments":{"target":{"x":-290,"y":69,"z":287}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":300
+- 16:53 act: {"say":"I am at the farm now. The wheat here is not ripe yet. I have nothing in my pack. I will wait nearby for it to ripen.","reasoning":"I reached the farm at -290,68,287. Only unripe wheat is here,
