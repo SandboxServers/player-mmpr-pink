@@ -1240,3 +1240,14 @@
 - 16:37 act: {"say":"Zack, did my wheat reach you? My pack no longer shows it. Tell me if you have it."}
 - 16:38 act: {"say":"Zack, I'm sorry. My 2 wheat is gone from my pack and I can't find it on the ground. I don't know where it went. I still have 8 wheat seeds and 19 dirt. I'll go to the farm for ripe wheat and b
 - 16:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}],"say":"Zack, Billy, I have no food on me. I'm going to the farm for ripe wheat and will come back.","intent":{"goal":"rea
+- 16:38 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_farm_for_wheat","program":"travel","arguments":{"target":{"x":-290,"y":69,"z":287}},"wake_on":["goal_completed","directly_addressed","unexpected_d
+- 16:41 act: {"actions":[{"do":"unstick"}],"say":"Zack, Billy, I'm out on the water at night and can't get past it. I'll get to shore and shelter until first light, then head for the farm."}
+- 16:42 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-202,"y":60,"z":351}}]}
+- 16:42 act: {"actions":[],"intent":{"goal":"hold_until_daylight_on_stone","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":600
+- 16:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-202,"y":60,"z":350}}],"say":"Billy, I'm on my way to you with a pickaxe. I'll dig you out.","intent":{"goal":"reach_billy_and_dig_out","program
+- 16:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-202,"y":60,"z":350}}]}
+- 16:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}],"say":"Zack, Billy, Zack is digging you out, so I'm going to the farm now for ripe wheat."}
+- 16:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}]}
+- 16:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}]}
+- 16:52 act: {"actions":[{"do":"unstick"}]}
+- 16:52 act: {"actions":[{"do":"unstick"}],"reasoning":"Air is 0 and I am drowning in water. Unstick is the way out. Then check the result."}
