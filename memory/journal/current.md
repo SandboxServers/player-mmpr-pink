@@ -1302,3 +1302,8 @@
 - 17:49 act: {"actions":[],"say":"Billy, you're walled in at -199,61,351. I'm just above you at -199,64,351. Break out or pillar up level with me, and I'll give you the beetroot."}
 - 17:50 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beetroot","count":1}]}
 - 17:50 act: {"actions":[],"say":"Zack, the beetroot won't go through; it says not possible. Your pack may be full of dirt. Drop or place a few stacks, and I'll try once more. I'm holding it at -199,64,351."}
+- 17:53 act: {"say":"Billy, Zack, I'm holding one beetroot for whoever can reach me first. Billy, if you can see me, come up and I'll hand it over."}
+- 17:55 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beetroot","count":1}],"say":"Billy, here is my beetroot. It's yours."}
+- 17:57 act: {"say":"Billy, Zack, Trini: I'm still holding my beetroot. If you're in sight when you stop, call out and I'll hand it over. I'm heading west to the beds near the table.","intent":{"goal":"reach_beds_
+- 18:00 act: {"say":"Zack, Tommy, I'm near the table at -202,58,351 for the night. I still have my beetroot for whoever is hungriest in reach.","intent":{"goal":"reach_zack_table","program":"travel","arguments":{"
+- 18:01 act: {"say":"Zack, I'm sealed in stone a few blocks from you, so I can't reach you tonight. My beetroot goes to you first at first light if you're in sight.","actions":[{"do":"sleep"}]}
