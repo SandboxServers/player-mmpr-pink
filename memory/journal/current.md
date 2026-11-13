@@ -1375,3 +1375,16 @@
 - 18:49 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":350}}],"say":"Jason, I'll step back a little so the beef can be tossed to you."}
 - 18:49 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}]}
 - 18:49 act: {"actions":[],"say":"Jason, the give keeps failing, so I'll hold the 3 beef here by the beds. I'll keep looking for a way to hand it over. Good luck finding food."}
+- 18:50 act: {"actions":[],"say":"Zack, I don't see you beside me right now, so the beef can't go to you yet. Tell me where you stand and I'll give it when you're close."}
+- 18:53 act: {"actions":[],"say":"Billy and Zack, come to the beds. I'm holding 3 beef here and will hand one to each of you once you're in reach. Stay out of the dark."}
+- 18:54 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beef","count":1},{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Billy and Jason, I'm trying one beef each now. Tell me if it fails
+- 18:54 act: {"intent":{"goal":"step_clear_of_villager","program":"flee","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":300,"max_block_operations":20}},"say":"A village
+- 18:57 act: {"actions":[{"do":"goto","target":{"x":-248,"y":66,"z":345}}],"say":"Trini, I can see you're hungry. I'm backing off from a villager that's attacking me. Come where I can see you and I'll share.","int
+- 18:57 act: {"actions":[],"say":"I'm at the water, north of the yellow beds. Zack, Trini, come into my sight and I'll give each of you a beef.","intent":{"goal":"hold_beef_for_people_in_sight","program":"trade_wa
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":-254,"y":66,"z":336}}],"say":"An iron golem is attacking me, so I'm moving north away from it. Tommy, Zack, Billy, Trini, Jason: come north to me where I can see
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":343}}],"say":"It's night. I'm going to the yellow beds to sleep. Anyone waiting there, come into sight and I'll give you beef first.","intent":{"
+- 18:58 act: {"actions":[],"say":"I'm at the yellow beds now. Zack, Trini, Billy, Jason, Tommy: step where I can see you and I'll give beef to each of you."}
+- 18:59 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Dusk. I'm going to sleep in the bed. Jason, Zack, Tommy, Billy, Trini: I'll give beef at first light, to whoever is 
+- 19:00 act: {"actions":[{"do":"sleep"}]}
+- 19:04 act: {"actions":[{"do":"sleep"}]}
+- 19:07 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here at the yellow beds. I have 3 beef. Zack, Tommy, Billy, Jason: step where I can see you and I will hand one to each of you."}
