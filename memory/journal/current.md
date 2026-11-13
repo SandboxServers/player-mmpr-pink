@@ -707,3 +707,7 @@
 - 06:30 act: {"actions":[{"do":"goto","target":{"x":-235,"y":52,"z":343}}],"reasoning":"Swim up out of the water column."}
 - 06:30 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":52,"z":344}},{"do":"goto","target":{"x":-236,"y":56,"z":344}}],"reasoning":"Emergency: drowning. Get up through water to air."}
 - 06:30 act: {"say":"Warning: I drowned. Under the pit near -236,45,344 is deep water, around y 42 to 47. Do not dig west or south there. I respawned at -272,67,360 with nothing.","actions":[{"do":"note","text":"D
+- 06:33 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"
+- 06:33 act: {"say":"Jason: don't mine west or south, that's where I drowned. Water sits at y 42 to 47. Mine straight up or north only, and place blocks to climb. I have no blocks now.","actions":[],"intent":{"goa
+- 06:34 act: {"actions":[{"do":"craft","item":"oak_planks","count":24}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","
+- 06:35 act: {"actions":[{"do":"craft","item":"oak_planks","count":16}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","
