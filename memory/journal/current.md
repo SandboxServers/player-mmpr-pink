@@ -981,3 +981,5 @@
 - 12:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1}],"say":"Tommy, here is my potato. Jason, I promised you that potato, but Tommy is right beside me and hungry, and you are walled 
 - 12:40 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":1},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Retry give to adjacent hungry Tommy, then place dirt to keep sealing."}
 - 12:45 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still open at night. Keep stacking at feet to get enclosed."}
+- 12:46 act: {"say":"Kimberly here. I have no food left; my potato went to Tommy. I'm safe in my pit and will look for Jason at light.","intent":{"goal":"see_out_dawn","program":"rest","arguments":{"where":"here",
+- 12:50 act: {"say":"Kimberly, awake at midday. Jason, I'm sorry about the potato; I gave it to Tommy. I'm out of food but my hunger is full, so I'll go looking for animals."}
