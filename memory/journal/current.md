@@ -753,3 +753,11 @@
 - 07:39 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":4}],"say":"Jason, Tommy: I'm sending 4 dirt your way. Stack up with it.","reasoning":"Placement failed; try give to Jason by name."}
 - 07:39 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
 - 07:39 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpect
+- 07:45 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_
+- 07:45 act: {"intent":{"goal":"shelter_for_night_2","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":1200,"ma
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":-238,"y":62,"z":344}},{"do":"place","block":"dirt","at":{"x":-239,"y":49,"z":344}},{"do":"place","block":"dirt","at":{"x":-239,"y":49,"z":344}}],"say":"Jason, mo
+- 07:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":62,"z":345}}],"reasoning":"Goto was blocked by a reflex. Clear the body state and try a closer step."}
+- 07:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-236,"y":62,"z":344}}],"say":"Kimberly: still stuck at -230,62,346 after the night. Retrying the path to the shaft now with 15 dirt.","reasoning
+- 07:49 act: {"actions":[{"do":"mine","block":"oak_planks","count":1},{"do":"goto","target":{"x":-236,"y":62,"z":344}}],"reasoning":"I'm walled in. Open one plank wall to get out, then reach the shaft to drop dirt
+- 07:49 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_planks","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":62,"z":345}}],"reasoning":"Movement fails from this pocket. Clear body st
+- 07:50 act: {"intent":{"goal":"climb_out_pocket","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}},"say":
