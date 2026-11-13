@@ -861,3 +861,6 @@
 - 10:02 act: {"actions":[{"do":"eat"}],"reasoning":"Health is falling and hunger is 17. Try eating the beef again."}
 - 10:04 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-376,"y":68,"z":333}},{"do":"place","block":"dirt","at":{"x":-374,"y":68,"z":333}},{"do":"place","block":"dirt","at":{"x":-375,"y":68,"z":332}}],"rea
 - 10:05 act: {"actions":[{"do":"goto","target":{"x":-370,"y":66,"z":322}}],"reasoning":"Health 4.9 and a skeleton is shooting from the southwest. Get out of its line of fire, north-east toward the pumpkin patch."}
+- 10:06 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":326}}],"reasoning":"My dropped pack is just south. Grab it before the spider and creeper close in, then head east away from them."}
+- 10:06 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}],"reasoning":"A spider is attacking me from the south. I have no sword, but it is one 
+- 10:06 say: {"text":"Kimberly here, back at the spawn with nothing. I died in the night west of here. Hungry; anyone with spare food, please share. I'll stay on the grass away from the pool."}
