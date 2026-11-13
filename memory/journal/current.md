@@ -658,3 +658,6 @@
 - 04:52 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":51,"z":348}}],"reasoning":"Mining stone walls to open a path, as Jason is doing.","say":"Kimber
 - 04:52 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Mining worked before, so keep opening side cells and try to place in
 - 04:52 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Mine then try to climb. Placing is blocked but mining works."}
+- 04:53 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-238,"y":51,"z":348}}],"reasoning":"Keep cycling: mine, place, move towa
+- 04:55 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"unstick"}],"reasoning":"Keep opening cells, then wait."}
+- 04:59 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Night has come; keep trying to wall in whil
