@@ -1521,3 +1521,6 @@
 - 20:54 act: {"say":"Trini, I'm sorry, the bread went to Billy before I found you. I have only wheat seeds now. I'm heading to the yellow beds to find you.","intent":{"goal":"reach_yellow_beds","program":"travel",
 - 20:54 act: {"say":"I'm going to the yellow bed at -271,68,364 to sleep there tonight.","intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":364}},"wake_on":
 - 20:58 act: {"say":"Zack, I haven't seen Trini since morning. I'm here by the yellow beds too, at -271,68,363. Trini, please say where you stand."}
+- 21:01 act: {"say":"Trini, Zack, I'm heading to the yellow beds now. I have no food, but I can help find a bed and a shelter.","intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"x":-279,"y":69,
+- 21:01 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-279,"y":69,"z":289}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 21:01 act: {"say":"Trini, I'm by the yellow beds, with no food either. I'll sleep in a bed here for the night. First light, we search for animals together.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":
