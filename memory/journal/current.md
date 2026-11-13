@@ -785,3 +785,6 @@
 - 08:20 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"reasoning":"Morning. Mine one dirt block from my pocket to open a way out east toward the shaft.","intent":{"goal":"reach_shaft_drop_dirt","program
 - 08:20 act: {"intent":{"goal":"climb_out_to_beds_area","program":"travel","arguments":{"target":{"x":-241,"y":68,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
 - 08:22 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Still stuck in the water tile. Try the unstick reset and a dirt place once more, then wait for daylight.","intent":
+- 08:30 act: {"actions":[{"do":"goto","target":{"x":-243,"y":63,"z":344}}],"say":"Kimberly here, stuck in water at -245,62,345. Heading east toward the shaft.","intent":{"goal":"reach_dry_land_east","program":"tra
+- 08:31 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":63,"z":345}}],"intent":{"goal":"climb_out_east","program":"travel","arguments":{"target":{"x":-244,"y":63,"z":345}},"wake_on":["goal_co
+- 08:31 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":345}},{"do":"unstick"}]}
