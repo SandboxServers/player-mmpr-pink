@@ -1179,3 +1179,9 @@
 - 15:52 act: {"say":"Jason, I'm stuck on a stone column at -201,66,355 among logs, still trying to get down toward the fence field. I'll bring my 2 wheat to whoever is nearest once I'm free.","intent":{"goal":"rea
 - 15:52 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Skill says unstick first, no blocks needed. If it fails, mine the logs boxing me in (three of them) to open a way."
 - 15:52 act: {"say":"Billy, Tommy: I'm free of the log column now, at -201,64,353, heading to the fence field with my 2 wheat.","intent":{"goal":"reach_fence_field","program":"travel","arguments":{"target":{"x":-2
+- 15:52 act: {"actions":[{"do":"goto","target":{"x":-206,"y":64,"z":354}}],"reasoning":"Short walk west away from the north drop, to test whether the ground there is open. Small target, low risk."}
+- 15:57 act: {"say":"Zack, I'm at -201,64,353, about 11 blocks north of you. I have 31 dirt, 10 cobblestone and 2 wheat. Tell me which block to build toward and I'll try to get close.","reasoning":"Zack is trapped
+- 15:57 act: {"say":"Zack, I'm going to the shore to build toward you with dirt and cobblestone.","actions":[{"do":"goto","target":{"x":-202,"y":63,"z":350}}],"reasoning":"Zack is in the lake at -202,54,347 and ne
+- 15:57 act: {"say":"Zack, I'm at -200,63,353, about 9 blocks from you. Dusk is here. I'll go toward your lake edge as far as I can and place dirt toward you.","intent":{"goal":"reach_zack_lake","program":"travel"
+- 15:57 act: {"say":"Zack, I'm on the north-west shore now. I'm placing dirt on the water toward you.","actions":[{"do":"place","block":"dirt","at":{"x":-201,"y":62,"z":350}}],"reasoning":"Zack asked me to build f
+- 15:58 act: {"say":"Zack, my dirt placed toward you failed: there is no solid block next to that spot to build against. I'll raise myself with dirt for the night, and try the water again at first light.","actions
