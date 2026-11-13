@@ -886,3 +886,10 @@
 - 10:54 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, trying the potatoes again. If the give fails, come to me in the open.","reasoning":"The potatoes came back to me, 
 - 10:54 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, I'm next to you now. Taking the potatoes.","reasoning":"Give at range drops i
 - 10:54 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, I'm giving six potatoes now. I'm right beside you.","reasoning":"Trini is close, per her message. Try the give onc
+- 10:57 act: {"actions":[{"do":"goto","target":{"x":-238,"y":69,"z":343}},{"do":"give","to":"ag_trini_01","item":"potato","count":6}],"say":"Trini, I'm moving to your spot now to hand you the potatoes.","reasoning
+- 10:57 act: {"actions":[],"say":"Trini, you should have the potatoes now; some dropped on the ground here. Pick them up. I'm keeping six for Tommy.","reasoning":"Trini needs to know the items dropped and she shou
+- 10:57 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Dusk. I need a bed. Walk to the nearest yellow bed.","intent":{"goal":"reach_bed","program":"rest","arguments":{"seconds":60}
+- 10:58 act: {"actions":[],"say":"Trini and Tommy, I still have the 12 potatoes. I'll share them at dawn when I can reach you safely.","reasoning":"It's dusk, and golems are around. Wait here for light, then share
+- 11:06 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"potato","count":6}],"say":"Morning Zack. Sharing now: 6 potatoes to you for Trini and Tommy. I'm keeping 6 for whoever is hungriest.","reasoning":"Da
+- 11:07 act: {"actions":[{"do":"goto","target":{"x":-245,"y":63,"z":346}},{"do":"give","to":"ag_tommy_01","item":"potato","count":4}],"say":"Tommy, coming to the stone with potatoes. Stay put.","reasoning":"The ea
+- 11:08 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"potato","count":4}],"say":"Tommy, 4 potatoes for you. Golem is close, so I'm going back to the beds after.","reasoning":"Tommy is within reach. Retr
