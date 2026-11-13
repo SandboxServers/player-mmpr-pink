@@ -835,3 +835,11 @@
 - 09:33 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Kimberly: I died by the golem at the pool and respawned at the beds. My items are on the ground at -245,62,349. I'm staying near th
 - 09:33 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":69,"z":344}}]}
 - 09:34 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Kimberly: I'm back at the beds with an empty pack. Golem by the pool is the danger, so stay off the water near -245,62. Could someo
+- 09:34 act: {"actions":[{"do":"note","text":"Day 132: back at beds, empty pack, health 20, hunger 20. Asked Trini for porkchop; Zack and Trini nearby, golem still at pool."}],"say":"Trini, could you give me one p
+- 09:34 act: {"actions":[{"do":"goto","target":{"x":-239,"y":70,"z":343}},{"do":"eat"}],"say":"Thank you, Trini. Eating now."}
+- 09:34 act: {"actions":[{"do":"note","text":"Trini's porkchop did not reach my pack (eat says no food). Hunger is 20, so no urgency. Staying at the beds on solid ground, away from the pool."}],"say":"Trini, the p
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":342}}],"say":"Thanks Zack, picking up the dirt. I'm staying off the pool."}
+- 09:35 act: {"actions":[{"do":"note","text":"Picked up 3 dirt at the beds. Health 20, hunger 20. Holding position on solid ground away from the pool until Jason is out or someone needs me."}]}
+- 09:37 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":346}},{"do":"goto","target":{"x":-240,"y":70,"z":345}}],"say":"Thanks Tommy, collecting the cobblestone. Staying off the pool."}
+- 09:37 act: {"actions":[{"do":"note","text":"Got Tommy's cobblestone partly; more items fell to -240,67,347 near a drop. Left them. Holding at the beds, health 20, hunger 20."}]}
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"note","text":"Night, day 132. Going to bed at the beds. Zack, Tommy near. Jason safe at bottom of shaft, waiting. Golem still at poo
