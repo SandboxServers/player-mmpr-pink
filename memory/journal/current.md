@@ -1481,3 +1481,17 @@
 - 20:25 act: {"intent":{"goal":"reach_free_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
 - 20:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:26 act: {"actions":[{"do":"sleep"}]}
+- 20:26 act: {"say":"Morning, all. I'm at the white beds at -270,67,318. I'll go for the cow near -252,68,447 with Tommy, Trini and Jason at first light. Tommy, tell me where you are.","intent":{"goal":"wait_for_f
+- 20:27 act: {"say":"Trini, I'm coming to the cow near -252,68,447 now. Billy, come along too. Tommy, I'll look for you on the way.","actions":[{"do":"goto","target":{"x":-252,"y":68,"z":440}}],"intent":{"goal":"r
+- 20:27 act: {"say":"Skeleton and spider are close, and I took an arrow. Backing off east while I can. Trini, keep low.","intent":{"goal":"flee_skeleton","program":"flee","arguments":{},"wake_on":["goal_completed"
+- 20:27 act: {"say":"I'm at 13 health with no sword, and the skeleton is closing from the south. I'm pulling back north-east, away from the cow field, until it's clear.","intent":{"goal":"retreat_north_east","prog
+- 20:28 act: {"say":"I died on the cow field and came back at the beds with nothing. I'm going to the ripe wheat near -294,69,290 for food. Stay out of the open field.","intent":{"goal":"reach_ripe_wheat","program
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":289}}]}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-293,"y":69,"z":289}},{"do":"mine","block":"wheat","count":3}]}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":286}},{"do":"mine","block":"wheat","count":3}],"say":"Morning. Hungry, so I'm taking the ripe wheat here.","intent":{"goal":"gather_wheat_food","
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":285}},{"do":"mine","block":"wheat","count":2}],"say":"Billy, I have 4 wheat now. I'll take the other ripe ones here and bring them to your table 
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":288}},{"do":"mine","block":"wheat","count":1}],"say":"Billy, could you make me bread from some of your wheat? I'll trade seeds for it.","intent":
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":-292,"y":68,"z":289}}],"say":"I have 4 wheat, and my hunger is still full. Billy, I'll give my wheat to you for bread. Tommy and Zack should eat first.","intent"
+- 20:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"wheat","count":4}],"say":"Billy, here are my 4 wheat for your bread. Keep the bread for Tommy and Zack if they 
+- 20:30 act: {"actions":[],"say":"Billy, I already gave you 4 wheat a little while ago. Check your inventory. Tommy and Zack, come to Billy's table for the bread."}
+- 20:31 act: {"actions":[],"say":"Thank you, Billy. Tommy needs it more than I do, so give him the first bread. I'll take one after, for my hunger and for when the sword is ready."}
