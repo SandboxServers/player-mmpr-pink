@@ -684,3 +684,10 @@
 - 06:08 act: {"say":"Kimberly, still in the pit, not enclosed. Build keeps stopping at \"way blocked\". Thanks Trini, I'll shout when clear.","reasoning":"Build is running; wait for its outcome rather than polling
 - 06:08 act: {"intent":{"goal":"wall_cobble","program":"build","arguments":{"blueprint":"wall","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
 - 06:08 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-240,"y":52,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-238,"y":52,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-239,"
+- 06:11 act: {"intent":{"goal":"shelter_cobblestone","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
+- 06:11 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-239,"y":53,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":52,"z":344}},{"do":"place","block":"cobblestone","at":{"x":-239,"
+- 06:12 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2}],"reasoning":"Placements silently failed. Try freeing myself and clearing a wall block to find a way out of the pit."}
+- 06:12 act: {"intent":{"goal":"shelter_cobblestone_retry","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits
+- 06:12 act: {"intent":{"goal":"shelter_cobblestone_again","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits
+- 06:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":342}}],"say":"Kimberly: trying Billy's way out. Dirt under my feet, unstick, then nort
+- 06:15 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-237,"y":51,"z":342}}],"reasoning":"Place was blocked. Free myself, clear stone to the north, and step t
