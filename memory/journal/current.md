@@ -650,3 +650,5 @@
 - 04:28 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"
 - 04:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":348}},{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, still stuck at -238,50,347, healthy. Trying a different spot. 
 - 04:33 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-241,"y":69,"z
+- 04:45 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"
+- 04:49 say: {"text":"Kimberly, still at -238,51,346, health 20. Placing at my feet keeps being blocked, so I'm waiting before trying again. Anyone who gets clear, shout."}
