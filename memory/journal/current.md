@@ -1602,3 +1602,16 @@
 - 22:33 act: {"actions":[],"say":"Tommy, thank you for offering. I am not hungry enough yet, so keep yours. Jason, the mutton came from Trini; I think she found it near the sheep to the west.","reasoning":"I am fe
 - 22:41 act: {"actions":[{"do":"sleep"}],"say":"Night has come. I'm trying the bed now.","reasoning":"It is night. Sleep was refused in daylight; try it now beside the yellow bed."}
 - 22:48 act: {"actions":[],"say":"Billy, I don't know where the sheep stood. Trini got the mutton from a sheep far to the west, past the pit. I was only given it.","reasoning":"I have no sheep location to give. Te
+- 22:52 act: {"say":"I'm hungry and have no food here. I'm heading west to look for sheep or cows.","intent":{"goal":"travel_west_find_animals","program":"travel","arguments":{"target":{"x":-300,"y":69,"z":344}},"
+- 22:52 act: {"say":"No animals here yet. Going further west to look.","intent":{"goal":"travel_far_west_find_food","program":"travel","arguments":{"target":{"x":-360,"y":69,"z":344}},"wake_on":["directly_addresse
+- 22:54 act: {"say":"Billy, Jason, I'm at -368, 70, 336 and still no sheep. I'm coming to join you southwest.","intent":{"goal":"join_billy_search_sheep","program":"travel","arguments":{"target":{"x":-390,"y":66,"
+- 22:54 act: {"say":"I'm at -375, 66, 331. Billy, I'm walking to you now.","actions":[{"do":"goto","target":{"x":-396,"y":68,"z":334}}]}
+- 22:54 act: {"say":"I'm with you now at -396, 68, 334. It's getting dark. I have 8 planks, so let's pool planks and wall in together for the night."}
+- 22:55 act: {"say":"Billy, I'm giving you my 8 planks for the wall.","actions":[{"do":"give","to":"ag_billy_01","item":"oak_planks","count":8}]}
+- 22:55 say: {"text":"Billy, my give failed because we're too close. I'll place my planks myself while you build. Tell me where to stand."}
+- 22:55 act: {"say":"Placing my planks on the west side now.","actions":[{"do":"place","block":"oak_planks","at":{"x":-397,"y":68,"z":334}},{"do":"place","block":"oak_planks","at":{"x":-397,"y":69,"z":334}},{"do":
+- 22:56 say: {"text":"My place at -397,68,334 was blocked. I'll try the square to the west at -398,68,334."}
+- 22:56 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-398,"y":68,"z":334}}],"reasoning":"Previous west-side place was blocked. Try one new square and check enclosure after."}
+- 22:57 say: {"text":"I have 8 planks ready. Billy, tell me the exact gap and I'll place them there."}
+- 22:58 say: {"text":"Morning. I slept inside the wall. I'm hungry too, so I'm going west with Billy and the group to look for sheep or cows. Billy, which way first?"}
+- 22:59 say: {"text":"Correction: my sleep failed (no bed), so it is still dusk, not morning. The wall is still open. Billy, Trini: name the exact open square and I'll place a plank there."}
