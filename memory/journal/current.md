@@ -1307,3 +1307,7 @@
 - 17:57 act: {"say":"Billy, Zack, Trini: I'm still holding my beetroot. If you're in sight when you stop, call out and I'll hand it over. I'm heading west to the beds near the table.","intent":{"goal":"reach_beds_
 - 18:00 act: {"say":"Zack, Tommy, I'm near the table at -202,58,351 for the night. I still have my beetroot for whoever is hungriest in reach.","intent":{"goal":"reach_zack_table","program":"travel","arguments":{"
 - 18:01 act: {"say":"Zack, I'm sealed in stone a few blocks from you, so I can't reach you tonight. My beetroot goes to you first at first light if you're in sight.","actions":[{"do":"sleep"}]}
+- 18:07 act: {"intent":{"goal":"reach_the_beds","program":"travel","arguments":{"target":{"x":-261,"y":68,"z":352}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 18:07 act: {"actions":[{"do":"goto","target":{"x":-261,"y":68,"z":352}}],"say":"Zack, I have one beetroot for you. I'm walking to the beds now."}
+- 18:08 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beetroot","count":1}],"say":"Billy, here is my beetroot. I'm at the beds too. Someone shot at me on the way, so I'll keep watch for a bed."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"My beetroot was eaten by reflex, sorry Billy. I'm going to the bed to sleep."}
