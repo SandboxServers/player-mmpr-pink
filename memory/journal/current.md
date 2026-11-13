@@ -664,3 +664,5 @@
 - 05:00 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block
 - 05:01 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5}],"reasoning":"Placement at feet did not raise me. Unstick, then retry the placement once."}
 - 05:01 act: {"actions":[{"do":"mine","block":"stone","count":2}],"intent":{"goal":"retry_mine_out","program":"gather","arguments":{"block":"stone","count":4},"wake_on":["goal_completed","unexpected_damage"],"limi
+- 05:07 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operat
+- 05:10 say: {"text":"Thanks Trini. I'm still in the pit at -238,50,347, stacking whatever I can. I'll shout when I'm clear."}
