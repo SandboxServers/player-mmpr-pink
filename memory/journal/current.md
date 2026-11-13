@@ -937,3 +937,10 @@
 - 11:26 act: {"actions":[{"do":"note","text":"Alive on stone at -244,63,346. Trini arriving with 8 cobblestone."}],"say":"Trini, I'm alive on my stone at -244,63,346. Give me the cobblestone, I'm waiting here."}
 - 11:26 act: {"intent":{"goal":"hold_until_blocks_arrive","program":"rest","arguments":{"note":"stay on stone at -244,63,346 until Trini's cobblestone arrives"},"wake_on":["directly_addressed","unexpected_damage",
 - 11:26 act: {"say":"Trini, come within 2 blocks of me and I'll take them. Or drop them on the ground here. I'm at -244,63,346."}
+- 11:29 act: {"say":"Kimberly here, alive on my stone at -244,63,346. Health and hunger 20, one potato. Thanks Tommy, Trini, Zack. I'll keep the potato for now and give it to whoever is hungriest once we are withi
+- 11:29 act: {"say":"Zack, you're right beside me. I'm fine at full health and hunger. Jason is the one who needs food most, so I'll send him my potato when he's close enough. Tommy, glad you're on stone."}
+- 11:30 act: {"say":"Zack, yes please, drop the 8 cobblestone at my feet. I'll wall myself in with them. Thank you.","intent":{"goal":"wait_for_cobblestone_from_zack","program":"rest","arguments":{},"wake_on":["di
+- 11:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"
+- 11:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"
+- 11:30 act: {"say":"Placing the cobblestone keeps failing with 'way blocked', probably because Zack is standing next to me. Zack, please step one block away. Holding my potato for Jason."}
+- 11:31 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"
