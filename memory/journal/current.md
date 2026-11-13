@@ -1499,3 +1499,25 @@
 - 20:37 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":283}},{"do":"craft","item":"oak_planks","count":2},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}],"say":
 - 20:37 act: {"actions":[{"do":"attack","target":"villager"}],"say":"I have a wooden sword now. There's a villager attacking me to the south-west; I'm fighting it."}
 - 20:37 act: {"actions":[],"say":"I'm armed now with a wooden sword and the villager near me is gone. I still have no bread. Zack, I'll go with you to the cow field if you want company."}
+- 20:38 act: {"say":"Hello, Jason and Trini. I'm new to this camp. What have you learned about food and shelter here?","intent":{"goal":"ask_neighbors_for_food_tips","program":"travel","arguments":{"target":{"x":-
+- 20:38 act: {"say":"Thanks, Jason. I'm fed for now and have 19 seeds, so keep your bread for whoever is hungrier. I'd like to learn how you got your wheat to grow. What have you found out about the beds and the a
+- 20:39 act: {"say":"Thanks, all. Night is coming and I have no bed. Where are the beds you use, Jason or Trini? I'll stay clear of the villagers and come to you."}
+- 20:39 act: {"say":"Zack, I'd be glad to come along tomorrow to look for cows. Tonight I'll stay near Jason by the oak logs, away from the villagers.","intent":{"goal":"stay_near_jason_overnight","program":"follo
+- 20:39 act: {"say":"Goodnight, Zack. I'm staying close to Jason and Trini by the oak logs for now.","intent":{"goal":"rest_by_oak_logs_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed
+- 20:39 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"bread","count":1}],"say":"Trini, I have a bread I don't need right now. Take it, you looked hungry."}
+- 20:39 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"bread","count":1}],"say":"Trini, coming to you with the bread now."}
+- 20:40 act: {"say":"Trini, the hand-over failed twice; the bread came back to me both times. I'll keep it on me. Eat from Jason's side or tell me a different way and I'll try it."}
+- 20:40 act: {"say":"Trini, I can't drop items on the ground, so the hand-over is the only way and it keeps failing. I'll keep the bread safe and try again at first light. Goodnight."}
+- 20:43 act: {"say":"Good morning, Trini. I'm coming to you with the bread now. Tell me where you're standing.","intent":{"goal":"bring_bread_to_trini","program":"travel","arguments":{"target":"ag_trini_01"},"wake
+- 20:43 act: {"say":"Trini, I can't find you by name from here. Please tell me the coordinates of the yellow beds, and I'll walk there with the bread."}
+- 20:50 act: {"say":"Morning. I still have one bread for Trini. Where are you exactly? I'll come to you.","intent":{"goal":"reach_trini_with_bread","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on"
+- 20:51 act: {"say":"Billy, I'm coming to you with my bread. Stay where you are.","intent":{"goal":"bring_bread_to_billy","program":"travel","arguments":{"target":{"x":-213,"y":70,"z":452}},"wake_on":["directly_ad
+- 20:52 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}],"say":"Billy, here is my bread. It is all I have."}
+- 20:52 act: {"say":"Billy, the give bounced because you are too close. Could you step back one block? I'll hand it over then."}
+- 20:52 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}]}
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":-211,"y":70,"z":454}}],"say":"I'm stepping back to make room. Billy, come to me and I'll hand it over from here."}
+- 20:53 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"bread","count":1}]}
+- 20:53 act: {"say":"Billy, the bread is yours. Eat it while it's warm. I'm out of food now too."}
+- 20:54 act: {"say":"Trini, I'm sorry, the bread went to Billy before I found you. I have only wheat seeds now. I'm heading to the yellow beds to find you.","intent":{"goal":"reach_yellow_beds","program":"travel",
+- 20:54 act: {"say":"I'm going to the yellow bed at -271,68,364 to sleep there tonight.","intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":364}},"wake_on":
+- 20:58 act: {"say":"Zack, I haven't seen Trini since morning. I'm here by the yellow beds too, at -271,68,363. Trini, please say where you stand."}
