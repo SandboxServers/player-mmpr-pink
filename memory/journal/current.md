@@ -944,3 +944,17 @@
 - 11:30 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"
 - 11:30 act: {"say":"Placing the cobblestone keeps failing with 'way blocked', probably because Zack is standing next to me. Zack, please step one block away. Holding my potato for Jason."}
 - 11:31 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"
+- 11:36 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-244,"
+- 11:36 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":64,"z":346}},{"do":"place","block":"cobblestone","at":{"x":-243,"y":63,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-243,"
+- 11:39 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":63,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-245,"
+- 11:39 act: {"actions":[{"do":"unstick"}],"say":"Placements keep failing as blocked here. I am trying unstick and will hold still until Billy arrives with the cobblestone.","reasoning":"Three blocked placements i
+- 11:39 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-243,"y":63,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":63,"z":345}},{"do"
+- 11:39 act: {"actions":[],"say":"Still not enclosed, placements keep being blocked on every side. No mobs in view. Billy, Zack, if you are near, please drop cobblestone at my feet. I will hold still until morning
+- 11:48 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, it is morning. I am bringing you the potato now, since you need it most.","re
+- 11:48 act: {"actions":[{"do":"goto","target":{"x":-230,"y":72,"z":386}}],"reasoning":"Jason is not in view by name; walk to where he said he dropped his things."}
+- 11:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-230,"y":72,"z":386}}],"reasoning":"Movement fails from this spot. Unstick, then retry the walk to Jason's drop point."}
+- 11:48 act: {"actions":[],"say":"Trini, thank you. I am still at -244,63,346 and cannot move or place. Please drop the cobblestone at my feet. Jason, I will bring the potato when I can move.","reasoning":"I am st
+- 11:51 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}},{"do":"give","to":"ag_jason_01","item":"potato","count":1}],"say":"Jason, I am heading to you at -240,69,344 with the potato.","reasoning":
+- 11:51 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"View shows I am boxed in by dirt. Mine the dirt out, then walk to Jason. Placements fa
+- 11:51 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Mining works, so dig a way out. Keep clearing 
+- 11:51 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-245,"y":62,"z":345}},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Digging dirt next
