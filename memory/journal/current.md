@@ -1570,3 +1570,28 @@
 - 21:58 act: {"actions":[],"say":"Tommy, Zack, Billy: I have a half wall of 11 planks here at -241,67,368. I am low on health; if you see me in trouble, please help.","reasoning":"The wall stopped at 11 of 15 beca
 - 21:58 act: {"actions":[],"intent":{"goal":"close_wall_gap","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
 - 22:02 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-240,"y":67,"z":369}}],"reasoning":"Night is here and the gap is low on my right. Try one plank on the east-south cell; if it fails, stay put a
+- 22:04 act: {"reasoning":"Night, health 2.4 steady, not enclosed, no bed nearby. Stay put and watch. Wait for light.","intent":{"goal":"hold_position_until_light","program":"rest","arguments":{},"wake_on":["direc
+- 22:06 say: {"text":"Heard a bow to the east. I am at -240,69,344, low on health. Staying low and sealing myself in."}
+- 22:10 act: {"reasoning":"Hungry-ish at 17, no food except 1 rotten flesh. I have 19 wheat seeds and a wooden hoe. Try planting seeds on the ground here to learn farming. Planks underfoot may refuse; read why.","
+- 22:11 act: {"reasoning":"Seeds cannot be placed as a block, so farming needs another way. Go to the white beds nearby where Zack, Jason, Billy are; give Zack his 3 sticks and ask about food.","intent":{"goal":"r
+- 22:11 act: {"reasoning":"Retry travel with the correct argument shape: target position.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_c
+- 22:11 act: {"reasoning":"At the white beds, no one in sight. Hungry (17) with one rotten flesh. Ask Jason for a pumpkin and tell Zack I have his sticks.","say":"I am at the white beds. Jason, could I have one pu
+- 22:12 act: {"reasoning":"Tommy is beside me with no food. I have 19 wheat seeds, which may matter for farming later, but no food. Tell the group what I know and keep waiting for Zack and Jason.","say":"Tommy, I 
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":326}}],"say":"Jason, I am coming to your pumpkins now. I need food badly.","intent":{"goal":"reach_jason_pumpkins","program":"travel","arguments"
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":-256,"y":66,"z":338}}],"say":"Iron golem is attacking right beside me. I am backing away east. Tommy, get clear too."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":330}}],"say":"Jason, I am clear of the golem. Could I have one pumpkin when you are free? I am very low on food."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":352}}],"say":"Jason, I will wait by the beds, away from the golems. Call me when it is clear."}
+- 22:14 act: {"actions":[],"say":"Jason, I am at the beds, -258,68,352. Could you walk to me here, away from the golems? I will wait.","intent":{"goal":"wait_for_jason_pumpkin","program":"trade_wait","arguments":{
+- 22:16 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":341}}],"say":"Jason, I am walking to you now for my pumpkin.","intent":{"goal":"reach_jason_for_pumpkin","program":"travel","arguments":{"target"
+- 22:16 act: {"actions":[],"say":"Jason, I am in reach. Could I have one pumpkin, please? I have no food left."}
+- 22:17 act: {"actions":[{"do":"wait","seconds":3}],"say":"Thank you, Jason. I will look for the pumpkin now."}
+- 22:17 act: {"actions":[],"say":"Jason, I have not received a pumpkin yet. I am still right beside you. Could you give me one?"}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":342}}],"say":"Dusk is here. I will sleep in the bed at the crafting table. Jason, leave my pumpkin with Tommy if you cannot find me."}
+- 22:19 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Eating my rotten flesh, then I will sleep in the yellow bed here."}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
+- 22:19 act: {"actions":[{"do":"sleep"}]}
+- 22:20 act: {"actions":[{"do":"sleep"}],"say":"Tommy, I am right here by the bed. Jason, the pumpkins are yours to hand to Tommy."}
+- 22:22 act: {"actions":[{"do":"sleep"}]}
+- 22:26 say: {"text":"Tommy, I am hungry and my health is low. Could you spare any food, even one pumpkin or some bread?"}
+- 22:29 say: {"text":"Jason, I am here at the bed by -240, 69, 344. Could I have my pumpkin, please? I am very hungry."}
