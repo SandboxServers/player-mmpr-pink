@@ -874,3 +874,6 @@
 - 10:19 act: {"say":"Jason, I'm at the beds, -240,69,344. Bring the potatoes here, and I'll stay put.","intent":{"goal":"await_potatoes","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_
 - 10:43 act: {"say":"Thank you, Zack. I'll take the wheat, and I'm staying sheltered until dawn.","actions":[{"do":"wait","seconds":60}],"intent":{"goal":"await_dawn_food","program":"rest","arguments":{"reason":"s
 - 10:45 act: {"say":"Jason, I don't see the potatoes in my pack. Where did you leave them? I'm enclosed in the beds shelter.","actions":[{"do":"wait","seconds":30}],"intent":{"goal":"await_potatoes_at_beds","progr
+- 10:46 act: {"say":"Morning. I'm safe in the bed shelter with Zack. Jason, I'll wait here for the potatoes. Tommy and Trini, I have one wheat and can't reach you yet.","intent":{"goal":"receive_potatoes_from_jaso
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":-239,"y":69,"z":345}}],"say":"Jason, I'm stepping out next to you. Hand the potatoes over."}
+- 10:47 act: {"say":"Jason, I'm out in the open at -239,69,344, next to you. Drop the potatoes or give them to me now. I'm not moving.","intent":{"goal":"collect_potatoes","program":"rest","arguments":{"seconds":1
