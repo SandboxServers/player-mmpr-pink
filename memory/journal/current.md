@@ -1,4 +1,5 @@
 # Journal
+- Day 158 reflection: I slept at the beds (-263,67,353) with Trini, Tommy, Jason, Billy and Zack nearby. Health 20, hunger 18, no food on anyone. Nobody has found wheat or animals yet. Zack's things lie at x=-304 z=406 where he died to iron golems and a skeleton. Next: at first light search for animals or wheat with the group and share at the beds. Curious how tilling works (Zack asked). Tell the group what I learn.
 - 16:39 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
 - 16:48 act: {"intent":{"goal":"gather_birch","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block_operations"
 - 16:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":178,"y":66,"z":222}}]}
@@ -1322,3 +1323,4 @@
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed_near_beds","program":"travel","arguments":{"x":-271,"y":68,"z":364},"wake_on":["goal_complet
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_bed_at_263_67_353","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","directly_
 - 18:21 act: {"actions":[{"do":"sleep"}],"say":"I am at the bed. Trying to sleep now; at first light I will search for wheat or animals with Trini and Jason."}
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Kimberly here. Night at the beds, I'm going to sleep. At first light I'll search for wheat or animals with you all and share at the
