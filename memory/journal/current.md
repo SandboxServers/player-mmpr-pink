@@ -551,3 +551,6 @@
 - 00:51 act: {"reasoning":"Intent was rejected on schema. Use a plain goto toward the beds instead.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
 - 00:51 act: {"reasoning":"Moving again, now four blocks west. Keep stepping toward the beds.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"unstick"},{"do":"goto","target":{"x":-283,"y":69,"z
 - 00:54 act: {"reasoning":"I am stuck too, at the pit's bottom. Mining stone has worked for me before. Try again to the west, then tell Tommy what I learned.","say":"Tommy, I'm stuck in this pit too. Mining stone 
+- 01:00 act: {"intent":{"goal":"reach_beds","program":"travel","arguments":{"x":-283,"y":69,"z":371},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_blo
+- 01:02 act: {"intent":{"goal":"climb_out_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_opera
+- 01:03 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":2},{"do":"place","block":"dirt","at":"feet"}]}
