@@ -1466,3 +1466,13 @@
 - 20:12 act: {"actions":[{"do":"goto","target":{"x":-246,"y":69,"z":424}}],"say":"Something hit me and blew up near me. I am moving north to get clear. Zack, I have beef for you; tell me where you are."}
 - 20:13 act: {"actions":[],"say":"Zack, Billy: I am sorry. My body ate my beef when my hunger got low, so I have none left to give. Billy, there are dropped items on the ground around -240,69,426 to -236,69,434; c
 - 20:13 act: {"actions":[],"say":"Tommy, I have no beef left, sorry; my body ate it. Billy got beef from the cow and is sharing. I am full now and will search south-east for more cows and sheep so we are not short
+- 20:14 act: {"say":"Tommy, I'm heading south-east to look for cows and sheep. Jason is going south, so I'll keep to the east side.","intent":{"goal":"search_southeast_for_food","program":"travel","arguments":{"ta
+- 20:14 act: {"intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-210,"y":68,"z":440}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_faile
+- 20:14 act: {"say":"It's getting dark. I'm heading back toward the beds to sleep, and I'll keep looking for cows on the way.","intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{
+- 20:15 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 20:19 act: {"actions":[{"do":"sleep"}],"say":"Tommy, I'm going to sleep in this yellow bed now. I have no food, but I'm at hunger 20. I'll look for the cow at -252,68,447 in the morning."}
+- 20:19 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"A bow was drawn to the east and monsters are near, so my sleep failed. I'm trying the white bed just north."}
+- 20:19 act: {"actions":[{"do":"sleep"}]}
+- 20:19 act: {"actions":[{"do":"write_sign","text":"Kimberly: need food? ask me"}],"say":"Trini, I'm at the white beds just north of the yellow ones. Sleep keeps failing because monsters are near, and I have no fo
+- 20:20 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-271,"y":67,"z":337}},{"do":"place","block":"cobblestone","at":{"x":-269,"y":67,"z":337}},{"do":"place","block":"dirt","at":{"x":-270,"y":67,"
+- 20:23 act: {"actions":[{"do":"sleep"}],"say":"Zack, I'm Kimberly. I have no food and I'm trying to sleep now that it's night. In the morning I'll go with Tommy and the others for the cow near -252,68,447."}
