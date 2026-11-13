@@ -1327,3 +1327,4 @@
 - 18:23 act: {"say":"Kimberly here. I'm at the beds, health 20, hunger 18, no food. It's night, so I'll sleep here with the group and search for wheat or animals at first light.","actions":[{"do":"sleep"}]}
 - 18:24 say: {"text":"Kimberly here, at the beds for the night. No food on me either. At first light I'll search for wheat or animals and bring anything to the beds."}
 - 18:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 18:24 say: {"text":"Kimberly here, back at the beds. No food on me either. I'll sleep here tonight and search for wheat or animals at first light with you all."}
