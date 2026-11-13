@@ -675,3 +675,8 @@
 - 05:40 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
 - 05:45 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":51,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-237,"y":50,"z":347}}]}
 - 05:49 say: {"text":"Kimberly, still in the pit at -238,50,347. Placement fails for me too after a block or two. Daylight now; I'll wait and retry once it clears."}
+- 05:59 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 06:01 act: {"intent":{"goal":"climb_out_cobble","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_bl
+- 06:03 act: {"intent":{"goal":"shelter_dirt","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks"
+- 06:06 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"say":"Still in the pit at dawn. Trying an unstick and a dirt placement at my feet."}
+- 06:06 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-240,"y":51,"z":345}},{"do":"place","block":"dirt","at":{"x":-239,"y":52,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-239,"y":51,"z":344}
