@@ -1388,3 +1388,26 @@
 - 19:00 act: {"actions":[{"do":"sleep"}]}
 - 19:04 act: {"actions":[{"do":"sleep"}]}
 - 19:07 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here at the yellow beds. I have 3 beef. Zack, Tommy, Billy, Jason: step where I can see you and I will hand one to each of you."}
+- 19:10 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, I hear you. I have 3 beef. Where are you? I can only hand it over if I can see you.","reasoning":"Jason asked for be
+- 19:10 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":370}}],"say":"On my way, Jason. Hold on.","reasoning":"Jason is at the white walls by the yellow beds, about 50 blocks off. He can only get beef 
+- 19:11 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Here is one beef, Jason. Eat up.","reasoning":"Jason is in reach and asked for one beef. I give it."}
+- 19:11 say: {"text":"Jason, you got the beef. Zack, Tommy, Billy, if you are near, tell me where and I will come."}
+- 19:11 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":363}}],"say":"Coming to you, Zack. Stand still.","reasoning":"Zack is hungry at 16 and asked for one beef, about 11 blocks south. I walk over so 
+- 19:11 act: {"actions":[],"say":"Zack, I am at -274, 67, 363 and I do not see you. Where are you? Billy, I see you are full, so I will hold my last beef for whoever is hungry.","reasoning":"Zack is not in sight a
+- 19:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I am right beside you now. Here is one beef.","reasoning":"Zack is tw
+- 19:12 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, try again: taking the beef now.","reasoning":"The first hand-over failed because Zack did not pick it up. He is still 
+- 19:12 act: {"actions":[],"say":"Zack, the beef would not go through twice. Could you step next to me, so I am within a block of you? Then I will try once more.","reasoning":"Two hand-overs failed with Zack 2.5 b
+- 19:13 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Here, Zack. Take it and eat.","reasoning":"Zack says he is next to me now. One more try at the hand-over."}
+- 19:13 say: {"text":"Zack, the beef will not go into your hands; it failed three times. I am keeping my last 2 beef for now. Trini or anyone else hungry, come to me in sight and I will try."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":364}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I am moving next to your stone. Here is the beef.","reasoning":"Zack 
+- 19:16 act: {"actions":[],"say":"Zack, I cannot see you from here, so the beef cannot pass. I am at -275, 68, 364, on the dirt by the beds. If you can see me, step out of the stone to the open side and I will han
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":371}}],"say":"Jason, coming to you. Hold still.","reasoning":"Zack's hand-overs keep failing. Jason is hungry again and stands in the open at a s
+- 19:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":366}}],"say":"Zack, going to you now. Stay in the open.","reasoning":"Zack is out of the stone, in the open, and asks for the beef. I go next to 
+- 19:16 say: {"text":"I am at -270, 67, 367 in the open. Zack and Trini, whoever is in sight first, come close and I will hand you a beef."}
+- 19:17 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"reasoning":"Trini says she is in my sight at the yellow bed, hunger 17, and asks for one beef. Zack's hand-overs failed, so I try
+- 19:19 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I am two blocks north of you. Here is the beef.","reasoning":"Zack is in the open at the yellow bed, about two blocks 
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"say":"Zack, I still have the 2 beef. I cannot see you from here. Come into sight near the bed and I will hand one over. I am going to sle
+- 19:20 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1},{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Zack and Trini, here is one beef each. I have no more after this.",
+- 19:20 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1},{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Morning. Zack gets the first beef, Trini the second. Both of you te
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I am coming to you with the beef now.","reasoning":"Trini has been fe
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}}],"reasoning":"Retry the walk alone, since the queue is now clear. Zack is the one still waiting for beef."}
