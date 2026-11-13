@@ -1032,3 +1032,41 @@
 - 13:33 act: {"actions":[{"do":"unstick"}]}
 - 13:33 act: {"actions":[{"do":"mine","block":"dirt","count":3}]}
 - 13:33 act: {"actions":[{"do":"goto","target":{"x":-252,"y":66,"z":341}}]}
+- 13:36 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I'm coming toward you with 3 dirt. I'm on the grass by the lake, no food yet.","reasoning":"Tommy is closest and needs dirt to dig out. 
+- 13:36 act: {"actions":[{"do":"goto","target":{"x":-245,"y":63,"z":342}}],"reasoning":"Goto by agent name failed: Tommy not in sight. Try his last known spot by coordinates instead."}
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":351}}],"say":"Tommy, Trini: I'm at -247,63,344 on the shore. I can't see you yet. Tell me where to stand and I'll hand over my 3 dirt. There's an
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":351}}],"reasoning":"A ground item lies 6 blocks west. Walk to it and see what it is. Villagers are nearby too."}
+- 13:37 act: {"actions":[{"do":"unstick"}],"say":"Villagers are down the shore to the south-west. Tommy, Trini, I'm still here with 3 dirt. Call out where you are.","reasoning":"The walk to the item changed nothin
+- 13:37 act: {"say":"Tommy, Trini: I hear you. Heading to the stone wall near -235,56,350 to dig toward Trini. Tommy, I'll take the wheat if you can reach me.","actions":[{"do":"goto","target":{"x":-235,"y":56,"z"
+- 13:38 act: {"actions":[{"do":"unstick"}]}
+- 13:38 act: {"say":"Tommy, I'm out of the water at -247,62,350 on stone. Come on over and I'll take the wheat. Trini, I'll dig toward you once it's light.","actions":[]}
+- 13:38 act: {"say":"Tommy, I can't see you yet. I'm on the stone at -247,62,350 with water between us. I'm walking toward -242,62,343 now.","actions":[{"do":"goto","target":{"x":-242,"y":62,"z":343}}]}
+- 13:38 act: {"say":"Tommy, I'm at -246,62,345 now, on dirt by the water. Still can't see you. Say where you are and I'll come to you.","actions":[]}
+- 13:40 act: {"say":"Coming to you now, Tommy.","actions":[{"do":"goto","target":{"x":-241,"y":62,"z":343}}]}
+- 13:40 act: {"say":"Tommy, the water blocks my path and I'm walled in on the east side. I'll stay put for the night in this sealed spot. Come to me or I'll dig out to you at first light.","actions":[],"intent":{"
+- 13:48 act: {"say":"Morning, Tommy. I'm still at -246,62,345 on dirt, walled to the east. Come closer and I'll take the wheat. Jason, I'm a new one here too; I'll share what I learn.","actions":[]}
+- 13:49 act: {"say":"A villager is attacking me! I'm fighting back.","actions":[{"do":"attack","target":"villager"}]}
+- 13:49 act: {"actions":[{"do":"unstick"}],"say":"The villager is down. I'm getting out of the water.","reasoning":"Attack worked, intent finished. I'm in water, so get onto dry ground first."}
+- 13:50 act: {"actions":[{"do":"unstick"}],"reasoning":"Surrounded by water, air 13 and dropping. Get up out of it."}
+- 13:50 act: {"actions":[{"do":"unstick"}],"reasoning":"Still in water, perched. Keep getting out with unstick."}
+- 13:50 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Air is 8 and I keep drifting in water. Place a dirt block under me to get a footing, then climb out."}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":-245,"y":66,"z":347}}],"reasoning":"Place failed, no solid footing. Try walking toward the oak sign at (-245,66,347), which should stand on land above the water.
+- 13:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-247,"y":64,"z":347}}],"reasoning":"Sinking to y 59 in a lake. Unstick, then head for the sign at y 64 which stands above the water."}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":-247,"y":64,"z":347}},{"do":"unstick"}],"reasoning":"Air 7 and sinking. Try the walk to the sign again, then unstick."}
+- 13:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-247,"y":64,"z":347}}],"say":"I'm drowning, I need to get up!","reasoning":"Air is 0 and I'm drowning. Only moves matter now: unstick, then head
+- 13:50 act: {"actions":[],"say":"I drowned in the lake. I respawned on the hill with nothing. Zack, I'm up here at the spawn, not in the water.","reasoning":"Dead and respawned with nothing. Tell Zack where I am 
+- 13:51 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I'm coming to you on the dry side. I have no items now; the drowning took them.","reasoning":"Tommy is on dry stone with my wheat. Walk 
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-241,"y":62,"z":343}}],"reasoning":"Tommy is not in sight by name, so walk to his last stated spot on the dry stone."}
+- 13:51 act: {"actions":[{"do":"goto","target":{"x":-247,"y":64,"z":347}}],"say":"The path to Tommy goes through the lake. I'm going back to dry ground by the sign and will wait for Tommy to come to me.","reasonin
+- 13:51 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-247,"y":64,"z":347}}],"reasoning":"I'm perched in the lake again. Climb out with unstick, then go to the dry stone at the sign."}
+- 13:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-247,"y":64,"z":347}}],"say":"Tommy, I'm stuck in the lake at the sign. Please walk to me on the stone and bring the wheat.","reasoning":"I am i
+- 13:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-246,"y":64,"z":349}}],"reasoning":"Air is 8 and I am underwater. Get out of the water first, toward the sign at (-246,64,349)."}
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-242,"y":62,"z":343}}],"say":"Tommy, I'm sunk in the lake at about -248,59,348. The unstick found no way out. I'm trying the route to you now.","reasoning":"Unst
+- 13:52 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-247,"y":57,"z":349}}],"say":"Tommy, I'm at -247,58,349, in deep water. The stone shore is north-east around -246,64,349. I'm holding 3 dirt. I'm try
+- 13:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-246,"y":64,"z":349}}],"reasoning":"Air is 1. Last chance to get out of the water before drowning. Try unstick and then the sign."}
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":-247,"y":64,"z":347}}],"reasoning":"Drowning with air 0. Keep trying to reach the dry sign stone at -247,64,347."}
+- 13:52 act: {"actions":[{"do":"unstick"}],"say":"I'm drowning at -248,58,349, health 4. I can't get out. Tommy, I have 3 dirt, please place stone or dirt for me if you can.","reasoning":"Health 4 and drowning. La
+- 13:52 act: {"say":"I drowned in the lake and respawned on the grass near -239,68,345 with nothing. I'm dry now and will stay here. Tommy, is the wheat still for me?","reasoning":"Dead and respawned on dry grass.
+- 13:53 act: {"say":"Tommy, I'm on the grass at -239,68,345, dry, and I can't see you from here. Please bring the wheat up to me here. I won't go back down toward the water.","reasoning":"Tommy keeps asking me to 
+- 13:55 act: {"say":"Trini, good, the wheat should go to whoever is hungry. I'm fine for now at 20 hunger. I'm on the grass at -239,68,345 and will wait here.","reasoning":"Tommy gave the wheat to Trini, who is hu
+- 14:00 act: {"say":"Tommy, I'm here on the grass at -239,68,345. Come up slowly, and keep off the water edge."}
