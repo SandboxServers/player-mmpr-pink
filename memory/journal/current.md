@@ -961,3 +961,8 @@
 - 11:52 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"reasoning":"Try once more to open the east side toward Jas
 - 11:52 act: {"actions":[],"say":"Jason, I am stuck in my pit and cannot walk to you yet. Billy's dirt will help you. I will keep trying to dig out and hold the potato for you.","reasoning":"I cannot reach Jason. 
 - 11:53 act: {"actions":[{"do":"mine","block":"dirt","count":1}],"say":"Trini, yes, I still need blocks. Please bring cobblestone to my feet at the pit, and I will hold the potato for Jason.","intent":{"goal":"dig
+- 11:57 act: {"actions":[],"say":"Everyone, thank you. I am still in the pit and not enclosed. Trini, keep the cobblestone for yourself if you can't reach me. Jason, I'll give you the potato as soon as I get out."
+- 11:58 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":1}],"reasoning":"Try once more to free myself before the night, then wait."}
+- 12:02 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-244,"y":61,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":62,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-243,"
+- 12:03 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-243,"y":61,"z":346}},{"do":"place","block":"dirt","at":{"x":-242,"y":61,"z":347}},{"do":"place","block":"dirt","at":{"x":-243,"y":61,"z":348}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"say":"Morning. I'm trying to walk to Jason with the potato now.","reasoning":"Dawn. Try to reach Jason with the potato."}
