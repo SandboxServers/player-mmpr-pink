@@ -788,3 +788,5 @@
 - 08:30 act: {"actions":[{"do":"goto","target":{"x":-243,"y":63,"z":344}}],"say":"Kimberly here, stuck in water at -245,62,345. Heading east toward the shaft.","intent":{"goal":"reach_dry_land_east","program":"tra
 - 08:31 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":63,"z":345}}],"intent":{"goal":"climb_out_east","program":"travel","arguments":{"target":{"x":-244,"y":63,"z":345}},"wake_on":["goal_co
 - 08:31 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":61,"z":345}},{"do":"unstick"}]}
+- 08:32 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"goto","target":{"x":-243,"y":62,"z":345}}],"intent":{"goal":"escape_water_east","program":"travel","arguments":{"target":{"x":-243,"y":63,"z":
+- 08:33 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-244,"y":62,"z":345}},{"do":"place","block":"dirt","at":{"x":-244,"y":63,"z":345}}]}
