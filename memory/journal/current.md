@@ -739,3 +739,13 @@
 - 07:19 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-230,"y":57,"z":351}}],"say":"Zack, I'm at -230,62,346 and can't reach your feet from here. Trini is closest, so Trini, drop what you can. I'll
 - 07:19 act: {"say":"Zack, Trini's right: I'm too high to reach your feet. Climb to y60 or closer to the rim and I'll drop planks right onto you.","actions":[]}
 - 07:23 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":349}},{"do":"place","block":"oak_planks","at":{"x":-230,"y":59,"z":351}}],"say":"Zack, I'm moving closer to your shaft. I'll try to place planks 
+- 07:25 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-230,"y":59,"z":350}}],"say":"Zack, trying planks at -230,59,350 next to your head. If it fails, climb one more block and I'll reach you."}
+- 07:26 act: {"say":"Zack, I'm right here at the rim with 26 planks. Once you reach y60, tell me and I'll place them at your feet.","actions":[]}
+- 07:30 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-227,"y":61,"z":348}}],"say":"Zack, placing planks at -227,61,348, just above you. Climb onto them and place them at your feet."}
+- 07:30 act: {"say":"Zack, my place at -227,61,348 was blocked. Tell me the exact empty block above your head and I'll try that one. Or climb one more step and I'll reach your feet.","actions":[]}
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-238,"y":62,"z":344}},{"do":"place","block":"oak_planks","at":{"x":-239,"y":49,"z":344}}],"say":"Jason, Tommy: I'm heading to the rim over your shaft now to drop
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-238,"y":62,"z":344}}]}
+- 07:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":62,"z":345}}],"say":"Jason, Tommy: I'm trying to reach the rim over your shaft at -239,344. Dropping dirt there as soon as I'm in range
+- 07:32 say: {"text":"Jason, Tommy: my path west is blocked, so I can't reach your shaft yet. I'm looking for a way around, and I'll drop dirt the moment I'm in range."}
+- 07:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":58,"z":348}},{"do":"place","block":"oak_planks","at":{"x":-237,"y":58,"z":348}}],"say":"Billy, trying dirt and planks at -237,58,348 now. If
+- 07:34 say: {"text":"Billy, my drops at -237,58,348 timed out; I'm too far from your shaft. Zack and Trini, whoever is nearest the shaft, please drop dirt onto Billy and Jason."}
