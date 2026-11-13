@@ -911,3 +911,16 @@
 - 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"Trini, the golem is out of sight for now. I'm working my way to you."}
 - 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":64,"z":343}}]}
 - 11:12 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-243,"y":66,"z":344}}],"say":"Trini, I'm stuck in the water here and the golem is closing in. I still have 11 potatoes for you."}
+- 11:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":63,"z":345}}]}
+- 11:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":63,"z":345}}]}
+- 11:14 act: {"actions":[{"do":"goto","target":{"x":-246,"y":63,"z":345}}]}
+- 11:14 act: {"actions":[{"do":"unstick"}]}
+- 11:14 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}]}
+- 11:14 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-246,"y":55,"z":348}},{"do":"unstick"}]}
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":349}}]}
+- 11:15 act: {"actions":[{"do":"unstick"}],"reasoning":"Errand: get out of water first. Start with unstick as instructed."}
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":345}}],"reasoning":"Air is 0. Nearest dry target is the bank near the beds. Move there directly."}
+- 11:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-244,"y":63,"z":345}}],"reasoning":"Air is 0 and health falling. Build up with cobblestone unde
+- 11:15 act: {"actions":[],"say":"Kimberly here, out of the water on oak planks by the beds. Trini, my potatoes seem to be gone from my pack, so I may have dropped them in the water.","reasoning":"On dry land with
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"The potatoes were lost in the water, my pack is empty. I'm moving away from the golem toward the beds now.","intent":{"goal":"reach
+- 11:16 act: {"say":"I'm on dry stone at -244,63,346. The potatoes were lost in the water, so I have none left. The golem is out of sight."}
