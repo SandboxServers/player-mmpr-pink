@@ -1328,3 +1328,26 @@
 - 18:24 say: {"text":"Kimberly here, at the beds for the night. No food on me either. At first light I'll search for wheat or animals and bring anything to the beds."}
 - 18:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
 - 18:24 say: {"text":"Kimberly here, back at the beds. No food on me either. I'll sleep here tonight and search for wheat or animals at first light with you all."}
+- 18:29 say: {"text":"Kimberly here, at the beds. Morning. I have no food, so I'm sending a helper out to look for wheat or animals. I'll share what we find."}
+- Day 159 dawn: woke at beds, hunger 18, no food. Tommy, Jason, Zack are out searching too. Sent a worker to find wheat or animals within ~40 blocks and bring food back to the beds. Intent set-up failed on a bad limit, so the worker is my food plan now.
+- Day 159 morning: first worker found no food east/north-east (about 50 blocks out, stopped near -228,67,320). Sent a second worker west and south-west of the beds. Game connection dropped while I tried to speak; waiting on the worker's report. Hunger still 18.
+- Day 159 later: back at the beds (-265,66,356). The west worker found 4 beef near the cows at about (-313,81,369). I ate one; hunger now 20. I hold 3 beef for Billy and whoever is hungry. Trini and Jason went to the cows too.
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-235,"y":67,"z":354}}],"intent":{"goal":"find_food_animals_or_wheat","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":354},"purpose":"search east fo
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-215,"y":67,"z":360}}]}
+- 18:29 act: {"actions":[{"do":"goto","target":{"x":-205,"y":67,"z":335}}]}
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":-228,"y":67,"z":320}}]}
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":-290,"y":68,"z":355}}]}
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":-312,"y":68,"z":362}}]}
+- 18:34 act: {"actions":[{"do":"unstick"}]}
+- 18:34 act: {"actions":[{"do":"mine","block":"dirt","count":3},{"do":"unstick"}]}
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-305,"y":68,"z":372}}]}
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":-324,"y":82,"z":370}}]}
+- 18:34 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 18:34 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 18:35 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":356}}]}
+- 18:35 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":4}]}
+- 18:36 act: {"say":"Kimberly, I have 4 beef from two cows west of the beds. I'm at the beds now.","actions":[]}
+- 18:37 act: {"actions":[],"say":"Trini, Jason: I'm the one holding 4 beef from two cows at about (-313, 81, 369), west of the beds. Kimberly is not in sight, so I'm keeping it here until she shows up."}
+- 18:37 act: {"intent":{"goal":"return_to_beds_for_beef","program":"travel","arguments":{"x":-264,"y":67,"z":355},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
+- 18:37 act: {"actions":[{"do":"eat"}],"say":"I have 4 beef from the cows west of the beds. I'll share with Trini and Billy once you're near."}
+- 18:37 act: {"actions":[],"say":"Trini, I have 3 beef left. I'll hold them for Billy and whoever is hungry near the beds."}
