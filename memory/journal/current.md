@@ -716,3 +716,4 @@
 - 06:39 act: {"intent":{"goal":"build_oak_shelter_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_a
 - 06:39 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-252,"y":67,"z":378}},{"do":"place","block":"oak_planks","at":{"x":-252,"y":67,"z":380}},{"do":"place","block":"oak_planks","at":{"x":-251,"y":
 - 06:42 say: {"text":"Tommy, I'm not digging yet. My placing fails too, and it's night. I'm at -252,67,379, far east of your pit. I'll try again at dawn."}
+- 06:47 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-252,"y":68,"z":379}}]}
