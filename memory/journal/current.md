@@ -1450,3 +1450,4 @@
 - 19:59 act: {"actions":[{"do":"sleep"}]}
 - 20:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 20:01 act: {"actions":[{"do":"sleep"}]}
+- 20:02 act: {"say":"Night. I'm going to sleep in this bed. Jason, I'll bring you the seeds in the morning.","actions":[{"do":"sleep"}]}
