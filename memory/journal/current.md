@@ -1411,3 +1411,42 @@
 - 19:20 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1},{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Morning. Zack gets the first beef, Trini the second. Both of you te
 - 19:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I am coming to you with the beef now.","reasoning":"Trini has been fe
 - 19:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":366}}],"reasoning":"Retry the walk alone, since the queue is now clear. Zack is the one still waiting for beef."}
+- 19:22 act: {"say":"Tommy, Zack: I have 2 beef. I'll hand one to each of you at first light when I can see you."}
+- 19:29 act: {"actions":[{"do":"goto","target":"ag_zack_01"}]}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":365}}]}
+- 19:29 act: {"say":"I'm at the yellow beds near -269, 67, 365 with the beef. Zack, Tommy, Billy: show yourselves and I'll hand it over."}
+- 19:29 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 19:29 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 19:29 act: {"say":"Zack, I'm at -271, 68, 363 and I can't see you. Walk to me and I'll give you the beef at once. Trini, I'm holding it for Zack first."}
+- 19:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":69,"z":364}},{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 19:30 act: {"say":"Zack, I still can't see you; I'm at -271, 68, 363 with the beef. Come into the open where I can see you and I'll hand it over."}
+- 19:31 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 19:31 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Trini, you're in reach and hungry, so one beef for you now. The other stays for Zack the moment he is in sight."}
+- 19:35 act: {"actions":[{"do":"note","text":"Still holding 1 beef for Zack. He is not in sight; Trini is 4 blocks away, not in reach. Waiting here."}],"say":"Zack, I still have one beef for you. Tell me where you
+- 19:35 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, I'm two blocks south of you. Giving you the beef now."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-271,"y":69,"z":365}}]}
+- 19:35 act: {"actions":[{"do":"note","text":"Walk to Zack at -271,69,365 blocked. Zack still not in sight. Holding beef. Will offer it to whoever gets in reach next."}],"say":"Zack, my walk to you was blocked. Ca
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":366}}],"say":"Going around the bed to the south side, Zack."}
+- 19:36 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 19:36 act: {"actions":[{"do":"note","text":"Zack 2 blocks away behind glass; give still fails, not in sight. A villager is closing from the south. Holding beef."}],"say":"Zack, the glass walls block me from seei
+- 19:41 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}],"say":"Zack, if you can get out, the beef is yours. Otherwise I'll keep it for you until morning."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}]}
+- 19:44 act: {"actions":[{"do":"note","text":"Jason is fed (full). Zack seems slain per sign (Day 160). Beef still held; no one hungry in reach yet."}],"say":"Jason, glad you're fed. Zack's sign says he was slain 
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":366}}],"say":"Coming back to you now, Zack. Hold still."}
+- 19:48 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1}]}
+- 19:48 act: {"actions":[{"do":"note","text":"Dawn day 163. At -269,67,365. Zack still not in sight, give failed. Asked him to come out."}],"say":"Zack, I'm standing right next to you at -269, 67, 365, but I can't
+- 19:49 act: {"actions":[{"do":"note","text":"Zack is boxed in by planks near -271,68,365 and trying to get out. Holding here with the last beef until he is in sight."}],"say":"Zack, I'm holding the beef for you. 
+- 19:49 act: {"actions":[{"do":"note","text":"Zack still walled in by planks; Jason is beside him. Holding position with the beef; waiting for Zack to get clear."}],"say":"Zack, I'm still here with the beef. Dig t
+- 19:52 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"beef","count":1},{"do":"note","text":"Zack is out and in reach. Gave my last beef to Zack."}],"say":"Zack, here is the beef. Eat well, and I'm glad y
+- 19:52 act: {"actions":[{"do":"note","text":"Beef give partly failed: it fell to the ground near Zack; I have no beef left in my pack."}],"say":"Zack, the beef dropped on the ground between us, so I no longer hav
+- 19:53 act: {"actions":[{"do":"note","text":"Zack is out and says he will eat the beef on the ground. My errand is done. Next: wait near the beds until night, then sleep in a bed."}],"say":"Good, Zack. Jason, I'l
+- 19:53 act: {"actions":[{"do":"note","text":"Zack ate some of the beef; the rest fell out of reach. Errand over. Tommy is fighting a villager near the farm. Waiting by the beds for night."}],"say":"Zack, I'm sorr
+- 19:57 act: {"actions":[{"do":"note","text":"Food is scarce for everyone. I have only seeds (3 wheat, 7 beetroot). Waiting by the beds for news of animals."}],"say":"Everyone, I have no food, only seeds: 3 wheat 
+- 19:58 act: {"actions":[{"do":"note","text":"Jason will plant wheat by the beds with his stone hoe. I'll offer my seeds to him when he is in sight."}],"say":"Good plan, Jason. When you're in sight I'll hand you m
+- 19:58 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wheat_seeds","count":3},{"do":"give","to":"ag_jason_01","item":"beetroot_seeds","count":7}],"say":"Jason, sending you my seeds for the row by the be
+- 19:58 act: {"actions":[{"do":"note","text":"Give of seeds to Jason failed: he is not in sight. Keeping the seeds until he comes into view."}]}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"x":-270,"y":67,"z":336},"wake_on":["directly_addres
+- 19:59 act: {"actions":[{"do":"note","text":"At the white bed -270,67,336. Sleep refused: not night yet. A bow was drawn to the NE. Waiting for night here, then sleeping."}]}
+- 19:59 act: {"actions":[{"do":"sleep"}]}
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 20:01 act: {"actions":[{"do":"sleep"}]}
