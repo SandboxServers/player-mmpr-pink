@@ -530,3 +530,12 @@
 - 00:07 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":4},{"do":"unstick"}]}
 - 00:07 act: {"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"x":182,"y":66,"z":236},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":8000,"m
 - 00:11 act: {"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"x":182,"y":66,"z":236},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":8000,"m
+- 00:14 act: {"actions":[{"do":"eat"}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":182,"y":66,"z":236}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","
+- 00:17 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"climb_out_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_worl
+- 00:17 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":182,"y":66,"z":236}},"wake_on":["goal_completed
+- 00:20 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-218,"y":59,"z":348}},{"do":"goto","target":{"x":-212,"y":60,"z":348}}],"say":"Tommy, I'm trying your way out east."}
+- 00:20 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-222,"y":60,"z":346}},{"do":"unstick"}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{
+- 00:21 act: {"actions":[{"do":"mine","block":"stone","count":1}],"say":"Trini, I'm still stuck at 59 in the same spot. Trying the stone beside me; if that fails I'll wait for morning."}
+- 00:25 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-221,"y":60,"z":347}}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":182,"y":66,"z":
+- 00:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":59,"z":347}},{"do":"goto","target":{"x":-222,"y":59,"z":346}},{"do":"goto","target":{"x":-221,"y":59,"z":348}},{"do":"goto","target":{"
+- 00:27 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":182,"y":66,"z":236}},"wake_on":["goal_completed","directly_addressed","unexpected_damag
