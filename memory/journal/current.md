@@ -927,3 +927,6 @@
 - 11:16 act: {"say":"Tommy, I have no potatoes. I'm sending someone to look for food now.","reasoning":"Empty inventory, no food. Errand sent to worker for food. Waiting for its report before moving.","intent":{"g
 - 11:16 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":345}}],"say":"Kimberly here. I have no food. Checking the ground near the beds for dropped potatoes."}
 - 11:16 act: {"actions":[{"do":"note","text":"Errand failed: no food found. Still on stone island at -244,63,346, water on all sides; goto to land did not move me."}]}
+- 11:17 act: {"say":"Tommy, I'm on a stone block in the water at -244,63,346 with an empty pack. Please drop a potato on the stone next to me, and any blocks or a boat you can spare.","reasoning":"Empty pack, stra
+- 11:17 act: {"actions":[{"do":"goto","target":{"x":-244,"y":63,"z":346}},{"do":"eat"}],"say":"Thank you Tommy. There is an item on the stone at my feet. I'm trying to pick it up now.","reasoning":"A potato is on 
+- 11:17 act: {"say":"Got Tommy's potato. I'm keeping it for when I'm hungry. Trini, I can't reach land yet; I'll send food if I find any.","reasoning":"Holding one potato. Hunger is full so eating now is refused. 
