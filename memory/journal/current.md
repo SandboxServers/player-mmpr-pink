@@ -1525,3 +1525,48 @@
 - 21:01 act: {"intent":{"goal":"reach_yellow_beds","program":"travel","arguments":{"target":{"x":-279,"y":69,"z":289}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
 - 21:01 act: {"say":"Trini, I'm by the yellow beds, with no food either. I'll sleep in a bed here for the night. First light, we search for animals together.","actions":[{"do":"goto","target":{"x":-272,"y":68,"z":
 - 21:02 act: {"say":"Kimberly here, at the yellow beds near -262,67,354. I have no food yet, but hunger is 20. I'll join the search for cows or sheep at first light, and I'll check on Trini.","actions":[{"do":"got
+- 21:03 act: {"say":"Kimberly here, by the yellow beds at -262, 67, 354. Morning search for cows and sheep sounds right. Trini, Zack, stay close and keep calling out.","intent":{"goal":"wait_for_morning_food_searc
+- 21:11 act: {"say":"Kimberly here, morning. Heading to the group near -270, 67, 330 to search for cows and sheep. Jason, I'll look at the pigs too if the animals are not near.","intent":{"goal":"join_food_search_
+- 21:11 act: {"intent":{"goal":"join_food_search_group","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_worl
+- 21:11 act: {"say":"Kimberly with the group at -270, 66, 330. I'll follow Tommy west toward the pig spot. Calling out any animal I see.","intent":{"goal":"follow_tommy_to_pigs","program":"follow","arguments":{"ta
+- 21:11 act: {"say":"Kimberly here at -319, 73, 336. Going west to the pigs near -362, 75, 335. Billy, Trini, Jason, if you have spare porkchop I'd be glad of one. I'll share what I find too.","intent":{"goal":"re
+- 21:12 act: {"say":"Kimberly coming to the pumpkin field now. Jason, thank you for sharing.","intent":{"goal":"reach_pumpkin_field","program":"travel","arguments":{"target":{"x":-366,"y":64,"z":318}},"wake_on":["
+- 21:12 act: {"say":"Kimberly at the pumpkin field. Pumpkins are here; I'm gathering a few now and will share.","intent":{"goal":"gather_pumpkin","program":"gather","arguments":{"block":"pumpkin","count":2},"wake_
+- 21:12 act: {"say":"Kimberly: I have 2 pumpkins and a pumpkin pie. Anyone whose hunger is low, come to me, I'll hand them over. Jason, you're closest.","actions":[{"do":"give","to":"ag_jason_01","item":"pumpkin",
+- 21:12 act: {"say":"Kimberly: my give to Jason failed, too close. I'm keeping the 2 pumpkins and the pie. Anyone hungry, say so and I'll hand them over."}
+- 21:12 act: {"say":"Kimberly: I have 6 pumpkins now and a pumpkin pie. Tommy, come to the pumpkin field at -370, 64, 319 and I'll hand you some. Billy, Trini, thanks for the meat offers."}
+- 21:13 act: {"say":"Kimberly: I have 6 pumpkins and a pumpkin pie. Tommy, I'm heading back east to the beds at -262,67,352 with them. Trini, hunger 19, I'll share too.","intent":{"goal":"bring_pumpkins_to_beds","
+- 21:13 act: {"say":"Kimberly: My walk east failed, so I'm staying here with Zack and Jason. Tommy, Zack will bring pumpkins at first light and I have a pie for whoever is hungriest. Say when you're in sight."}
+- 21:14 act: {"say":"Kimberly: Jason, you're out of food, so I'll give you 2 pumpkins when you step closer. Zack, keep your 4 for Tommy at first light. I'll hold my pie for whoever is hungriest."}
+- 21:14 act: {"say":"Kimberly: Understood, Jason. I'll keep the pumpkins for Tommy and Trini and stay here with you and Zack."}
+- 21:18 act: {"say":"Kimberly: Sun is going low. I'm staying here at the pumpkin field with Zack and Jason through the night, and I'll share the pumpkins at first light."}
+- 21:19 act: {"say":"Kimberly: Yes, Jason, I'll come into your shelter. Zack, come too. I'll stay close and keep my pumpkins for morning."}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":316}}],"say":"Kimberly: Going into Jason's shelter at -369,64,316 now. Zack, come in the same way."}
+- 21:22 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Kimberly: Zombie to the north, fighting it."}
+- 21:22 act: {"actions":[{"do":"goto","target":{"x":-369,"y":64,"z":316}}],"say":"Kimberly: I'm losing health and got pulled out of the hole. Heading back to Jason and Zack at -369,64,316."}
+- 21:23 act: {"intent":{"goal":"reach_jason_shelter","program":"travel","arguments":{"target":{"x":-368,"y":64,"z":316}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_
+- 21:23 act: {"intent":{"goal":"reach_bed_near_tommy","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world
+- 21:23 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3}],"say":"Tommy, I brought pumpkins. I'm at the beds and I'm going to sleep in one for the night."}
+- 21:23 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3}],"say":"Tommy, here are three pumpkins. Eat when you need to."}
+- 21:23 act: {"intent":{"goal":"return_to_tommy_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":352}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":355}}]}
+- 21:24 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3}],"say":"Tommy, here are three pumpkins. I'm next to the beds."}
+- 21:25 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3}],"say":"Tommy, here are the three pumpkins. Eat them and hold at the beds till light.","reasoning":"Tommy is in reach and asked 
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":357}},{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3}],"reasoning":"The give failed as too close with no room. Step back two blocks f
+- 21:25 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":362}}],"intent":{"goal":"flee_golem","program":"flee","arguments":{"from":{"x":-263,"y":66,"z":356}},"wake_on":["unexpected_damage","goal_complet
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":357}}],"say":"Morning. I'm going back to the beds to find Tommy and hand over the pumpkins.","reasoning":"It is first light. Go back to the beds 
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-252,"y":67,"z":363}}],"say":"Iron golem at the beds, attacking, north-west of me. Tommy, Zack: keep clear of it. I'm stepping away east.","reasoning":"The iron 
+- 21:29 act: {"actions":[],"say":"Tommy, I'm at -253,67,363, east of the beds. The iron golem is still at the beds, 12 blocks away. Come to me here and I'll hand you the pumpkins.","reasoning":"Golem is at the bed
+- 21:30 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3},{"do":"goto","target":{"x":-247,"y":67,"z":366}}],"say":"Tommy, the pumpkins are yours. Golem is 3 blocks away, so I'm moving of
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":368}}],"reasoning":"Tommy is out of sight and the golem is 10 blocks north-west and coming. Move away east before anything else."}
+- 21:30 act: {"actions":[],"say":"Tommy, I'm at -241,67,368, east of the golem. I still hold your 3 pumpkins. Come find me here and I'll hand them over.","reasoning":"Out of golem sight now. Keep the pumpkins unti
+- 21:41 act: {"actions":[{"do":"craft","item":"oak_planks","count":20}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"pillar","block":"oak_planks"},"wake_on":["directly_addressed
+- 21:41 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"intent":{"goal":"shelter_wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["directly_addr
+- 21:51 act: {"actions":[],"say":"Morning, Tommy. I can see you to the north-west. The golem is near you, so please come east to me at -241,67,368 and I'll hand over the 3 pumpkins.","reasoning":"Tommy is in sight
+- 21:52 act: {"actions":[],"say":"Tommy, I'm sorry about the golem. Stay away from it. When you're back, come find me here at -241,67,368 and I'll give you the pumpkins.","reasoning":"Tommy died to the golem and i
+- 21:55 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"pumpkin","count":3}],"say":"Tommy, here are my 3 pumpkins. Eat up.","reasoning":"Tommy is in reach at 2.3 blocks with an empty pack. Give the 3 pump
+- 21:55 act: {"actions":[],"say":"Tommy, the pumpkins are yours. Zack, I still have 3 sticks for you when you are in sight.","reasoning":"The give worked. Tell others what I hold, then wait for Zack."}
+- 21:58 act: {"actions":[],"intent":{"goal":"build_wall_for_night","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","dir
+- 21:58 act: {"actions":[],"say":"Tommy, Zack, Billy: I have a half wall of 11 planks here at -241,67,368. I am low on health; if you see me in trouble, please help.","reasoning":"The wall stopped at 11 of 15 beca
+- 21:58 act: {"actions":[],"intent":{"goal":"close_wall_gap","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
+- 22:02 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-240,"y":67,"z":369}}],"reasoning":"Night is here and the gap is low on my right. Try one plank on the east-south cell; if it fails, stay put a
