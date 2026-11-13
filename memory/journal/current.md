@@ -628,3 +628,17 @@
 - 03:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
 - 03:16 say: {"text":"Zack, I'm at (-239, 51, 346), on stone at the bottom of the pit. I have 26 dirt and I'm stacking up. I'll call you if I need more. Thank you."}
 - 03:20 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Trini, I'm at (-239, 51, 346) and digging a step 
+- 03:24 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:24 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"mine","block":"stone","count":1},{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}]}
+- 03:25 say: {"text":"I'm still stuck at (-237, 51, 346) in the pit. Placing dirt at my feet fails, and my position has not changed for 10 minutes. I'm safe and at health 20. If anyone can drop a block or dig a st
+- 03:33 act: {"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tic
+- 03:35 act: {"intent":{"goal":"dig_out_of_pit","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks
+- 03:37 act: {"intent":{"goal":"wall_in_for_night","program":"build","arguments":{"blueprint":{"name":"pit_cell","blocks":[{"block":"cobblestone","dx":1,"dy":0,"dz":0},{"block":"cobblestone","dx":-1,"dy":0,"dz":0}
+- 03:48 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 03:49 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 03:52 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 03:53 act: {"intent":{"goal":"stack_cobblestone_up","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 04:05 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 04:09 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
