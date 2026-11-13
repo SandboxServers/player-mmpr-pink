@@ -1102,3 +1102,28 @@
 - 15:03 act: {"actions":[{"do":"goto","target":{"x":-227,"y":68,"z":277}}],"intent":{"goal":"reach_billy_at_sheep_spot","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":277}},"wake_on":["directly_addr
 - 15:04 act: {"say":"Billy, Trini: I am at 1 health with no food. Does anyone have bread or wheat? Please.","reasoning":"I am at 1 health and need food now. Billy and Trini are in reach, so I'll ask them directly.
 - 15:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"reasoning":"I respawned with nothing at night. There is a bed 4 blocks south. I'll get into it and rest, since I have no food or tools an
+- 15:04 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"intent":{"goal":"reach_tommy_for_wheat","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addresse
+- 15:05 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"intent":{"goal":"get_tommy_wheat","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","un
+- 15:05 act: {"say":"Tommy, I'm at -262,67,350, north of the beds. Can you see me? Please bring the wheat over.","reasoning":"Tommy is not in sight; I'll tell him where I am so he can find me, rather than walk bli
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"reasoning":"It is dawn. Tommy says he is at the beds and I cannot see him, so I'll walk to the spot he gave.","say":"Tommy, I'm walking t
+- 15:06 act: {"say":"Thank you, Tommy. Keep the wheat for Billy if he needs it more.","reasoning":"Tommy is in reach. My hunger is full at 20, so Billy needs the wheat more; I'll thank him and say so."}
+- 15:06 act: {"say":"Jason, Tommy: I'm full, so give the wheat to Billy. He has none.","reasoning":"I am full and Billy has no food, so the wheat should go to him, not me."}
+- 15:07 act: {"intent":{"goal":"gather_oak_wood","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 15:08 act: {"actions":[{"do":"craft","item":"oak_planks","count":12},{"do":"goto","target":{"x":-267,"y":67,"z":368}},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":
+- 15:12 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Zack, Trini: I'm at the table near the beds 
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-260,"y":66,"z":369}}],"say":"I have a wooden sword and pickaxe now. I'm checking the items on the ground to the east."}
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":-257,"y":67,"z":371}},{"do":"goto","target":{"x":-256,"y":67,"z":373}}]}
+- 15:12 act: {"intent":{"goal":"reach_beetroot_farm","program":"travel","arguments":{"target":{"x":-292,"y":69,"z":294}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 15:13 act: {"intent":{"goal":"flee_golem","program":"flee","arguments":{},"wake_on":["goal_completed"],"limits":{"max_world_ticks":400,"max_block_operations":20}},"say":"Iron golem attacking right next to me. Ba
+- 15:13 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-298,"y":69,"z":300}}]}
+- 15:13 act: {"actions":[{"do":"goto","target":{"x":-318,"y":69,"z":318}}],"say":"Golem right next to me. Backing off southwest."}
+- 15:15 act: {"actions":[],"say":"Zack, I am at -318,71,318 with no food yet, the golems are between me and the farm. I will dig toward you when I can."}
+- 15:17 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":291}}],"say":"No golems in sight now. Going for the ripe beetroot."}
+- 15:17 act: {"actions":[{"do":"mine","block":"beetroot","count":2}]}
+- 15:17 act: {"actions":[{"do":"goto","target":{"x":-294,"y":69,"z":289}}]}
+- 15:17 act: {"actions":[{"do":"goto","target":{"x":-318,"y":71,"z":318}}]}
+- 15:17 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":363}}],"say":"Dusk. Heading to the yellow beds to sleep."}
+- 15:18 act: {"actions":[{"do":"attack","target":"villager"}]}
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":364}},"wake_on":["directly_addressed"
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":364}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed_for_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage
+- 15:19 act: {"actions":[{"do":"sleep"}],"say":"Thank you Billy, I'm at the bed beside you, going to sleep now. Tommy, welcome."}
