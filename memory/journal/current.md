@@ -1595,3 +1595,10 @@
 - 22:22 act: {"actions":[{"do":"sleep"}]}
 - 22:26 say: {"text":"Tommy, I am hungry and my health is low. Could you spare any food, even one pumpkin or some bread?"}
 - 22:29 say: {"text":"Jason, I am here at the bed by -240, 69, 344. Could I have my pumpkin, please? I am very hungry."}
+- 22:31 act: {"actions":[{"do":"eat"}],"say":"Thank you, Tommy. I have the mutton and I'm eating it now.","reasoning":"Health is low and hunger is 16. Eat the mutton Tommy handed me."}
+- 22:32 act: {"actions":[],"say":"Thank you, Tommy. I ate the mutton and feel better. Trini, if your mutton is still for me, I'm at the beds here.","reasoning":"Health is rising to 4.4. Tell Trini where I am so sh
+- 22:32 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}],"say":"Trini, thank you. I am full enough for now, so keep your mutton for someone hungrier. I'm trying the bed in daylight
+- 22:32 act: {"actions":[{"do":"sleep"}],"reasoning":"The walk to the bed changed nothing, but I am diagonal to the bed. Try sleeping from here."}
+- 22:33 act: {"actions":[],"say":"Tommy, thank you for offering. I am not hungry enough yet, so keep yours. Jason, the mutton came from Trini; I think she found it near the sheep to the west.","reasoning":"I am fe
+- 22:41 act: {"actions":[{"do":"sleep"}],"say":"Night has come. I'm trying the bed now.","reasoning":"It is night. Sleep was refused in daylight; try it now beside the yellow bed."}
+- 22:48 act: {"actions":[],"say":"Billy, I don't know where the sheep stood. Trini got the mutton from a sheep far to the west, past the pit. I was only given it.","reasoning":"I have no sheep location to give. Te
