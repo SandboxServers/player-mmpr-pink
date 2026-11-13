@@ -1324,3 +1324,4 @@
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"intent":{"goal":"reach_bed_at_263_67_353","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","directly_
 - 18:21 act: {"actions":[{"do":"sleep"}],"say":"I am at the bed. Trying to sleep now; at first light I will search for wheat or animals with Trini and Jason."}
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Kimberly here. Night at the beds, I'm going to sleep. At first light I'll search for wheat or animals with you all and share at the
+- 18:23 act: {"say":"Kimberly here. I'm at the beds, health 20, hunger 18, no food. It's night, so I'll sleep here with the group and search for wheat or animals at first light.","actions":[{"do":"sleep"}]}
