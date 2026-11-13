@@ -1495,3 +1495,7 @@
 - 20:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"wheat","count":4}],"say":"Billy, here are my 4 wheat for your bread. Keep the bread for Tommy and Zack if they 
 - 20:30 act: {"actions":[],"say":"Billy, I already gave you 4 wheat a little while ago. Check your inventory. Tommy and Zack, come to Billy's table for the bread."}
 - 20:31 act: {"actions":[],"say":"Thank you, Billy. Tommy needs it more than I do, so give him the first bread. I'll take one after, for my hunger and for when the sword is ready."}
+- 20:36 act: {"actions":[{"do":"mine","block":"oak_log","count":3}],"say":"Still no bread on my side, and I have no weapon yet. I'm getting logs now to make a wooden sword here.","intent":{"goal":"gather_oak_log",
+- 20:37 act: {"actions":[{"do":"goto","target":{"x":-291,"y":69,"z":283}},{"do":"craft","item":"oak_planks","count":2},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}],"say":
+- 20:37 act: {"actions":[{"do":"attack","target":"villager"}],"say":"I have a wooden sword now. There's a villager attacking me to the south-west; I'm fighting it."}
+- 20:37 act: {"actions":[],"say":"I'm armed now with a wooden sword and the villager near me is gone. I still have no bread. Zack, I'll go with you to the cow field if you want company."}
