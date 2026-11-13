@@ -799,3 +799,10 @@
 - 08:48 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"reasoning":"Golem adjacent and attacking; goto keeps failing. Unstick first, then try moving to the bed."}
 - 08:48 act: {"actions":[{"do":"goto","target":{"x":-241,"y":67,"z":344}}],"reasoning":"Move east away from the golem. If it fails again, I will consider defending myself."}
 - 08:49 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"intent":{"goal":"reach_bed_away_from_golem","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["goal_complete
+- 08:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":65,"z":344}}],"intent":{"goal":"reach_bed_away_from_golem","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on
+- 08:54 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":66,"z":344}}],"intent":{"goal":"get_clear_of_golem","program":"travel","arguments":{"target":
+- 08:55 act: {"actions":[{"do":"goto","target":{"x":-241,"y":66,"z":342}}],"intent":{"goal":"reach_bed_away_from_golem","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_complete
+- 08:57 act: {"actions":[{"do":"goto","target":{"x":-240,"y":69,"z":344}}],"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","unexpected_d
+- 08:58 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{
+- 08:59 act: {"actions":[{"do":"goto","target":{"x":-241,"y":68,"z":344}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","un
+- 09:08 act: {"actions":[{"do":"goto","target":{"x":-242,"y":69,"z":344}}],"intent":{"goal":"reach_bed_by_day","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","unexp
