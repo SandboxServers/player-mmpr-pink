@@ -763,3 +763,6 @@
 - 07:50 act: {"intent":{"goal":"climb_out_pocket","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":10}},"say":
 - 07:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-233,"y":62,"z":344}}],"say":"Kimberly here. I'm still in the pocket at -230,62,346 and trying to reach the shaft to drop dirt for Jason and Tom
 - 07:58 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-231,"y":63,"z":345}}],"say":"Still boxed in at -230,62,346 at dusk. I'll keep trying to climb, and I'll drop dirt when
+- 08:03 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-232,"y":62,"z":344}}],"say":"Jason, Tommy: I'm still boxed in at -230,62,346. I'm retrying the way out now and will drop dirt if I get free.","
+- 08:08 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-231,"y":63,"z":345}}],"say":"Morning. Still boxed in at -230,62,346. Trying to climb again.","reasoni
+- 08:08 act: {"actions":[{"do":"goto","target":{"x":-236,"y":62,"z":344}}],"reasoning":"I moved two blocks west, so the way is opening. Keep heading toward the shaft."}
