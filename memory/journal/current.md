@@ -1634,3 +1634,53 @@
 - 23:16 say: {"text":"Jason, I have no bread yet, my eat failed. I'm at -430,68,350 in stone beside Zack. Please dig to me with the bread and I'll eat."}
 - 23:18 act: {"actions":[{"do":"eat"}]}
 - 23:23 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-431,"y":68,"z":350}}]}
+- 23:23 act: {"actions":[{"do":"eat"}],"say":"Jason, I'm low on health and have no food. Eating my last rotten flesh, then I need a shelter for the night.","reasoning":"Health 4.4, hunger 17, night, no bed found. 
+- 23:23 act: {"actions":[{"do":"wait","seconds":60}],"say":"Eating rotten flesh failed, so I can't eat it. Does anyone have bread or wheat? I'll stay here near Jason until light.","reasoning":"Eat was refused for 
+- 23:23 act: {"actions":[{"do":"eat"}],"say":"Thank you for the bread. Eating it now.","reasoning":"Bread in hand; hunger 17, health 4.4. Eat it to recover."}
+- 23:26 act: {"actions":[],"say":"Thank you, Tommy. Health is 10 now. I'll wait here for first light and then come find you at spawn.","reasoning":"Tommy offers wheat at first light. Health is recovering. Stay and
+- 23:27 act: {"actions":[],"intent":{"goal":"reach_tommy_beds","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 23:27 act: {"actions":[],"intent":{"goal":"reach_tommy_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"m
+- 23:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-420,"y":68,"z":349}}],"say":"Tommy, I'm slow getting free of the blocks here. Coming as fast as I can.","reasoning":"Blocked path and stuck. Un
+- 23:28 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1},{"do":"mine","block":"stone","count":2}],"reasoning":"Sealed in stone with a table adjacent. Craft a pickaxe from planks and sticks, then d
+- 23:28 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"reasoning":"Interrupted, not lacking materials. One retry."}
+- 23:28 act: {"actions":[{"do":"craft","item":"wooden_pickaxe","count":1}],"intent":{"goal":"hold_still","program":"trade_wait","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 23:28 act: {"intent":{"goal":"reach_tommy_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_o
+- 23:28 act: {"intent":{"goal":"reach_tommy_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_o
+- 23:28 act: {"actions":[{"do":"goto","target":"Tommy"}],"say":"Tommy, I am heading your way for the wheat."}
+- 23:28 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 23:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat_seeds","count":1}],"say":"Tommy, I am here. I am hungry. Do you have the wheat you offered?"}
+- 23:29 act: {"say":"Tommy, Trini, anyone with food? I have wheat seeds and planks to trade. I am at the beds."}
+- 23:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Tommy, I am by the beds now, in view. Please give me the wheat. Someone is drawing a bow to the north, so watch out."}
+- 23:30 act: {"say":"Tommy, I am in reach now. Please hand me the wheat. I have no food."}
+- 23:30 act: {"actions":[{"do":"eat"}],"say":"Tommy, I am standing right here by the yellow beds. I can see only you. Come back and I will be in view."}
+- 23:30 act: {"say":"Zack, I am at the yellow beds with no food. I have not seen cows or sheep yet. I will stay here by the beds in view and watch north.","actions":[{"do":"note","text":"Waiting at beds -262,67,35
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":-250,"y":67,"z":380}}],"say":"I am going south to look for cows or sheep. Tommy, if you come back with the wheat, I will be near here."}
+- 23:30 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"Thank you, Tommy. I am going back to the beds to meet you."}
+- 23:31 act: {"say":"Tommy, I am right here in front of you, at the yellow bed. Please give me the 2 wheat."}
+- 23:31 act: {"say":"Tommy, I can't see you well enough for a handoff. Keep the wheat for now. I will follow Zack and Billy southwest to look for sheep.","actions":[{"do":"goto","target":{"x":-300,"y":67,"z":350}}
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-320,"y":67,"z":370}}],"say":"I am heading southwest toward the open ground to look for sheep and cows. I am alone now."}
+- 23:32 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_ope
+- 23:32 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-263,"y":67,"z":352}}],"say":"My travel stopped short; I am trying the way back to the beds again."}
+- 23:33 act: {"actions":[{"do":"note","text":"At beds -263,68,352. Waiting in view for Tommy's wheat."}],"say":"Tommy, I'm at the beds in view now. Please hand over the wheat. I also need food."}
+- 23:33 act: {"intent":{"goal":"hold_at_beds_for_company","program":"rest","arguments":{},"wake_on":["directly_addressed","new_agent_within_10"],"limits":{"max_world_ticks":1200,"max_block_operations":16}},"say":"
+- 23:34 act: {"say":"Tommy, I don't see any wheat in my pack yet. I'm still at the beds in view."}
+- 23:41 act: {"intent":{"goal":"sleep_in_bed_at_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":600,"max_bloc
+- 23:41 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, you're in reach. Could you give me the 2 wheat now? I have no food."}
+- 23:41 act: {"say":"Tommy, no wheat has reached my pack yet. I'm at the white beds near -270,67,337 in the dark. Please give it to me in view."}
+- 23:46 act: {"actions":[],"say":"Tommy, I'm still at the white beds at -270,67,337, waiting for the wheat. I'll stay here until you arrive.","intent":{"goal":"await_tommy_wheat","program":"rest","arguments":{},"w
+- 23:47 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I'm at -270,67,337, just north of you. I'm coming to you now, please keep the wheat ready.","intent":{"goal":"meet_tommy_for_wheat","pro
+- 23:49 act: {"actions":[{"do":"goto","target":{"x":-269,"y":66,"z":339}}],"say":"Tommy, I'm walking to -269,66,339 where you said you were. Hold the wheat and I'll meet you there.","intent":{"goal":"meet_tommy_fo
+- 23:49 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat","count":1}],"say":"Tommy, I'm right beside you now and in view. Please give me the 2 wheat. I'm very hungry."}
+- 23:49 act: {"actions":[],"say":"Tommy, thank you, but no wheat is in my pack yet. Please hold it in your hand and use give, item wheat, count 2, to me.","intent":{"goal":"receive_tommy_wheat","program":"rest","a
+- 23:49 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Tommy, I'm in view and waiting, but still no wheat has reached me. I'm going southwest with Billy and Zack to look for sheep or cows. Give it t
+- 23:50 act: {"actions":[{"do":"goto","target":{"x":-290,"y":66,"z":350}}],"say":"Tommy, I can see you right now, I'm at -269,66,340. Please give the 2 wheat now, I'm not moving until I have it. Then I'll go south
+- 23:50 act: {"actions":[{"do":"goto","target":{"x":-312,"y":66,"z":368}}],"say":"Tommy, I can't see you from here. Keep the wheat; if you come near me in view, I'll take it.","intent":{"goal":"search_for_food_sou
+- 23:50 act: {"actions":[{"do":"goto","target":{"x":-305,"y":66,"z":335}}],"intent":{"goal":"search_for_food_west","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":335}},"wake_on":["goal_completed","d
+- 23:51 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"search_for_food_west","program":"travel","arguments":{"target":{"x":-305,"y":66,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_d
+- 23:53 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":375}}],"say":"Jason, Zack, Trini: I'm stuck in a pit at -305,67,335 but I'm heading to the sheep at -257,66,375 too. Wait for me there if you can
+- 23:54 act: {"actions":[{"do":"eat"}],"say":"Jason, Zack, Trini, I'm here at -257,66,375 and I'll wait. I have no food but 2 rotten flesh.","intent":{"goal":"hold_at_sheep_area_for_food","program":"rest","argumen
+- 23:55 say: {"text":"Hold on, all of you. I'm still here at the sheep spot. Dig out and come to me, and I'll look for the sheep too."}
+- 23:55 say: {"text":"Tommy, I can see you now, 2 blocks away. Drop the 2 wheat on the ground by me and I'll pick it up."}
+- 23:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Stepping over to you, Tommy."}
+- 23:56 act: {"actions":[],"say":"I'm next to you now, Tommy. Try the give again, the 2 wheat, to me."}
+- 23:56 say: {"text":"Tommy, thank you, but I'll let the wheat go, since the give keeps failing. Trini, I'm here with you. Let's look for sheep together, and I'll tell you when I see one."}
