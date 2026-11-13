@@ -855,3 +855,9 @@
 - 09:58 act: {"actions":[{"do":"goto","target":{"x":-314,"y":70,"z":326}}],"reasoning":"Dusk, an iron golem is 13 blocks east and closing. Move northwest, away from it."}
 - 09:58 act: {"actions":[{"do":"goto","target":{"x":-330,"y":74,"z":331}},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"reasoning":"Food is the priority. A cow is a
 - 09:59 act: {"actions":[{"do":"eat"}],"reasoning":"Got a beef. Eat it, though hunger is full; keep it for when hunger drops. Actually keep it, but log it."}
+- 09:59 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}],"reasoning":"A zombie is adjacent and hitting me. Health 17.7. Fight it."}
+- 10:00 act: {"actions":[{"do":"eat"}],"reasoning":"Hunger is falling and health does not regenerate while hunger is low. Eat one beef now."}
+- 10:02 act: {"actions":[{"do":"eat"}],"say":"Kimberly here, at -375,69,333 in the dark. Hurt, health 10, not sheltered. Staying low and quiet until dawn.","reasoning":"Health is low after an explosion. Eat beef t
+- 10:02 act: {"actions":[{"do":"eat"}],"reasoning":"Health is falling and hunger is 17. Try eating the beef again."}
+- 10:04 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-376,"y":68,"z":333}},{"do":"place","block":"dirt","at":{"x":-374,"y":68,"z":333}},{"do":"place","block":"dirt","at":{"x":-375,"y":68,"z":332}}],"rea
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":-370,"y":66,"z":322}}],"reasoning":"Health 4.9 and a skeleton is shooting from the southwest. Get out of its line of fire, north-east toward the pumpkin patch."}
