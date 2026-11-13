@@ -643,3 +643,10 @@
 - 04:05 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
 - 04:09 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
 - 04:13 act: {"intent":{"goal":"climb_out_by_digging","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":343}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world
+- 04:22 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"say":"Kimberl
+- 04:22 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Kimberly here, still at the bottom at -240,49,345, health 20. Thanks Zack and Tommy for the dirt. I'll stack up as it comes.","inte
+- 04:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of
+- 04:27 act: {"actions":[{"do":"mine","block":"stone","count":1},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Jason, we may be standing on the same block, which could be why placing fails. Can you step
+- 04:28 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"
+- 04:29 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":348}},{"do":"place","block":"dirt","at":"feet"}],"say":"Kimberly, still stuck at -238,50,347, healthy. Trying a different spot. 
+- 04:33 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-241,"y":69,"z
