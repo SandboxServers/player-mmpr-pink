@@ -851,3 +851,7 @@
 - 09:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"A villager is attacking me from the north. Flee south to the white beds and try sleep there."}
 - 09:47 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":347}}],"intent":{"goal":"find_food","program":"gather","arguments":{"block":"oak_log","count":1},"wake_on":["directly_addressed","precondition_fa
 - 09:47 act: {"actions":[{"do":"goto","target":{"x":-302,"y":68,"z":336}}],"reasoning":"Three iron golems are within 22 blocks to the east and south. Pull west, away from them."}
+- 09:49 act: {"actions":[],"say":"Zack, thank you, but no wheat has reached my pack yet. Jason, I'm at -302,72,336, too far to help with cobble, and golems are close. Tommy, you're nearer the rim; please help Jaso
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":-314,"y":70,"z":326}}],"reasoning":"Dusk, an iron golem is 13 blocks east and closing. Move northwest, away from it."}
+- 09:58 act: {"actions":[{"do":"goto","target":{"x":-330,"y":74,"z":331}},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"reasoning":"Food is the priority. A cow is a
+- 09:59 act: {"actions":[{"do":"eat"}],"reasoning":"Got a beef. Eat it, though hunger is full; keep it for when hunger drops. Actually keep it, but log it."}
