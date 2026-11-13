@@ -672,3 +672,5 @@
 - 05:26 act: {"intent":{"goal":"climb_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addresse
 - 05:28 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"try_climb_again","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damag
 - 05:39 act: {"intent":{"goal":"dirt_pillar_retry","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"l
+- 05:40 act: {"intent":{"goal":"shelter_cobble","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_wor
+- 05:45 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-238,"y":51,"z":347}},{"do":"place","block":"cobblestone","at":{"x":-237,"y":50,"z":347}}]}
