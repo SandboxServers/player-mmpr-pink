@@ -1223,3 +1223,13 @@
 - 16:17 act: {"actions":[{"do":"note","text":"Day 152 dusk: give wheat to Zack failed 3 times, no such agent in sight. Zack said he is at -203,61,350. Holding 2 wheat. Waiting for him to come into view."}],"say":"
 - 16:17 act: {"actions":[],"say":"Zack, I'll keep the wheat until you're in view. Night is close, so I'm walling myself in with dirt here.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blue
 - 16:17 act: {"actions":[],"say":"Zack, understood. I'll keep the wheat and wall in with cobblestone too. Sleep safe.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"wall","block"
+- 16:18 act: {"actions":[],"say":"Morning, Zack. I'm still holding your 2 wheat. Open a gap if you can see me and I'll hand it over. Billy, Jason is bringing you wheat.","reasoning":"Dawn. Zack is still sealed in.
+- 16:27 act: {"say":"Dawn. I'm heading to the farm for ripe wheat. Zack, I still have your 2 wheat; tell me where you are.","intent":{"goal":"reach_farm","program":"travel","arguments":{"target":{"x":-290,"y":69,"
+- 16:27 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":287}}],"say":"Morning, Zack. I'll wait here with your wheat. I'm going to the farm now.","intent":{"goal":"reach_farm","program":"travel","argume
+- 16:27 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, here is your wheat."}
+- 16:28 act: {"actions":[{"do":"unstick"}],"say":"Zack, I can't see you from here. I'm trying to get out so I can hand you the wheat."}
+- 16:28 act: {"say":"Billy, I see you. Jason is bringing you wheat. I'm holding Zack's 2 wheat until I can find him, then I'll go to the farm for more food.","intent":{"goal":"reach_farm","program":"travel","argum
+- 16:28 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}]}
+- 16:28 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm at the edge, right above your pit. Here is your wheat."}
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-204,"y":63,"z":349}},{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I moved closer to the hole. Handing over the wheat now."}
+- 16:28 act: {"say":"Zack, I'm boxed in by stone and can't move closer, and I can't drop items into the hole. I'm keeping your 2 wheat safe until I can reach you. Dig a path up toward me if you can.","actions":[{"
