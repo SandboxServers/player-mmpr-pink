@@ -652,3 +652,9 @@
 - 04:33 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"travel","arguments":{"target":{"x":-241,"y":69,"z
 - 04:45 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"intent":{"goal":"climb_out_of_pit","program":"
 - 04:49 say: {"text":"Kimberly, still at -238,51,346, health 20. Placing at my feet keeps being blocked, so I'm waiting before trying again. Anyone who gets clear, shout."}
+- 04:51 act: {"actions":[{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"}],"reasoning":"Pit stuck for a long time. Unstick then try placing again to climb.","say":"Kimberly, still in the pit at -2
+- 04:51 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Unstick raised me a block. Keep stacking at feet and unstick betwe
+- 04:51 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":{"x":-238,"y":49,"z":348}},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning"
+- 04:52 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"goto","target":{"x":-238,"y":51,"z":348}}],"reasoning":"Mining stone walls to open a path, as Jason is doing.","say":"Kimber
+- 04:52 act: {"actions":[{"do":"mine","block":"stone","count":3},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Mining worked before, so keep opening side cells and try to place in
+- 04:52 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Mine then try to climb. Placing is blocked but mining works."}
