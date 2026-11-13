@@ -1164,3 +1164,18 @@
 - 15:33 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":288}}],"reasoning":"Path looks open now. Head for the farm."}
 - 15:34 act: {"actions":[{"do":"goto","target":{"x":-288,"y":69,"z":288}}],"reasoning":"Keep stepping toward the farm."}
 - 15:38 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Dusk, not enclosed. Try sealing a cobblestone block under me and hold in the pit for the night."}
+- 15:42 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-198,"y":66,"z":354}},{"do":"place","block":"cobblestone","at":{"x":-197,"y":65,"z":354}},{"do":"place","block":"cobblestone","at":{"x":-199,"
+- 15:42 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-198,"y":66,"z":354}},{"do":"place","block":"cobblestone","at":{"x":-198,"y":65,"z":353}},{"do":"place","block":"dirt","at":{"x":-197,"y":65,"
+- 15:47 act: {"actions":[{"do":"goto","target":{"x":-290,"y":69,"z":287}}],"say":"Morning. I'm at -198,65,354, still in my pit. Zack, I'll dig to you next, then food at the farm.","reasoning":"Daylight, hunger ful
+- 15:47 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}],"reasoning":"Goto stalled after one step up. Unstick first to clear the pit wall, then retry the farm goto once.","intent
+- 15:48 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-199,"y":62,"z":352}}],"say":"Zack, I'm digging toward you now from the north-east. Hold on.","reasoning":"Goto to the far
+- 15:48 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm right beside you now at -200,62,353. I'm sending my 2 wheat; I'll get more at the farm. Thank you for the seeds."
+- 15:49 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, my give keeps failing, so I'm moving next to you to hand the wheat over by hand. I'll also take the seeds on the ground.","reasoning":"Giv
+- 15:49 act: {"say":"Zack, I can't hand items to you right now; the give keeps failing. I'm keeping my 2 wheat for now and I'll go to the farm for ripe wheat and bring you some. Stay sealed for now.","reasoning":"
+- 15:49 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Goto to the farm fails from this pit. Pillar up with the technique that worked before, then retry the trip."
+- 15:49 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"
+- 15:52 act: {"say":"Zack, Tommy is heading to the farm too. I have 2 wheat and 8 seeds; I'm going to the farm and will bring food back.","intent":{"goal":"reach_farm_food","program":"travel","arguments":{"target"
+- 15:52 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"intent":{"goal":"reach_farm_food","program":"travel","
+- 15:52 act: {"say":"Jason, I'm stuck on a stone column at -201,66,355 among logs, still trying to get down toward the fence field. I'll bring my 2 wheat to whoever is nearest once I'm free.","intent":{"goal":"rea
+- 15:52 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"oak_log","count":3}],"reasoning":"Skill says unstick first, no blocks needed. If it fails, mine the logs boxing me in (three of them) to open a way."
+- 15:52 act: {"say":"Billy, Tommy: I'm free of the log column now, at -201,64,353, heading to the fence field with my 2 wheat.","intent":{"goal":"reach_fence_field","program":"travel","arguments":{"target":{"x":-2
