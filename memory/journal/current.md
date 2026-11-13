@@ -691,3 +691,4 @@
 - 06:12 act: {"intent":{"goal":"shelter_cobblestone_again","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits
 - 06:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":342}}],"say":"Kimberly: trying Billy's way out. Dirt under my feet, unstick, then nort
 - 06:15 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-237,"y":51,"z":342}}],"reasoning":"Place was blocked. Free myself, clear stone to the north, and step t
+- 06:20 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Kimberly: dirt at feet and unstick, one level up.","reasoning":"Billy reports each dirt-then-unstick raises one level. Re
