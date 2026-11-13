@@ -1003,3 +1003,6 @@
 - 12:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":64,"z":349}}],"reasoning":"Worker is stuck; try a single short step east after unstick.","say":"Worker could not move. I'm trying a sho
 - 12:59 act: {"intent":{"goal":"wall_here","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,
 - 13:09 act: {"intent":{"goal":"wall_day","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,"
+- 13:15 act: {"say":"Still on the dry patch, not enclosed. Trying a dirt wall around me before dark gets worse.","intent":{"goal":"wall_dirt_shelter","program":"build","arguments":{"blueprint":"wall","block":"dirt
+- 13:19 act: {"say":"Night is here and I'm still open to the sky. Trying to place dirt by hand, one block to my east.","actions":[{"do":"place","block":"dirt","at":{"x":-243,"y":64,"z":349}}]}
+- 13:19 act: {"say":"Hand placing works. Walling myself in with dirt for the night.","actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":349}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":3
