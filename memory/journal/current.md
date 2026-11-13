@@ -667,3 +667,7 @@
 - 05:07 act: {"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":600,"max_block_operat
 - 05:10 say: {"text":"Thanks Trini. I'm still in the pit at -238,50,347, stacking whatever I can. I'll shout when I'm clear."}
 - 05:17 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"wait","seconds":5}],"intent":{"goal":"climb_out_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wak
+- 05:24 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addres
+- 05:24 act: {"intent":{"goal":"shelter_for_night_retry","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
+- 05:26 act: {"intent":{"goal":"climb_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addresse
+- 05:28 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"try_climb_again","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damag
