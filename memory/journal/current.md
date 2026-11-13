@@ -1351,3 +1351,8 @@
 - 18:37 act: {"intent":{"goal":"return_to_beds_for_beef","program":"travel","arguments":{"x":-264,"y":67,"z":355},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2
 - 18:37 act: {"actions":[{"do":"eat"}],"say":"I have 4 beef from the cows west of the beds. I'll share with Trini and Billy once you're near."}
 - 18:37 act: {"actions":[],"say":"Trini, I have 3 beef left. I'll hold them for Billy and whoever is hungry near the beds."}
+- 18:38 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beef","count":1}],"say":"Billy, here is a beef. Eat well.","reasoning":"Billy is in reach and hungry; I have three beef. Giving one keeps two for ot
+- 18:38 act: {"actions":[],"say":"Billy, my give did not reach you. I still have three beef. Tell me when you are ready to take one, or go to Trini first.","reasoning":"Give failed; hand-off did not happen. Let Bi
+- 18:39 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"beef","count":1}],"say":"Billy, one beef coming to you now.","reasoning":"Billy says he is ready and beside me. Retry the give once, now that he has
+- 18:39 act: {"actions":[],"say":"Billy, the beef would not go to you twice; your side did not take it. Zack and Tommy, I still have three beef here by the yellow bed, north of me. Come to me and I will hand one t
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}],"reasoning":"Night, bed three blocks north. Keep three beef for Jason, Tommy, Zack in the morning. Sleep after moving to th
