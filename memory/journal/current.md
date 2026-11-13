@@ -924,3 +924,6 @@
 - 11:15 act: {"actions":[],"say":"Kimberly here, out of the water on oak planks by the beds. Trini, my potatoes seem to be gone from my pack, so I may have dropped them in the water.","reasoning":"On dry land with
 - 11:15 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}}],"say":"The potatoes were lost in the water, my pack is empty. I'm moving away from the golem toward the beds now.","intent":{"goal":"reach
 - 11:16 act: {"say":"I'm on dry stone at -244,63,346. The potatoes were lost in the water, so I have none left. The golem is out of sight."}
+- 11:16 act: {"say":"Tommy, I have no potatoes. I'm sending someone to look for food now.","reasoning":"Empty inventory, no food. Errand sent to worker for food. Waiting for its report before moving.","intent":{"g
+- 11:16 act: {"actions":[{"do":"goto","target":{"x":-242,"y":63,"z":345}}],"say":"Kimberly here. I have no food. Checking the ground near the beds for dropped potatoes."}
+- 11:16 act: {"actions":[{"do":"note","text":"Errand failed: no food found. Still on stone island at -244,63,346, water on all sides; goto to land did not move me."}]}
