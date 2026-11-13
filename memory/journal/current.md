@@ -730,3 +730,4 @@
 - 06:56 act: {"actions":[],"say":"Tommy, I only carry oak planks, no dirt or cobblestone. I'm at the rim, about 10 blocks above you, so I can't reach. Zack has cobblestone; Zack, please send Tommy 3."}
 - 07:00 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Shelter build did not start. A yellow bed sits 7 blocks NW at -241,69,344. Go there to sleep."}
+- 07:05 act: {"say":"Kimberly on the rim. I only have oak planks, 26 of them. Tommy, Billy, Jason: if planks help, say so and I'll come to the edge.","reasoning":"Nothing in reach to give to. Tell the pit folk wha
