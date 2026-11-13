@@ -522,3 +522,11 @@
 - 23:57 act: {"actions":[{"do":"unstick"},{"do":"place","block":"dirt","at":"feet"}],"say":"Still boxed in at dusk. Trying to get enclosed; if you're near, please tell me which side is open."}
 - 23:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-228,"y":61,"z":348}}]}
 - 23:57 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-227,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-229,"y":60,"z":348}},{"do":"place","block":"dirt","at":{"x":-228,"y":60,"z":347}},{"do"
+- 00:06 act: {"intent":{"goal":"gather_wood_morning","program":"gather","arguments":{"block":"birch_log","count":8},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks
+- 00:06 act: {"actions":[{"do":"unstick"}],"say":"The wood I was after is out of reach from here. I'll look for trees."}
+- 00:06 act: {"actions":[{"do":"mine","block":"dirt","count":3}]}
+- 00:06 act: {"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"x":182,"y":66,"z":236},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":6000,"m
+- 00:07 act: {"actions":[{"do":"goto","target":{"x":-226,"y":60,"z":349}},{"do":"goto","target":{"x":-222,"y":60,"z":352}}]}
+- 00:07 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"dirt","count":4},{"do":"unstick"}]}
+- 00:07 act: {"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"x":182,"y":66,"z":236},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":8000,"m
+- 00:11 act: {"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"x":182,"y":66,"z":236},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":8000,"m
