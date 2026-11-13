@@ -991,3 +991,15 @@
 - 12:55 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a dirt pit. Freeing myself, then I'll look for food.","reasoning":"Worker is walled in; unstick first, then find animals."}
 - 12:55 act: {"intent":{"goal":"reach_dry_ground_northeast","program":"travel","arguments":{"target":{"x":-235,"y":66,"z":340}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":2400,"
 - 12:55 act: {"actions":[{"do":"goto","target":{"x":-241,"y":66,"z":342}}],"reasoning":"Short move north to get clear of the water and look for animals."}
+- 12:57 act: {"actions":[{"do":"mine","block":"dirt","count":12}],"intent":{"goal":"gather_dirt_for_shelter","program":"gather","arguments":{"block":"dirt","count":12},"wake_on":["goal_completed","unexpected_damag
+- 12:57 say: {"text":"Kimberly here. No food on me, hunger 20. Building a dirt shelter for the night here at -245,65,348, then I'll sleep."}
+- 12:57 act: {"actions":[{"do":"mine","block":"dirt","count":10}]}
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-245,"y":65,"z":348}}],"intent":{"goal":"gather_dirt_for_shelter_retry","program":"gather","arguments":{"block":"dirt","count":6},"wake_on":["goal_completed","un
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-241,"y":66,"z":354}}],"reasoning":"Errand step 1: move to dry ground north-east, away from water. I am in water at -245,57,350 with low air."}
+- 12:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":66,"z":354}}],"reasoning":"Still in the water column at -245,62,350. Unstick, then retry the goto toward dry ground to the north-east."
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-240,"y":64,"z":346}},{"do":"mine","block":"dirt","count":2}],"reasoning":"Move east away from water, then top up dirt to 23."}
+- 12:58 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-240,"y":64,"z":346}}],"reasoning":"The goto got stuck with no movement; unstick then retry."}
+- 12:58 act: {"actions":[{"do":"goto","target":{"x":-238,"y":64,"z":349}}],"reasoning":"Position unchanged after goto; try a farther eastward target once."}
+- 12:59 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-242,"y":64,"z":349}}],"reasoning":"Worker is stuck; try a single short step east after unstick.","say":"Worker could not move. I'm trying a sho
+- 12:59 act: {"intent":{"goal":"wall_here","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,
+- 13:09 act: {"intent":{"goal":"wall_day","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,"
