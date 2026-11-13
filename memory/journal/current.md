@@ -692,3 +692,9 @@
 - 06:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"},{"do":"goto","target":{"x":-237,"y":52,"z":342}}],"say":"Kimberly: trying Billy's way out. Dirt under my feet, unstick, then nort
 - 06:15 act: {"actions":[{"do":"unstick"},{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-237,"y":51,"z":342}}],"reasoning":"Place was blocked. Free myself, clear stone to the north, and step t
 - 06:20 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Kimberly: dirt at feet and unstick, one level up.","reasoning":"Billy reports each dirt-then-unstick raises one level. Re
+- 06:24 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Pit escape: stack dirt at feet, then unstick. Check result after.","say":"Still in the pit. Trying to climb out wit
+- 06:24 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Keep stacking blocks at feet and unstickin
+- 06:24 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"cobblestone"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
+- 06:26 act: {"say":"Jason: place a block at my feet, then unstick, and repeat. Each cycle lifts me one block. Works for me.","actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"},{"do":"pla
+- 06:27 act: {"say":"Billy: I'm out and standing on stone at -237,50,344. I did not need to move first. Place dirt at feet, then unstick, and repeat. If it fails, try cobblestone. I have spare cobblestone if you n
+- 06:27 act: {"actions":[{"do":"note","text":"Day 123 dawn: escaped pit at -237,50,344 by placing cobblestone at feet then unstick, repeated. Now out. Shelter build started; giving help to Billy and Jason."}],"int
