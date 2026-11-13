@@ -1233,3 +1233,10 @@
 - 16:28 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm at the edge, right above your pit. Here is your wheat."}
 - 16:28 act: {"actions":[{"do":"goto","target":{"x":-204,"y":63,"z":349}},{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I moved closer to the hole. Handing over the wheat now."}
 - 16:28 act: {"say":"Zack, I'm boxed in by stone and can't move closer, and I can't drop items into the hole. I'm keeping your 2 wheat safe until I can reach you. Dig a path up toward me if you can.","actions":[{"
+- 16:33 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}]}
+- 16:36 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, I'm right here at -202,63,351. Sending your wheat now."}
+- 16:36 act: {"say":"Zack, I can't see you from up here; I'm at -202,63,351 on the dirt. Come up next to me on the grass and I'll give the wheat right away."}
+- 16:37 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wheat","count":2}],"say":"Zack, you're in reach now. Here's your 2 wheat."}
+- 16:37 act: {"say":"Zack, did my wheat reach you? My pack no longer shows it. Tell me if you have it."}
+- 16:38 act: {"say":"Zack, I'm sorry. My 2 wheat is gone from my pack and I can't find it on the ground. I don't know where it went. I still have 8 wheat seeds and 19 dirt. I'll go to the farm for ripe wheat and b
+- 16:38 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-290,"y":69,"z":287}}],"say":"Zack, Billy, I have no food on me. I'm going to the farm for ripe wheat and will come back.","intent":{"goal":"rea
