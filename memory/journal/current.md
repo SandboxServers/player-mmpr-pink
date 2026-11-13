@@ -975,3 +975,6 @@
 - 12:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Side placements were blocked. Climb higher by stacking under me, then check enclosure."}
 - 12:19 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Stack up again to get out of the pit's floor level."}
 - 12:19 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-243,"y":66,"z":345}},{"do"
+- 12:27 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-242,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":66,"z":346}},{"do":"place","block":"dirt","at":{"x":-243,"y":66,"z":345}},{"do"
+- 12:31 say: {"text":"Jason, I still have your potato. I'm at -243,66,346, but I can't reach you from here. Tell me where you are."}
+- 12:36 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-245,"y":64,"z":346}},{"do":"place","block":"dirt","at":{"x":-244,"y":64,"z":345}},{"do":"place","block":"cobblestone","at":{"x":-244,"y":64,"z":347}
