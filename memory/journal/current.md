@@ -749,3 +749,7 @@
 - 07:32 say: {"text":"Jason, Tommy: my path west is blocked, so I can't reach your shaft yet. I'm looking for a way around, and I'll drop dirt the moment I'm in range."}
 - 07:34 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":58,"z":348}},{"do":"place","block":"oak_planks","at":{"x":-237,"y":58,"z":348}}],"say":"Billy, trying dirt and planks at -237,58,348 now. If
 - 07:34 say: {"text":"Billy, my drops at -237,58,348 timed out; I'm too far from your shaft. Zack and Trini, whoever is nearest the shaft, please drop dirt onto Billy and Jason."}
+- 07:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-237,"y":58,"z":348}},{"do":"place","block":"dirt","at":{"x":-239,"y":49,"z":344}}],"say":"Billy, Jason: I'm on the rim at -230,62,346 and trying to 
+- 07:39 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":4}],"say":"Jason, Tommy: I'm sending 4 dirt your way. Stack up with it.","reasoning":"Placement failed; try give to Jason by name."}
+- 07:39 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 07:39 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpect
