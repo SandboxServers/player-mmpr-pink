@@ -871,3 +871,6 @@
 - 10:16 act: {"actions":[{"do":"goto","target":{"x":-236,"y":69,"z":346}}],"say":"Coming to you now, Jason. No golem in sight at the moment.","reasoning":"Jason has the potatoes and is stuck. The golem is out of v
 - 10:16 act: {"actions":[],"say":"Jason, I'm at -236,68,346 now. I don't see you nearby. Can you hand me the potatoes?","reasoning":"I reached the spot but Jason is not in my view. Tell him where I am and wait for
 - 10:18 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"say":"It's getting dark. I'm going to the beds by Zack to try to sleep. Jason, the potatoes can wait until morning.","reas
+- 10:19 act: {"say":"Jason, I'm at the beds, -240,69,344. Bring the potatoes here, and I'll stay put.","intent":{"goal":"await_potatoes","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_
+- 10:43 act: {"say":"Thank you, Zack. I'll take the wheat, and I'm staying sheltered until dawn.","actions":[{"do":"wait","seconds":60}],"intent":{"goal":"await_dawn_food","program":"rest","arguments":{"reason":"s
+- 10:45 act: {"say":"Jason, I don't see the potatoes in my pack. Where did you leave them? I'm enclosed in the beds shelter.","actions":[{"do":"wait","seconds":30}],"intent":{"goal":"await_potatoes_at_beds","progr
