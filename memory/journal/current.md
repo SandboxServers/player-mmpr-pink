@@ -731,3 +731,11 @@
 - 07:00 act: {"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}}],"reasoning":"Shelter build did not start. A yellow bed sits 7 blocks NW at -241,69,344. Go there to sleep."}
 - 07:05 act: {"say":"Kimberly on the rim. I only have oak planks, 26 of them. Tommy, Billy, Jason: if planks help, say so and I'll come to the edge.","reasoning":"Nothing in reach to give to. Tell the pit folk wha
+- 07:10 act: {"intent":{"goal":"reach_zack_pit_edge","program":"travel","arguments":{"x":-231,"y":69,"z":346},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":600,"
+- 07:11 act: {"say":"Zack, I'm on the rim with 26 oak planks. I'm walking toward the edge above you. Tell me exactly where to drop them.","actions":[{"do":"goto","target":{"x":-232,"y":69,"z":345}}],"reasoning":"P
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-229,"y":68,"z":346}},{"do":"place","block":"oak_planks","at":{"x":-229,"y":57,"z":346}}],"reasoning":"Zack asked for 4 planks dropped into his pit at -229,57,34
+- 07:12 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-229,"y":61,"z":346}},{"do":"place","block":"oak_planks","at":{"x":-229,"y":60,"z":346}}],"reasoning":"Place planks down the shaft toward Zack'
+- 07:12 act: {"say":"Zack, my drops into the shaft are not landing; the way is blocked from up here. Trini has dirt and is closer. I still have 26 planks if you can climb to a spot I can reach.","actions":[{"do":"
+- 07:19 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-230,"y":57,"z":351}}],"say":"Zack, I'm at -230,62,346 and can't reach your feet from here. Trini is closest, so Trini, drop what you can. I'll
+- 07:19 act: {"say":"Zack, Trini's right: I'm too high to reach your feet. Climb to y60 or closer to the rim and I'll drop planks right onto you.","actions":[]}
+- 07:23 act: {"actions":[{"do":"goto","target":{"x":-230,"y":62,"z":349}},{"do":"place","block":"oak_planks","at":{"x":-230,"y":59,"z":351}}],"say":"Zack, I'm moving closer to your shaft. I'll try to place planks 
