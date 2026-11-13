@@ -561,3 +561,15 @@
 - 01:14 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":5}],"say":"Billy, I'm stacking dirt under my feet. Dig me a step beside me when you can.","reasoning":"Stuck in a pit; stac
 - 01:15 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"wait","seconds":5}],"say":"Tommy, I'm at -223,59,349 in the pit. Dig from the north side toward me. I'm stacking dirt meanwhile.","reasonin
 - 01:25 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Tommy, I'm still at -223,59,349 on stone, not moving. Please dig me a step to the north or east.","reasoning":"Dawn. Still stuck; asking T
+- 01:33 act: {"say":"Tommy, I'm at -223,59,349 on stone. Dig toward me from the west and I'll stay put. I have 63 dirt if you need it.","intent":{"goal":"wait_for_dig_out","program":"rest","arguments":{},"wake_on"
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":-222,"y":60,"z":349}},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Thank you, Tommy. I'm picking up the cobblestone and stacking it under me."}
+- 01:33 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":"feet"}],"say":"Tommy, I have 13 cobblestone and I'm stacking under me. Tell me when the stone ope
+- 01:34 act: {"actions":[{"do":"mine","block":"stone","count":2}],"say":"Tommy, I'll try to mine out myself too, and I'll keep stacking. Stay safe."}
+- 01:46 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"Morning. I'm still in the pit at -223,59,349 with full health. Tommy, dig from the north when the stone opens."}
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":-224,"y":59,"z":347}}],"say":"Tommy, I'm trying to reach you at -224,59,347 now."}
+- 01:47 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"say":"I'm at -224,59,348, next to you Tommy. Trying to stack up now."}
+- 01:51 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}]}
+- 01:51 act: {"actions":[{"do":"place","block":"cobblestone","at":{"x":-224,"y":60,"z":347}}],"say":"Jason, Billy, Tommy: I'm still in the pit at -224,59,348, full health. I have 62 dirt and 12 cobblestone if anyo
+- 01:51 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"Tommy, Jason, Billy: the block at my north is placed. I'm stacking up to climb out. Dirt and cobblestone are on me if you need them.","int
+- 01:55 say: {"text":"Jason, I have 11 cobblestone and 62 dirt. Tell me when you're close and I'll hand them over or place them to help you reach me."}
+- 01:56 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"dirt","count":15}],"say":"Jason, sending you 15 dirt now. Stay safe."}
