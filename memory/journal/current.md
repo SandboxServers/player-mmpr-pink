@@ -1615,3 +1615,22 @@
 - 22:57 say: {"text":"I have 8 planks ready. Billy, tell me the exact gap and I'll place them there."}
 - 22:58 say: {"text":"Morning. I slept inside the wall. I'm hungry too, so I'm going west with Billy and the group to look for sheep or cows. Billy, which way first?"}
 - 22:59 say: {"text":"Correction: my sleep failed (no bed), so it is still dusk, not morning. The wall is still open. Billy, Trini: name the exact open square and I'll place a plank there."}
+- 23:00 act: {"say":"Dan here, I'm still at -396, 68, 334 with 8 planks. Billy, Trini, tell me the exact square still open and I'll place one there.","intent":{"goal":"hold_shelter_till_light","program":"rest","ar
+- 23:01 say: {"text":"Kimberly here, at -396, 68, 334. My view shows solid walls all round me except one gap at level height, which I cannot see behind me. Jason, Billy, which square is still open? I have 8 planks
+- 23:01 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-396,"y":68,"z":333}}],"say":"Trying a plank on the north square at -396, 68, 333, as Billy suggested. If it says occupied, that square is clos
+- 23:01 say: {"text":"Kimberly: the north square at -396, 68, 333 is occupied, so my placement there failed. Still not sure where the gap is. I am holding my planks and staying put until someone names the open squ
+- 23:10 act: {"say":"Kimberly: yes Billy, I'm coming southwest with you. Going out of the north line now, I have 8 planks and 1 rotten flesh for food.","actions":[{"do":"goto","target":{"x":-400,"y":68,"z":338}}],
+- 23:10 act: {"actions":[{"do":"unstick"}]}
+- 23:10 act: {"actions":[{"do":"mine","block":"dirt","count":2},{"do":"goto","target":{"x":-397,"y":68,"z":334}}],"say":"Billy, I'm boxed in with only dirt and stone around me. I'm digging out through the dirt to 
+- 23:10 say: {"text":"Kimberly: I'm out of the wall at -397, 68, 334. Billy, where are you? I'll follow your lead southwest for food."}
+- 23:11 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"intent":{"goal":"join_group_food_search","program":"travel","arguments":{"x":-419,"y":68,"z":349},"wake_on":["directly_addressed","unexpected_damage"
+- 23:12 act: {"actions":[{"do":"goto","target":{"x":-419,"y":68,"z":349}}],"say":"Heading to Billy at -419,68,349. Looking for food with you.","intent":{"goal":"reach_billy_group","program":"travel","arguments":{"
+- 23:12 act: {"say":"Agreed, Zack. I'm with the group. Billy, I'll follow you southwest. I have 2 rotten flesh.","intent":{"goal":"follow_group_for_food","program":"follow","arguments":{"target":"ag_billy_01"},"wa
+- 23:12 act: {"say":"Yes, wall in together. I'm at -418,68,349 with 8 oak planks, 3 dirt and 2 cobblestone. I'll help close the wall.","actions":[{"do":"goto","target":{"x":-418,"y":68,"z":349}}]}
+- 23:13 act: {"say":"Coming to you, Billy.","intent":{"goal":"join_billy_shelter","program":"travel","arguments":{"target":{"x":-432,"y":68,"z":348}},"wake_on":["directly_addressed","unexpected_damage","goal_compl
+- 23:13 say: {"text":"I'm at -430,68,348, enclosed by stone on every side. I'll stay here and not dig out. Zack, place your dirt on the open side if you find one."}
+- 23:16 say: {"text":"Jason, I'm very hungry at 17 with health 4.4. If you can spare the second bread, please give it to me."}
+- 23:16 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. Eating it now."}
+- 23:16 say: {"text":"Jason, I have no bread yet, my eat failed. I'm at -430,68,350 in stone beside Zack. Please dig to me with the bread and I'll eat."}
+- 23:18 act: {"actions":[{"do":"eat"}]}
+- 23:23 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-431,"y":68,"z":350}}]}
