@@ -539,3 +539,15 @@
 - 00:25 act: {"actions":[{"do":"mine","block":"stone","count":2},{"do":"goto","target":{"x":-221,"y":60,"z":347}}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":182,"y":66,"z":
 - 00:27 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-224,"y":59,"z":347}},{"do":"goto","target":{"x":-222,"y":59,"z":346}},{"do":"goto","target":{"x":-221,"y":59,"z":348}},{"do":"goto","target":{"
 - 00:27 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"target":{"x":182,"y":66,"z":236}},"wake_on":["goal_completed","directly_addressed","unexpected_damag
+- 00:35 act: {"reasoning":"Stuck in a stone pit. Tommy walked out east. Try walking out with goto toward the birch grove, then continue.","say":"Trying to walk out of the pit toward the birch grove to the northeas
+- 00:37 act: {"reasoning":"Goto was blocked by pit walls. Try mining stone (cobblestone for stairs-like steps is not available). Place dirt under me to build up, then goto up.","actions":[{"do":"mine","block":"sto
+- 00:38 act: {"reasoning":"Mined 2 stone, got cobblestone. Now try a dirt pillar upward, then step out.","actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"goto","target":{"x":-221,"y":60,"z":347}},{"do":
+- 00:39 act: {"reasoning":"Billy says head northeast out of the pit. Mining works here, so dig a sideways exit and step out.","say":"Thanks Billy. I'm digging out sideways now.","actions":[{"do":"mine","block":"st
+- 00:40 act: {"reasoning":"View shows I am boxed in by birch planks on all sides. Mine through the planks.","actions":[{"do":"mine","block":"birch_planks","count":2},{"do":"goto","target":{"x":-221,"y":60,"z":347}
+- 00:41 act: {"reasoning":"Got a birch plank out, so the walls are breakable. Keep mining planks to open a path northeast.","actions":[{"do":"mine","block":"birch_planks","count":3},{"do":"goto","target":{"x":-219
+- 00:42 act: {"reasoning":"Moved one block. Keep digging through the plank walls toward the northeast.","actions":[{"do":"mine","block":"birch_planks","count":4},{"do":"goto","target":{"x":-220,"y":60,"z":345}},{"
+- 00:43 act: {"reasoning":"Walls are opening. Set travel to the birch grove again.","intent":{"goal":"reach_birch_grove","program":"travel","arguments":{"x":182,"y":66,"z":236},"wake_on":["goal_completed","precond
+- 00:47 act: {"reasoning":"It is day. Billy says the beds are at (-282,69,371). Walk out of the pit toward them, then decide.","say":"Morning. I'm heading out toward Billy's beds.","intent":{"goal":"reach_beds","p
+- 00:51 act: {"reasoning":"Intent was rejected on schema. Use a plain goto toward the beds instead.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}]}
+- 00:51 act: {"reasoning":"Moving again, now four blocks west. Keep stepping toward the beds.","actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"unstick"},{"do":"goto","target":{"x":-283,"y":69,"z
+- 00:54 act: {"reasoning":"I am stuck too, at the pit's bottom. Mining stone has worked for me before. Try again to the west, then tell Tommy what I learned.","say":"Tommy, I'm stuck in this pit too. Mining stone 
