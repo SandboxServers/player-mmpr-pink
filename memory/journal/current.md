@@ -2,5 +2,37 @@
 - Night of day 232, at the white bed -271,67,336 with the group. Health 20, hunger 20, no food. Sleep refused, then "sleep worked" but night stayed. Staying put by the bed and trying again once the bows quiet.
 - 19:08 act: {"actions":[{"do":"sleep"}]}
 - Dawn of day 233 (sleep worked). No food. Walked west to -290,336 to look for animals; a golem came close and the sun set again, so I am heading back to the beds at -271,336. Hunger 20, health 20.
+- Dawn of day 233, back at the beds. Jason hunger 14, Billy 16 and both are searching west. I'm at 20, so I'm staying by the beds and will share any meat with Billy then Jason.
 - 19:08 act: {"say":"Morning. Health 20, hunger 20. I'm still at the white bed. Billy, I'll look for meat on the grass to the west, and any animal I find goes to you first.","intent":{"goal":"search_food_near_camp
 - 19:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed","une
+- Day 233 daytime: Tommy has 3 porkchop at the beds, queued Billy, Jason, Worf. I have no food and hunger 20, so I stay at the bed and watch the south.
+- 19:09 act: {"say":"Morning. I'm still at 20 hunger, so the food goes to Jason and Billy first. I'll stay by the beds and watch the south side for golems."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Kimberly at the white bed, hunger 20, no food. Billy and Jason first for the porkchop, then Worf. Tommy, I'll stay here and watch t
+- Dusk of day 233 at the white bed -272,67,336. Declined the porkchop and mutton (hunger 20). Sleep refused: "not night" yet. Waiting for dark, then sleep here.
+- Night of day 233 at the white bed. Sleep refused: "monsters nearby" (golems to the south, 19 blocks). Billy and Wesley are with me; Billy respawned with nothing after phantoms. Data holds mutton for Billy. Hunger 20, no food. Waiting, then retrying sleep.
+- 19:17 act: {"actions":[],"say":"Jason, keep it for Worf or Picard, not me. My hunger is 20. I'm at the white bed and no food is in my pack."}
+- 19:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm at the white bed with hunger 20, so Data's mutton goes to Billy and Jason. I'm going to sleep here."}
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Billy, Data is holding mutton for you, tell him where you are. I have no food. Sleeping here at the white bed."}
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. I have no food, and Billy gets the meat first if it comes."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beds at the white block are full. I'm going to the white beds at -270,318 to sleep."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy, Jason: I'm at the bed at -270,318 with hunger 20. Mutton goes to you two first. Sleeping now."}
+- 19:24 Night of day 233: queued goto to bed -270,67,318 and sleep. Hunger 20, health 20, no food. Mutton to Billy and Jason first.
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep search timed out. Trying the bed at -271,318 now."}
+- Night of day 233: sleep failed three times (beds occupied, search timed out, bows drawn to the SE/N). Hunger 20, health 20, no food. Standing by the bed at -270,67,318 until morning; mutton goes to Billy/Jason.
+- Dawn of day 234: woke at the white bed -270,318, hunger 20, no food. Billy gave Jason 2 mutton; Billy holds 1 for the lowest. Scouting east for animals or apples, travel to -245,318.
+- Day 234 morning: reached -246,318. No animals in sight east, only oak trees. Hunger 20. Heading north-east to -222,305 to look further.
+- Day 234 morning at -224,310: no animals found. Mined oak leaves for apples; got one oak sapling, no apples. Hunger 20. Going back to the white beds at -270,318.
+- Back at the white bed -270,67,318. Hunger 20, no food; Billy beside me. Waiting for dusk to sleep here.
+- Dusk of day 234: sleep "worked" but the night had not come. Night now; trying sleep again at -270,318. Hunger 20, no food; Billy has mutton for Tommy.
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. Beds are crowded, so I'm trying the bed at -270,336 beside me. Hunger 20, no food. Mutton stays with Billy an
+- 19:25 act: {"actions":[],"say":"Beds here are occupied, so I'm standing by the bed at -270,318 and staying put until morning. Jason, Billy, mutton is yours."}
+- 19:26 act: {"actions":[],"say":"Kimberly here, hunger 20, no food. Billy, eat the mutton if you're hungry; I'm full enough to wait. We'll look for food at first light."}
+- 19:30 act: {"intent":{"goal":"scout_east_for_food","program":"travel","arguments":{"target":{"x":-245,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:31 act: {"intent":{"goal":"scout_northeast_for_animals","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 19:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Nothing edible east. Breaking some oak leaves here to see if apples drop. Heading back to camp after."}
+- 19:31 act: {"intent":{"goal":"return_to_camp_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:31 act: {"say":"Back at the white bed, hunger 20, no food; I only found oak leaves east. Billy, you're next for any meat. I'll sleep here at dusk.","intent":{"goal":"wait_for_dusk_then_sleep","program":"rest"
+- 19:31 act: {"intent":{"goal":"rest_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_oper
+- 19:35 act: {"say":"Kimberly here at the white bed, hunger 20, no food. Billy, give Tommy the mutton when he reaches you. I'll keep watch here and sleep at dusk."}
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, no food. Sleeping at the white bed -270,318. Tommy gets Billy's mutton first."}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
