@@ -99,3 +99,9 @@
 - 16:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed"
 - 16:24 act: {"actions":[{"do":"sleep"}],"say":"I'm at the white bed now, going to sleep. Meat to me first at first light, thank you Tommy."}
 - 16:25 act: {"intent":{"goal":"hold_safe_until_first_light","program":"rest","arguments":{"near":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 16:27 say: {"text":"Kimberly here, near -281, 70, 309. I have no food. Is anyone close by with meat or bread?"}
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":300}}]}
+- 16:28 say: {"text":"Thank you, Billy and Tommy. I'm heading to the group spot near -270, 68, 300 to meet you. Still no food."}
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 16:28 act: {"say":"Kimberly at the white bed, -270,67,318, daylight. Health 8.7, hunger 16, no food. Billy, I'm here. Let's scout the dry grass within sight; any animal goes to me first.","actions":[]}
+- 16:30 say: {"text":"Thank you all. I'm holding at the white bed, -270, 67, 318, in sight of Tommy. Any meat, bring it here."}
