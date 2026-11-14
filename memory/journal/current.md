@@ -15,3 +15,13 @@
 - 09:32 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":322}}],"say":"Billy, I'm walking to your spot at -284,66,322 with my wooden sword. Wait for me."}
 - 09:32 act: {"say":"I'm with you, Billy, with my wooden sword. Three of us go together; Jason gets the first meat. Golems are to the south, so we keep north of them."}
 - 09:33 act: {"intent":{"goal":"hunt_pig_with_group","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"
+- 09:34 act: {"say":"Billy, Tommy: I lost sight of you. I'm at -295,68,303, a drop lies to the north-west. Walk toward me or tell me where you are, and I'll come."}
+- 09:34 act: {"intent":{"goal":"stay_with_billy_to_pig","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":300
+- 09:34 act: {"actions":[{"do":"goto","target":{"x":-340,"y":64,"z":237}}],"say":"Going to Tommy at the shore, -340,64,237. Billy, come along."}
+- 09:35 act: {"say":"Billy, I'm at the shore at -340,241 with Tommy, in sight. Walk to us here and we all go to the pig at -337,64,237 together. I'll wait."}
+- 09:35 act: {"intent":{"goal":"wait_for_billy_at_shore","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12
+- 09:36 act: {"actions":[{"do":"goto","target":{"x":-312,"y":65,"z":258}}],"say":"Billy, I'm in the lake at -317,62,262. I'm getting out to land near the sign at -312,64,258, then I'll wait there.","reasoning":"Dr
+- 09:36 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":292}}],"say":"Tommy, Trini's right. I'm out of the lake on land at -312,64,258. We regroup at the beds near -298,68,294 and go at first light by 
+- 09:36 act: {"actions":[],"say":"Agreed, Billy. I'm at the beds with you. We go for the pig at first light by the dry path, and I'll keep out of the deep water.","intent":{"goal":"wait_at_beds_for_first_light","p
+- 09:38 act: {"actions":[],"say":"Picard, I have no food either. The pig at -337,64,237 is our first-light target by the dry path. Join us at the beds if you want to come.","reasoning":"Picard asked for safe food.
+- 09:38 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Good night, Tommy and Billy. I'm going into the bed at -298,68,294. First light, the pig at -337,64,237.","reasoning":"Dusk is near
