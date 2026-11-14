@@ -1684,3 +1684,6 @@
 - 23:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Stepping over to you, Tommy."}
 - 23:56 act: {"actions":[],"say":"I'm next to you now, Tommy. Try the give again, the 2 wheat, to me."}
 - 23:56 say: {"text":"Tommy, thank you, but I'll let the wheat go, since the give keeps failing. Trini, I'm here with you. Let's look for sheep together, and I'll tell you when I see one."}
+- 00:00 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"x":-263,"y":67,"z":355},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"m
+- 00:00 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":355}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
+- 00:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
