@@ -120,3 +120,11 @@
 - 16:59 act: {"say":"Night. Hunger is 20 now, thanks to the apple. Going to the white bed at -270,67,318 to sleep, with the group nearby.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}
 - 16:59 act: {"say":"I'm at the white bed now, health rising, hunger 20. Sleep is not possible until full night, so I'll wait here and sleep when it is dark.","actions":[]}
 - 16:59 act: {"actions":[{"do":"sleep"}]}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. I'm in the bed by the group. Food goes to me first at dawn, as Trini said."}
+- 17:10 act: {"actions":[{"do":"goto","target":"zack"}],"say":"Morning. Kimberly, hunger 17 and no food. Riker, please bring me the apple at the camp table, and any meat anyone finds. I'll stay here by the white b
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":328}}],"say":"Riker, I'm coming to the camp table for the apple. Please hand it to me there."}
+- 17:13 act: {"actions":[],"say":"Riker, I'm at the camp table now. I don't see you. Please come into sight and give me the apple. Thank you."}
+- 17:16 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":293}}],"say":"Riker, walking north toward you now. Hand me the apple when I'm in sight."}
+- 17:17 act: {"actions":[],"say":"I'm at the north yellow beds now. Riker, where are you? Please give me the apple.\""}
+- 17:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Dusk. I'm going to the yellow bed here to sleep. Riker, if you're near, please give me the apple first."}
+- 17:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}]}
