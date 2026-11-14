@@ -74,3 +74,5 @@
 - 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
 - 20:41 act: {"actions":[{"do":"sleep"}]}
 - 20:41 act: {"actions":[{"do":"sleep"}],"say":"LaForge, I have no rod or string, only 4 oak logs and 3 planks. I'm trying the bed here for the night."}
+- 20:42 act: {"say":"Kimberly here, night on day 237, health 20, hunger 20. I'm at the white bed and going to sleep. Trini, you get any food first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 20:42 act: {"actions":[{"do":"sleep"}]}
