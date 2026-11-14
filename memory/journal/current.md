@@ -1747,3 +1747,16 @@
 - 00:46 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":355}}],"say":"Health is very low, 2.4. I'm heading to the yellow bed to rest, not into the open."}
 - 00:47 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"Night. I'm going into the yellow bed to sleep, health low.","reasoning":"Night, health 2.4, hunger 17. Get into the 
 - 00:47 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"The first sleep was interrupted. Try once more in the bed beside Trini."}
+- 00:47 act: {"actions":[],"say":"Thanks, Trini. It's dawn. I'm at 2 health and hunger 17. Jason, please bring a beef to me at the yellow beds if you can.","reasoning":"Dawn. Health is low, no food. Ask Jason for 
+- 00:48 act: {"actions":[],"say":"Jason, I'm at the yellow beds, right by Trini, at -262,67,354. Come to me.","reasoning":"Jason is looking for me. Tell him exactly where I am."}
+- 00:49 act: {"actions":[],"say":"Jason, you're right beside me. Please give me the beef, 1 at a time if you can.","reasoning":"Jason is in reach now; ask for the beef directly."}
+- 00:49 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you.","reasoning":"Jason is about 4 blocks away with the beef. Walk to him so the give can reach."}
+- 00:50 act: {"actions":[],"say":"Tommy, I'm at the yellow beds, -262,67,354. I'm the weakest, health 2. Please bring beef here.","reasoning":"Tommy is coming with beef. Tell him where I am so he can find me."}
+- 00:54 act: {"say":"Jason, I can see Trini and the beds. I'm standing still here by the yellow bed. Bring the beef to me, I'll take it."}
+- 00:55 act: {"say":"Jason, Tommy, I see neither of you yet. Jason at -258,67,353 is behind the bed wall. Step to the open grass east of the bed, where I can see you. I'll take the beef and say thanks."}
+- 00:55 act: {"say":"Tommy, I'm standing at -262,67,354 by the yellow bed. I can't see you yet. Come a few steps west onto the bed row and I'll take the beef."}
+- 00:56 act: {"say":"Tommy, thank you. I don't see the beef in my pack yet, and I can't see you. Please drop it at my feet or hand it over within arm's reach."}
+- 00:57 act: {"say":"Tommy, I'm standing still at the yellow bed, here. I see no beef in my pack yet. Hold it out to me and I'll take it."}
+- 00:58 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
+- 00:59 act: {"say":"Tommy, you're right beside me now, at 1 block. Give me the beef now, I'm at the yellow bed. Dusk is coming and there is an iron golem to the northwest."}
+- 00:59 act: {"actions":[{"do":"sleep"}]}
