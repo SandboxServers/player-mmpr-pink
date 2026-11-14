@@ -19,3 +19,4 @@
 - 14:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Kimberly taking the white bed at -298,68,294 for the night. Health 20."}
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Kimberly heading to the yellow bed at -274,69,291 since the others are taken."}
 - 14:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. I'm taking the white bed here at -270,67,318 for the night. Health 20, hunger 20.","reasoning":"Night, dim lig
+- 14:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night is here. I'm going to sleep in this white bed. Picard, Tommy, hold on until first light."}
