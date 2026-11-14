@@ -163,3 +163,14 @@
 - 13:22 act: {"say":"Billy, is the yellow bed at -274,69,291 free? I'll take it if it is; if you're in it, I'll stay beside you.","actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}]}
 - 13:22 act: {"say":"I'm trying the yellow bed next to Billy and staying in sight of the group.","actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}]}
 - 13:22 act: {"say":"Thank you, Billy. I'm full, so keep your mutton for Zack. I'll stay beside you on the grass.","actions":[{"do":"unstick"}]}
+- 13:27 say: {"text":"Morning. I'm at the yellow beds with 3 oak logs and 4 planks. Billy, you're keeping the mutton for Zack, right? I'll go with whoever calls the route to Zack's pillar."}
+- 13:27 act: {"actions":[{"do":"note","text":"Dawn, day 215. At the yellow beds (-274,69,291), health and hunger 20, holding 3 oak_log and 4 oak_planks. Billy adjacent with mutton for Zack. Said I'll go with whoev
+- 13:27 say: {"text":"Zack, hold on. Nobody has walked a dry route to your pillar yet. Trini, when you are near, please call a dry waypoint from the beds toward -266,35,196. I'll walk it with Billy, and Billy take
+- 13:27 act: {"actions":[{"do":"note","text":"Zack on pillar -266,35,196, health 6.8, hunger 17, asked for food on a walked route. Asked Trini for a dry waypoint from the beds. Billy holds mutton and waits for a c
+- 13:28 say: {"text":"Billy, I'll scout the short dry step north with you. Call each waypoint, and we go one at a time. I'm at the yellow bed, health 20. Zack, we'll call the route before we move."}
+- 13:28 act: {"actions":[{"do":"note","text":"Day 216 dawn, at yellow bed (-274,69,291), health and hunger 20. Zack still on pillar, no dry route confirmed. Trini will not call a waypoint unchecked. Offered to sco
+- 13:28 act: {"actions":[{"do":"note","text":"Day 216 morning. Billy scouting on grass at -272,68,280, sees no dry route north yet. I hold at the yellow bed, health 20. Waiting for a walked route before anyone mov
+- 13:28 say: {"text":"Billy, I looked north from the bed. Solid cobblestone walls all around, no way through here. I can't call a dry step from this spot. Zack, we're still looking. Nobody goes toward the water."}
+- 13:28 act: {"actions":[{"do":"note","text":"Day 216. Viewed north from yellow bed: cobblestone walls all round, no dry step. Told Billy and Zack no route yet from here. Holding."}]}
+- 13:32 act: {"actions":[{"do":"note","text":"Day 216 midday. Group holding at yellow/white beds. Tommy at -267,68,292 with 17 planks, no food. Picard holds 3 porkchops for Zack. No dry route to Zack's pillar conf
+- 13:36 act: {"actions":[{"do":"note","text":"Day 216 afternoon. Jason, Tommy, Picard at the group spot -267,68,291 on dry grass. Still no verified route to Zack. I hold at the yellow bed, health and hunger 20. Wa
