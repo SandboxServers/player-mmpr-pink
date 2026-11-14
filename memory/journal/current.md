@@ -1828,3 +1828,4 @@
 - 02:00 act: {"actions":[],"say":"Kimberly here. I have no beef, my pack is empty, so Tommy must still have it. I'm at the yellow beds and will sleep once it's full night."}
 - 02:00 act: {"actions":[{"do":"sleep"}]}
 - 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Stand at the bed before sleeping."}
+- 02:03 say: {"text":"Kimberly here at the yellow beds, hunger full at 20 and pack empty. Zack, Tommy, I'll search with you at first light and share whatever I find."}
