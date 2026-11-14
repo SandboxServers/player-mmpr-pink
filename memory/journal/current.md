@@ -95,3 +95,7 @@
 - 16:08 act: {"say":"Morning, day 224. I'm at the white bed, hunger 17, no food. Scout the dry grass and call any cow, pig or sheep. Meat goes to me first, then Zack.","intent":{"goal":"find_food_on_dry_grass","pr
 - 16:09 say: {"text":"Kimberly here, at the white bed, hunger 17. No food yet. Keep scouting south-west and call any cow, pig or sheep. I'll wait here for your word."}
 - 16:13 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{"note":"stay at the white bed, wait for a cow, pig or sheep call from the group"},"wake_on":["directly_addressed","precondition_
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"It's night and I'm going to the white bed to sleep.","intent":{"goal":"reach_bed_and_sleep","program":"travel","argu
+- 16:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed"
+- 16:24 act: {"actions":[{"do":"sleep"}],"say":"I'm at the white bed now, going to sleep. Meat to me first at first light, thank you Tommy."}
+- 16:25 act: {"intent":{"goal":"hold_safe_until_first_light","program":"rest","arguments":{"near":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
