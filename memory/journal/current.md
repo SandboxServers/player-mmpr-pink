@@ -94,3 +94,18 @@
 - 21:12 act: {"actions":[],"say":"Kimberly here at the white beds with a sword now. Zack, the chicken goes to Trini first, then Riker. I'll stand guard with you while you give it. I have no food."}
 - 21:15 act: {"intent":{"goal":"join_group_at_zack_spot","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":289}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 21:16 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":291}}],"say":"Kimberly coming to you now, Trini and Zack. Still no food on me."}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Kimberly: it's night, no food, hunger 19. Going to the yellow bed near the group to sleep. Any mutton goes to Trini 
+- 21:23 act: {"actions":[{"do":"sleep"}]}
+- 21:27 act: {"actions":[{"do":"sleep"}],"say":"Kimberly: health 20, hunger 19, no food, sword in pack. Trying the white beds again."}
+- 21:27 act: {"actions":[{"do":"sleep"}]}
+- 21:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":1}],"say":"Tommy, here is a log for your sword. Trini first for any food; I have none. Riker, Trini is still waiting for the chicke
+- 21:29 act: {"say":"Trini first for any food. I am going to check the farm at -293,69,288 for ripe wheat or beetroot.","intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-291,"y"
+- 21:30 act: {"say":"No ripe crops at the farm here, only logs and water. I'm heading to the yellow bed to be with Trini and Data.","intent":{"goal":"return_to_group_yellow_bed","program":"travel","arguments":{"ta
+- 21:34 act: {"say":"Kimberly here, no food. I'm going to the white beds with the group to hand over my logs for swords.","intent":{"goal":"join_group_white_beds","program":"travel","arguments":{"target":{"x":-272
+- 21:34 act: {"say":"I have no food. I'm keeping 3 oak logs for Tommy's sword, and I'll hand them over when he is in sight. Any food found goes to Trini first, then Zack."}
+- 21:35 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"intent":{"goal":"rest_at_group_until_food","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_faile
+- 21:38 act: {"say":"Trini, the chicken is on the ground next to you at -271,67,316. Step onto it and eat it. I have no food; my 3 logs are still for Tommy."}
+- 21:39 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"say":"Tommy, here are my 3 oak logs for your sword. I have no food, but I'll share what I find.","intent":{"goal":"keep_watch_
+- 21:43 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, I'm holding the chicken Jason passed me. Here it is for you, raw. Eat it now while you are hungry."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Jason, the chicken came to you instead of me. Please give it to Trini, she is the weakest. I'm going to a bed for the night."}
+- 21:43 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"say":"Tommy, here are the 3 oak logs for your sword."}
