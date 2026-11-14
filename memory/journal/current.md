@@ -44,3 +44,13 @@
 - 14:23 act: {"say":"Kimberly: awake, bright, no monsters in view. Health 5.8, hunger 17, no food. Still no walked dry waypoint north. Going NW to look for the sheep Tommy saw, away from the east.","intent":{"goal
 - 14:23 act: {"say":"Kimberly: no sheep here, only deep water to the west. It's night and I'm in the open, so I'm heading back east to the white bed at -298,68,294.","intent":{"goal":"return_to_white_bed_night","p
 - 14:23 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"At the white bed for the night. Health 5.8, hunger 17."}
+- 14:25 act: {"actions":[{"do":"note","text":"Night at white bed -298,68,294. Health 5.8, hunger 17, no food. Staying put until light."}],"say":"Kimberly: I'm at the white bed, -298,68,294, health 5.8, no food. Sh
+- 14:25 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"oak_planks","count":2}],"say":"Jason, sending you 2 oak planks for the sword. I keep 1 plank and 3 logs."}
+- 14:26 act: {"actions":[],"say":"Trini, stay in the bed and keep still. I have no food to spare, only 1 plank and 3 logs. At first light I'll look for food on dry ground."}
+- 14:30 act: {"intent":{"goal":"reach_old_farm","program":"travel","arguments":{"target":{"x":-293,"y":69,"z":288}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 14:30 act: {"actions":[],"say":"I'm at -293,69,289. The old farm is not here: only oak logs and water. No food seen. Trini, Tommy, Jason: if you find food, tell me where."}
+- 14:31 act: {"actions":[],"say":"Picard, Jason, Tommy: agreed, no water. Salmon is only in deep water, so I won't go in. I'm at -293,69,289 with no food and no rod. Anyone who finds a sheep or cow, call out the s
+- 14:35 act: {"actions":[],"say":"Jason, yes, still hungry, 17, no food. Thanks for scouting south. I'll stay on dry ground here and watch for animals."}
+- 14:39 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 14:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
+- 14:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Still no food. I'm in the white bed at -298,68,294 for the night. Trini, stay safe."}
