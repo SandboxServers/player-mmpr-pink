@@ -32,3 +32,15 @@
 - 14:10 act: {"say":"Update for Zack, Trini, Picard: I'm at -306,63,249 on dry grass. Deep water is right north and west, so no dry route north from here yet. I won't enter the water. I have no food. Checking east
 - 14:10 act: {"say":"Walked to -299,64,249 on grass, dry. Water is still north and west of here. Looking for a dry way north from this side.","actions":[{"do":"note","text":"Walked -299,64,249 on grass, dry. Water
 - 14:10 act: {"intent":{"goal":"hold_position_safe","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations
+- 14:11 act: {"say":"Picard, Jason, Tommy: my last dry waypoint is -299,64,249, on grass. Water still blocks north and west. I'll walk only dry waypoints I actually reach, and I'll call each one. Jason, if you fin
+- 14:19 act: {"say":"Kimberly: I'm still at -299,64,249, away from the skeletons, with no food and no sword. Night is coming. I'll stay on this grass and keep out of the east. Jason, Tommy, Trini, Billy, stay west
+- 14:22 act: {"actions":[{"do":"place","block":"oak_planks","at":"feet"}],"say":"I was hit hard and I'm at 1.6 health. I'm trying to close myself in here at -299,64,249. Zombie to the northeast.\""}
+- 14:22 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-299,"y":65,"z":249}},{"do":"place","block":"oak_planks","at":{"x":-300,"y":65,"z":248}},{"do":"place","block":"oak_planks","at":{"x":-299,"y":
+- 14:22 act: {"intent":{"goal":"reach_white_bed_safe","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":364}}],"say":"Night. Going to the yellow bed to the south, away from the skeleton. Health 5.8, hunger 17.","intent":{"goal":"reach_yellow_bed","p
+- 14:22 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":364}}],"say":"At the yellow bed. Trying to sleep here."}
+- 14:22 act: {"say":"Kimberly: I slept at the yellow bed at -272,68,364. No dry walked waypoint north yet, so none to call. I have no food. I'll check the sheep Tommy saw northwest at -340,63,282 by the west route
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":364}}],"intent":{"goal":"hold_at_bed_till_day","program":"rest","arguments":{},"wake_on":["unexpected_damage","directly_addressed","precondition_
+- 14:23 act: {"say":"Kimberly: awake, bright, no monsters in view. Health 5.8, hunger 17, no food. Still no walked dry waypoint north. Going NW to look for the sheep Tommy saw, away from the east.","intent":{"goal
+- 14:23 act: {"say":"Kimberly: no sheep here, only deep water to the west. It's night and I'm in the open, so I'm heading back east to the white bed at -298,68,294.","intent":{"goal":"return_to_white_bed_night","p
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"At the white bed for the night. Health 5.8, hunger 17."}
