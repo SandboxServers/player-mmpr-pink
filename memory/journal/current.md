@@ -83,3 +83,4 @@
 - 07:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm in bed for the night. At first light I'll hand Jason the 2 mutton if he's in sight; otherwise Tommy."}
 - 07:20 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here's one mutton. I'm keeping the other for Jason or whoever is weakest next."}
 - 07:20 act: {"actions":[{"do":"sleep"}]}
+- 07:22 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, you're right here and you were low on food before. Here is my last mutton. Jason first if he shows, but you're her
