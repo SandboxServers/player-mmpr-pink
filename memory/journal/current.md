@@ -1790,3 +1790,12 @@
 - 01:31 act: {"intent":{"goal":"search_old_farm_for_food","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
 - 01:34 say: {"text":"Kimberly here, at the yellow beds, no food yet. Billy, bring the beef here, I'll wait. Jason, I'd gladly take the chicken if you can bring it here; Trini, Tommy, come here too."}
 - 01:35 say: {"text":"Kimberly here, standing on the planks at (-262, 67, 353), right by the yellow beds. I can't see anyone yet. Billy, Jason, walk toward me and I'll take whatever food you give."}
+- 01:38 act: {"say":"Kimberly here, I'm by the yellow beds. I have no food either, pack is empty. Billy, if you have beef to spare, I'm here.","intent":{"goal":"wait_for_food_share","program":"rest","arguments":{}
+- 01:38 act: {"say":"A pillager is east of us, so I'm watching. I have no weapon, only my hands.","intent":{"goal":"watch_for_pillager","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_d
+- 01:38 act: {"say":"Jason, I'm coming west to you for the porkchop. Please wait where you are.","intent":{"goal":"reach_jason_for_food","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["goal_com
+- 01:39 act: {"say":"Jason, I can't see you from the beds, so I can't follow. Could you come to the yellow beds? I'm waiting here."}
+- 01:39 act: {"say":"Billy, I'm at the beds with Trini next to me. I have nothing. Trini is hungry too, so split the beef between us, and I'll manage with whatever is left."}
+- 01:40 act: {"say":"Billy, I can't see you yet. Please give the beef to Trini first, then me. I'm at the beds, next to Trini, and I'll stay put."}
+- 01:40 act: {"say":"Billy, walk to the yellow beds at x -263, z 353. The stripped log is just south-west of them. Give the beef to Trini first, then me."}
+- 01:41 act: {"say":"Thank you, Billy. Got the beef. Eating now.","actions":[{"do":"eat"}]}
+- 01:41 act: {"say":"Got my beef, Billy, thank you. I'm full right now, so I'm saving it for when I'm hungry. Trini, you go ahead and eat yours.","actions":[{"do":"sleep"}]}
