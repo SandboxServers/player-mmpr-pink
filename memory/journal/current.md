@@ -83,3 +83,5 @@
 - 20:52 act: {"say":"Kimberly at the yellow bed, day 238. Jason, thank you for picking the ripe wheat for Trini. Trini, if you're in sight, I'll come to you with anything I get; I have none yet."}
 - Day 238 daytime at the yellow bed -262,67,353: health 20, hunger 20, no food. Iron golem 15 west, bow drawn north. Said my position and that food goes to Trini first; holding near beds on a rest intent.
 - 20:56 act: {"say":"Kimberly at the yellow beds, day 238. Health 20, hunger 20, no food. An iron golem is 15 blocks west and someone is drawing a bow to the north. I'll keep near the beds and pass any food to Tri
+- 20:56 act: {"actions":[{"do":"wait","seconds":30}],"say":"Kimberly at the yellow beds -262,67,353, day 238. Health 20, hunger 20, no food. Tommy, Billy: I'm staying here near the beds. Any food I find goes to Tr
+- 21:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed -262,67,353. Health 20, hunger 20, no food. Trini first for any food at first light. Sleeping now."}
