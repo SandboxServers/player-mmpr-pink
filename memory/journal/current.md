@@ -52,3 +52,4 @@
 - 19:56 act: {"actions":[{"do":"mine","block":"short_grass","count":1}],"intent":{"goal":"break_grass_for_seeds","program":"gather","arguments":{"block":"short_grass","count":4},"wake_on":["goal_completed","precon
 - 19:57 act: {"actions":[],"say":"Kimberly: breaking grass here gave nothing, so I'm not finding seeds this way. Wesley, plant your seeds on the farm; I'm not carrying any. No food on me, hunger 20. Tommy, I'm by 
 - 20:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:03 act: {"say":"Kimberly: night, at the white bed with no food but health and hunger at 20. Going to sleep here.","actions":[{"do":"sleep"}]}
