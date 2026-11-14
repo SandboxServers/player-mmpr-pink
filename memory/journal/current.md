@@ -55,3 +55,15 @@
 - 20:03 act: {"say":"Kimberly: night, at the white bed with no food but health and hunger at 20. Going to sleep here.","actions":[{"do":"sleep"}]}
 - 20:05 act: {"actions":[{"do":"sleep"}],"say":"Night, at the white bed -270,67,318. Health 20, hunger 20, no food. Tommy and Billy first for any meat tomorrow."}
 - 20:07 act: {"actions":[{"do":"sleep"}]}
+- 20:11 act: {"say":"Kimberly here, morning of day 236. Hunger is full at 20. I have no food yet. If anyone finds meat or wheat, tell me and I will bring what I can to Tommy and Billy first.","intent":{"goal":"loo
+- 20:11 act: {"say":"Still no food here, only unripe wheat. I'll wait by the wheat and watch for animals. Bows are being drawn to the south, so I'll stay near the beds."}
+- 20:11 act: {"say":"Tommy, Troi, Riker: no animal or apple seen yet, only unripe wheat here. Data, I'll search the grass to the west with you, staying within sight of the beds. Call out anything you see."}
+- 20:12 act: {"say":"Going to the west grass to join Data and Riker, in sight of you. Calling out anything I see.","intent":{"goal":"join_west_grass_search","program":"travel","arguments":{"target":{"x":-290,"y":6
+- 20:12 act: {"say":"Kimberly at the west grass with the group. Trini has the lowest hunger, so any meat goes to her first, then Tommy, then Billy. I'm holding here and watching."}
+- 20:21 act: {"say":"Dusk. Going to the white bed at -270,67,318 with the group to sleep. Still no food; Trini first at dawn.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-
+- 20:21 act: {"actions":[{"do":"sleep"}],"say":"At the white bed with Jason and Worf. Hunger 20, no food. Trini and Tommy first at dawn."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Sleep failed at the first beds. Trying the white bed at -270,67,318 once more."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Sleep says monsters nearby. I'm at the white bed with Riker, Tommy and Picard. I'll wait a little and try again.","intent":{"goal":
+- 20:22 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Sleep is refused by monsters again. Golems are 9 and 15 blocks south-west. I'll stay with the group at the white bed and keep watch
+- 20:27 act: {"actions":[{"do":"sleep"}]}
