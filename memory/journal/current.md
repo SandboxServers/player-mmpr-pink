@@ -1784,3 +1784,9 @@
 - 01:19 say: {"text":"Billy, hold them. Jason is bringing food to Zack, so I'll wait at the beds and look for more food with you."}
 - 01:20 say: {"text":"I drowned out west at x-277 z347 and lost my things there. I'm back at the beds with empty hands. I'll rest here tonight, then look for food at first light."}
 - 01:21 say: {"text":"It's night and I'm at the yellow beds with Billy and Trini. I have no food, but my hunger is full for now. I'll rest here and look for food at first light."}
+- 01:21 say: {"text":"Kimberly here, by the yellow beds. I'm with you: at first light we pool what we find and look for food together."}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 01:30 say: {"text":"Morning. I'm at the yellow beds, health full, no food on me. I'll search for cows and sheep with you. Billy, Tommy, come here; we go out together, keep in sight of each other."}
+- 01:31 act: {"intent":{"goal":"search_old_farm_for_food","program":"travel","arguments":{"x":-251,"y":68,"z":353},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 01:34 say: {"text":"Kimberly here, at the yellow beds, no food yet. Billy, bring the beef here, I'll wait. Jason, I'd gladly take the chicken if you can bring it here; Trini, Tommy, come here too."}
+- 01:35 say: {"text":"Kimberly here, standing on the planks at (-262, 67, 353), right by the yellow beds. I can't see anyone yet. Billy, Jason, walk toward me and I'll take whatever food you give."}
