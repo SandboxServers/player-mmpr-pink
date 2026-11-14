@@ -1713,3 +1713,19 @@
 - 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Sleep failed at range; move into the bed spot first, then retry sleep once."}
 - 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Zack, I'm at the beds. I'll bring the sword in the morning from a few blocks off.","reasoning":"Iron golem to the east at night. Ge
 - 00:21 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm beside the yellow bed in the group's spot. Sleep now."}
+- 00:22 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is the wooden sword I owed you. Tommy, morning is coming; I'll look for food with you, Trini and Jason to
+- 00:22 act: {"actions":[{"do":"unstick"},{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"reasoning":"The give failed for being too close with no room to step back. Unstick to get free, then try 
+- 00:22 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, I'm coming to you to hand over the sword directly.","reasoning":"The last 
+- 00:22 act: {"intent":{"goal":"join_food_search_se","program":"travel","arguments":{"x":-257,"y":66,"z":375},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,
+- 00:22 act: {"intent":{"goal":"join_food_search_se","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 00:23 act: {"intent":{"goal":"return_to_beds_with_zack","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":356}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wo
+- 00:23 act: {"intent":{"goal":"reach_zack_at_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":356}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 00:23 act: {"intent":{"goal":"rest_at_beds_for_night","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 00:23 act: {"intent":{"goal":"meet_zack_for_sword","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":355}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 00:23 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is the wooden sword.","reasoning":"Zack is within reach. One give attempt now."}
+- 00:23 act: {"intent":{"goal":"rest_for_night_at_beds","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations"
+- 00:25 act: {"intent":{"goal":"find_zack_and_food_at_beds","program":"travel","arguments":{"target":{"x":-261,"y":67,"z":350}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 00:26 act: {"intent":{"goal":"search_sheep_south_east","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 00:26 act: {"intent":{"goal":"meet_zack_at_beds_for_sword","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":355}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 00:26 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is your wooden sword.","reasoning":"Zack is at 0.1 distance and in reach. Try the hand-over now."}
+- 00:26 act: {"actions":[{"do":"note","text":"Give to Zack failed again (no such agent in sight). Keeping the sword; will not retry the same give. Food is the priority."}],"say":"Zack, I couldn't hand the sword ov
