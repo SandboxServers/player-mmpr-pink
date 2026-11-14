@@ -4,3 +4,14 @@
 - 09:08 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 09:09 say: {"text":"Kimberly back at the white beds. No food, only an egg and wool. I'll join the hunt; call me when you move, and I'll go with the group."}
 - 09:13 say: {"text":"Kimberly at the white beds. I have no weapon and no wood, so I'll stay here with Jason. Tommy, Billy, Trini: when you bring meat, Jason first. Call me if you need a hand."}
+- 09:22 say: {"text":"Kimberly here at the white bed, health and hunger 20. I have an egg and wool, no weapon. Trini, stay east of the skeleton and come to this bed. Jason, I'll give you the egg when you are near.
+- 09:27 act: {"actions":[{"do":"note","text":"Night, day 203. At the white bed (-270,67,318), health and hunger 20. Trini hurt by skeleton, sheltering at white bed with Jason. Holding egg and wool; Jason says keep
+- 09:31 act: {"say":"Morning. Kimberly here, no weapon. I'm cutting oak logs by the beds to make a sword for the hunt, and I'll share what I learn.","intent":{"goal":"gather_oak_log_for_sword","program":"gather","
+- 09:31 act: {"actions":[{"do":"mine","block":"oak_log","count":2}]}
+- 09:32 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"goto","target":{"x":-273,"y":66,"z":325}},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say":
+- 09:32 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"I have a wooden sword now. Going to the white beds to join you, Tommy and Billy. An iron golem is out to the south-west, so we keep
+- 09:32 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":334}}],"say":"An iron golem is two blocks from me, so I'm stepping east away from it. Billy, Tommy, wait for me at the beds and I'll come with th
+- 09:32 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I'm coming to you now with my wooden sword. Let's go to the pig together."}
+- 09:32 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":322}}],"say":"Billy, I'm walking to your spot at -284,66,322 with my wooden sword. Wait for me."}
+- 09:32 act: {"say":"I'm with you, Billy, with my wooden sword. Three of us go together; Jason gets the first meat. Golems are to the south, so we keep north of them."}
+- 09:33 act: {"intent":{"goal":"hunt_pig_with_group","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":6000,"
