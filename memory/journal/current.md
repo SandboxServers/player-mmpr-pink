@@ -1780,3 +1780,5 @@
 - 01:15 act: {"actions":[{"do":"unstick"}],"reasoning":"Air is down to 2 and I am underwater. Surface first with unstick, before anything else."}
 - 01:15 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":341}}],"reasoning":"Health 1.5 and drowning with air 0. Last try to swim toward the north-west shore."}
 - 01:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"I drowned and respawned at the beds with nothing. Jason, I'll wait here by the yellow beds.","reasoning":"Iron golem is north and I
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Thanks Jason. I'm at the beds with nothing, and I'll wait here for the food.","intent":{"goal":"await_food_at_beds","program":"rest
+- 01:19 say: {"text":"Billy, hold them. Jason is bringing food to Zack, so I'll wait at the beds and look for more food with you."}
