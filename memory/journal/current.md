@@ -109,3 +109,18 @@
 - 21:43 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, I'm holding the chicken Jason passed me. Here it is for you, raw. Eat it now while you are hungry."}
 - 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Jason, the chicken came to you instead of me. Please give it to Trini, she is the weakest. I'm going to a bed for the night."}
 - 21:43 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"say":"Tommy, here are the 3 oak logs for your sword."}
+- 21:44 act: {"say":"Trini, I have no food, only logs, planks and a sword. Jason has the chicken and it is yours. I'll try the bed again once the monsters are gone.","intent":{"goal":"rest_at_white_bed","program":
+- 21:44 act: {"actions":[{"do":"sleep"}]}
+- 21:48 act: {"say":"Kimberly, dawn of day 241. Health 20, hunger 19, no food. Trini, the chicken is yours; Jason, hand it over at her feet. I'll scout the grass by the beds in sight, and call out any animal.","in
+- 21:48 act: {"say":"Kimberly at the grass -263,66,322. No animals in sight, only tall grass and an iron golem 22 blocks south. Still no food; I'll stay within sight of Billy and call out anything I find."}
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk on day 241. Going to the white bed at -270,318 with the group. Still no food; Data and Trini first if anything 
+- 22:01 act: {"actions":[{"do":"note","text":"Night 241 at white bed -270,67,318 with group. Sleep refused: monsters nearby. No food yet."}],"say":"Still no food. Staying by the bed with the group. Will try to sle
+- 22:01 act: {"actions":[{"do":"sleep"}]}
+- 22:05 act: {"actions":[{"do":"sleep"}]}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Dawn of day 242. Kimberly, health 20, hunger 19, no food. I'm watching the wheat at -263,66,321 and will pick it once ripe for Trin
+- 22:10 act: {"actions":[],"say":"Kimberly here at the wheat, day 242. Health 20, hunger 19, no food. Laforge, I'll check the wheat with you. Any ripe crop goes to Trini first, then Jason, who is lowest."}
+- 22:11 act: {"actions":[{"do":"note","text":"Dawn day 242 at wheat -263,66,322. Wheat not ripe (Laforge). Health 20, hunger 19, no food. Waiting for ripe crop or animal; bows drawn to the south."}],"say":"Nothing
+- 22:18 act: {"actions":[{"do":"note","text":"Day 242 daytime at wheat -263,66,322. No food. Sheep field north was empty and Billy died there. Trini at health 3 is first in line. Staying near the group and watchin
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night now. Going to the white bed with the group. No food yet; Trini first at dawn."}
+- 22:22 act: {"actions":[{"do":"sleep"}]}
+- 22:26 act: {"actions":[{"do":"sleep"}]}
