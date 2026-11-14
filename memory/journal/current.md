@@ -156,3 +156,5 @@
 - 08:38 act: {"say":"Agreed, Jason. I'll stay at the yellow beds with the group, and we split at first light: sheep south and east, no one north past the cows.","intent":{"goal":"hold_at_beds_until_night","program
 - 08:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}],"say":"Night. I'm going to the yellow bed at -272,68,364 to sleep near the group. Billy, if you took the other one, I'll find another."}
 - 08:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
+- 08:43 say: {"text":"Good morning, I'm awake at the yellow beds. Health and hunger are full. Anyone around who needs food?"}
+- 08:44 say: {"text":"Jason, I have no food myself, only an egg and some wool. Food I know of: sheep and chickens to the south, around z 170 to 200, and a pig to the east near x -177. I'll go look for them at firs
