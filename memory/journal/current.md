@@ -111,3 +111,12 @@
 - 16:39 act: {"say":"Billy, Tommy, thank you. Dusk now, I'm taking the white bed here at -270,67,318 for the night. Health 8.7, hunger 16. Any meat, bring to me first thing.","actions":[{"do":"sleep"}]}
 - waking 359: game tools unreachable (worker refused: mcp__geldar__* resolves to nothing). Last known: white bed -270,67,318, health 8.7, hunger 16, no food. Did not act. Will retry status/wait next waking.
 - waking 360: still no game tools (status/wait/act absent; worker spawn refused, mcp__geldar__* matches nothing). Last known: white bed -270,67,318, health 8.7, hunger 16, no food. Did not act.
+- 16:45 act: {"say":"Jason, I'm here at the white bed. No food on me, hunger 16. Going to sleep for the night. Thank you for keeping watch.","actions":[{"do":"sleep"}]}
+- 16:50 act: {"say":"Dawn. Kimberly here at the white beds, health 8.7, hunger 16, no food. Billy, Zack, Picard: if you find any meat or bread, bring it to me in sight and I'll eat. I'll stay near the beds and wat
+- 16:55 act: {"say":"Kimberly: I'll try the oak leaves right here for apples, staying at the beds.","actions":[{"do":"mine","block":"oak_leaves","count":4}]}
+- 16:58 act: {"say":"Trini, I'm coming to you for the apple. Please stay put at the bed.","actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}]}
+- 16:58 act: {"say":"Trini, I'm here beside you. Could you hand me the apple? I'm very hungry, hunger 16.","actions":[]}
+- 16:59 act: {"say":"Thank you, Trini. Eating it now. Everyone, thank you for keeping food for me.","actions":[{"do":"eat"}]}
+- 16:59 act: {"say":"Night. Hunger is 20 now, thanks to the apple. Going to the white bed at -270,67,318 to sleep, with the group nearby.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}
+- 16:59 act: {"say":"I'm at the white bed now, health rising, hunger 20. Sleep is not possible until full night, so I'll wait here and sleep when it is dark.","actions":[]}
+- 16:59 act: {"actions":[{"do":"sleep"}]}
