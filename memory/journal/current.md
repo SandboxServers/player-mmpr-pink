@@ -81,3 +81,5 @@
 - 20:44 act: {"say":"Kimberly here at the yellow bed, hunger 20, no food. Trini first for any food, then Riker. Zack, I'm glad you're close. Staying put until light."}
 - 20:48 act: {"say":"Dawn. Trini, Riker, I have no food, only 4 oak logs and 3 planks. I'm at the yellow bed -262,67,353, staying out of the golems' path until they move off. Any food I find goes to Trini first."}
 - 20:52 act: {"say":"Kimberly at the yellow bed, day 238. Jason, thank you for picking the ripe wheat for Trini. Trini, if you're in sight, I'll come to you with anything I get; I have none yet."}
+- Day 238 daytime at the yellow bed -262,67,353: health 20, hunger 20, no food. Iron golem 15 west, bow drawn north. Said my position and that food goes to Trini first; holding near beds on a rest intent.
+- 20:56 act: {"say":"Kimberly at the yellow beds, day 238. Health 20, hunger 20, no food. An iron golem is 15 blocks west and someone is drawing a bow to the north. I'll keep near the beds and pass any food to Tri
