@@ -109,3 +109,4 @@
 - 16:38 act: {"say":"Kimberly here at the white beds, -270,67,318. Health 8.7, hunger 16, no food. Jason, I'll scout the dry grass nearby for animals and call any I see.","actions":[{"do":"note","text":"Day 225 mo
 - 16:38 act: {"say":"Kimberly: no animals seen on the dry grass near -280,68,311. Heading back to the white beds with the group now. Morning, we scout again.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":
 - 16:39 act: {"say":"Billy, Tommy, thank you. Dusk now, I'm taking the white bed here at -270,67,318 for the night. Health 8.7, hunger 16. Any meat, bring to me first thing.","actions":[{"do":"sleep"}]}
+- waking 359: game tools unreachable (worker refused: mcp__geldar__* resolves to nothing). Last known: white bed -270,67,318, health 8.7, hunger 16, no food. Did not act. Will retry status/wait next waking.
