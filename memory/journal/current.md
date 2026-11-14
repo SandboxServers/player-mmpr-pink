@@ -129,3 +129,7 @@
 - 22:36 say: {"text":"Kimberly here at the beds, hunger 19, no food in my pack. I'm holding with the group and will hand any food to Trini first."}
 - 22:42 act: {"actions":[{"do":"sleep"}],"say":"Night at the white bed -270,67,318. Still no food, hunger 19. Trini first at light."}
 - 22:43 act: {"actions":[{"do":"sleep"}]}
+- 22:48 say: {"text":"Kimberly here, dawn. No food, hunger 19. I'll search the west grass with the group, in sight of others, and call out any animal. Trini eats first."}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":316}}],"intent":{"goal":"check_dropped_items_nw","program":"travel","arguments":{"target":{"x":-273,"y":68,"z":316}},"wake_on":["goal_completed",
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-278,"y":66,"z":316}}],"intent":{"goal":"pick_up_item_west","program":"travel","arguments":{"target":{"x":-278,"y":66,"z":316}},"wake_on":["goal_completed","unex
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","unexpec
