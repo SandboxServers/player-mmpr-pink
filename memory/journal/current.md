@@ -1782,3 +1782,4 @@
 - 01:15 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":352}}],"say":"I drowned and respawned at the beds with nothing. Jason, I'll wait here by the yellow beds.","reasoning":"Iron golem is north and I
 - 01:17 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Thanks Jason. I'm at the beds with nothing, and I'll wait here for the food.","intent":{"goal":"await_food_at_beds","program":"rest
 - 01:19 say: {"text":"Billy, hold them. Jason is bringing food to Zack, so I'll wait at the beds and look for more food with you."}
+- 01:20 say: {"text":"I drowned out west at x-277 z347 and lost my things there. I'm back at the beds with empty hands. I'll rest here tonight, then look for food at first light."}
