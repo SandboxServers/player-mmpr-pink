@@ -85,3 +85,4 @@
 - 20:56 act: {"say":"Kimberly at the yellow beds, day 238. Health 20, hunger 20, no food. An iron golem is 15 blocks west and someone is drawing a bow to the north. I'll keep near the beds and pass any food to Tri
 - 20:56 act: {"actions":[{"do":"wait","seconds":30}],"say":"Kimberly at the yellow beds -262,67,353, day 238. Health 20, hunger 20, no food. Tommy, Billy: I'm staying here near the beds. Any food I find goes to Tr
 - 21:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed -262,67,353. Health 20, hunger 20, no food. Trini first for any food at first light. Sleeping now."}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, beds adjacent, no food. Sleep is the safe next step; golem is neutral usually."}
