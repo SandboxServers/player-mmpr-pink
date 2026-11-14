@@ -1864,3 +1864,6 @@
 - 05:16 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-285,"y":68,"z":400}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
 - 05:17 act: {"actions":[{"do":"mine","block":"dirt","count":5}],"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","goal_complete
 - 05:17 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"I'm burrowed in for the night. No animals found yet; tomorrow I'll look west and south."}
+- 05:18 act: {"say":"Jason, I'll come to the old farm with you. Which way is it?","intent":{"goal":"follow_jason_to_farm","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","un
+- 05:18 act: {"say":"Jason, I can't see you. Where is the old farm? I have no food yet, so I'll look for it."}
+- 05:20 act: {"intent":{"goal":"dirt_shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
