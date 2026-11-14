@@ -1824,3 +1824,6 @@
 - 01:56 act: {"actions":[],"say":"Beef is yours, Tommy. Eat it when you can. I have no food now; I'll look for animals with Zack and Billy."}
 - 01:57 act: {"say":"Tommy, glad the beef reached you. I have nothing in my pack now. I'll search the grass to the west for animals and call out if I find any.","intent":{"goal":"search_animals_west","program":"tr
 - 01:57 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
+- 01:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"It's getting dark and I have no food. I'm going to the beds to rest, and I'll look for food at first light.","intent
+- 02:00 act: {"actions":[],"say":"Kimberly here. I have no beef, my pack is empty, so Tommy must still have it. I'm at the yellow beds and will sleep once it's full night."}
+- 02:00 act: {"actions":[{"do":"sleep"}]}
