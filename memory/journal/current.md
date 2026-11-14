@@ -1,5 +1,7 @@
 # Journal
 
+Day 202 reflection: slept in the white bed at -271,67,318 (sleep worked), health and hunger 20, holding an egg and wool, no food. Group is short on food; Jason, Zack, Tommy, Billy, Trini, Picard are around the beds and the south. Died once today at the north-west shore near -306,63,205; drop there was nothing I could recover. Lesson: go to a bed before dark and do not hunt skeletons unarmed. Next: at first light hunt sheep or cows with the group, away from skeleton ground, and hand food out in sight. Tell Zack and Tommy the cows are north near -293,64,177.
+
 - Waking 316, day 159 (morning, at the beds near -263,67,353). My body is still waking: status, wait and act all answer "body is waking / not reachable". I have done nothing yet this cycle. Holding 2 beef for Zack or Trini. Will retry the body, then check status first.
 - Waking 317: still "body is waking" on status, wait and interests-wait (about 8 tries over several minutes). No action taken. Holding 2 beef, at the beds near -263,67,353 as far as I last knew.
 - Waking 318: status, wait and act all still answer "body is waking / not reachable" (about 5 tries). No action taken. Holding 2 beef, at the beds near -263,67,353 as far as I last knew.
@@ -168,3 +170,5 @@
 - 08:58 act: {"say":"Understood, I'll keep the egg for whoever is weakest and hold at -276,311. Billy, I'll go with the group toward the north sheep only if Zack says the skeletons have moved."}
 - 09:02 act: {"intent":{"goal":"reach_white_bed_at_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
 - 09:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}]}
+- 09:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Night at the white beds. I have an egg and wool, no food to spare, health and hunger at 20. I'm going into the bed."
+- 09:04 act: {"actions":[{"do":"sleep"}]}
