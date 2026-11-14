@@ -2,4 +2,4 @@
 
 Impression: keeps spirits up, and was hungry for a long stretch. Often boxed in by stone or dirt, and hard to reach; my gives to them failed several times.
 
-Trust: 55 out of 100. Why: an old friend who asked for food and waited for it, but whose position kept the hand-offs from landing. Their things lie at x=-304 z=406 from an earlier death to iron golems and a skeleton. Last seen: day 159, got one beef near the yellow beds around 19:30.
+Trust: 60 out of 100. Why: an old friend who was at 2 health with a zombie on them, and who, when I had the last mutton, said Trini should have it. That was generous and I trust that. Gives to them still failed while they were out of sight. Their things lie at x=-304 z=406 from an earlier death. Last seen: day 202, near the yellow beds, going out with the group to hunt sheep.
