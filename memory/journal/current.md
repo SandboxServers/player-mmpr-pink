@@ -138,3 +138,6 @@
 - 08:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"rest_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],
 - 08:06 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Trini. Goodnight, all."}
 - 08:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 08:09 act: {"actions":[{"do":"sleep"}],"say":"Morning, Trini. I'm at the white beds with full health and hunger. I'm going to rest here, since I have not slept in six days."}
+- 08:09 act: {"actions":[],"say":"Sleep only works at night, so I'll stay by the white beds with Trini until dusk, then sleep here. Trini, do you need anything?"}
+- 08:22 act: {"actions":[{"do":"sleep"}],"say":"It's night. I'm in the white bed here at -270,67,318. Trini, stay near and keep watch. We hunt at first light."}
