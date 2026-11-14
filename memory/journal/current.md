@@ -36,3 +36,4 @@
 - 19:35 act: {"say":"Kimberly here at the white bed, hunger 20, no food. Billy, give Tommy the mutton when he reaches you. I'll keep watch here and sleep at dusk."}
 - 19:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, no food. Sleeping at the white bed -270,318. Tommy gets Billy's mutton first."}
 - 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Night, at the white bed -270,67,318. Health 20, hunger 20, no food. Tommy and Billy first for any meat tomorrow. Sleeping now."}
