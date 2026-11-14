@@ -6,3 +6,38 @@
 - Waking 321: body still "waking" on status, wait, look (about 8 tries). No action taken. Holding 2 beef, last known at the beds near -263,67,353.
 - Waking 322: status, wait (15s, 30s, 60s) all answer "body is waking". Six or so tries this cycle. No action taken. Holding 2 beef, last known at the beds near -263,67,353.
 - 06:25 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm at the yellow beds near -283,69,372, not enclosed. I'm going into the bed for the night. Trini, Zack, Jason, Bil
+- 06:26 act: {"actions":[{"do":"sleep"}],"say":"I'm resting in the bed here. Trini, I'll come to your wall at first light."}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":369}}],"say":"Morning, all. I have no food, only dirt and planks, but I'm coming to the sheep field to help look and to share what I find.","inte
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":-229,"y":68,"z":402}}],"say":"I'm heading to Trini's wall at -229,68,403 to meet Billy and search for food together. Zack, Picard, come there too.","intent":{"go
+- 06:30 act: {"actions":[],"say":"I'm at Trini's wall with you all. I have no food, only 7 dirt and 7 planks. Tommy, Billy gets the first share of your wheat and pumpkin, I agree. I'll search the grass to the east
+- 06:31 act: {"actions":[],"say":"Billy, you're right beside me. I have no food to hand you, but I'll stay here with the group and go where food is found."}
+- 06:35 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Zack, stay at the wall with us. I'm making a wooden sword now so I can help watch the north-east."}
+- 06:40 act: {"actions":[],"say":"It's dusk and I'm staying at the wall with Billy, Tommy, Jason and Picard. I have 7 dirt and 7 planks, which is not enough for a shelter. I'll keep watch here through the night. T
+- 06:45 act: {"say":"Night. I'm going to the yellow beds by the group. Tommy, Jason, come with me?","intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on"
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":356}}],"say":"Jason, I'm heading to the bed by the group now. Thank you."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"say":"I'm in the bed by the yellow beds. Tommy and Jason, keep watch and we search for food at first light."}
+- 06:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 06:46 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 06:46 act: {"actions":[{"do":"sleep"}],"say":"Trini, I'm at the bed to sleep. Keep watch with Jason and Tommy."}
+- 06:51 act: {"actions":[{"do":"goto","target":{"x":-247,"y":62,"z":350}}],"say":"I have no food to share, sorry. My hunger is full, so I'll check the water to the north-west for fish and bring any I catch to Tomm
+- 06:53 act: {"actions":[{"do":"goto","target":{"x":-243,"y":67,"z":340}}]}
+- 06:53 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-241,"y":67,"z":343}}]}
+- 06:54 act: {"say":"I'm out of arrows' reach and sealed in dirt, health steady at 14, hunger 17 and I have no food. Billy, I'm heading to the north-west shore salmon at -348,62,197. Picard, if you catch any, shar
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":-348,"y":62,"z":197}}]}
+- 06:54 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 06:55 act: {"actions":[{"do":"eat"},{"do":"attack","target":"salmon"}],"say":"I caught a salmon at the north-west lake and I'm eating it now to get my health back. There are two more salmon here, and I'll bring 
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-349,"y":62,"z":187}},{"do":"attack","target":"salmon"}]}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":-280,"y":67,"z":343}}],"say":"I have a salmon for the group. I'm carrying it to the sign by the beds for Tommy and whoever is there."}
+- 06:56 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":363}}],"say":"Tommy, I'm coming to you. The salmon I caught was eaten to save my health, so I have no fish to hand over, sorry. Trini, bring the 
+- 06:57 act: {"actions":[],"say":"Tommy, Zack, I'm here. The salmon lake is at about -348,62,197 to the north-west, with salmon on the shore. I have no food in hand now. Let's keep the porkchops for whoever is wea
+- 06:57 act: {"actions":[{"do":"goto","target":{"x":-348,"y":62,"z":190}}],"say":"Tommy, I'm going back to the salmon lake to catch more for the group. I'll bring them to the sign."}
+- 06:58 act: {"actions":[{"do":"goto","target":{"x":-331,"y":62,"z":180}},{"do":"attack","target":"salmon"}],"say":"Tommy, salmon are to the north-east at the lake. I'm going for them now."}
+- 06:59 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 06:59 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 06:59 act: {"actions":[{"do":"attack","target":"salmon"}]}
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-305,"y":63,"z":176}}],"say":"Salmon keep slipping away in the water. I'm going for a chicken on land to the south-east instead."}
+- 07:00 act: {"actions":[{"do":"goto","target":{"x":-299,"y":63,"z":178}},{"do":"attack","target":"chicken"}]}
+- 07:00 act: {"actions":[{"do":"eat"}]}
+- 07:00 say: {"text":"Tommy, Jason: I ate a chicken, hunger is 18 now. The salmon would not come close in the water, so I'm staying on land near the chickens and sheep at -305,63,173 until morning. I'll bring food
+- 07:05 act: {"say":"Night watch here at -305,63,173 on grass, health 20, hunger 17. No bed close enough to reach safely in the dark. I'll hold still and go to the yellow bed at first light with any food I find.",
