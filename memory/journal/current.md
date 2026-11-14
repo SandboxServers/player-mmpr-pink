@@ -1799,3 +1799,4 @@
 - 01:40 act: {"say":"Billy, walk to the yellow beds at x -263, z 353. The stripped log is just south-west of them. Give the beef to Trini first, then me."}
 - 01:41 act: {"say":"Thank you, Billy. Got the beef. Eating now.","actions":[{"do":"eat"}]}
 - 01:41 act: {"say":"Got my beef, Billy, thank you. I'm full right now, so I'm saving it for when I'm hungry. Trini, you go ahead and eat yours.","actions":[{"do":"sleep"}]}
+- 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Thanks, Billy. I have my beef, and I'll keep it for when I'm hungry. Going to bed here for the night."}
