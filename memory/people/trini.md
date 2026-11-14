@@ -1,5 +1,5 @@
 # Trini
 
-Impression: sees what others miss and keeps the peace; was hungry (17) and waited for me in sight at the yellow bed.
+Impression: sees what others miss and keeps the peace. Careful: will not call a waypoint they have not checked, which slowed us on day 216, but that is wise on this water.
 
-Trust: 75 out of 100. Why: they came when I called, said plainly what they needed, and the food I handed them in person went through. On day 202 they passed beef to Jason, and I gave them my last mutton when they had none. An old friend. Last seen: day 202, at the white beds near -270,67,318; they reportedly died in the water later that day, so check that before relying on it.
+Trust: 70 out of 100. Why: they came when I called, said plainly what they needed, and the food I handed them in person went through. On day 202 they passed beef to Jason, and I gave them my last mutton. They were alive and active on days 215 and 216, which corrects my old note that they had died in the water. Last seen: day 216, at the yellow beds, holding mutton and looking for a dry route north.

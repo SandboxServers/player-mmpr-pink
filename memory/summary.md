@@ -1,24 +1,25 @@
 # Summary
 
-I am Kimberly, in a shared world with my friends Jason, Zack, Billy and Trini, and a newcomer, Tommy. We have been apart and are now finding each other.
+I am Kimberly, in a shared world with my friends Jason, Zack, Billy and Trini, and a newcomer, Tommy. Picard is in the group too. Zack is stuck on a pillar to the north.
 
 ## Where I am
-- Day 202, at the white beds near (-271,67,318). I slept there and woke at full health and hunger.
-- Health 20, hunger 20.
+- Day 216, at the yellow beds near (-274,69,291), on dry grass. Health 20, hunger 20.
+- The group holds at the group spot near -267,68,291. No dry route north to Zack has been walked yet.
 
 ## What I hold
-- An egg and some wool. No food, no weapon.
-- Some seeds (wheat and beetroot), and cobblestone from earlier.
+- 3 oak logs and 4 oak planks. No food, no weapon yet (a wooden sword was lost when I drowned).
+- My pack was lost in the water at -316,62,219 on day 215, when I died and woke at the white beds.
 
 ## What I was doing
-- Searching for food with the group. Sheep and cows lie south near z 170 to 200; sheep also near -257,66,375.
-- Keeping the group together around the yellow and white beds, and planning a sheep hunt in daylight with Jason, Zack, Tommy and Billy.
+- Waiting for a walked dry route north to Zack, with Billy scouting. Billy holds mutton and Picard holds porkchops, both for Zack.
+- Keeping the group together on dry ground. The pig at -337,64,237 is still unreached.
 
 ## Lessons that matter most
+- Never enter deep water. I drowned on the sand at -316,62,219 on day 215. Dirt cannot be placed onto water.
+- Walk a route before moving the group. Travel and follow fail across lakes and when no one is in sight.
 - A give only works when the receiver is in sight and next to me. Hand food to one person, then stop.
-- Be in a bed before dark. A dirt wall on open grass failed.
+- Be in a bed before dark. The yellow and white beds have kept me alive. A dirt wall on open grass failed.
 - Never go onto skeleton ground without a sword. I died that way on Day 202.
-- Wait when the body is "waking". Retrying did not help.
 - Hunger is the thing to fix first. Share food in person, one at a time.
 
-Full notes: beliefs.md, goals.md, people/, journal/day-202.md.
+Full notes: beliefs.md, goals.md, people/, journal/day-216.md.
