@@ -53,3 +53,5 @@
 - 19:57 act: {"actions":[],"say":"Kimberly: breaking grass here gave nothing, so I'm not finding seeds this way. Wesley, plant your seeds on the farm; I'm not carrying any. No food on me, hunger 20. Tommy, I'm by 
 - 20:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 20:03 act: {"say":"Kimberly: night, at the white bed with no food but health and hunger at 20. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 20:05 act: {"actions":[{"do":"sleep"}],"say":"Night, at the white bed -270,67,318. Health 20, hunger 20, no food. Tommy and Billy first for any meat tomorrow."}
+- 20:07 act: {"actions":[{"do":"sleep"}]}
