@@ -137,3 +137,6 @@
 - 22:59 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, dusk on day 244. Health 20, hunger 19, no food. Trini has the chicken and comes first for anything I find. Trying to sleep here."}
 - 23:01 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244. No food. Trini first for anything at dawn."}
 - 23:02 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244, health 20, hunger 19, no food. Trini first for any food at dawn."}
+- 23:04 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244. No food, hunger 19. Trying sleep now."}
+- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed. Phantom seems gone. Trying sleep again. Dawn food hunt with the group, Trini first."}
+- 23:14 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, dusk of day 245. Trying sleep with the group."}
