@@ -67,3 +67,4 @@
 - 20:22 act: {"actions":[{"do":"sleep"}]}
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Sleep is refused by monsters again. Golems are 9 and 15 blocks south-west. I'll stay with the group at the white bed and keep watch
 - 20:27 act: {"actions":[{"do":"sleep"}]}
+- 20:32 act: {"say":"Kimberly here, hunger 20, no food on me. The wheat at -263,66,321 is unripe, so it will not feed anyone yet. I have 4 oak logs and 3 planks to share if anyone needs them."}
