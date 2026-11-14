@@ -135,3 +135,5 @@
 - 22:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","unexpec
 - 22:55 act: {"say":"Kimberly at the white beds, day 244, health 20, hunger 19, no food. Trini, you are first for anything I find. I'll stay near the group and watch for animals.","intent":{"goal":"hold_at_beds_wa
 - 22:59 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, dusk on day 244. Health 20, hunger 19, no food. Trini has the chicken and comes first for anything I find. Trying to sleep here."}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244. No food. Trini first for anything at dawn."}
+- 23:02 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244, health 20, hunger 19, no food. Trini first for any food at dawn."}
