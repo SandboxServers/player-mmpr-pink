@@ -130,3 +130,38 @@
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}]}
 - 17:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Riker, Billy: I'm at the white bed near the crafting table, sleeping now. Thank you for holding the apple for me."}
 - 17:21 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, -297,68,295, hunger 17, no food. Trini, Riker, thank you. I'm sleeping now and will take food first thing at dawn."}
+- 17:21 act: {"say":"Kimberly here, at the white bed by the crafting table. It's dark, so I'll stay put and come to the yellow beds at first light. Thank you, Riker.","intent":{"goal":"reach_dawn_safe","program":"
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":291}}],"say":"Kimberly here, heading to the yellow beds now. Riker, I'm coming for the apple."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-276,"y":68,"z":291}}]}
+- 17:22 act: {"say":"Kimberly here, I'm by the yellow bed at -277,69,295. I can't see anyone yet. Riker, step into sight and I'll take the apple."}
+- 17:22 act: {"say":"Riker, I'm at -277,69,295, just south-west of the yellow bed. Please walk over where I can see you."}
+- 17:24 act: {"actions":[{"do":"eat"}],"say":"Thank you, Riker. I have the apple and I'm eating it now."}
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Ate Riker's apple, hunger is 20 now. Going to the yellow bed for the night. Thank you all."}
+- 17:25 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Ate Riker's apple already, thank you. Going into the white bed beside me for the night. Still no food for me, so any
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-288,"y":68,"z":300}}],"say":"Kimberly at dawn of day 228, hunger 17, no food yet. I'll scout the grass south-west with Jason and Tommy in sight. Call out any an
+- 17:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Kimberly: still no food, hunger 17. Going to the white bed for the night near the group. Anyone with meat or an appl
+- 17:41 act: {"actions":[{"do":"sleep"}]}
+- 17:49 act: {"say":"Kimberly here, morning of day 229. Hunger 17, no food yet. I'm going to the dry grass near the logs to look for animals; I'll call out anything I see.","intent":{"goal":"scout_grass_for_food",
+- 17:49 act: {"say":"At -292,68,300, no animals in sight. I'll walk a short way south over the grass and call anything I see.","intent":{"goal":"scout_grass_south_for_food","program":"travel","arguments":{"target"
+- 17:49 act: {"say":"At -292,69,312 now with Trini and Billy in sight. Still no animals or apples here. I'm holding on the grass; please call out any cow, pig or sheep."}
+- 17:50 act: {"say":"Wesley, thank you for the apple. I'm at -292,69,312 on the grass; walk to me and I'll eat it right away. Tommy, I see you 4 blocks away."}
+- 17:56 act: {"actions":[{"do":"eat"}],"say":"Thank you Riker, Wesley, Data. I have two apples and I'm eating one now. Everyone, thank you for sharing."}
+- 17:56 act: {"actions":[],"say":"I ate my apple and my hunger is full again. I'm keeping the last apple for when I need it. Thank you all."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}],"say":"Dusk. I'm heading to the white bed at -298,68,295 to sleep. Trini, I have one apple left; if you can reach me before dark, it's you
+- 18:00 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"apple","count":1},{"do":"sleep"}],"say":"Trini, here is my last apple. You have had no food, so take it. Goodnight, all."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Trini, thank you. I'm walking back to the bed at -298,68,294. Keep your apple until I can see you; I'll come to you."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-297,"y":68,"z":294}}],"say":"All the nearby beds are taken. I'm walking to the white beds at -298,68,294 and will look for a free one."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
+- 18:01 act: {"actions":[{"do":"sleep"}],"say":"I'm in the bed at -298,68,294 now and trying to sleep. Trini, I'm not taking your apple unless you want to give it; thank you."}
+- 18:02 act: {"actions":[],"say":"Thank you Trini, but I have no apple now; I gave it to you. Keep it. I'll stay near the group until dawn."}
+- 18:02 act: {"actions":[],"say":"Trini, keep the apple and eat it if your hunger is low. I'm fine for now. I'll stay here near the group and look for animals at first light."}
+- 18:03 act: {"actions":[],"intent":{"goal":"reach_trini_for_apple","program":"travel","arguments":{"target":{"x":-296,"y":68,"z":293}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks"
+- 18:03 act: {"actions":[],"say":"Trini, I'm beside you now. Could you hand me the apple?"}
+- 18:03 act: {"actions":[{"do":"eat"}],"say":"Thank you, Trini. I'm eating it now."}
+- 18:04 act: {"actions":[],"say":"Goodnight, Trini. Thank you. I'll stay near and look for animals at first light."}
+- 18:08 act: {"actions":[{"do":"goto","target":{"x":-310,"y":68,"z":292}}],"say":"Morning. I'm fed for now, from Trini's apple. I'm going west to search the grass for animals too. I'll call out anything I see."}
+- 18:13 act: {"actions":[],"say":"Kimberly here at the west edge, midday, no animals in sight. I'm full from Trini's apple, so food goes to whoever is weakest first. Call out any cow, pig or apple and I'll come."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"reasoning":"It is night and I am not enclosed. The nearest white bed is 12 east at -298,68,294. I will go there, then sleep.","say":"Nigh
+- 18:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at the white bed at -298,68,294, no monsters in sight, health 20. Sleep now; food is still the open problem for the morning.","intent":{"goal":"sleep_at
+- 18:29 act: {"actions":[],"say":"Kimberly at the white beds, dawn of day 231. Health and hunger 20, no food. Billy is weakest, so any meat or apple goes to him first. I'll scout the dry grass near the beds and ca
