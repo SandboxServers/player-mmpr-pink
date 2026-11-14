@@ -51,3 +51,13 @@
 - 07:06 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-305,"y":63,"z":205}},{"do":"place","block":"oak_planks","at":{"x":-306,"y":63,"z":204}},{"do":"place","block":"oak_planks","at":{"x":-305,"y":
 - 07:06 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}],"say":"I died at the north-west shore and respawned here with nothing. My dropped things lie near -306,63,205, but I won't go back at nigh
 - 07:08 act: {"intent":{"goal":"hunt_sheep_for_food","program":"travel","arguments":{"target":{"x":-283,"y":64,"z":185}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-283,"y":64,"z":185}}]}
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":-299,"y":64,"z":191}},{"do":"attack","target":"sheep"}]}
+- 07:09 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":370}}]}
+- 07:09 act: {"say":"I have 2 mutton. Coming back to the yellow bed to give it to Kimberly."}
+- 07:10 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":366}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, I have 2 mutton. Bringing it to you at the yellow bed now."}
+- 07:10 act: {"actions":[],"say":"I'm holding 2 mutton near the yellow bed at -271,68,367. Jason, Tommy, or Zack, come into sight and I'll hand it over."}
+- 07:10 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, here are the 2 mutton. Share with Tommy."}
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, I'm walking to you at the yellow bed with the mutton."}
+- 07:11 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":2}],"say":"Tommy, Jason was out of reach and the way was blocked, so I'm giving you the 2 mutton. Please share with Jason when you s
+- 07:11 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":370}}],"say":"Dusk is coming. I'm holding 2 mutton for whoever is hungry. I'll sleep in the yellow bed now."}
