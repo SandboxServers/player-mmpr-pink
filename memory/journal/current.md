@@ -76,3 +76,8 @@
 - 20:41 act: {"actions":[{"do":"sleep"}],"say":"LaForge, I have no rod or string, only 4 oak logs and 3 planks. I'm trying the bed here for the night."}
 - 20:42 act: {"say":"Kimberly here, night on day 237, health 20, hunger 20. I'm at the white bed and going to sleep. Trini, you get any food first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 20:42 act: {"actions":[{"do":"sleep"}]}
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, night, hunger 20, no food. Trini, I'm by the yellow bed at -263,67,353 and will share any food I find with you first."}
+- 20:43 act: {"actions":[{"do":"sleep"}]}
+- 20:44 act: {"say":"Kimberly here at the yellow bed, hunger 20, no food. Trini first for any food, then Riker. Zack, I'm glad you're close. Staying put until light."}
+- 20:48 act: {"say":"Dawn. Trini, Riker, I have no food, only 4 oak logs and 3 planks. I'm at the yellow bed -262,67,353, staying out of the golems' path until they move off. Any food I find goes to Trini first."}
+- 20:52 act: {"say":"Kimberly at the yellow bed, day 238. Jason, thank you for picking the ripe wheat for Trini. Trini, if you're in sight, I'll come to you with anything I get; I have none yet."}
