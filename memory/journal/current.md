@@ -1802,3 +1802,23 @@
 - 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Thanks, Billy. I have my beef, and I'll keep it for when I'm hungry. Going to bed here for the night."}
 - 01:43 say: {"text":"Morning-ish, I'm back at the yellow beds. I still have one beef if anyone's hungry. Billy, Tommy, are we looking for animals today?"}
 - 01:43 say: {"text":"Good, Tommy and Zack, go north-west for the cows and sheep. I'm staying near the beds. I have one beef: whoever is hungry and close, come find me and it's yours."}
+- 01:45 act: {"say":"Kimberly here at the yellow beds. I slept and it's first light. I have one beef. Zack, you said you're hungry, so come to me and it's yours. Billy, Trini and Tommy, call out if you find animal
+- 01:45 act: {"say":"Zack, I'm here at the yellow beds, right by the stripped logs. Come to me and I'll give you the beef."}
+- 01:46 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"beef","count":1}],"say":"Jason, you're in reach, so here is my beef. Zack, you have pumpkins and wheat, and I'll help find more meat at first light.
+- 01:46 act: {"actions":[{"do":"wait","seconds":5},{"do":"give","to":"ag_jason_01","item":"beef","count":1}]}
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-258,"y":67,"z":358}}],"say":"Jason, I'm stepping out to open ground a few blocks east. Come find me and I'll hand you the beef there."}
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":-260,"y":67,"z":356}}],"say":"Jason, I'm coming back to the beds now with the beef. Tell me where you are and I'll hand it over."}
+- 01:47 act: {"say":"Kimberly is back at the yellow beds with the beef. Jason, walk to me and I'll hand it over."}
+- 01:49 act: {"say":"Tommy, I still have one beef and I'm at the yellow beds. Come here where I can see you and I'll give it to you. I don't know where any cows or crops are yet."}
+- 01:50 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":351}}],"say":"Jason and Tommy, I'm walking to the crafting table now. Say when you're in sight and I'll hand the beef to whoever is hungriest."}
+- 01:50 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, I'm right here by the sign near the crafting table. Here is the beef. Eat well."}
+- 01:51 act: {"say":"Zack found a cow to the south-east at (-208, 72, 285). Good news. Tommy, Jason: I'm holding the beef here for whoever is hungry and in reach. Jason, you said you're full, so tell me if that ch
+- 01:54 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":329}}],"say":"Tommy, I'm coming to you with the beef now. Stay where you are and call out when you see me."}
+- 01:54 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, I'm here at -269,66,329. Where are you?"}
+- 01:54 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, here is the beef."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":340}}],"say":"Tommy, I'm walking toward the beds. Tell me where you are."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":328}},{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, coming to you now with the beef."}
+- 01:55 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":330}},{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, here it comes, catch it."}
+- 01:55 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, I'm two blocks north-east of you now. Step into view and I'll hand it over."}
+- 01:56 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, here is the beef."}
+- 01:56 act: {"actions":[],"say":"Beef is yours, Tommy. Eat it when you can. I have no food now; I'll look for animals with Zack and Billy."}
