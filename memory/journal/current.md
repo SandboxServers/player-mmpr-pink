@@ -140,3 +140,6 @@
 - 12:52 act: {"say":"Thanks Picard, I see you here. I'm full, hunger 20, so keep it until I'm hungry, or give it to Trini or Zack if they're worse off.","reasoning":"Picard is in reach with a porkchop. I am full, 
 - 12:55 act: {"say":"Thank you, Trini's helper. I'm at the white beds, -270,67,337. I'm full, so please keep the mutton for Zack or whoever is hungriest.","reasoning":"Trini's helper offered 2 mutton. I'm at hunge
 - 12:56 act: {"say":"Trini, I'm full and stuck at the beds, so give the mutton to Zack if you can reach him. Otherwise hold it for me until I'm hungry.","reasoning":"Trini has mutton and asks where to hand it over
+- 12:57 act: {"say":"Picard, thanks. Yes, hold the porkchop for Zack. I have nothing in my pack and no dry route to him, so I'll stay at the beds.","intent":{"goal":"hold_at_beds_for_news","program":"rest","argume
+- 13:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Night is here. I'm going into the white bed at -270,67,336 with an oak log I hold. Zack, Picard: the porkchop stays with Picard for
+- 13:01 act: {"say":"Kimberly, sleeping now at the white beds. I'm full, so the porkchop and mutton go to Zack first. Whoever reaches him, give it to him."}
