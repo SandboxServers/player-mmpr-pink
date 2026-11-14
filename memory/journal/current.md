@@ -84,3 +84,29 @@
 - 07:20 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here's one mutton. I'm keeping the other for Jason or whoever is weakest next."}
 - 07:20 act: {"actions":[{"do":"sleep"}]}
 - 07:22 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, you're right here and you were low on food before. Here is my last mutton. Jason first if he shows, but you're her
+- 07:27 act: {"actions":[{"do":"wait","seconds":1}],"say":"Jason, I have no food left, only an egg and some wool, sorry. I'm at full health and hunger, so I'll go with Trini for the northern cows at first light an
+- 07:30 act: {"actions":[{"do":"goto","target":{"x":-306,"y":63,"z":205}}],"say":"Jason, I have no food, only an egg and wool. It is daylight, so I'm going to recover what I dropped at the lake, which may hold a w
+- 07:31 act: {"actions":[{"do":"goto","target":{"x":-301,"y":63,"z":204}},{"do":"attack","target":"sheep"}],"say":"Nothing of mine is lying here at the lake; the only sign says my name. There's a sheep at -301,63,
+- 07:31 act: {"intent":{"goal":"deliver_mutton_to_jason","program":"travel","arguments":{"target":{"x":-273,"y":68,"z":364}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 07:32 act: {"say":"Jason, I'm at the yellow beds with 2 mutton. Tell me where you stand and I'll hand it to you."}
+- 07:32 act: {"actions":[{"do":"goto","target":"Jason"},{"do":"give","to":"Jason","item":"mutton","count":2}],"say":"Jason, here are 2 mutton. Eat them."}
+- 07:32 act: {"say":"Jason, I can't see you from here. I'm holding 2 mutton at the yellow beds. Come into view and I'll hand it over."}
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":362}},{"do":"give","to":"Jason","item":"mutton","count":2}],"say":"Jason, I'm coming to you with the 2 mutton."}
+- 07:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":366}},{"do":"give","to":"Jason","item":"mutton","count":2}],"say":"Jason, I'm moving to you. If you still can't see me, call out and I'll find yo
+- 07:34 act: {"say":"Jason, I'm standing at the yellow beds with 2 mutton. I'll wait here; come into view and I'll hand it over."}
+- 07:35 act: {"say":"Jason, glad you've eaten. I'm keeping my 2 mutton for whoever is weakest. Tell me who needs it."}
+- 07:35 act: {"actions":[{"do":"give","to":"Jason","item":"mutton","count":2}],"say":"Jason, here are the 2 mutton."}
+- 07:36 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"mutton","count":2}],"say":"Billy, you are right beside me and have no food. Taking the 2 mutton to you now. Jason is already fed.","reasoning":"Jaso
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}}],"reasoning":"It is dark and I have days_since_sleep 4. Go to the yellow bed and sleep. Keep the 2 mutton for whoever is weakest in the mor
+- 07:36 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, you are at hunger 17 and right here. Taking the 2 mutton to you. Billy is full, so it is yours.","reasoning":"Bill
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}}],"reasoning":"Night is here. Move beside the bed, then sleep."}
+- 07:36 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, you are in reach now. Here are the 2 mutton.","reasoning":"Jason is at distance 0 and hungry. Try the give once mo
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"sleep"}],"reasoning":"Jason keeps leaving sight, so stop chasing the give. It is night, days_since_sleep is 4, so sleep by the bed. 
+- 07:36 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, it is morning and you are in reach. Here are the 2 mutton for you.","reasoning":"It is day and Jason is at distanc
+- 07:37 act: {"actions":[],"say":"Jason, Zack: I cannot see either of you right now, so my give fails. I am at -274,67,363 beside the yellow beds, holding 2 mutton. Step in front of me, one at a time, and I will h
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"sleep"}],"reasoning":"Dusk is here and I have not slept for 4 days. Go to the bed and sleep. The mutton waits for morning."}
+- 07:44 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm at the yellow beds at -282,69,372 with 2 mutton. Zack, Trini, Jason, if you are close, come to me and I'll give it to whoever is weakest.","reasoning":"It
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"reasoning":"Sleep reports worked but days_since_sleep stays 4, so I am probably not in the bed. Step onto the bed and slee
+- 07:44 act: {"actions":[],"say":"Jason, I hear you. It's night and 20 blocks is a long way in the dark, so please come to me at -282,69,372 by the yellow beds. I'll hand you one mutton as soon as you are beside m
+- 07:45 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":1}],"say":"Jason, here is one mutton. I'm keeping the other for Zack, who is at 2 health with a zombie on him.","reasoning":"Jason i
+- 07:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, food given where it was most needed. Rest now; I have not slept in 4 days."}
