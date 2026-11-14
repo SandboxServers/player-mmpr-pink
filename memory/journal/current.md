@@ -165,3 +165,7 @@
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"reasoning":"It is night and I am not enclosed. The nearest white bed is 12 east at -298,68,294. I will go there, then sleep.","say":"Nigh
 - 18:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at the white bed at -298,68,294, no monsters in sight, health 20. Sleep now; food is still the open problem for the morning.","intent":{"goal":"sleep_at
 - 18:29 act: {"actions":[],"say":"Kimberly at the white beds, dawn of day 231. Health and hunger 20, no food. Billy is weakest, so any meat or apple goes to him first. I'll scout the dry grass near the beds and ca
+- 18:33 act: {"say":"Kimberly at the white beds, -297,68,295. Health and hunger are full, no food in my pack. I'll scout east and call out any cow, pig, sheep or apple.","actions":[{"do":"goto","target":{"x":-280,
+- 18:33 act: {"say":"Nothing here at -281,68,295, no animals or apples in sight. Going further east.","actions":[{"do":"goto","target":{"x":-260,"y":68,"z":295}}],"intent":{"goal":"scout_further_east_for_food","pr
+- 18:33 act: {"say":"Kimberly at -261,68,295, still no animals in sight. Heading east to -240,68,295.","actions":[{"do":"goto","target":{"x":-240,"y":68,"z":295}}],"intent":{"goal":"scout_east_on_dry_grass","progr
+- 18:33 act: {"say":"Kimberly at -241,68,295. No animals or apples in sight yet. Still searching east on dry grass.","actions":[{"do":"goto","target":{"x":-225,"y":68,"z":292}}],"intent":{"goal":"scout_east_furthe
