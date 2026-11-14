@@ -25,3 +25,4 @@
 - 09:36 act: {"actions":[],"say":"Agreed, Billy. I'm at the beds with you. We go for the pig at first light by the dry path, and I'll keep out of the deep water.","intent":{"goal":"wait_at_beds_for_first_light","p
 - 09:38 act: {"actions":[],"say":"Picard, I have no food either. The pig at -337,64,237 is our first-light target by the dry path. Join us at the beds if you want to come.","reasoning":"Picard asked for safe food.
 - 09:38 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}],"say":"Good night, Tommy and Billy. I'm going into the bed at -298,68,294. First light, the pig at -337,64,237.","reasoning":"Dusk is near
+- 09:39 say: {"text":"Good night, Tommy. I'm at the bed too. First light, the pig at -337,64,237, meat to Jason first."}
