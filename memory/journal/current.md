@@ -40,3 +40,9 @@
 - 19:43 act: {"intent":{"goal":"deliver_mutton_to_tommy","program":"travel","arguments":{"target":"tommy"},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max
 - 19:43 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is the mutton from Billy. Eat it."}
 - 19:45 act: {"actions":[{"do":"note","text":"Day 234 night: Billy asked me to take mutton to Tommy. Tommy went out of sight twice; give failed. I still hold the mutton and will hand it to him at first sight tomor
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Going to the white bed at -270,67,318 with the group. I still hold Billy's mutton for Tommy.","intent":{"goal
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_in_free_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
+- 19:46 act: {"actions":[],"say":"Tommy, I'm at the yellow bed near -271,67,326, hunger 20. I'll hand you the mutton the moment you're in sight next to me."}
+- 19:47 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is Billy's mutton. Eat it."}
+- 19:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:48 act: {"actions":[],"say":"Dawn. Tommy has Billy's mutton, thank you. I still have no food, hunger 20, health 20. I'll look for animals on the grass near the beds.","intent":{"goal":"scout_grass_near_beds_f
