@@ -1829,3 +1829,15 @@
 - 02:00 act: {"actions":[{"do":"sleep"}]}
 - 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Stand at the bed before sleeping."}
 - 02:03 say: {"text":"Kimberly here at the yellow beds, hunger full at 20 and pack empty. Zack, Tommy, I'll search with you at first light and share whatever I find."}
+- 02:03 act: {"say":"Kimberly here, at the yellow beds with full health and hunger. My pack is empty. I'll sleep here and search for food at first light with Zack and Tommy.","actions":[{"do":"goto","target":{"x":
+- 02:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Previous sleep did not register; retry once from beside the bed."}
+- 02:03 act: {"actions":[{"do":"wait","seconds":240}],"reasoning":"Night, safe and full. Pass time until morning instead of re-trying sleep."}
+- 02:04 act: {"say":"Zack, yes, I'll search west with you at first light. I'm at the yellow beds with full health and hunger, so you eat first.","actions":[{"do":"wait","seconds":240}],"reasoning":"Agree to the jo
+- 02:07 act: {"say":"Kimberly here, heading west with Zack and Jason to look for cows and sheep. I'll call out if I find any.","intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"
+- 02:08 act: {"say":"Kimberly, at -300,66,327 and no animals in sight. Going further west.","intent":{"goal":"search_further_west","program":"travel","arguments":{"target":{"x":-330,"y":66,"z":327}},"wake_on":["di
+- 02:08 act: {"say":"Tommy, I'm perched on a ledge at -330,73,327 with drops to the north-west. Zack, tell Tommy where you are. Tommy, don't walk the north-west edge.","actions":[{"do":"unstick"}],"reasoning":"Stu
+- 02:08 act: {"intent":{"goal":"search_south_west_for_animals","program":"travel","arguments":{"target":{"x":-325,"y":66,"z":345}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_co
+- 02:09 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in a pit; get free before travelling again."}
+- 02:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Pit exit failed. Raise myself with dirt under my feet, then try unstick again."}
+- 02:09 act: {"say":"Kimberly, out of the pit. Zack and Tommy, I'm heading to -299,67,327 to meet you. Billy has a pig to the south.","intent":{"goal":"rejoin_group_at_meeting_point","program":"travel","arguments"
+- 02:10 act: {"say":"Kimberly here at -300,67,327. Zack, I'm coming with you to the pig near -252,68,456. Billy, hold it for Zack and Tommy.","intent":{"goal":"join_pig_hunt_near_billy","program":"travel","argumen
