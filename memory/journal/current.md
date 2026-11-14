@@ -63,3 +63,8 @@
 - 14:55 act: {"intent":{"goal":"reach_yellow_bed_with_jason","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
 - 14:55 act: {"say":"Jason, I'm here at the yellow bed. No food on my side. I'll go with you for the pig at first light and give any meat to Trini first."}
 - 14:56 act: {"say":"Agreed, Jason and Tommy. At first light we hunt the pig near -168,89,225 together, and meat goes to Trini first. I'm staying by the yellow bed until then."}
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Picard, I'm in the white bed at -298,68,294 for the night. Hunger 17, no food. At first light I'll join the pig hunt
+- 15:05 act: {"actions":[{"do":"sleep"}],"say":"Kimberly holding at the white bed -297,68,295 until morning. Health 5.8, hunger 17.","reasoning":"Still night, in a bed with nobody attacking. Retry sleep once, then
+- 15:07 act: {"actions":[],"say":"Trini, thank you. I'm at the white bed, -297,68,295, on grass, dry. Walk to me and I'll take the porkchop. Then the pig hunt.","reasoning":"Dawn. Trini is bringing porkchop to me 
+- 15:08 act: {"actions":[],"say":"Trini, thank you. I ate the porkchop; health 7.6, hunger 19. I'll hunt with the group. Jason, Tommy, where are you now?","reasoning":"Received porkchop from Trini and ate. Health 
+- 15:08 act: {"actions":[{"do":"goto","target":"Jason"}],"say":"Morning. Jason, I'm walking to you on the grass now. Then we go for the pig at -168,89,225 together. Trini, you walk behind us.","intent":{"goal":"jo
