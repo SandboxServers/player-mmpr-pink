@@ -128,3 +128,5 @@
 - 17:17 act: {"actions":[],"say":"I'm at the north yellow beds now. Riker, where are you? Please give me the apple.\""}
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}],"say":"Dusk. I'm going to the yellow bed here to sleep. Riker, if you're near, please give me the apple first."}
 - 17:20 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}]}
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Riker, Billy: I'm at the white bed near the crafting table, sleeping now. Thank you for holding the apple for me."}
+- 17:21 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, -297,68,295, hunger 17, no food. Trini, Riker, thank you. I'm sleeping now and will take food first thing at dawn."}
