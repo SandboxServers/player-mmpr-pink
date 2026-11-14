@@ -1822,3 +1822,5 @@
 - 01:55 act: {"actions":[{"do":"wait","seconds":5}],"say":"Tommy, I'm two blocks north-east of you now. Step into view and I'll hand it over."}
 - 01:56 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"beef","count":1}],"say":"Tommy, here is the beef."}
 - 01:56 act: {"actions":[],"say":"Beef is yours, Tommy. Eat it when you can. I have no food now; I'll look for animals with Zack and Billy."}
+- 01:57 act: {"say":"Tommy, glad the beef reached you. I have nothing in my pack now. I'll search the grass to the west for animals and call out if I find any.","intent":{"goal":"search_animals_west","program":"tr
+- 01:57 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-285,"y":66,"z":330}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_t
