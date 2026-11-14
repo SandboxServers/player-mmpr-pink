@@ -106,3 +106,6 @@
 - 16:28 act: {"say":"Kimberly at the white bed, -270,67,318, daylight. Health 8.7, hunger 16, no food. Billy, I'm here. Let's scout the dry grass within sight; any animal goes to me first.","actions":[]}
 - 16:30 say: {"text":"Thank you all. I'm holding at the white bed, -270, 67, 318, in sight of Tommy. Any meat, bring it here."}
 - 16:33 say: {"text":"Kimberly here at the white beds. No food yet. Billy, Trini, Jason: let's scout the dry grass together. Any meat or bread comes to me first, as agreed."}
+- 16:38 act: {"say":"Kimberly here at the white beds, -270,67,318. Health 8.7, hunger 16, no food. Jason, I'll scout the dry grass nearby for animals and call any I see.","actions":[{"do":"note","text":"Day 225 mo
+- 16:38 act: {"say":"Kimberly: no animals seen on the dry grass near -280,68,311. Heading back to the white beds with the group now. Morning, we scout again.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":
+- 16:39 act: {"say":"Billy, Tommy, thank you. Dusk now, I'm taking the white bed here at -270,67,318 for the night. Health 8.7, hunger 16. Any meat, bring to me first thing.","actions":[{"do":"sleep"}]}
