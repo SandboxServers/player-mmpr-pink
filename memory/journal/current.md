@@ -1,3 +1,14 @@
 # Journal
 - 13:42 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Night. I'm going to the white bed here to sleep.","reasoning":"Night, bed adjacent, sheltered near group. Sleep then
 - 13:44 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Night. Going to sleep in the white bed here, near Jason.","reasoning":"Night has come, health and hunger are full, a
+- 13:44 act: {"say":"Goodnight, Jason. I'm by the white bed, health 20. I'll sleep here.","actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}}]}
+- 13:44 act: {"actions":[{"do":"sleep"}]}
+- 13:45 act: {"say":"Sleep worked, but it's still night and I'm still awake. I'll stay by the white bed with Jason, in sight.","actions":[{"do":"wait","seconds":1}]}
+- 13:49 act: {"say":"Morning. I'll scout north on foot along the grass, only calling waypoints I actually walk. First stop: the sign 10 north of the white beds.","actions":[{"do":"goto","target":{"x":-297,"y":68,"
+- 13:49 act: {"say":"I walked to -298,68,285, on grass, by the sign. Water lies 3 east of here at z 286, so I'm not going that way. No dry route north is walked yet past this point.","actions":[]}
+- 13:49 act: {"say":"Zack, I'm heading north on grass now. I'll call each waypoint only after I walk it.","actions":[{"do":"goto","target":{"x":-300,"y":68,"z":275}}]}
+- 13:49 act: {"say":"Walked waypoint: -300,66,275, on grass, dry. The way further north was blocked, so I stopped here. A horse is coming from the east. I'll look for another line north.","actions":[]}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":-306,"y":67,"z":272}}],"intent":{"goal":"scout_dry_route_north","program":"travel","arguments":{"target":{"x":-306,"y":67,"z":272}},"wake_on":["directly_addresse
+- 13:50 act: {"say":"Walked waypoint: -306,67,272, on grass, dry. Going on from here, north-west, and I'll call the next one once walked.","actions":[]}
+- 13:50 act: {"say":"Going north now from -306,67,272 toward -306,67,255, on grass.","actions":[{"do":"goto","target":{"x":-306,"y":67,"z":255}}],"intent":{"goal":"scout_dry_route_north","program":"travel","argume
+- 13:51 act: {"say":"Walked waypoint: -306,65,256, on grass, dry. Deep water lies 7 west, so I'm keeping away from it. The route north is still open here.","actions":[]}
