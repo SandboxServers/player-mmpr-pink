@@ -41,3 +41,13 @@
 - 07:00 act: {"actions":[{"do":"eat"}]}
 - 07:00 say: {"text":"Tommy, Jason: I ate a chicken, hunger is 18 now. The salmon would not come close in the water, so I'm staying on land near the chickens and sheep at -305,63,173 until morning. I'll bring food
 - 07:05 act: {"say":"Night watch here at -305,63,173 on grass, health 20, hunger 17. No bed close enough to reach safely in the dark. I'll hold still and go to the yellow bed at first light with any food I find.",
+- 07:05 act: {"actions":[{"do":"attack","target":"cow"}],"say":"Going for the cow to the south, close by. I'll bring the meat to the group."}
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":-292,"y":64,"z":180}}],"say":"I have 2 beef from the cow. I'm getting out of the water and will bring it to Tommy and Zack at the yellow bed."}
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":360}}],"say":"Heading south to the yellow bed by the signs with 2 beef for Tommy and Zack. Skeleton to the south-west, I'll keep clear of it."}
+- 07:05 act: {"actions":[{"do":"attack","target":"skeleton"}],"say":"A skeleton is shooting at me from the south-west. I'm closing in on it."}
+- 07:05 act: {"actions":[{"do":"attack","target":"skeleton"}]}
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":-305,"y":63,"z":196}}],"say":"I'm at 9 health and have no weapon. Pulling away from the skeleton to the south-west."}
+- 07:06 act: {"actions":[{"do":"goto","target":{"x":-306,"y":63,"z":206}}]}
+- 07:06 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-305,"y":63,"z":205}},{"do":"place","block":"oak_planks","at":{"x":-306,"y":63,"z":204}},{"do":"place","block":"oak_planks","at":{"x":-305,"y":
+- 07:06 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":371}}],"say":"I died at the north-west shore and respawned here with nothing. My dropped things lie near -306,63,205, but I won't go back at nigh
+- 07:08 act: {"intent":{"goal":"hunt_sheep_for_food","program":"travel","arguments":{"target":{"x":-283,"y":64,"z":185}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_
