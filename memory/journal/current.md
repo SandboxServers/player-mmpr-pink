@@ -1687,3 +1687,25 @@
 - 00:00 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"x":-263,"y":67,"z":355},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"m
 - 00:00 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":355}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
 - 00:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 00:01 act: {"say":"Tommy, I'm here. I have 2 rotten flesh and 19 wheat seeds, no food yet. Heading to the group at the yellow beds.","intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"x":-263
+- 00:01 act: {"intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 00:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow beds. Still no real food, only 2 rotten flesh. Sleeping here with you, Jason."}
+- 00:05 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 00:06 act: {"intent":{"goal":"reach_beds_for_pumpkins","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 00:06 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"rotten_flesh","count":1}],"say":"Jason, I'm at the beds. Could you give me the 2 pumpkins? I'll trade you the wheat seeds if you want them."}
+- 00:06 act: {"say":"Jason, I gave you a rotten flesh by mistake, that was my only food. Could you give it back, and the 2 pumpkins too? Sorry.","intent":{"goal":"wait_for_jason_pumpkins","program":"trade_wait","a
+- 00:07 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. I'm eating now. Tomorrow I'll look for sheep and wheat with you."}
+- 00:10 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is my wooden sword. Note: pumpkins are not edible here, I tried. Tommy's wheat is our food; I'll look for
+- 00:10 act: {"actions":[{"do":"goto","target":{"x":-265,"y":68,"z":350}}],"say":"Zack, I'm stepping back to give you the sword. Please wait here."}
+- 00:11 act: {"say":"Zack, I'm keeping the sword for you; find me at the beds. Tommy, Jason, Billy: let's search for sheep to the south-east together.","intent":{"goal":"search_sheep_south_east","program":"travel"
+- 00:11 act: {"intent":{"goal":"return_to_beds_for_zack","program":"travel","arguments":{"target":{"x":-264,"y":67,"z":348}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
+- 00:12 act: {"intent":{"goal":"join_sheep_search","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":375}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tic
+- 00:18 act: {"intent":{"goal":"reach_zack_with_sword","program":"travel","arguments":{"target":{"x":-259,"y":66,"z":356}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world
+- 00:18 act: {"intent":{"goal":"reach_zack_at_beds","program":"travel","arguments":{"target":{"x":-261,"y":66,"z":357}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 00:18 act: {"actions":[],"say":"Zack, I'm at the beds with your wooden sword. I can't see you. Come close and I'll hand it over."}
+- 00:19 act: {"intent":{"goal":"reach_zack_for_sword","program":"travel","arguments":{"target":{"x":-260,"y":66,"z":353}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":300,"max_block
+- 00:19 act: {"actions":[],"say":"Zack, I can't see you from here. Step out where I can see you, two or three blocks away, and I'll hand the sword over."}
+- 00:20 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":300,"max_block_
+- 00:20 act: {"intent":{"goal":"step_off_for_sword_hand_over","program":"travel","arguments":{"target":{"x":-258,"y":66,"z":356}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":200,"m
+- 00:20 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":200,"max_block_ope
+- 00:20 act: {"say":"Zack, I still have the wooden sword for you. I will give it when we are a few blocks apart in the morning.","actions":[]}
