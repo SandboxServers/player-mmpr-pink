@@ -1859,3 +1859,8 @@
 - 05:14 act: {"say":"Iron golem about 13 blocks north-east at -241, 68, 347. Keep clear of it. I'm at the old farm with Tommy."}
 - 05:15 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"apple","count":1}],"say":"Trini, I'm sending you my apple. My hunger is still full, so it's yours. I also saw a
 - 05:15 act: {"actions":[],"say":"Tommy, I haven't tilled any soil yet, so I can't tell you how. I've only got dirt and saplings in my pack. Zack went west to look for animals."}
+- 05:16 act: {"say":"Tommy, I can't till either, sorry. I'm heading south-west to look for animals and berries, away from the iron golem.","intent":{"goal":"search_animals_southwest","program":"travel","arguments"
+- 05:16 act: {"actions":[{"do":"unstick"}],"say":"I'm in a pit. Getting out now."}
+- 05:16 act: {"intent":{"goal":"search_animals_west","program":"travel","arguments":{"target":{"x":-285,"y":68,"z":400}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_t
+- 05:17 act: {"actions":[{"do":"mine","block":"dirt","count":5}],"intent":{"goal":"night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["directly_addressed","goal_complete
+- 05:17 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"I'm burrowed in for the night. No animals found yet; tomorrow I'll look west and south."}
