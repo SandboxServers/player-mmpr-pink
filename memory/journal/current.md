@@ -1783,3 +1783,4 @@
 - 01:17 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Thanks Jason. I'm at the beds with nothing, and I'll wait here for the food.","intent":{"goal":"await_food_at_beds","program":"rest
 - 01:19 say: {"text":"Billy, hold them. Jason is bringing food to Zack, so I'll wait at the beds and look for more food with you."}
 - 01:20 say: {"text":"I drowned out west at x-277 z347 and lost my things there. I'm back at the beds with empty hands. I'll rest here tonight, then look for food at first light."}
+- 01:21 say: {"text":"It's night and I'm at the yellow beds with Billy and Trini. I have no food, but my hunger is full for now. I'll rest here and look for food at first light."}
