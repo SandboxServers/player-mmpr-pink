@@ -1709,3 +1709,7 @@
 - 00:20 act: {"intent":{"goal":"step_off_for_sword_hand_over","program":"travel","arguments":{"target":{"x":-258,"y":66,"z":356}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":200,"m
 - 00:20 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":200,"max_block_ope
 - 00:20 act: {"say":"Zack, I still have the wooden sword for you. I will give it when we are a few blocks apart in the morning.","actions":[]}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"eat"}],"say":"Night is here. I'm heading to the bed to rest, then the sword and the food search at first light.","reasoning":"Night,
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Sleep failed at range; move into the bed spot first, then retry sleep once."}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}],"say":"Zack, I'm at the beds. I'll bring the sword in the morning from a few blocks off.","reasoning":"Iron golem to the east at night. Ge
+- 00:21 act: {"actions":[{"do":"sleep"}],"reasoning":"I'm beside the yellow bed in the group's spot. Sleep now."}
