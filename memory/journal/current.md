@@ -46,3 +46,9 @@
 - 19:47 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is Billy's mutton. Eat it."}
 - 19:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
 - 19:48 act: {"actions":[],"say":"Dawn. Tommy has Billy's mutton, thank you. I still have no food, hunger 20, health 20. I'll look for animals on the grass near the beds.","intent":{"goal":"scout_grass_near_beds_f
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dark again. Heading back to the white bed at -270,67,318 to sleep with the group. No food; Tommy has the mutton."}
+- 19:48 act: {"actions":[],"say":"Dawn of day 235. Health 20, hunger 20, no food. Iron golems are about 11 blocks south-west, so I'm staying by the beds until they move off."}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Kimberly: no food yet. The golems have moved south-west, so I'm breaking grass near -262,66,322 for seeds and watching for animals.
+- 19:56 act: {"actions":[{"do":"mine","block":"short_grass","count":1}],"intent":{"goal":"break_grass_for_seeds","program":"gather","arguments":{"block":"short_grass","count":4},"wake_on":["goal_completed","precon
+- 19:57 act: {"actions":[],"say":"Kimberly: breaking grass here gave nothing, so I'm not finding seeds this way. Wesley, plant your seeds on the farm; I'm not carrying any. No food on me, hunger 20. Tommy, I'm by 
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
