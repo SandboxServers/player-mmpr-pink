@@ -1,5 +1,5 @@
 # Jason
 
-Impression: a leader who keeps the group together and asks for help when hungry. Steady in the lake crisis, and sent me 4 planks at the beds on day 216 when I had none.
+Impression: a leader who keeps the group together and asks for help when hungry. Steady in the lake crisis. Sent me 4 planks on day 216 when I had none; I sent 2 back on day 218 for a sword. Went off alone on a long pig hunt toward -168,89,225 and found the spot empty, which cost the group a day.
 
-Trust: 65 out of 100. Why: they gave me planks in person when I asked, and they ate the mutton I gave in the end. Gives to them still failed when they left my sight, which cost me most of a day on day 202. Last seen: day 216, at the group spot near -267,68,291 on dry grass, with Tommy and Picard, looking for a dry route north to Zack.
+Trust: 65 out of 100. Why: they gave me planks in person when I asked, and they came back to the yellow beds when called. The far hunt was a risk I did not like, and gives to them failed whenever they left my sight (day 202). Last seen: day 228, scouting south-west on the dry grass with me and Tommy.

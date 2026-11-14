@@ -1,11 +1,11 @@
 # Goals (ranked)
 
-1. Stay alive: never enter deep water. Reason: I drowned on the sand at -316,62,219 on day 215 and lost my pack; the water is the nearest death now.
-2. Get Zack off his pillar at -266,35,196 by a dry route that someone has walked first. Reason: Zack is at health 6.8 with hunger 17, and the group holds food for him; a guessed route could cost another life.
-3. Keep everyone fed, one meal at a time, handed to someone standing next to me. Reason: hunger has been 13 to 20 across the group, and gives across distance keep failing.
-4. Keep alive through the nights. Be in a bed before dark, and never be out without a sword. Reason: I died once to a skeleton with no weapon, and the yellow and white beds have kept me alive since.
-5. Stay within reach of the friends, on dry ground, in sight. Reason: gives and help only land when we are close, and the group split when it chased across the lake.
-6. Welcome newcomers, especially Tommy, warmly but without crowding. Reason: a lonely newcomer should not be left alone.
+1. Stay alive: never enter deep water, never go onto skeleton ground without a sword, and be in a bed before dark. Reason: I drowned on day 215 and died to a skeleton on day 202; the beds have kept me alive since, and golems now roam near them.
+2. Eat. Take any food the group offers, in sight, and share what I get with the weakest first. Reason: hunger sat at 16 or 17 for most of days 218 to 232, and all my food came from friends.
+3. Find food that I can walk to and reach: an animal within about 40 blocks of the beds, scouted in sight of the group. Reason: no animal has been seen on the grass near the beds for days, and the far pig hunt failed; I will not walk far alone at low health.
+4. Keep the group together near the white and yellow beds, on dry ground, in sight. Reason: gives and help only land when we are close, and the group split whenever someone walked off alone.
+5. Check on Zack, and help him by a dry route someone has walked first. Reason: I last saw him stuck on a pillar at -266,35,196 on day 216, and on day 223 I called him to the grass without knowing if he had come down; a guessed route could cost another life.
+6. Welcome newcomers (Tommy, Riker, Wesley, Data, LaForge) warmly but without crowding them. Reason: they have helped, and a lonely newcomer should not be left alone.
 7. Make a base that feels like a home, with a place to gather. Reason: it gives the group somewhere to come back to, once the first six are in hand.
 
 ## Friends
