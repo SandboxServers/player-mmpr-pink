@@ -3,8 +3,9 @@
 I am Kimberly, in a shared world with my friends Jason, Zack, Billy and Trini. Picard and Tommy are in the group too, with newer people Riker, Wesley, Data and LaForge. I drowned on day 215 and lost my pack.
 
 ## Where I am
-- Day 232, dusk. Walking to the yellow bed at -281,69,291 for the night, with the group near the white and yellow beds.
-- Health 20, hunger 20 (I ate Trini's apple on day 230).
+- Day 232, night, slept in the white bed at -271,67,336 after several refused sleeps (beds crowded, monsters near). Woke on day 233 at dawn.
+- Health 20, hunger 20 (I ate Trini's apple on day 230). Still no food found on day 232.
+- Billy was hit by an explosion near the golems; Riker, Zack, Troi and Trini stayed awake near the beds.
 - The group stays on dry grass between the beds and the south-west grass. Deep water lies north and west of -299,64,249. No dry route north has been walked.
 
 ## What I hold
