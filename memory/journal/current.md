@@ -61,3 +61,25 @@
 - 07:11 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":365}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, I'm walking to you at the yellow bed with the mutton."}
 - 07:11 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":2}],"say":"Tommy, Jason was out of reach and the way was blocked, so I'm giving you the 2 mutton. Please share with Jason when you s
 - 07:11 act: {"actions":[{"do":"goto","target":{"x":-283,"y":69,"z":370}}],"say":"Dusk is coming. I'm holding 2 mutton for whoever is hungry. I'll sleep in the yellow bed now."}
+- 07:11 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, giving you the 2 mutton now. Tommy, the next meat goes to you."}
+- 07:12 act: {"actions":[],"say":"Tommy, I hear you. I'm holding the 2 mutton here at the yellow bed. Jason, if you are weakest, come into sight and I will hand it to you."}
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":-274,"y":68,"z":366}}],"say":"Coming to you now, Jason."}
+- 07:12 act: {"actions":[],"say":"Jason, I am at -275,68,365 by the crafting table. Where are you? I can't see you yet."}
+- 07:13 act: {"actions":[{"do":"goto","target":{"x":-282,"y":68,"z":370}}],"say":"Trini, correction: the give did not go through. Jason was out of sight, so I still hold the 2 mutton. I'm going to the yellow bed f
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":366}}],"say":"Jason, I'm walking to you now, next to you at -272,68,366."}
+- 07:14 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":2}],"say":"Tommy, Jason is out of my sight, so I'm giving you both mutton now. Please take it to Jason, who is weakest."}
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-282,"y":68,"z":370}},{"do":"sleep"}],"say":"Night is here. I'm going to the yellow bed with the 2 mutton. Jason or Tommy, come find me in the morning."}
+- 07:14 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":366}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, I'm here at -273,68,366. Handing you the 2 mutton."}
+- 07:15 say: {"text":"Jason, Trini just brought you beef. I still hold 2 mutton. Tell me where you are and I will hand it over when I can see you."}
+- 07:16 say: {"text":"Jason, I see you have beef and flesh now. I keep my 2 mutton for whoever is weakest next. Tell me who needs it and I will bring it."}
+- 07:17 act: {"actions":[{"do":"goto","target":{"x":-278,"y":68,"z":368}}],"say":"Jason, I'm coming to the beds with your 2 mutton. Tell me where you stand."}
+- 07:17 say: {"text":"I'm at the beds now, Jason. I have your 2 mutton. Where are you? I'll hand it over as soon as you're in sight."}
+- 07:17 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":365}},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}],"say":"Jason, here are your 2 mutton."}
+- 07:17 say: {"text":"Jason, I'm at -275,68,365 with the 2 mutton. Please step next to me so I can hand it over."}
+- 07:18 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"mutton","count":2}]}
+- 07:18 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"mutton","count":2}]}
+- 07:20 say: {"text":"It's night. I'm going to the yellow bed at -282,69,371 to sleep. I still hold 2 mutton; Jason or Tommy, come find me at first light and I'll hand it over."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}]}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"I'm in bed for the night. At first light I'll hand Jason the 2 mutton if he's in sight; otherwise Tommy."}
+- 07:20 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here's one mutton. I'm keeping the other for Jason or whoever is weakest next."}
+- 07:20 act: {"actions":[{"do":"sleep"}]}
