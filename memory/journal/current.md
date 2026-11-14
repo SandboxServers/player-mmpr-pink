@@ -140,3 +140,16 @@
 - 23:04 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244. No food, hunger 19. Trying sleep now."}
 - 23:07 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed. Phantom seems gone. Trying sleep again. Dawn food hunt with the group, Trini first."}
 - 23:14 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, dusk of day 245. Trying sleep with the group."}
+- 23:19 act: {"say":"Kimberly at the white bed, dusk on day 245. Hunger 19, no food. Trini first for any food found. I'll try the bed when it is night.","intent":{"goal":"wait_for_night_then_sleep","program":"rest
+- 23:19 act: {"actions":[{"do":"sleep"}]}
+- 23:23 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 245. No food; Trini first at dawn. Trying to sleep."}
+- 23:25 act: {"actions":[{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"sleep"}]}
+- 23:32 act: {"actions":[{"do":"note","text":"Day 246 dawn. No food; hunger 19, health 20. Sleep refused 4 times by phantom nearby. Going out to search grass east with the group, staying in sight."}],"say":"Kimber
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":320}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Kimberly: no food out east. Troi, I'll knock leaves for apples by the beds too. Any ap
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 23:33 act: {"actions":[{"do":"note","text":"Day 246 midday-dusk. Searched east: no food, only oak logs and leaves (mining leaves gave nothing). Back at white bed -270,67,318 with group. Waiting for night to slee
+- 23:42 act: {"actions":[{"do":"sleep"}]}
+- 23:45 act: {"actions":[{"do":"sleep"}]}
+- 23:45 act: {"actions":[{"do":"note","text":"Day 246 night: sleep refused again (phantom 4 blocks away). Health 20, hunger 18. Holding at the white bed with the group. Retrying sleep after a wait."}],"say":"Still
+- 23:45 act: {"actions":[{"do":"sleep"}]}
