@@ -1841,3 +1841,14 @@
 - 02:09 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}],"reasoning":"Pit exit failed. Raise myself with dirt under my feet, then try unstick again."}
 - 02:09 act: {"say":"Kimberly, out of the pit. Zack and Tommy, I'm heading to -299,67,327 to meet you. Billy has a pig to the south.","intent":{"goal":"rejoin_group_at_meeting_point","program":"travel","arguments"
 - 02:10 act: {"say":"Kimberly here at -300,67,327. Zack, I'm coming with you to the pig near -252,68,456. Billy, hold it for Zack and Tommy.","intent":{"goal":"join_pig_hunt_near_billy","program":"travel","argumen
+- 05:08 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
+- 05:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"goto","target":{"x":-256,"y":67,"z":386}}],"intent":{"goal":"pick_up_drops_and_make_planks","program":"gather","arguments":{"block":"oak
+- 05:10 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":386}}]}
+- 05:10 act: {"actions":[{"do":"goto","target":{"x":-257,"y":67,"z":383}}]}
+- 05:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":24}],"intent":{"goal":"build_shelter_for_sleep","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_comple
+- 05:11 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"build_shelter_for_sleep","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","un
+- 05:11 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_open_ground","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":380}},"wake_on":["goal_completed","precondition_failed","unexpected_dam
+- 05:11 act: {"actions":[{"do":"note","text":"Day 191 midday: out of the pit at -255,67,381 on grass. Hunger 20, health 20. 12 oak_planks, 11 dirt, 1 apple. Next: build a planks shelter on flat ground."}],"intent"
+- 05:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":20},{"do":"note","text":"Day 191: shelter build placed 12, out of planks. Crafting 20 more planks from logs."}],"intent":{"goal":"build_shelter_fl
+- 05:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":67,"z":376}}],"say":"Walls keep blocking me while I stand in the middle. I'm moving to open ground to build again."}
+- 05:12 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}],"intent":{"goal":"build_shelter_open","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed",
