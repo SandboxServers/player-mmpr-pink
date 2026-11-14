@@ -133,3 +133,8 @@
 - 08:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"Jason, I can't drop the mutton from here, so I'm keeping it. I'm going to the white beds for the night and will bring it back at fi
 - 08:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night, sheltered with the group, no errand half-done. Get onto the bed and rest."}
 - 08:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"The first bed was taken or blocked. Try the second white bed."}
+- 08:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Goodnight all. I'll sleep at the white bed and take Jason his mutton at first light.","intent":{"goal":"rest_at_bed_
+- 08:05 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"mutton","count":1}],"say":"Trini, here is my mutton. Eat it, you have none left."}
+- 08:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"rest_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],
+- 08:06 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Trini. Goodnight, all."}
+- 08:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
