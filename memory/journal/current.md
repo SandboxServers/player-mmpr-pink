@@ -1760,3 +1760,22 @@
 - 00:58 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
 - 00:59 act: {"say":"Tommy, you're right beside me now, at 1 block. Give me the beef now, I'm at the yellow bed. Dusk is coming and there is an iron golem to the northwest."}
 - 00:59 act: {"actions":[{"do":"sleep"}]}
+- 01:05 act: {"actions":[{"do":"eat"}],"say":"Thank you, Tommy. I have the beef and I'm eating it now.","reasoning":"Beef in hand, hunger 17. Eat it to restore food, then recover health."}
+- 01:09 act: {"say":"It's morning. I'm at the yellow beds with health 5.5 and hunger 17. Thank you, Tommy, for the beef. I'm going to find the wandering trader to trade my planks and seeds for food.","intent":{"go
+- 01:09 act: {"say":"Trader, I am hungry. I can offer wheat seeds or oak planks for bread or any food. What do you have?","reasoning":"Trader is 5 blocks south. Ask what food he has and offer seeds or planks."}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":340}}],"say":"Zack, the trader is south of the beds near -269,67,355, with a llama. Golem is attacking me, so I'm moving away.","reasoning":"Gole
+- 01:13 act: {"say":"Trader, I'm here too. I have 19 wheat seeds and 4 oak planks. Do you have any food for them? Zack, let's not both push the same trade.","reasoning":"Zack is already trading planks; I'll offer 
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":-277,"y":66,"z":346}}],"say":"Trini, no animals seen here. Heading to the trader; golem is north of me.","reasoning":"Golem 5 blocks north. Move toward the trade
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":341}}],"reasoning":"In water, llama and trader attacking. Leave the water to the NW now."}
+- 01:14 act: {"actions":[{"do":"unstick"}],"reasoning":"Stuck in water, every exit failed. Use unstick."}
+- 01:14 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":341}}],"reasoning":"Unstick freed me; swim north to land away from llamas and trader."}
+- 01:14 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-281,"y":66,"z":341}}],"reasoning":"Still stuck in water with llama attacking. Unstick, then try the way out again."}
+- 01:14 act: {"actions":[{"do":"unstick"}],"reasoning":"Perched in deep water with a llama attacking. Unstick is the only exit that has worked here."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":340}}],"reasoning":"I am on cobblestone with air 8, out of the perch. Trader and llamas are attacking to the east and north. Head west-north-west
+- 01:15 act: {"actions":[{"do":"unstick"}],"reasoning":"Trapped in water with attackers adjacent. Unstick is the only exit that has worked so far."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":341}}],"reasoning":"Unstick worked and I am on cobblestone. Try the north-west shore again, away from the attackers to the south."}
+- 01:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"place","block":"cobblestone","at":{"x":-277,"y":66,"z":346}}],"reasoning":"Everything around is water. Try building a block of cobbl
+- 01:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"},{"do":"unstick"}],"reasoning":"Stacking cobblestone under my feet to rise above the water, then unstick to climb out."}
+- 01:15 act: {"actions":[{"do":"place","block":"cobblestone","at":"feet"}],"say":"Jason, I'm in the water at the trader's lake, about -276,64,347. I'm stuck with llamas and the trader on me. Bring food if you can 
+- 01:15 act: {"actions":[{"do":"unstick"}],"reasoning":"Air is down to 2 and I am underwater. Surface first with unstick, before anything else."}
+- 01:15 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":341}}],"reasoning":"Health 1.5 and drowning with air 0. Last try to swim toward the north-west shore."}
