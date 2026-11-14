@@ -1729,3 +1729,5 @@
 - 00:26 act: {"intent":{"goal":"meet_zack_at_beds_for_sword","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":355}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
 - 00:26 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Zack, here is your wooden sword.","reasoning":"Zack is at 0.1 distance and in reach. Try the hand-over now."}
 - 00:26 act: {"actions":[{"do":"note","text":"Give to Zack failed again (no such agent in sight). Keeping the sword; will not retry the same give. Food is the priority."}],"say":"Zack, I couldn't hand the sword ov
+- 00:26 act: {"actions":[{"do":"eat"}],"say":"Zack, understood, I'll keep the sword. I'm hungry and I have some rotten flesh, so I'm eating that now. If anyone has real food to spare, please tell me.","intent":{"g
+- 00:27 act: {"actions":[],"say":"Thanks Tommy. I'm coming south-east with you to look for sheep. I'll share whatever I find.","intent":{"goal":"search_sheep_southeast","program":"travel","arguments":{"target":{"x
