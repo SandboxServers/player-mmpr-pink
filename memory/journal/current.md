@@ -12,3 +12,9 @@
 - 13:50 act: {"say":"Walked waypoint: -306,67,272, on grass, dry. Going on from here, north-west, and I'll call the next one once walked.","actions":[]}
 - 13:50 act: {"say":"Going north now from -306,67,272 toward -306,67,255, on grass.","actions":[{"do":"goto","target":{"x":-306,"y":67,"z":255}}],"intent":{"goal":"scout_dry_route_north","program":"travel","argume
 - 13:51 act: {"say":"Walked waypoint: -306,65,256, on grass, dry. Deep water lies 7 west, so I'm keeping away from it. The route north is still open here.","actions":[]}
+- 13:55 say: {"text":"Kimberly here at -306,65,256, dry grass, no one in sight. Holding here until you come near. Water is 7 blocks west; I'm not going there."}
+- 13:56 say: {"text":"Picard, agreed. I have walked only up to -306,65,256. I'll call a new waypoint only after I've walked it."}
+- 13:59 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":293}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_
+- 13:59 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":295}},{"do":"sleep"}],"say":"Kimberly at the white bed for the night. Jason, I'm here at -298,68,295."}
+- 14:00 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Kimberly taking the white bed at -298,68,294 for the night. Health 20."}
+- 14:01 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Kimberly heading to the yellow bed at -274,69,291 since the others are taken."}
