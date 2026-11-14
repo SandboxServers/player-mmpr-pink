@@ -124,3 +124,5 @@
 - 22:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night now. Going to the white bed with the group. No food yet; Trini first at dawn."}
 - 22:22 act: {"actions":[{"do":"sleep"}]}
 - 22:26 act: {"actions":[{"do":"sleep"}]}
+- 22:31 act: {"actions":[{"do":"wait","seconds":5}],"say":"Kimberly here at the white bed, day 243. Health 20, hunger 19, no food on me. Trini and Riker first for anything found. Picard: the only food I know of is
+- 22:34 act: {"actions":[],"say":"Kimberly at the white bed, health 20, hunger 19, still no food. Holding here with the group. Anyone who finds an animal, call out and Trini gets it first."}
