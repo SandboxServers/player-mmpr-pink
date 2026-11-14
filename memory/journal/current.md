@@ -54,3 +54,12 @@
 - 14:39 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
 - 14:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}]}
 - 14:39 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Still no food. I'm in the white bed at -298,68,294 for the night. Trini, stay safe."}
+- 14:40 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Night. I'm in the white bed. Trini and Tommy, stay in your beds; first light I search for food."}
+- 14:48 act: {"intent":{"goal":"search_food_south_west","program":"travel","arguments":{"target":{"x":-305,"y":68,"z":315}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 14:48 act: {"intent":{"goal":"search_food_west","program":"travel","arguments":{"target":{"x":-325,"y":68,"z":318}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 14:50 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 14:52 act: {"intent":{"goal":"join_jason_east","program":"travel","arguments":{"target":{"x":-221,"y":66,"z":250}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks
+- 14:52 act: {"intent":{"goal":"join_jason_via_south","program":"travel","arguments":{"target":{"x":-250,"y":67,"z":275}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 14:55 act: {"intent":{"goal":"reach_yellow_bed_with_jason","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
+- 14:55 act: {"say":"Jason, I'm here at the yellow bed. No food on my side. I'll go with you for the pig at first light and give any meat to Trini first."}
+- 14:56 act: {"say":"Agreed, Jason and Tommy. At first light we hunt the pig near -168,89,225 together, and meat goes to Trini first. I'm staying by the yellow bed until then."}
