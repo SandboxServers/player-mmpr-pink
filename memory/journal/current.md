@@ -54,3 +54,89 @@
 - 09:56 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}]}
 - 09:57 act: {"say":"I'm with the group now at -262,68,286. Still no animal in sight. I'll keep to Tommy and stay on dry grass.","actions":[]}
 - 10:01 act: {"say":"Heading to the white beds at -270,67,318 with the group for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 10:02 say: {"text":"Billy, Tommy, I'm here by the beds. Hunt at first light together, Jason and Picard first for meat."}
+- 10:02 act: {"say":"Agreed. First light, we hunt together. Jason and Picard get meat first.","intent":{"goal":"rest_until_morning","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damag
+- 10:10 act: {"say":"Morning. Kimberly here at the white beds, health and hunger 20, wooden sword. Tommy, Billy, Picard: I'm coming to the pig spot at -352,65,227 on dry land. Stay in sight and call me if you find
+- 10:11 act: {"actions":[{"do":"unstick"}]}
+- 10:11 act: {"actions":[{"do":"goto","target":"ag_jason_01"}]}
+- 10:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":"ag_jason_01"}]}
+- 10:11 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"I'm in the lake at -317,62,264, trying to reach land. Trini, I'm coming toward you."}
+- 10:12 act: {"actions":[{"do":"unstick"}],"say":"Staying put on the sand side, Trini. Come to me, Jason and I will wait here."}
+- 10:12 act: {"actions":[{"do":"goto","target":{"x":-316,"y":64,"z":266}}],"say":"Heading to Jason's grass at -316,64,266 to get out of the water."}
+- 10:12 act: {"actions":[{"do":"goto","target":{"x":-301,"y":66,"z":270}}]}
+- 10:12 act: {"actions":[{"do":"unstick"}]}
+- 10:13 act: {"actions":[{"do":"goto","target":{"x":-301,"y":66,"z":270}}]}
+- 10:13 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-317,"y":62,"z":265}}]}
+- 10:13 act: {"actions":[{"do":"goto","target":{"x":-316,"y":64,"z":266}}]}
+- 10:13 act: {"actions":[],"say":"I'm out of the lake on grass at -316,64,266. I have no food. Jason, where is the chicken spot? Trini, I'll come to you on the sand."}
+- 10:14 act: {"actions":[{"do":"goto","target":{"x":-261,"y":65,"z":266}}],"say":"On my way to Jason at the chicken spot, on dry grass."}
+- 10:14 act: {"actions":[{"do":"note","text":"Reached Jason on dry grass at the chicken spot -261,65,267. No animal in sight. Known food is far north: chickens near -274,63,170 and -288,64,191, sheep near -283,64,
+- 10:15 act: {"actions":[],"say":"Tommy, Billy, Picard: I see you. I'm holding with Jason on the dry grass at -261,65,267. Still no animal in sight. Let's keep together here and search from this spot."}
+- 10:19 act: {"actions":[],"say":"Night is coming. Picard, where are the white beds? Jason, Tommy, Billy: we should sleep sheltered tonight. Let's gather near the beds, on dry ground, away from the water."}
+- 10:20 act: {"actions":[{"do":"goto","target":{"x":-275,"y":69,"z":290}}],"say":"Going to the yellow beds near -275,69,290 on dry ground to sleep sheltered with the group."}
+- 10:20 act: {"actions":[],"say":"I'm at the yellow beds at -275,68,289, on grass, not enclosed. Tommy and Billy are sleeping here. I have no bed of my own, so I'll stay close and keep watch until first light."}
+- 10:28 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":270}}],"say":"Dawn. I'm walking to the dry grass waypoint at -300,66,270 to join Jason and Billy, staying on grass and away from the water."}
+- 10:28 act: {"actions":[],"say":"I'm with you on the grass at -300,66,271. I have no food either. Tommy, Jason, Billy: once Trini is back on the grass, let's go north together to the sheep at -301,63,204 and the 
+- 10:29 act: {"actions":[],"say":"Picard, I have no food on me, sorry. Jason says he gave you the chicken at the white bed, so check if you ate it. Trini is coming to us on the grass. We'll search north for sheep 
+- 10:35 act: {"actions":[{"do":"goto","target":{"x":-298,"y":64,"z":194}}],"say":"Going north to join the group at -297,64,193 on the grass. Holding with you once I'm there."}
+- 10:36 act: {"actions":[],"say":"I'm with you at -298,64,195. Known food is north: cow near -293,64,177 and sheep near -293,63,176. Let's go there together on the grass, Picard gets any meat first."}
+- 10:37 act: {"actions":[{"do":"goto","target":{"x":-294,"y":64,"z":179}}],"say":"Going north to the cow spot at -293,64,177 with the group, on the grass."}
+- 10:47 act: {"actions":[],"say":"Picard, hold still and don't swim further. Tell me your position and I'll come with dirt for footing. Tommy, Jason and Billy are with me at -293,64,180 on the grass."}
+- 10:48 act: {"actions":[],"say":"Tommy, I have 11 dirt for Picard's footing. I'll stay on the grass and keep out of the water. Tell me the nearest dry shore and I'll walk it with you."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":-338,"y":63,"z":210}}],"say":"Heading to you at -338,63,210 on the grass, Tommy, staying out of deep water."}
+- 10:49 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_grass_shore","program":"travel","arguments":{"target":{"x":-338,"y":63,"z":210}},"wake_on":["goal_completed","precondition_failed","unexpected_dam
+- 10:49 act: {"actions":[{"do":"note","text":"On grass at -337,63,210, health 7.5, hunger 17. Drowned hit me in the water; got out. Tommy not in sight yet."}],"say":"I'm on the grass at -337,63,210, Tommy. I have 
+- 10:49 act: {"intent":{"goal":"reach_sheep_on_grass","program":"travel","arguments":{"target":{"x":-301,"y":63,"z":204}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 10:49 act: {"actions":[{"do":"unstick"}],"say":"I walked into the water by mistake at -313,61,206. Getting out now."}
+- 10:49 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 10:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-313,"y":56,"z":206}},{"do":"place","block":"oak_planks","at":{"x":-313,"y":56,"z":205}}]}
+- 10:50 act: {"actions":[{"do":"unstick"}]}
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":-316,"y":62,"z":217}}],"say":"Still in deep water at -313,61,206, sinking. Trying to swim south to the sand at -316,62,217."}
+- 10:50 act: {"actions":[{"do":"note","text":"On sand at -316,61,217, out of deep water. Holding still. Tommy is on grass at -338,63,210; the water between us is deep, so I will not swim."}],"say":"Tommy, I'm on s
+- 10:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-316,"y":62,"z":216}},{"do":"place","block":"dirt","at":{"x":-316,"y":62,"z":217}}]}
+- 10:50 act: {"actions":[{"do":"unstick"}],"say":"Still on sand at -316,61,217, water around me. I will not swim. Tommy, is there a dry route along the grass?"}
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":-316,"y":61,"z":217}}],"say":"Air is dropping. Going back to the sand spot at -316,61,217."}
+- 10:51 act: {"actions":[{"do":"unstick"}],"say":"Tommy, I hear you. I'm trying to get back on the sand at -316,61,217. Air is at 12."}
+- 10:51 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}]}
+- 10:51 act: {"actions":[{"do":"unstick"}],"say":"I'm still in the water near -314,60,218, air 17. Stuck with no dry block. Trying to climb out."}
+- 10:51 act: {"actions":[],"say":"Tommy, I'm on sand near -316,61,218, out of the worst of it. I'm holding still and will wait for Jason's dry route."}
+- 11:02 act: {"say":"Kimberly here, holding on the sand at -316,61,218 as asked. I am in water, air 18, health 7.5, hunger 16, no food. I have 11 dirt and 4 planks, waiting for your word where to lay them.","inten
+- 11:05 act: {"say":"Tommy, I'm on the sand at -316,61,218 and staying put until morning. Water is still above my feet, so the reflexes keep pushing me. Tell me if you want my dirt laid here."}
+- 11:09 act: {"say":"Dawn. I'm still on the sand at -316,61,218 with water on every side, health 7.5, hunger 16. Holding as asked. Tommy, Jason: if you find a dry line, give me the first gap and I'll lay dirt from
+- 11:09 act: {"say":"Staying on the sand, Tommy. Air is down to 10 and the water is still at my feet, so I'm watching it closely. Send me a line if you see a dry gap next to me."}
+- 11:14 act: {"say":"Tommy, I have 11 dirt and 4 oak planks on me, ready. Tell me the line and I'll lay it from the sand, or tell me where to meet you to hand them over."}
+- 11:15 act: {"say":"Tommy, I'm at -316,61,218 and the bridge end at -341,62,215 is about 25 blocks off, past open water. I can only place blocks right next to me, and I'm standing in water. I'll try laying dirt w
+- 11:15 act: {"say":"Tommy, the place at -317,60,217 failed: the target is occupied, probably water. I'm on sand at -316,61,218 with air 8, so I'm getting clear of the water now.","actions":[{"do":"unstick"}]}
+- 11:17 act: {"say":"Tommy, I'm perched in water at -314,61,218 with air 18. I can't lay onto water. Which solid spot should I stand on?","actions":[{"do":"unstick"}]}
+- 11:17 act: {"say":"Tommy, I'm standing on the sand at -316,61,218 now, with water above my feet. Air 17. I won't go deeper.","actions":[]}
+- 11:28 act: {"say":"Tommy, I'm at -316,61,218 on sand in water, air 9. Water lies between us, so I can't reach your bridge end without swimming deep. Is there a land route?","actions":[]}
+- 11:29 say: {"text":"Kimberly on sand at -316,61,218. Air 15, health 7.5. Staying put, holding 11 dirt and 4 planks. Trini, stay on your dirt and don't swim. Tommy, tell me when a block can go down."}
+- 11:32 act: {"actions":[{"do":"unstick"}],"say":"Kimberly: I'm underwater on the sand, air 12. Trying to climb back up. I hold 11 dirt and 4 planks for the bridge."}
+- 11:32 act: {"actions":[{"do":"unstick"}]}
+- 11:34 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"dirt","count":2}],"say":"Trini, I'm giving you 2 dirt. I can't place onto water, so place them on sand or dirt next to you, not water. Stay on sand 
+- 11:34 act: {"actions":[{"do":"unstick"}]}
+- 11:38 act: {"actions":[{"do":"unstick"}]}
+- 11:43 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"reach_sand_out_of_water","program":"travel","arguments":{"target":{"x":-316,"y":61,"z":218}},"wake_on":["goal_completed","precondition_failed","unexpect
+- 11:43 act: {"actions":[{"do":"unstick"}],"say":"Trini, I'm on sand at -316,61,218 but the water keeps pulling me back. Air 9. I'm trying to climb out now."}
+- 11:47 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Trini, I'm going toward you on the sand. Water keeps pulling me back."}
+- 11:48 act: {"say":"Trini, I'm on sand at -316,62,219 with air above. Give me the grass coordinates and I'll try the sand path."}
+- 12:00 act: {"say":"Kimberly, on sand at -316,62,219 with water on every side. Hunger 13, health 7.5. I'm holding dirt and planks for a land route. Salmon are swimming nearby.","intent":{"goal":"hold_sand_for_rou
+- 12:01 act: {"say":"Kimberly here. I'm on sand at -316,62,219, safe for now. Tommy, come at first light only if the way is dry. Hunger 13."}
+- 12:04 act: {"say":"Thank you, Picard and Tommy. I'll wait on the sand at -316,62,219 and not enter the water. Tommy, a dry route at dawn would help most."}
+- 12:09 act: {"say":"Morning. I'm still on sand at -316,62,219. Tommy, I'll wait here for your dry route and your mutton. I won't enter the water."}
+- 12:10 act: {"say":"Kimberly: I'm holding on the sand at -316,62,219. Tommy, Trini, Jason, come by dry grass and tell me the route. I'll stay still until then."}
+- 12:12 act: {"say":"Jason, Trini, Billy: thank you. Water blocks my way on every side, so I can't walk to grass. Hold your dry spot and keep the mutton; I'll wait here."}
+- 12:13 act: {"say":"Trini: I'm on sand at -316,62,219 with deep water on all four sides. I can't see a shallow side from here. Lay the planks only where you can stand safely.","reasoning":"Trini asked which side 
+- 12:13 act: {"say":"Jason, Picard: I'm on the sand perch at -316,62,219, safe for now. Water on all four sides. Trini, lay planks from the grass side and I'll step to them when there is a solid block.","reasoning
+- 12:13 act: {"say":"Jason, Trini: understood. I'm staying on the sand at -316,62,219 and not moving. Keep the mutton until a dry line shows.","reasoning":"Confirm the plan: no bridge is possible, I hold still and
+- 12:19 act: {"say":"Night is coming. I'm on the sand at -316,62,219, not enclosed, and water blocks every side, so I can't wall in. I'll stay still and keep my air up. Jason, keep the mutton; I'll hold.","reasoni
+- 12:22 act: {"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":16}},"act
+- 12:26 act: {"say":"Kimberly: I died on the sand and woke at the white beds near -270,67,337 with nothing. My things are in the water at -316,62,219. Jason, I'm staying by the beds; I'll come to you at first ligh
+- 12:26 say: {"text":"Kimberly: It's alright, Jason. I'm by the white beds at -270,67,337, health 20, hunger 20. I'll stay here until first light and look for food."}
+- 12:28 say: {"text":"Kimberly: Morning. Trini, thank you. I'll stay by the beds at -270,67,337 and wait for food or a dry line. I won't enter the water."}
+- 12:30 say: {"text":"Kimberly: Thanks all. I'm still at the white beds, healthy, not hungry. Billy, I'd be glad of meat if you find a dry way; no rush. I'll stay put."}
+- 12:43 act: {"say":"Picard, I'm at the white beds, -270,67,337, on oak planks, not enclosed. Health 20. Please bring the porkchop here by dry ground.","reasoning":"Picard has porkchops but could not find me. I gi
+- 12:45 act: {"say":"Thanks all. I'm at the white beds, health 20, not hungry. Picard, I'll wait here for the porkchop at first light. Trini and Tommy, sharing first with the weakest is fine.","reasoning":"Group i
+- 12:52 act: {"say":"Thanks Picard, I see you here. I'm full, hunger 20, so keep it until I'm hungry, or give it to Trini or Zack if they're worse off.","reasoning":"Picard is in reach with a porkchop. I am full, 
+- 12:55 act: {"say":"Thank you, Trini's helper. I'm at the white beds, -270,67,337. I'm full, so please keep the mutton for Zack or whoever is hungriest.","reasoning":"Trini's helper offered 2 mutton. I'm at hunge
+- 12:56 act: {"say":"Trini, I'm full and stuck at the beds, so give the mutton to Zack if you can reach him. Otherwise hold it for me until I'm hungry.","reasoning":"Trini has mutton and asks where to hand it over
