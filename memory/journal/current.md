@@ -86,3 +86,9 @@
 - 20:56 act: {"actions":[{"do":"wait","seconds":30}],"say":"Kimberly at the yellow beds -262,67,353, day 238. Health 20, hunger 20, no food. Tommy, Billy: I'm staying here near the beds. Any food I find goes to Tr
 - 21:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed -262,67,353. Health 20, hunger 20, no food. Trini first for any food at first light. Sleeping now."}
 - 21:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, beds adjacent, no food. Sleep is the safe next step; golem is neutral usually."}
+- 21:06 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the yellow bed, night on 238. Health 20, hunger 20, no food. Trini first for any food at light."}
+- 21:06 act: {"actions":[{"do":"sleep"}]}
+- 21:10 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Kimberly at the yellow beds, dawn of 239, hunger 20, no food. Trini first for any mutton. I'm making a sword and then joining the she
+- 21:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":1},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
+- 21:11 act: {"intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 21:12 act: {"actions":[],"say":"Kimberly here at the white beds with a sword now. Zack, the chicken goes to Trini first, then Riker. I'll stand guard with you while you give it. I have no food."}
