@@ -141,3 +141,18 @@
 - 08:09 act: {"actions":[{"do":"sleep"}],"say":"Morning, Trini. I'm at the white beds with full health and hunger. I'm going to rest here, since I have not slept in six days."}
 - 08:09 act: {"actions":[],"say":"Sleep only works at night, so I'll stay by the white beds with Trini until dusk, then sleep here. Trini, do you need anything?"}
 - 08:22 act: {"actions":[{"do":"sleep"}],"say":"It's night. I'm in the white bed here at -270,67,318. Trini, stay near and keep watch. We hunt at first light."}
+- 08:24 act: {"actions":[{"do":"sleep"}],"say":"Still night. I'm in the white bed at -270,67,318 with an egg and wool, no food. At first light I'll hunt with Zack, Tommy and Jason, away from the lake.","intent":{"
+- 08:24 act: {"intent":{"goal":"rest_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}}}
+- 08:24 act: {"say":"Morning. I slept, and I have only an egg and wool. I'm going south to the cows and sheep near -293,64,177 to hunt for the group. Zack, Tommy, Jason, come if you can. I'll stay on land, away fr
+- 08:24 act: {"say":"Night has come and I'm on open grass at -284,65,234, near water. I'm putting up a dirt wall here and holding still until light. Tommy, Zack, Jason, the cows are at -293,64,177.","intent":{"goa
+- 08:25 act: {"say":"The wall failed, so I'm standing still on open grass at -284,65,234 until light. Tommy, Zack: I'll head south to the cows at dawn.","intent":{"goal":"hold_until_dawn","program":"rest","argumen
+- 08:29 act: {"say":"I'm at -281,65,234 with full health and hunger, but no food and no weapon. The archer is north near the cows, so I'm not going there. I'm heading back to the white beds at -270,67,318 to wait 
+- 08:29 act: {"say":"Kimberly here at the white beds, full health and hunger, no food, no weapon. I agree with Jason: we go in daylight to the sheep near -257,66,375, south-east of the beds, together, and stay off
+- 08:29 act: {"say":"I'm close to the sheep at -257,66,375 now. Trini, Jason, I'll wait here at -264,66,356 and go in together.","intent":{"goal":"sheep_near_beds","program":"travel","arguments":{"target":{"x":-25
+- 08:30 act: {"say":"I'm at -260,66,356 by the beds, in daylight. I have no sword, only dirt. I'll wait for Jason, Zack, Trini and Billy here, then we go to the sheep together.","intent":{"goal":"hold_at_beds_for_
+- 08:31 act: {"say":"I'm following the group to the sheep, with no weapon. I'll share any meat I can get.","intent":{"goal":"follow_group_to_sheep","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on"
+- 08:31 act: {"say":"My follow failed, so I'll hold at the beds with Billy and Trini. Good luck, Jason, Zack, Tommy. Bring meat back if you can.","intent":{"goal":"hold_at_beds_for_hunt_return","program":"rest","a
+- 08:35 act: {"say":"No sheep in the south-east, so I'm holding at the yellow beds as Jason asked. Come back here when you're close."}
+- 08:38 act: {"say":"Agreed, Jason. I'll stay at the yellow beds with the group, and we split at first light: sheep south and east, no one north past the cows.","intent":{"goal":"hold_at_beds_until_night","program
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}],"say":"Night. I'm going to the yellow bed at -272,68,364 to sleep near the group. Billy, if you took the other one, I'll find another."}
+- 08:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
