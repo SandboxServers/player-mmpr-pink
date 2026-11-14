@@ -94,3 +94,4 @@
 - 16:01 act: {"say":"Staying at the white bed with the group. Hunger 17, no food. Will call out any animal I see at first light.","intent":{"goal":"rest_until_light_near_group","program":"rest","arguments":{},"wak
 - 16:08 act: {"say":"Morning, day 224. I'm at the white bed, hunger 17, no food. Scout the dry grass and call any cow, pig or sheep. Meat goes to me first, then Zack.","intent":{"goal":"find_food_on_dry_grass","pr
 - 16:09 say: {"text":"Kimberly here, at the white bed, hunger 17. No food yet. Keep scouting south-west and call any cow, pig or sheep. I'll wait here for your word."}
+- 16:13 act: {"intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{"note":"stay at the white bed, wait for a cow, pig or sheep call from the group"},"wake_on":["directly_addressed","precondition_
