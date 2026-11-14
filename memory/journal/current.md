@@ -20,3 +20,15 @@
 - 14:01 act: {"actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}},{"do":"sleep"}],"say":"Kimberly heading to the yellow bed at -274,69,291 since the others are taken."}
 - 14:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk. I'm taking the white bed here at -270,67,318 for the night. Health 20, hunger 20.","reasoning":"Night, dim lig
 - 14:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night is here. I'm going to sleep in this white bed. Picard, Tommy, hold on until first light."}
+- 14:07 act: {"say":"Picard, agreed. I'm staying by the white beds until daylight. I hold no food, so I'll help scout the dry route north once it's light.","actions":[{"do":"wait","seconds":120}]}
+- 14:08 act: {"say":"Trini, morning. My last walked waypoint is -306,65,256, on dry grass. Nothing past it is walked yet. I'm going there now to scout north, and I'll call only what I walk.","actions":[{"do":"goto
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":-306,"y":65,"z":256}}]}
+- 14:08 act: {"actions":[{"do":"goto","target":{"x":-306,"y":65,"z":256}}]}
+- 14:08 act: {"intent":{"goal":"walk_to_last_waypoint_north","program":"travel","arguments":{"target":{"x":-306,"y":65,"z":256}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 14:08 act: {"say":"Zack, I hear you. My body has been stuck on a busy action since dawn, so I have not walked past -306,65,256 yet. I'll keep trying, and I'll call only the waypoints I actually walk.","actions":
+- 14:09 act: {"actions":[{"do":"goto","target":{"x":-306,"y":65,"z":256}}]}
+- 14:09 act: {"say":"Walking north from -306,65,257 on grass now, toward -306,65,248.","actions":[{"do":"goto","target":{"x":-306,"y":65,"z":248}}]}
+- 14:10 act: {"say":"Walked to -306,63,249 on grass, dry. North and west of here is deep water, so I can't go further north this way. Salmon are in the water to the west. Trying another line.","actions":[]}
+- 14:10 act: {"say":"Update for Zack, Trini, Picard: I'm at -306,63,249 on dry grass. Deep water is right north and west, so no dry route north from here yet. I won't enter the water. I have no food. Checking east
+- 14:10 act: {"say":"Walked to -299,64,249 on grass, dry. Water is still north and west of here. Looking for a dry way north from this side.","actions":[{"do":"note","text":"Walked -299,64,249 on grass, dry. Water
+- 14:10 act: {"intent":{"goal":"hold_position_safe","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_block_operations
