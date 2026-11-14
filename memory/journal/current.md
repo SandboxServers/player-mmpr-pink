@@ -143,3 +143,23 @@
 - 12:57 act: {"say":"Picard, thanks. Yes, hold the porkchop for Zack. I have nothing in my pack and no dry route to him, so I'll stay at the beds.","intent":{"goal":"hold_at_beds_for_news","program":"rest","argume
 - 13:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Night is here. I'm going into the white bed at -270,67,336 with an oak log I hold. Zack, Picard: the porkchop stays with Picard for
 - 13:01 act: {"say":"Kimberly, sleeping now at the white beds. I'm full, so the porkchop and mutton go to Zack first. Whoever reaches him, give it to him."}
+- 13:02 act: {"say":"Kimberly here, at the white beds, health and hunger full. Picard, keep the porkchop for Zack. Zack, I am not out of reach, I am just awake now.","intent":{"goal":"hold_position_and_watch_group
+- 13:06 act: {"say":"Kimberly at the white beds, health 20, hunger 20, no food on me. Picard, Jason is near you; keep the porkchop until a dry route to Zack shows. Billy, first light, we look for Zack's dry route 
+- 13:07 act: {"say":"Kimberly: dawn. Jason, I'm coming to you at the white beds. I have no planks, only one oak log, so I'll follow you and look for the dry route to Zack's pillar. Billy, come north to us.","inten
+- 13:08 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":319}}],"say":"Jason, I'm with you at the white beds. There is a dropped item two blocks west of me; I'm picking it up. Picard, come in sight and 
+- 13:08 act: {"say":"Thank you, Jason, I have your 4 planks. We walk north together on dry grass to -297,64,193, near Zack's pillar. Stay in sight. I will not step onto water.","intent":{"goal":"walk_north_to_zack
+- 13:08 act: {"say":"Kimberly: I'm at -274,66,317 by the beds, a villager is near. Jason, where are you? I'm heading north on the grass toward -297,64,193 and will stop if I lose sight of you.","intent":{"goal":"w
+- 13:08 act: {"actions":[{"do":"unstick"}]}
+- 13:08 act: {"say":"Kimberly: I'm perched in the oak leaves at -275,70,312, not hurt. Holding here until Jason reaches me on the grass."}
+- 13:09 act: {"say":"Trini: I'm at -275,70,312, in the oak leaves on top of a tree by the white beds. Come to the grass south of the beds and stay in sight; Jason is coming to me too. The mutton goes to Zack once 
+- 13:12 act: {"say":"Jason, Trini, Tommy: I'm still perched in the oak leaves at -275,70,312, I have 4 planks and 1 log. I'll come down to the grass and follow Jason north once you're in reach. Trini, the mutton g
+- 13:12 act: {"say":"I'm on the grass now, in reach of you, Jason and Trini. I'll walk behind Jason and stay in sight. Trini, call the waypoint when you have the dry way.","intent":{"goal":"follow_jason_north","pr
+- 13:13 act: {"say":"Billy: I've seen a cow at -293,64,177 and sheep at -293,63,176, and chickens at -274,63,170. Those are north-west, past the pillar's grass. I'm holding here with Jason at -275,69,302 and I hav
+- 13:17 act: {"say":"Pillagers to the south: I'm staying on the grass by Jason and Tommy, away from their line. Trini, if you call a spot north, we'll move to you together."}
+- 13:18 act: {"say":"Moving to the group spot at -267,68,291 on the grass by the yellow beds, staying in sight.","intent":{"goal":"join_group_spot","program":"travel","arguments":{"target":{"x":-267,"y":68,"z":291
+- 13:18 act: {"say":"I'm at the group spot now, with Trini, Jason, Billy and Tommy all in reach. I'm holding here until Trini finds the dry way north."}
+- 13:22 act: {"say":"Night. I have no bed yet and only 4 planks, so I'll stay on the grass near the yellow beds, in sight of Tommy and Trini. Trini, if you have a spare block of wall or a bed, tell me and I'll com
+- 13:22 act: {"say":"Nobody is in sight now, so I'm going to the group at the yellow beds, -274,69,292, where Trini and Jason are sheltered.","intent":{"goal":"reach_group_at_night","program":"travel","arguments":
+- 13:22 act: {"say":"Billy, is the yellow bed at -274,69,291 free? I'll take it if it is; if you're in it, I'll stay beside you.","actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}]}
+- 13:22 act: {"say":"I'm trying the yellow bed next to Billy and staying in sight of the group.","actions":[{"do":"goto","target":{"x":-274,"y":69,"z":291}}]}
+- 13:22 act: {"say":"Thank you, Billy. I'm full, so keep your mutton for Zack. I'll stay beside you on the grass.","actions":[{"do":"unstick"}]}
