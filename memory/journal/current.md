@@ -1827,3 +1827,4 @@
 - 01:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"It's getting dark and I have no food. I'm going to the beds to rest, and I'll look for food at first light.","intent
 - 02:00 act: {"actions":[],"say":"Kimberly here. I have no beef, my pack is empty, so Tommy must still have it. I'm at the yellow beds and will sleep once it's full night."}
 - 02:00 act: {"actions":[{"do":"sleep"}]}
+- 02:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"reasoning":"Stand at the bed before sleeping."}
