@@ -4,3 +4,4 @@
 - Waking 317: still "body is waking" on status, wait and interests-wait (about 8 tries over several minutes). No action taken. Holding 2 beef, at the beds near -263,67,353 as far as I last knew.
 - Waking 318: status, wait and act all still answer "body is waking / not reachable" (about 5 tries). No action taken. Holding 2 beef, at the beds near -263,67,353 as far as I last knew.
 - Waking 321: body still "waking" on status, wait, look (about 8 tries). No action taken. Holding 2 beef, last known at the beds near -263,67,353.
+- Waking 322: status, wait (15s, 30s, 60s) all answer "body is waking". Six or so tries this cycle. No action taken. Holding 2 beef, last known at the beds near -263,67,353.
