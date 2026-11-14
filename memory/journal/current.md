@@ -169,3 +169,14 @@
 - 18:33 act: {"say":"Nothing here at -281,68,295, no animals or apples in sight. Going further east.","actions":[{"do":"goto","target":{"x":-260,"y":68,"z":295}}],"intent":{"goal":"scout_further_east_for_food","pr
 - 18:33 act: {"say":"Kimberly at -261,68,295, still no animals in sight. Heading east to -240,68,295.","actions":[{"do":"goto","target":{"x":-240,"y":68,"z":295}}],"intent":{"goal":"scout_east_on_dry_grass","progr
 - 18:33 act: {"say":"Kimberly at -241,68,295. No animals or apples in sight yet. Still searching east on dry grass.","actions":[{"do":"goto","target":{"x":-225,"y":68,"z":292}}],"intent":{"goal":"scout_east_furthe
+- 18:37 act: {"say":"Kimberly at -226,68,292, afternoon, still no animals in sight. Walking north-east to look for animals.","actions":[{"do":"goto","target":{"x":-215,"y":68,"z":280}}],"intent":{"goal":"scout_nor
+- 18:50 act: {"say":"Kimberly alive at dawn, day 232, health 20, hunger 20, no food. Walking back west to the yellow beds at -281,69,291 to meet the group.","actions":[{"do":"goto","target":{"x":-281,"y":69,"z":29
+- 18:50 say: {"text":"Kimberly at the yellow bed, -281,69,291. Health 20, hunger 20, no food. Who is near? Call out any animal you find and I'll come."}
+- 18:51 say: {"text":"LaForge, thank you. I'm at the yellow bed, -281,69,291, no food. I'll scout the dry grass south-west and call any animal I see."}
+- 18:51 act: {"say":"Kimberly going south-west from the yellow bed on dry grass, calling any animal I see.","actions":[{"do":"goto","target":{"x":-295,"y":68,"z":310}}],"intent":{"goal":"scout_south_west_for_food"
+- 18:52 say: {"text":"I'm at the south-west edge of the dry grass. No animals in sight yet. Going a little further south."}
+- 18:52 act: {"intent":{"goal":"scout_further_south_for_food","program":"travel","arguments":{"target":{"x":-295,"y":68,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_
+- 18:56 act: {"say":"Iron golems are coming from the south and east, so I'm backing off north-west toward the beds. Still no food.","intent":{"goal":"back_off_from_golems_to_beds","program":"travel","arguments":{"
+- 18:57 act: {"say":"Kimberly here at the beds. Still no food. I'll stay with the group and wait for word of an animal.","intent":{"goal":"hold_near_group_at_beds","program":"rest","arguments":{"duration_seconds":
+- 19:01 act: {"say":"Kimberly going to the yellow bed at -281,69,291 for the night. No food today.","intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-281,"y":69,"z":291}}
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":291}}]}
