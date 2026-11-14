@@ -1800,3 +1800,5 @@
 - 01:41 act: {"say":"Thank you, Billy. Got the beef. Eating now.","actions":[{"do":"eat"}]}
 - 01:41 act: {"say":"Got my beef, Billy, thank you. I'm full right now, so I'm saving it for when I'm hungry. Trini, you go ahead and eat yours.","actions":[{"do":"sleep"}]}
 - 01:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Thanks, Billy. I have my beef, and I'll keep it for when I'm hungry. Going to bed here for the night."}
+- 01:43 say: {"text":"Morning-ish, I'm back at the yellow beds. I still have one beef if anyone's hungry. Billy, Tommy, are we looking for animals today?"}
+- 01:43 say: {"text":"Good, Tommy and Zack, go north-west for the cows and sheep. I'm staying near the beds. I have one beef: whoever is hungry and close, come find me and it's yours."}
