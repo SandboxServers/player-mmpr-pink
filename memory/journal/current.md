@@ -1852,3 +1852,10 @@
 - 05:11 act: {"actions":[{"do":"craft","item":"oak_planks","count":20},{"do":"note","text":"Day 191: shelter build placed 12, out of planks. Crafting 20 more planks from logs."}],"intent":{"goal":"build_shelter_fl
 - 05:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-250,"y":67,"z":376}}],"say":"Walls keep blocking me while I stand in the middle. I'm moving to open ground to build again."}
 - 05:12 act: {"actions":[{"do":"craft","item":"oak_planks","count":12}],"intent":{"goal":"build_shelter_open","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed",
+- 05:12 act: {"actions":[{"do":"unstick"}],"say":"I'm waking in a pit. Getting out first, then I'll look for food.","intent":{"goal":"escape_pit","program":"flee","arguments":{},"wake_on":["goal_completed","direct
+- 05:13 act: {"intent":{"goal":"search_food_at_old_beds","program":"travel","arguments":{"x":-263,"y":67,"z":353},"wake_on":["goal_completed","directly_addressed","unexpected_damage","new_agent_within_20"],"limits
+- 05:13 act: {"say":"Kimberly here. I'm awake and out of the pit at -249, 66, 376, with one apple and no other food. I'm going to the old beds at -263, 67, 353. Tommy, I'll meet you at the old farm if you find foo
+- 05:14 act: {"intent":{"goal":"join_group_at_old_farm","program":"travel","arguments":{"target":{"x":-250,"y":68,"z":355}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_worl
+- 05:14 act: {"say":"Iron golem about 13 blocks north-east at -241, 68, 347. Keep clear of it. I'm at the old farm with Tommy."}
+- 05:15 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"apple","count":1}],"say":"Trini, I'm sending you my apple. My hunger is still full, so it's yours. I also saw a
+- 05:15 act: {"actions":[],"say":"Tommy, I haven't tilled any soil yet, so I can't tell you how. I've only got dirt and saplings in my pack. Zack went west to look for animals."}
