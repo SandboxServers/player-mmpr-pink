@@ -158,3 +158,13 @@
 - 08:42 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":364}}]}
 - 08:43 say: {"text":"Good morning, I'm awake at the yellow beds. Health and hunger are full. Anyone around who needs food?"}
 - 08:44 say: {"text":"Jason, I have no food myself, only an egg and some wool. Food I know of: sheep and chickens to the south, around z 170 to 200, and a pig to the east near x -177. I'll go look for them at firs
+- 08:46 act: {"actions":[{"do":"goto","target":{"x":-282,"y":69,"z":371}}],"say":"It's night. I'm going to bed here at the yellow beds.","reasoning":"Night, sheltered-ish at beds, full health and hunger. Sleep is 
+- 08:50 act: {"actions":[],"say":"Morning all. I'm at the beds, health and hunger 20, no food. Skeletons are east near -210,340, so nobody goes there. Tommy, wait for me; we go south to the sheep together.","reaso
+- 08:51 act: {"actions":[],"say":"Going south to the water at -298,190 to join you for the sheep. I'm healthy and will look for food for whoever is hungry.","intent":{"goal":"join_group_at_water","program":"travel
+- 08:51 act: {"actions":[],"say":"Skeletons are on the route south at -286,229, so I'm stopping here at -286,311. I'm healthy but have no food. Zack, Tommy, Billy, tell me if you find sheep that are safe to reach.
+- 08:52 act: {"actions":[],"say":"Tommy, a sheep is listed at -283,64,185 near the water, close to you. I'm holding at -276,311 away from the skeletons. Hunt it if it's safe and share the meat with Billy.","reason
+- 08:52 act: {"say":"Tommy, Billy, Zack: I'm fed and holding at -276,311, out of the skeleton ground. Whoever gets meat first, share it. I'll watch for the sheep and chickens near the water."}
+- 08:57 act: {"say":"Picard, I have no food on me, only an egg and wool. Tommy and Zack, if the pig or cow is taken, share with Jason, Billy and Picard first. I'm holding at -276,311."}
+- 08:58 act: {"say":"Understood, I'll keep the egg for whoever is weakest and hold at -276,311. Billy, I'll go with the group toward the north sheep only if Zack says the skeletons have moved."}
+- 09:02 act: {"intent":{"goal":"reach_white_bed_at_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":316}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
+- 09:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":317}},{"do":"sleep"}]}
