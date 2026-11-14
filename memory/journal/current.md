@@ -68,3 +68,9 @@
 - 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Sleep is refused by monsters again. Golems are 9 and 15 blocks south-west. I'll stay with the group at the white bed and keep watch
 - 20:27 act: {"actions":[{"do":"sleep"}]}
 - 20:32 act: {"say":"Kimberly here, hunger 20, no food on me. The wheat at -263,66,321 is unripe, so it will not feed anyone yet. I have 4 oak logs and 3 planks to share if anyone needs them."}
+- 20:38 act: {"say":"Picard, the only food I have seen is unripe wheat at -263,66,321. It is not ready yet. I'm staying near the beds too, and I'll tell you if I find anything safe.","intent":{"goal":"hold_near_be
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Kimberly here, health 20, hunger 20, no food. It is dusk, so I'm going to the white bed at -270,67,318 for the night. Wheat at -263
+- 20:40 act: {"actions":[{"do":"sleep"}]}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 20:41 act: {"actions":[{"do":"sleep"}]}
+- 20:41 act: {"actions":[{"do":"sleep"}],"say":"LaForge, I have no rod or string, only 4 oak logs and 3 planks. I'm trying the bed here for the night."}
