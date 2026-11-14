@@ -37,3 +37,6 @@
 - 19:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, no food. Sleeping at the white bed -270,318. Tommy gets Billy's mutton first."}
 - 19:41 act: {"actions":[{"do":"sleep"}]}
 - 19:42 act: {"actions":[{"do":"sleep"}],"say":"Night, at the white bed -270,67,318. Health 20, hunger 20, no food. Tommy and Billy first for any meat tomorrow. Sleeping now."}
+- 19:43 act: {"intent":{"goal":"deliver_mutton_to_tommy","program":"travel","arguments":{"target":"tommy"},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max
+- 19:43 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is the mutton from Billy. Eat it."}
+- 19:45 act: {"actions":[{"do":"note","text":"Day 234 night: Billy asked me to take mutton to Tommy. Tommy went out of sight twice; give failed. I still hold the mutton and will hand it to him at first sight tomor
