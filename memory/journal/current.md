@@ -92,3 +92,5 @@
 - 21:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":1},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
 - 21:11 act: {"intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
 - 21:12 act: {"actions":[],"say":"Kimberly here at the white beds with a sword now. Zack, the chicken goes to Trini first, then Riker. I'll stand guard with you while you give it. I have no food."}
+- 21:15 act: {"intent":{"goal":"join_group_at_zack_spot","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":289}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":291}}],"say":"Kimberly coming to you now, Trini and Zack. Still no food on me."}
