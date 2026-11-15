@@ -128,3 +128,4 @@
 - 04:54 say: {"text":"Kimberly at -272,67,336, dawn of day 262. No food. Staying at the beds in sight. Any meat goes to Worf, then Trini."}
 - 05:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limit
 - 05:21 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":16}},"act
+- 05:25 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, night of day 263. No food, hunger 10, health 15. Trying the yellow bed north of me. Meat goes to Worf, then Trini."}
