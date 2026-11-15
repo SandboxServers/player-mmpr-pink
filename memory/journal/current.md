@@ -4,3 +4,34 @@
 - 18:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Golem has moved 13 blocks off. Retry sleep once."}
 - 18:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep blocked twice here. Change the try: use the other bed beside me, then sleep."}
 - 18:47 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}],"reasoning":"Bed use refused; sleep blocked. Wait with the group, then one more sleep."}
+- 18:48 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Kimberly at the white bed, night 303, hunger 16, health 20. One beef for whoever is lowest in sight."}
+- 19:14 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"beef","count":1}],"say":"Chapman, you are the lowest at health 3 and in reach. Here is my beef. Eat it.","reasoning":"Beef goes to the lowest in s
+- 19:14 act: {"actions":[],"say":"Billy, my beef went to you by mistake. Please hand it to Chapman now. He is at health 3 and the lowest.","reasoning":"Beef landed with Billy. Chapman is the lowest. Ask Billy to p
+- 19:16 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"beef","count":1}],"say":"Clark, the beef is yours. Chapman is out of sight, and you are in reach. Eat it.","reasoning":"Beef came back to me. Chapma
+- 19:16 act: {"actions":[],"say":"Zack, the beef landed with you. Clark is in reach and lowest in sight. Please hand it to Clark now.","reasoning":"Give landed on Zack again. Ask Zack to pass it, not retry."}
+- 19:18 act: {"actions":[],"say":"I have the beef again. Chapman, come within reach of me and I will hand it to you. Chapman is lowest at 3.","reasoning":"Beef came back to me. Chapman is at 3.7, out of reach. Hol
+- 19:20 act: {"actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"give","to":"ag_chapman_01","item":"beef","count":1}],"say":"Chapman, I am coming to you with the beef. Eat it.","reasoning":"Dusk. Chapman is 
+- 19:21 act: {"actions":[{"do":"sleep"}],"say":"I have no beef now; someone else took it from the ground. I am at the white beds and will try to sleep.","intent":{"goal":"rest_at_bed","program":"rest","arguments":
+- 19:22 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"chicken","count":2}],"say":"Chapman, Data's two chickens are with me. I am giving them to you now."}
+- 19:22 act: {"actions":[],"say":"The chickens went to Picard, not to me, and I hold no food now. Jason says Chapman and Clark have chickens. I am staying at the white bed with the group for the night."}
+- 19:26 act: {"actions":[{"do":"sleep"}]}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}}],"say":"Morning. Kimberly here, health 20, hunger 15, no food. Troi, Jason, if you have rotten flesh, keep it for whoever drops to 6."}
+- 19:30 act: {"actions":[],"say":"Kimberly, morning 306, health 20, hunger 15, no food. I will scout east with Worf and Data, in sight of them. Any meat to Chapman first, then me."}
+- 19:31 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":330}}]}
+- 19:34 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"Kimberly here, hunger 15, no food. Any meat I find goes to Chapman first, then Clark.","intent":{"goal":"scout_east_for_meat","program":"tr
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"say":"Kimberly going to the white bed at -270,67,336 for the night. No food, hunger 15. Meat to Chapman first.","intent":{"goal":"reach_w
+- 19:41 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly trying to sleep at the white bed. Hunger 15, no food. Meat to Chapman first."}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"intent":{"goal":"sleep_at_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":335}},"wake_on":["direc
+- 19:53 act: {"actions":[{"do":"goto","target":"ag_leonardo_01"}],"say":"Kimberly, dawn 307, hunger 15, no food. Hunting with Leonardo in sight. Meat to Chapman, then Clark and Troi.","intent":{"goal":"hunt_with_g
+- 19:57 act: {"actions":[{"do":"note","text":"Day 307, hunger 15, no food. Chapman in reach with 3 chickens; meat goes to Chapman first, then Clark and Troi."}],"say":"Kimberly, day 307, health 20, hunger 15, no f
+- 20:02 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the yellow bed, dusk 307, health 20, hunger 15, no food. Trying to sleep here with Chapman and Jason. Meat goes to Chapman, Clark and Troi first."}
+- 20:02 act: {"actions":[{"do":"sleep"}]}
+- 20:02 act: {"actions":[{"do":"sleep"}]}
+- 20:06 act: {"actions":[{"do":"note","text":"Night 307: Chapman health 1, hunger 13, three chickens. Told him to eat one now so health can start to come back. I have no food."}],"say":"Chapman, health is 1. Eat o
+- 20:11 act: {"actions":[{"do":"note","text":"Dawn 308: Chapman back at health 20. Riker respawned at the yellow beds with his things in a pit at -234,55,346. I will walk with him in daylight."}],"say":"Kimberly, 
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-235,"y":56,"z":346}}]}
+- 20:11 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 20:11 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":351}}]}
+- 20:12 act: {"actions":[],"say":"Kimberly, morning 308, health 8, hunger 14, no food. I picked up Riker's things from the pit by mistake and hold them. Riker, step into my sight and I'll give them back."}
+- 20:13 act: {"actions":[{"do":"note","text":"Holding Riker's items. Worf and Lewis are near, Riker not in sight. Waiting for Riker to come into reach."}],"say":"Worf, I'm holding Riker's things from the pit. I'll
