@@ -69,3 +69,12 @@
 - 14:09 act: {"say":"Kimberly, dawn 290. Health 20, hunger 20, no food. Trini and Leonardo are lowest, so meat goes to them first. I'll search the grass to the west with Trini and Billy, in sight of each other.","
 - 14:10 act: {"say":"Kimberly here, back to the beds. No animals in the west. I'll stay near the group; Trini first for any food I find.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}]}
 - 14:11 say: {"text":"Kimberly, Worf: no animals seen by me since dawn, west or near the beds. Only unripe wheat at -272,66,331 and -274,66,332. I have no food. Trini and Leonardo first."}
+- 14:20 act: {"say":"Kimberly going to the white bed at -270,67,336 for the night with the group. Health 20, hunger 20, no food.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 14:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, in sight of the group at the beds. Sleep again. Troi is holding a chicken for Zack or Leonardo; I have no food to give.","say":"Kimberly at the white be
+- 14:30 act: {"intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block
+- 14:34 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":351}}],"reasoning":"The travel intent did not move me. Send a direct goto to the pig area where the group is going."}
+- 14:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, no pigs found, the group is heading back to the white beds. Go to the bed at -271,67,318 and sleep with 
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the first bed. One retry on the other bed at -270,67,336 next to the group."}
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"reasoning":"Dawn 292, no food. Group hunting pigs east near -222,68,351. Join and call out any animal. Macdonald is lowest but I have not
+- 14:53 say: {"text":"No animals in sight here. Any pig or cow sighting to the east, please call out. Macdonald, tell me where you are."}
+- 14:53 act: {"actions":[],"intent":{"goal":"search_east_for_pigs","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits"
