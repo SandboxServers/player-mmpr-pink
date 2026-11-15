@@ -187,3 +187,5 @@
 - 07:28 act: {"say":"Dawn. Hunger 7, no food. I'm going west with the group to look for cows or pigs. Any meat goes to Chapman and Trini first.","intent":{"goal":"search_west_for_animals","program":"travel","argum
 - 07:28 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":330}}]}
 - 07:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"No animals out west either. Heading back to the beds with the group. Hunger 7, still no food."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Hunger 7, no food. Going to the white bed at -270,67,318 to sleep with the group."}
+- 07:55 act: {"say":"Kimberly, hunger 7, no food. Bread goes to Trini first, then me. I'll wait at the beds."}
