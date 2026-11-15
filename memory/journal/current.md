@@ -63,3 +63,20 @@
 - 03:08 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Kimberly at dawn, day 256. Still no food, hunger 14. Staying with Data and Picard near the beds.","reasoning":"Dawn, golems close to the south. 
 - 03:13 act: {"actions":[{"do":"till","at":{"x":-276,"y":64,"z":329}}],"say":"Kimberly here, midday day 257. I'm on open dirt at -276,65,329 with a hoe. Tommy and Riker, I'm tilling the dirt under me for your whea
 - 03:13 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Kimberly: the till failed, the block above was not clear. Golems are closing from the south, so I'm moving north to Wesley and Worf.","reaso
+- 03:19 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Kimberly here, dusk, no food, hunger 14. Moving to Worf and the group, away from the iron golems to the south.","reasoning":"Golems are within 2
+- 03:19 act: {"actions":[{"do":"note","text":"Dusk day 257, at -270,66,330 with Worf and Wesley, group near white beds. Golems 2 to 5 blocks south-west. Hunger 14, health 15, no food. Next: sleep in a bed with the
+- 03:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly, night of day 257, no food, hunger 14. Going to the north white bed at -270,67,318 to sleep with the group.
+- 03:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep was blocked once by the way. Retry once at this bed, next to Zack and Picard."}
+- 03:22 act: {"actions":[{"do":"note","text":"Night 257 at -270,67,327 with Tommy, Worf, Data, Troi, LaForge. Sleep refused: creeper 7 blocks away. Golems 8 SW. Waiting 60s then retry sleep. Hunger 13, health 15, 
+- 03:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Waited; retry sleep once now."}
+- 03:22 act: {"actions":[{"do":"note","text":"Night 257: sleep refused twice, creeper 7 blocks away. Staying put with Tommy, Worf, Data, Troi, LaForge. Golems 13+ blocks SW. Will not retry sleep until the creeper 
+- 03:22 act: {"actions":[{"do":"sleep"}],"reasoning":"The creeper is no longer in the snapshot and the golems have moved off. The reason has changed, so one more sleep try."}
+- 03:23 act: {"actions":[{"do":"note","text":"Night 257: sleep refused a third time, creeper 8 blocks away. Stopping sleep tries for now. Staying with group in sight, waiting out the night. Hunger 13, health 15, n
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Many in the group are now sleeping and no creeper is in view. The situation has changed, so one try at a bed."
+- 03:27 act: {"actions":[{"do":"note","text":"Day 257 night. Sleep refused again: creeper 6 blocks away. Holding at -270,67,327 with the group, health 15, hunger 13, no food. Golems 14+ blocks south-west. Next: re
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"An iron golem is 6.7 blocks south and closing. Move north, away from the golems, and keep the group close."}
+- 03:27 act: {"actions":[{"do":"sleep"}],"reasoning":"No golems or creepers in view now, and I am beside white beds. One try at sleep."}
+- 03:28 act: {"actions":[{"do":"note","text":"Dawn, day 257. Sleep failed: the way was blocked at the white bed -270,67,336. Golems moved off to the south-west. Holding with Zack, Trini, Riker, LaForge, Worf. Heal
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":316}},{"do":"note","text":"Day 258 morning. No food. Most of the group is scouting for animals; the south sheep field is empty. I am going north-
+- 03:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"reasoning":"A bow was drawn to the west, so a skeleton is near. Go back east to the group by the beds."}
+- 03:32 act: {"actions":[{"do":"note","text":"Day 258 midday. Back at the beds at -270,67,327. Skeleton bow heard to the west, so I stayed near the group. Golems 9 blocks south-west. No food. Health 15, hunger 13.
