@@ -48,3 +48,4 @@
 - 17:30 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"mutton","count":2}],"say":"Trini, 2 mutton for Zack, hunger 8, the weakest I can hear. Please carry it to him. Macdonald and LaForge after.","reason
 - 17:38 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"Kimberly here, health 20, hunger 20, no food, only dirt. Clark, I am heading to the white beds to see you. Leonardo, I still hold a
 - 17:38 act: {"actions":[],"say":"Kimberly at the white beds, health 20, hunger 18, no food, only dirt. Wesley, you are lowest, so eat your chicken first. Leonardo, I still have a spare wooden sword for you if you
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly going to the white bed for the night. Zack already has the swor
