@@ -93,3 +93,4 @@
 - 15:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the bed. Try once more from a nearby spot beside the group."}
 - 15:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep blocked twice on the nearer bed. Try the other half of the white bed, one time."}
 - 15:30 say: {"text":"Kimberly, dawn 294. Health and hunger 20, no food. Bcrusher and Wcrusher are lowest, so any meat or wheat goes to them first. I'm in reach of Trini if she needs me."}
+- 15:34 say: {"text":"Kimberly at the white beds, dawn 294. Health and hunger full, no food. Any meat or wheat goes to the weakest first. I'll search the grass nearby and call out anything edible."}
