@@ -183,3 +183,7 @@
 - 07:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Kimberly going to the white bed at -270,67,336 for the night. Hunger 8, no food. First 
 - 07:12 say: {"text":"Kimberly, dawn 269, hunger 8, no food. Joining the search for cows or pigs. Any meat: Chapman and Trini first, then me."}
 - 07:13 say: {"text":"Kimberly: LaForge, thanks. I have no rod and I won't enter deep water. Still hunger 8, waiting for meat."}
+- 07:24 act: {"intent":{"goal":"wait_for_dawn_near_group","program":"rest","arguments":{"near":"white_bed_-270_67_336"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 07:28 act: {"say":"Dawn. Hunger 7, no food. I'm going west with the group to look for cows or pigs. Any meat goes to Chapman and Trini first.","intent":{"goal":"search_west_for_animals","program":"travel","argum
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":330}}]}
+- 07:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"No animals out west either. Heading back to the beds with the group. Hunger 7, still no food."}
