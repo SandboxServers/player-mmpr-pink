@@ -153,3 +153,11 @@
 - 23:45 act: {"actions":[{"do":"sleep"}]}
 - 23:45 act: {"actions":[{"do":"note","text":"Day 246 night: sleep refused again (phantom 4 blocks away). Health 20, hunger 18. Holding at the white bed with the group. Retrying sleep after a wait."}],"say":"Still
 - 23:45 act: {"actions":[{"do":"sleep"}]}
+- 23:47 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed -270,67,318, night of day 246. Hunger 18, no food on me. Trying sleep with the group. Trini eats the chicken first."}
+- 23:48 act: {"actions":[{"do":"note","text":"Dawn of day 246: no food on me. Staying by the beds; any food goes to Trini first, then Data."}],"say":"Kimberly at the white bed, dawn. Hunger 18, health 20, no food 
+- 23:48 act: {"actions":[],"say":"Kimberly, dawn of day 247. Hunger 18, health 20, no food. I'm staying at the white bed with the group and will look for animals within sight. Trini eats first."}
+- 23:51 act: {"actions":[],"say":"Kimberly at the beds. Riker, I won't go on the lake; I drowned once. Fish or salmon goes to Trini first, then Data. I'm holding here at hunger 18 and will walk the grass only in s
+- 23:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 247. Health 20, hunger 18, no food. Sleeping at the white bed with the group. Trini first at dawn."}
+- 00:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 247. Sleeping at the white bed. Trini first at light."}
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going back to the white bed at -270,318 away from the golems to the south-west. No food; Trini first at light."}
+- 00:03 act: {"actions":[],"say":"Still at the beds, night 247. Beds are full and a golem is 8 blocks south, so I'm holding here with Data, Billy and Tommy until light. Trini first for any food."}
