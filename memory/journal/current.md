@@ -16,3 +16,11 @@
 - 10:40 act: {"actions":[{"do":"sleep"}],"say":"The chicken went to Troi, not Trini, so Troi now holds the meat. I have nothing left to give. I'm going to the bed to sleep."}
 - 10:44 act: {"actions":[{"do":"sleep"}],"say":"Night of 279. I have no food. LaForge is weakest, so Chapman's wheat should go to him. I'm sleeping at the bed."}
 - 10:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, group near, no threats close. Sleep, then reflect.","say":"Night. I'm at the beds with the group. Hungry, no food; wheat goes to LaForge f
+- 10:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Kimberly awake at the beds, night of 279. Health 15, hunger 13, no food. Going to the b
+- 10:46 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Use failed on the north-west bed. Try the other bed once, then sleep."}
+- 10:48 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"wheat","count":1}],"say":"LaForge, you're in reach. Chapman's wheat is yours, as agreed. Eat it when you can.","reasoning":"Dawn, day 280 soon. La
+- 10:48 act: {"actions":[{"do":"wait","seconds":20}],"say":"Dawn. My wheat is for LaForge, but the give failed because items lie on the ground near him. I'll check on him before I hand it over."}
+- 10:49 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"wheat","count":1}],"say":"LaForge, I still have Chapman's wheat for you. Coming within reach now.","reasoning":"LaForge is in reach now; retry the
+- 10:49 act: {"actions":[{"do":"wait","seconds":60}],"say":"LaForge, my give keeps failing because items lie on the ground by you. Please pick up the drop by your feet, or step a block away, then I'll hand you the
+- 10:50 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"wheat","count":1}],"say":"LaForge, I'm walking up to you with the wheat. Chapman's share is yours.","reason
+- 10:50 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, the chicken is yours: you're the weakest. Eat it now. Chapman's wheat comes next, to Trini.","reasoning":"LaF
