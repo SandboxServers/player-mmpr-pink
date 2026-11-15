@@ -145,3 +145,8 @@
 - 05:48 act: {"intent":{"goal":"gather_food_near_beds","program":"gather","arguments":{"block":"wheat","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2
 - 05:50 act: {"say":"Kimberly, dawn of day 265. No food on me, hunger 9. I'll walk the grass nearby for animals and apples, staying within sight of the beds.","intent":{"goal":"search_food_near_beds","program":"tr
 - 05:50 act: {"say":"Kimberly, day 265. The trader Data mentioned is west of us. If it has food, I'll ask the group before buying. I hold only planks and a spare hoe to trade.","actions":[{"do":"goto","target":{"x
+- 05:56 act: {"say":"Kimberly here. No meat or bread, Jason, I have none. I hold 11 planks, 3 saplings, 3 logs and 1 wheat seed. I'll stay near you at the wheat field.","intent":{"goal":"stay_near_jason","program"
+- 05:59 act: {"say":"Kimberly here. Dusk is coming. I'm going to the white bed at -281,67,320 with the group to sleep.","actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}]}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 06:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
