@@ -78,3 +78,9 @@
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":351}}],"reasoning":"Dawn 292, no food. Group hunting pigs east near -222,68,351. Join and call out any animal. Macdonald is lowest but I have not
 - 14:53 say: {"text":"No animals in sight here. Any pig or cow sighting to the east, please call out. Macdonald, tell me where you are."}
 - 14:53 act: {"actions":[],"intent":{"goal":"search_east_for_pigs","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":351}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits"
+- 14:55 act: {"actions":[{"do":"note","text":"Day 292, at -214,69,351. Health 20, hunger 20, no food. Riker is carrying beef for Leonardo and Zack. Macdonald is lowest. I will search for animals and hand food to t
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-210,"y":69,"z":351}}],"say":"Stepping aside for Picard's shelter. Still watching for pigs and cows; I have no food."}
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":334}}],"say":"Dusk. Heading west to the white beds with the group for the night."}
+- 15:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"At the white bed with the group. Going to sleep."}
+- 15:00 act: {"actions":[{"do":"sleep"}]}
+- 15:05 act: {"actions":[{"do":"sleep"}]}
