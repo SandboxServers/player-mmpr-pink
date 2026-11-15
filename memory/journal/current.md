@@ -48,3 +48,18 @@
 - 11:32 act: {"actions":[{"do":"note","text":"Day 282 dawn-day. Group at beds, many without food; Trini hunger 10 after Data's flesh. Clark planted wheat seed on Lewis's farmland. I have 3 hoes and can till more f
 - 11:32 act: {"actions":[{"do":"till","at":{"x":-275,"y":66,"z":321}}],"say":"Billy, I'll till a patch by the beds for your seeds. Trying the grass just west of the beds now.","reasoning":"Billy asked for farmland
 - 11:32 act: {"actions":[{"do":"note","text":"Day 282: till try at -275,66,321 failed, that block is planks, not grass. I need a walked grass spot before tilling again. Asked Billy to plant at Clark/Lewis's tilled
+- 11:34 act: {"say":"Zack, I have no food either. I'll walk the grass north-east of the beds for animals and call out anything I find.","intent":{"goal":"scout_grass_for_animals","program":"travel","arguments":{"t
+- 11:34 act: {"intent":{"goal":"wait_at_beds_for_food_and_dusk","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":600,"m
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at dusk, day 282. No food, one wheat I can't eat. Going to the 
+- 11:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 11:50 act: {"say":"Kimberly at dawn, day 283. No food, hunger 13. I'll join the pig hunt with the group. Meat to LaForge, Trini, then Picard.","intent":{"goal":"follow_pig_hunt_with_group","program":"follow","ar
+- 11:50 act: {"say":"I'm with the group. Riker, I'll follow you for the pig hunt.","intent":{"goal":"follow_riker_on_pig_hunt","program":"follow","arguments":{"target":"riker"},"wake_on":["directly_addressed","une
+- 11:50 act: {"say":"Follow didn't take for me. I'll stay here by the beds in sight of you all. If you spot a pig or cow, call it out and I'll come help.","intent":{"goal":"stay_near_group_watch_for_animals","prog
+- 11:51 act: {"say":"LaForge, I'm bringing my one wheat to you now. Health 2 comes first.","actions":[{"do":"goto","target":"laforge"},{"do":"give","to":"laforge","item":"wheat","count":1}]}
+- 11:51 act: {"say":"LaForge is out of sight, so my wheat goes to Zack, who is in reach and hungry.","actions":[{"do":"give","to":"zack","item":"wheat","count":1}],"intent":{"goal":"stay_near_group_watch_for_anima
+- 11:51 act: {"say":"Picard, the chicken should go to LaForge at the tables (-274,67,327) first, he is at health 2. I'm keeping my wheat.","intent":{"goal":"stay_near_group_watch_for_animals","program":"rest","arg
+- 11:52 act: {"say":"Heading to the crafting tables to be with LaForge and the group. No food on me.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":325}}]}
+- 12:01 act: {"say":"Dusk. Going to the bed at -270,67,318 to sleep. No food on me.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 12:01 act: {"say":"Both white beds refused me. I'm trying the yellow bed at -271,67,326 instead.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sl
+- 12:01 act: {"say":"Night. Beds are refusing me. I'll stay with Riker and the group until morning.","intent":{"goal":"stay_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","u
