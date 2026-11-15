@@ -80,3 +80,39 @@
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":-285,"y":67,"z":316}},{"do":"note","text":"Day 258 morning. No food. Most of the group is scouting for animals; the south sheep field is empty. I am going north-
 - 03:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}}],"reasoning":"A bow was drawn to the west, so a skeleton is near. Go back east to the group by the beds."}
 - 03:32 act: {"actions":[{"do":"note","text":"Day 258 midday. Back at the beds at -270,67,327. Skeleton bow heard to the west, so I stayed near the group. Golems 9 blocks south-west. No food. Health 15, hunger 13.
+- 03:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at dusk, day 258. No food, hunger 13, health 15. Going to the north white bed at -270,67,318 to sleep with 
+- 03:44 act: {"actions":[{"do":"sleep"}]}
+- 03:44 act: {"actions":[{"do":"note","text":"Night 258 at -270,67,327 with Lewis and LaForge. Sleep refused: creeper 8 blocks away. Golems 12+ SW. Health 15, hunger 13, no food. Holding with group, retry sleep wh
+- 03:44 act: {"actions":[{"do":"sleep"}]}
+- 03:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"note","text":"Dawn day 259 at -270,67,327. No food, hunger 13, health 15. Golem 6 blocks south, so moved north toward the group at t
+- 03:52 act: {"actions":[{"do":"note","text":"Day 259 morning at -270,68,320 by the north white bed, with Troi, Trini and Jason in reach. No food, hunger 13, health 15. Nothing new came from the wait. Waiting with
+- 04:01 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"},{"do":"note","text":"Night 259 at the south-west white bed -271,67,336 with Lewis, Wesley, Troi, Billy-group nearby. Tried s
+- 04:08 act: {"actions":[{"do":"note","text":"Dawn day 260 at -272,67,336 by the south white beds with Data, LaForge, Trini, Troi. Slept partly (3 of 9 asleep), woke at dawn. No food, hunger 12, health 15. Clark s
+- 04:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":68,"z":320}}]}
+- 04:08 act: {"actions":[{"do":"note","text":"Day 260 dawn: moved north to -271,68,320 away from a golem 13 blocks south. Back with Picard, Zack, Tommy, Wesley. No food; Trini health 8, hunger 11. I have nothing t
+- 04:18 act: {"say":"Kimberly here. I lost my connection for a moment. I still have no food, hunger 12, health 15. I'm staying near the north white bed with the group.","actions":[{"do":"note","text":"Day 260 dawn
+- 04:22 act: {"say":"Kimberly at dusk, day 260. No food, hunger 12, health 15. Going to the north white bed at -271,67,318 to sleep with Zack and Picard.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}
+- 04:22 act: {"actions":[{"do":"note","text":"Night 260 at -271,67,327: sleep refused, creeper 10 blocks away. Iron golem 14 SE. Holding with Tommy, Worf, Troi, LaForge. Retry sleep at the north white bed when no 
+- 04:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:25 act: {"say":"Troi's porkchop came to me. Trini is out of sight, so I'm holding it for her; whoever sees her first, tell me and I'll hand it over. Worf is next.","actions":[{"do":"sleep"},{"do":"note","text
+- 04:25 act: {"say":"Trini, I have Troi's porkchop for you. Golem is 4 blocks south-west of me, so I'm heading north to the beds. Come to me when you can.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322
+- 04:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:26 act: {"say":"Trini, I'm coming to you with Troi's porkchop. Tell me where you are.","actions":[{"do":"goto","target":"ag_trini_01"}]}
+- 04:26 act: {"say":"Worf, Trini is still out of reach, so I'm giving you Troi's porkchop now. Trini gets the next meat.","actions":[{"do":"give","to":"ag_worf_01","item":"porkchop","count":1},{"do":"note","text":
+- 04:26 act: {"say":"Tommy, the porkchop went to you by mistake, not Worf. Please give it to Trini when she's near, or to Worf if she isn't. Sorry for the mix-up.","actions":[{"do":"note","text":"Night 260 at -270
+- 04:26 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 260: retried sleep at south white beds with no creeper in view. Porkchop now with Tommy, asked to pass to Trini or Worf."}]}
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"note","text":"Night 260: moved north away from golems (3.9 blocks south of me) toward north white beds. Tommy holds porkchop, says h
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"note","text":"Night 260: a goto drifted me to -261,69,352 near deep water and drops. Heading back north to the white beds at -270,67
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"},{"do":"note","text":"Night 260: sleep blocked at -261,67,353. Trying the yellow bed at -263,67,353 two blocks west. Riker in
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 04:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"},{"do":"note","text":"Night 260 at -274,67,319 near north beds. Trying the white bed at -271,67,318. Tommy holds porkchop for
+- 04:27 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 260 at -271,67,319 beside north white beds, Zack, Jason, Billy in reach. Trying sleep again."}]}
+- 04:27 act: {"actions":[{"do":"sleep"}]}
+- 04:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":319}},"wake_on":["goal_completed","direct
+- 04:28 act: {"actions":[{"do":"note","text":"Dawn, day 260. At -272,67,336 with Clark, Laforge, Lewis, Tommy in reach. Sleep failed again (way blocked). Golems 11 to 20 south. Health 15, hunger 11, no food."}],"s
+- 04:28 act: {"actions":[{"do":"note","text":"Handoff: at -272,67,336 with Clark, Laforge, Lewis, Tommy in reach. Health 15, hunger 11, no food. Tommy holds porkchop for Trini; asked him to give it to Trini or Wor
+- 04:29 act: {"say":"Clark, I hold no porkchop. Tommy has it, and I asked him to hand it to Trini. I have no food at all, only planks and saplings.","actions":[{"do":"note","text":"Day 261 dawn. At -272,67,336 wit
+- 04:29 act: {"say":"Tommy, Trini is in reach now. Please give her the porkchop, and then Worf if he is close. I have no food to give.","actions":[{"do":"note","text":"Day 261 day. At -272,67,336. Trini, Worf, Tom
+- 04:33 act: {"actions":[{"do":"note","text":"Midday day 261. At -272,67,336 with Tommy, Lewis, Worf, Riker. The porkchop, beef and wheat have gone to Worf, the weakest. I hold no food. Health 15, hunger 11. Waiti
