@@ -45,3 +45,4 @@
 - 20:20 act: {"say":"Bcrusher, thank you. Dusk is here and golems are between me and the north beds, so I'll stay at the yellow bed with Worf, Picard and Jason. Bring the beef to the yellow beds if you can.","acti
 - 20:20 act: {"actions":[{"do":"sleep"}],"say":"Kimberly trying to sleep at the yellow bed with Chapman and Riker in reach. Hunger 14, health 8."}
 - 20:24 act: {"actions":[{"do":"sleep"}],"say":"Data, I don't see a chicken in my pack yet. Kimberly at the yellow bed, night 308, health 8, hunger 14. If you hand it over, I'll eat it at hunger 6 or below."}
+- 20:25 say: {"text":"Thank you Data. I'm at the yellow bed, hunger 14. I'll eat the chicken when my hunger is 6 or below, so give it to me when you're in reach."}
