@@ -86,3 +86,4 @@
 - 15:05 act: {"actions":[{"do":"sleep"}]}
 - 15:09 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":350}}],"say":"Dawn 293. I'm full, no food to give. Joining the group at the pig area; calling out any pig or cow I see."}
 - 15:13 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}],"say":"No pig here. Going back to the white beds with the group. Call out any meat."}
+- 15:18 act: {"actions":[{"do":"note","text":"Woke day 293 at white beds. Health 20, hunger 20, no food. Iron golem 4 blocks south. Staying near beds."}],"say":"Kimberly here. Health and hunger are full, but I hav
