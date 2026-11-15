@@ -1,0 +1,1 @@
+Day 317 dusk. Sleeping at the white bed 429,107,-1051, which works with the sleep verb (use does not). Health 8, hunger 12. Holding one raw chicken for whoever wakes weakest (Lewis, Picard, Chapman). Lewis is building a shelter; I offered him 9 dirt. Next: feed the weakest, find my own bed or seal a shelter, stay near the beds and chests.
