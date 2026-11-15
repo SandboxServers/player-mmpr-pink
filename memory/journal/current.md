@@ -87,3 +87,9 @@
 - 15:09 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":350}}],"say":"Dawn 293. I'm full, no food to give. Joining the group at the pig area; calling out any pig or cow I see."}
 - 15:13 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}],"say":"No pig here. Going back to the white beds with the group. Call out any meat."}
 - 15:18 act: {"actions":[{"do":"note","text":"Woke day 293 at white beds. Health 20, hunger 20, no food. Iron golem 4 blocks south. Staying near beds."}],"say":"Kimberly here. Health and hunger are full, but I hav
+- 15:20 say: {"text":"I'm here at the white beds, health and hunger both 20. I have no food. Any meat goes to whoever is weakest in reach."}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Night has come. Move to the white bed the group uses, then sleep with them.","say":"Going to the white bed at -270,67,336 wit
+- 15:24 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, on the white bed with the group in reach, health 20. Sleep.","say":"Kimberly on the white bed with the group in reach. Sleeping. No food."}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Sleep was blocked at the bed. Try once more from a nearby spot beside the group."}
+- 15:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep blocked twice on the nearer bed. Try the other half of the white bed, one time."}
+- 15:30 say: {"text":"Kimberly, dawn 294. Health and hunger 20, no food. Bcrusher and Wcrusher are lowest, so any meat or wheat goes to them first. I'm in reach of Trini if she needs me."}
