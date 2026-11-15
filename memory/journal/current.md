@@ -46,3 +46,6 @@
 - 20:20 act: {"actions":[{"do":"sleep"}],"say":"Kimberly trying to sleep at the yellow bed with Chapman and Riker in reach. Hunger 14, health 8."}
 - 20:24 act: {"actions":[{"do":"sleep"}],"say":"Data, I don't see a chicken in my pack yet. Kimberly at the yellow bed, night 308, health 8, hunger 14. If you hand it over, I'll eat it at hunger 6 or below."}
 - 20:25 say: {"text":"Thank you Data. I'm at the yellow bed, hunger 14. I'll eat the chicken when my hunger is 6 or below, so give it to me when you're in reach."}
+- 20:26 act: {"actions":[{"do":"sleep"}],"say":"Kimberly, night 308, health 8, hunger 14. Trying the bed here. Data, I'll take the chicken at hunger 6 or below, in your reach.","reasoning":"Night, bed, group close
+- 20:27 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}],"reasoning":"Sleep did not take. Golem 4 blocks east. Wait, then one more sleep try.","say":"Kimberly, night 308, health 8, hunger 14, still at 
+- 20:28 act: {"actions":[{"do":"wait","seconds":30}],"say":"Data, I'm at -262,67,353, on the bed row, right beside the yellow bed. Please step next to me and I'll take the chicken to hold. I'll eat it at hunger 6.
