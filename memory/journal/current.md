@@ -32,3 +32,6 @@
 - 10:56 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":317}},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, moving to you now with the chicken."}
 - 10:56 act: {"actions":[{"do":"note","text":"Gave the chicken to LaForge at -268,67,317 after he stepped off the drop. Still holding 1 wheat for Trini (not in view) or whoever is weakest. Next: wait for Trini, th
 - 10:58 act: {"actions":[{"do":"note","text":"LaForge has the chicken and is eating it. Picard (hunger 4) is the weakest now but not in reach; Trini is not in view. Holding 1 wheat for Picard or Trini."}],"say":"P
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Dusk. Going to the bed at -270,67,318 to sleep with the group. I'm holding one wheat fo
+- 11:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
+- 11:11 act: {"actions":[{"do":"note","text":"Day 281 dawn. No food in the group. I hold 1 wheat (not edible), 3 saplings, 11 planks, 5 logs. Next: stay with the group at the beds, scout nearby grass for animals, 
