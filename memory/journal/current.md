@@ -163,3 +163,20 @@
 - 06:31 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":331}},{"do":"till","at":{"x":-268,"y":66,"z":332}}],"say":"Kimberly at the beds, hunger 9, no food. Scouts, call out any sheep, cow or pig. I'm t
 - 06:31 act: {"actions":[{"do":"till","at":{"x":-269,"y":65,"z":331}}],"reasoning":"Previous target was air. The grass sits at y=65 under me; try the grass one block west."}
 - 06:31 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-269,"y":66,"z":331}}],"say":"My last wheat seed is planted on the new farmland just west of me, in sight of the beds.","reasoning":"Plant the
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"Wcrusher, I have no food, hunger 9. Zack's rotten flesh goes to whoever is weaker first. Golems are close to the south, so I'm movi
+- 06:37 say: {"text":"Riker, I have no food either, hunger 9. Nobody has found fish, animals or apples yet. Whatever comes first goes to the weakest, and I'll stay here by the beds."}
+- 06:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Dusk. Going to the white bed at -271,67,318 to sleep with the group. Still no food; LaForge's rotten flesh has not reached me.","in
+- 06:40 act: {"actions":[],"say":"LaForge, I'm awake at the white bed, hunger 9, health 15. Yes, please hand me the rotten flesh. Jason is weaker than me by health, so after I eat, it goes to him."}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":319}}],"say":"LaForge, I'm at -276,67,322, west of you. Coming to you now. Please give the rotten flesh when I'm in sight."}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to the north white bed at -271,67,318. LaForge, the rotten flesh when you see me there, please."}
+- 06:41 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 06:41 act: {"actions":[],"say":"LaForge, I'm right beside you now, hunger 8, health 15. Please give me the rotten flesh, thank you."}
+- 06:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["goal_completed","unexpected_damage"],"lim
+- 06:43 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 06:43 say: {"text":"Thank you LaForge, I see no flesh in my pack yet. Could you drop it to me, all 3, and I will eat it now."}
+- 06:43 act: {"actions":[{"do":"sleep"}]}
+- 06:45 act: {"actions":[],"say":"Jason, I'm right here at the white bed, in reach. Hunger 8, health 15. Please give me one rotten flesh if you can spare it. Thank you."}
+- 06:48 act: {"actions":[],"say":"Kimberly at dawn, hunger 8, health 15, no food. I'll go west with the group. Any meat, please give to me or Worf first. I'll name any animal I see."}
+- 06:51 say: {"text":"Kimberly here, no animals seen yet. Still hunger 8. Thanks Tommy, Clark. Call me if you find anything."}
