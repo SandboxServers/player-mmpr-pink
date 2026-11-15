@@ -40,3 +40,8 @@
 - 11:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Kimberly at dusk, day 281. No food. Going to the white bed at the beds to sleep with the group."}
 - 11:23 act: {"actions":[{"do":"sleep"}]}
 - 11:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:28 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at the white bed, night 281, hunger 13, no food but my wheat, which can't be eaten. Trini first for any meat.","
+- 11:28 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed use failed, the other bed is the second try. One try only."}
+- 11:28 act: {"actions":[{"do":"note","text":"Day 281 dawn. Both bed uses failed (bed blocked for use); sleep not possible at dawn. Holding wheat, wood, tools. No food. Staying with group; Trini and Picard first f
+- 11:28 act: {"intent":{"goal":"scout_grass_near_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"note","text":"Day 281 dusk. Scouted grass east-south of beds, no animals. Lewis was slain (sign at beds). Back at beds with group, n
