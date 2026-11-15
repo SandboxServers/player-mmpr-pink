@@ -29,3 +29,20 @@
 - 16:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
 - 16:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"say":"Kimberly here at the north beds. I have no food, only dirt. Health 20, hunger 20. Clark or Zack, tell me if you come
 - 16:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"sleep"}]}
+- 16:45 act: {"actions":[],"say":"Kimberly here, I have no food left, only dirt. Clark, Zack, Trini: I have nothing to give, but I will stand here and watch for any animal to call out."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"intent":{"goal":"rest_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed",
+- 17:04 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Kimberly at the yellow bed, trying to sleep. No food, hunger 20."}
+- 17:07 act: {"actions":[],"say":"Jason, I have no food either, only dirt. Sleep at the yellow bed next to me and we will look for food at dawn."}
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":-257,"y":66,"z":199}}],"intent":{"goal":"join_group_hunt_chickens","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":199}},"wake_on":["directly_addre
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":-261,"y":65,"z":198}}],"say":"Kimberly here at the chicken ground, no food yet. Checking a dropped item to the west."}
+- 17:12 act: {"actions":[],"say":"Billy, I don't know where Picard is; he said he was going back to his drop spot in daylight. I'm at the chicken ground with no food, only a wooden sword I picked up."}
+- 17:13 act: {"actions":[],"say":"Billy, I have your 2 mutton now. I'll hold them for Picard or Wesley, whoever is weakest and in my reach. Leonardo, I have a spare wooden sword; come into my reach and I'll give i
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"intent":{"goal":"return_to_white_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["directly
+- 17:21 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"mutton","count":2}],"say":"Picard, Billy's 2 mutton for you, you are the weakest in reach. Eat when your hunger is low."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. I am going to try the white bed here. Picard, the mutton is on the ground by you, so pick it up and eat when 
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":333}}],"say":"Kimberly here, I hold 2 mutton for whoever is weakest. Macdonald and Chapman, call out your hunger when I am in reach.","reasoning"
+- 17:27 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"mutton","count":2}],"say":"Macdonald, 2 mutton for you, hunger 16. Eat when you need it.","reasoning":"
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-277,"y":66,"z":314}}],"say":"Macdonald, I am coming north with your 2 mutton. Keep calling out.","reasoning":"Macdonald is at hunger 15 and asked for the mutton
+- 17:29 act: {"actions":[],"say":"Kimberly here at dawn. I hold 2 mutton. Macdonald, if you still need it, say so and I will hand it over.","reasoning":"Macdonald may already have the chicken. Keep the mutton and 
+- 17:30 act: {"actions":[],"say":"LaForge, I hold 2 mutton. Come within reach and I will hand it to you. Trini, Jason, we keep to the weakest.","reasoning":"LaForge is at hunger 15 and health 11.5, the weakest I k
+- 17:30 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"mutton","count":2}],"say":"Trini, 2 mutton for Zack, hunger 8, the weakest I can hear. Please carry it to him. Macdonald and LaForge after.","reason
