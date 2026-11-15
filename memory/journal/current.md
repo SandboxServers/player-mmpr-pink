@@ -55,3 +55,9 @@
 - 13:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":324}}]}
 - 13:30 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":318}}],"say":"Checking the other dropped item north of here."}
 - 13:31 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}],"say":"Morning. Has anyone found food? I have only dirt and a pickaxe.","intent":{"goal":"reach_yellow_bed","program":"travel","arguments"
+- 13:31 say: {"text":"Kimberly here, at the beds with Zack and Chapman. I have no food, but I'm full. Any meat or bread goes to Lewis and LaForge first."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"intent":{"goal":"reach_yellow_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":326}},"wake_on":["directly_add
+- 13:43 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":325}}],"intent":{"goal":"reach_bed_near_group_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":325}},"wa
+- 13:43 say: {"text":"Kimberly, back at the beds after a death. I have 13 dirt and a pickaxe, no food. I'll stay with the group until dawn."}
+- 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"sleep"}]}
+- 13:52 say: {"text":"Kimberly, dawn 289. I'm full and have no food. I'll search the grass with Trini and Bcrusher, in sight of each other. Beef goes to Lewis, LaForge and Troi first."}
