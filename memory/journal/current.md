@@ -52,3 +52,12 @@
 - 17:42 act: {"actions":[{"do":"sleep"}]}
 - 17:43 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly trying the bed here at -270,67,318 for the night. No food, health 20."}
 - 17:43 act: {"actions":[{"do":"sleep"}]}
+- 17:50 act: {"say":"Kimberly at dawn 301, hunger 17, no food. I'll scout east of the beds for cows or sheep and call out any find.","intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"targe
+- 17:50 act: {"say":"Kimberly at -245,68,337, no animals in sight yet. Going further east to scout.","intent":{"goal":"scout_far_east_for_animals","program":"travel","arguments":{"target":{"x":-220,"y":67,"z":330}
+- 17:50 act: {"actions":[{"do":"unstick"}],"say":"Kimberly at -220,68,330, no animals seen yet. I'm in a small pit and climbing out."}
+- 17:50 act: {"say":"Kimberly: no animals in the east forest. Heading back to the group at the beds.","intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":338}},
+- 17:50 act: {"say":"Kimberly back at the beds, hunger 17, no food. No animals east. Call out if you find any cow, pig or sheep and I'll come help."}
+- 17:54 act: {"actions":[{"do":"give","to":"wcrusher_01","item":"beef","count":1}],"say":"Kimberly: the beef is for Bcrusher, hunger 9. Giving it to ag_wcrusher_01 in reach. Zack, if you're lower, call out."}
+- 17:54 act: {"say":"Wcrusher, my give bounced: your pack may be full (you carry wheat). Drop the wheat or make room, and I'll hand you the beef. Hunger 9 is the lowest I heard."}
+- 17:56 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"},{"do":"give","to":"ag_bcrusher_01","item":"beef","count":1}],"say":"Kimberly walking to Bcrusher with the beef, hunger 9. Stay put please."}
+- 17:56 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"beef","count":1}],"say":"Kimberly: Wcrusher, hunger 9 — coming to you with the beef now."}
