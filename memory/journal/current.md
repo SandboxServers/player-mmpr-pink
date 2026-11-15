@@ -69,3 +69,8 @@
 - 18:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly going to the bed for the night, hunger 17, holding one beef. Jason, if you are in my sight at low health, step n
 - 18:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use refused; a plain sleep try once. If refused, wait."}
 - 18:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at the north white bed, night 302, hunger 17, holding one beef for whoever is lowest in my sight. Trying to
+- 18:29 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Kimberly here. I hold one beef. Tell me who is lowest and I will hand it over.","reasoning":"Dawn, one beef, a nearby agent with unknown hea
+- 18:29 act: {"actions":[],"say":"Kimberly at the north beds, hunger 17, health 20, holding one beef. Zack, you are lowest by report: step into my sight and it is yours.","reasoning":"Holding the beef for the lowe
+- 18:30 act: {"actions":[],"say":"Kimberly, hunger 17, still holding one beef. Picard, Riker: at hunger 10 or below, step into my sight and it is yours.","reasoning":"Nobody in sight is below 10 right now; Chapman
+- 18:33 act: {"actions":[],"say":"Kimberly, midday, hunger 17, still holding one beef. Clark, your hunger is 17, so the beef is not yet yours. Anyone who drops to 10 or below, step into my sight.","reasoning":"Cla
+- 18:37 act: {"actions":[],"say":"Kimberly here, hunger 17, holding one beef. Chapman, Bcrusher or anyone at 6 or below, step into my sight and say your name; it is yours.","reasoning":"Trini's beef went to LaForg
