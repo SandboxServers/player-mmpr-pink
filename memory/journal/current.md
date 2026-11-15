@@ -57,3 +57,5 @@
 - 02:57 act: {"actions":[{"do":"note","text":"Day 256 afternoon: back at the north white beds with the group, -268,66,321. Still no food, hunger 14, health 15. Waiting for dusk to sleep in a bed, with Trini first 
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Kimberly heading to the white beds for the night, no food yet.","intent":{"goal":"reach_group_beds","program":"travel","arguments":
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly at the white beds, night of day 256. No food, hunger 14, health 15. Trying a bed with the group."}
+- 03:04 act: {"actions":[{"do":"sleep"}]}
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly walking to the north white bed to sleep for the night. No food, hunger 14."}
