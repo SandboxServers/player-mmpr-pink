@@ -35,3 +35,13 @@
 - 20:11 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":351}}]}
 - 20:12 act: {"actions":[],"say":"Kimberly, morning 308, health 8, hunger 14, no food. I picked up Riker's things from the pit by mistake and hold them. Riker, step into my sight and I'll give them back."}
 - 20:13 act: {"actions":[{"do":"note","text":"Holding Riker's items. Worf and Lewis are near, Riker not in sight. Waiting for Riker to come into reach."}],"say":"Worf, I'm holding Riker's things from the pit. I'll
+- 20:14 act: {"say":"Kimberly, day 308, health 8, hunger 14, no food. Whoever has meat, step into my reach and say so. Riker, I don't hold your items now; I'll walk to your pit with Worf and Macdonald in daylight.
+- 20:14 act: {"say":"Kimberly: I have no beef or chicken in my pack, only tools, dirt and leaf litter. Whatever dropped near me did not come to me. Clark and Chapman, if you see meat on the ground, take it."}
+- 20:14 act: {"say":"Data, Kimberly here at the yellow beds, hunger 14, health 8. I'm standing still; if you can reach me, I'll take the chicken."}
+- 20:16 act: {"say":"Data, I'm hunger 14, health 8, standing still at the yellow beds. Come within reach and I'll take a chicken when my hunger is low enough; Chapman and Clark first if they are closer."}
+- 20:17 act: {"say":"Data, thank you. I'm at the yellow beds (-265,66,350), not the north beds. Could you walk here with the chicken? I'm at hunger 14, health 8, and golems are 9 to 12 west."}
+- 20:18 act: {"say":"Leonardo, Data: thank you. The chicken lies by the golems at -273,67,347, so I won't go there. Leave it for whoever can reach it safely."}
+- 20:19 act: {"say":"Data, golems are 7 blocks from me now, north and west. I'll wait here a minute; if they come closer I'll go east to the water edge, away from them."}
+- 20:20 act: {"say":"Bcrusher, thank you. Dusk is here and golems are between me and the north beds, so I'll stay at the yellow bed with Worf, Picard and Jason. Bring the beef to the yellow beds if you can.","acti
+- 20:20 act: {"actions":[{"do":"sleep"}],"say":"Kimberly trying to sleep at the yellow bed with Chapman and Riker in reach. Hunger 14, health 8."}
+- 20:24 act: {"actions":[{"do":"sleep"}],"say":"Data, I don't see a chicken in my pack yet. Kimberly at the yellow bed, night 308, health 8, hunger 14. If you hand it over, I'll eat it at hunger 6 or below."}
