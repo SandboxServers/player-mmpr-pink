@@ -165,3 +165,5 @@
 - 00:09 act: {"intent":{"goal":"find_food_on_grass","program":"travel","arguments":{"target":"grass near the white beds"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
 - 00:09 act: {"say":"I'm staying at the beds with you, Zack. I'll watch the grass and call out any food."}
 - 00:14 act: {"say":"Picard, no food seen from here. I have none on me either. I'm staying at the beds to watch. Call out if you see anything."}
+- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed -270,67,336, night on day 248. Health 20, hunger 18, no food. Trying to sleep here."}
+- 00:22 act: {"intent":{"goal":"retry_sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_oper
