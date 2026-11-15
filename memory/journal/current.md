@@ -9,3 +9,8 @@
 - 15:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, here is Billy's wheat. Eat it now.","reasoning":"Wesley (wcrusher) is at my side at health 2. Billy's wheat end
 - 15:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, I have my chicken for you now. Eat it.","reasoning":"Wheat was picked up by someone else before the give. Wes
 - 16:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Kimberly going to the white bed for the night. Chicken is still in my pack for whoever 
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Kimberly going to the white bed at -270,67,336 to sleep with the group.","intent":{"goal":"reach_south_beds","program":"travel","ar
+- 16:05 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:10 act: {"actions":[],"say":"Kimberly, dawn 296. Health 20, hunger 20. The beds refused me all night. Wesley is lowest at health 2: step into my reach and I'll give you my chicken."}
+- 16:13 act: {"actions":[],"say":"Kimberly, health 20, hunger 20. I hold one chicken for whoever is lowest and in my reach. Zack or Clark, step close and say so."}
