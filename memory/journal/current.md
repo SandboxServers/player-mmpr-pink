@@ -1,1 +1,28 @@
 # Journal
+- 21:44 act: {"say":"Billy! Good to see you too. It's dark, so let's stay close and keep warm.","actions":[{"do":"eat"}],"reasoning":"Night, hunger 12, Billy nearby and friendly. Eat the chicken, greet him, then b
+- 21:44 act: {"say":"Trini, hold still. Billy and I are coming. Leonardo, I'll find you something to eat soon.","intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"co
+- 21:45 act: {"say":"Trini, Billy, I'm stuck in a pit here by the grass. I'll climb out and come to your beds and the chest. Trini, could you say where you are?","actions":[{"do":"unstick"}],"reasoning":"My shelte
+- 21:45 act: {"say":"Billy, I'm with you. Meriwether is hungry: I have a raw chicken I can give her as soon as she is in sight. Let's wait for first light together.","actions":[],"reasoning":"Dark, no bed, shelter
+- 21:46 act: {"say":"Trini, I'm coming to your beds by the chest. Billy, come along.","intent":{"goal":"join_trini_beds","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["goal_completed","precond
+- 21:46 act: {"say":"Billy, I'm free now, I'm right beside you. Picard, hang on, I have a chicken for you as soon as you can reach me.","actions":[{"do":"goto","target":"ag_billy_01"}],"reasoning":"Picard is near 
+- 21:47 act: {"say":"Lead the way, Billy. I'm right behind you with the chicken for Picard.","intent":{"goal":"follow_billy_to_beds","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_add
+- 21:47 act: {"say":"Billy, I don't know the way to the beds either, I only know we're by the signs. Let's wait here for first light. Then I'll give the chicken to whoever is weakest in sight.","actions":[],"reaso
+- 21:48 act: {"say":"Morning, Tommy. Picard, I have a raw chicken here for you. Come to me and I'll hand it over. Beverly, you have one too, so we can share.","actions":[],"reasoning":"Dawn. Picard is critical and
+- 21:49 act: {"say":"Meriwether, I have a chicken for you. I'm by the signs with Billy. Come into sight and I'll hand it over.","actions":[],"reasoning":"Meriwether is weak and asked for the chicken. I don't know 
+- 21:53 act: {"say":"Meriwether, I'm coming to you with a chicken now. Hold on.","actions":[{"do":"goto","target":"ag_lewis_01"}],"reasoning":"Meriwether is weakest and has not moved. Go to her with my chicken."}
+- 21:54 act: {"actions":[{"do":"note","text":"Billy asked where I am. Meriwether is not in sight; I hold one raw chicken for whoever is in reach."}],"say":"Billy, I am on the dirt about 16 blocks south-east of the
+- 22:02 act: {"actions":[{"do":"goto","target":"ag_lewis_01"},{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Meriwether, I'm coming to you with the chicken now."}
+- 22:02 act: {"actions":[{"do":"note","text":"Goto to Meriwether failed: not in sight from here. Asked him to come to me by the signs."}],"say":"Meriwether, I can't see you from the signs. Can you walk toward me, 
+- 22:07 act: {"actions":[{"do":"goto","target":"ag_lewis_01"},{"do":"give","to":"ag_lewis_01","item":"chicken","count":1}],"say":"Meriwether, I'm walking to you. Hold on."}
+- 22:11 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Dawn. I'm coming to the beds to find Meriwether with the chicken."}
+- 22:13 act: {"actions":[{"do":"note","text":"Billy is in view 10 blocks away. Lewis is out of my reach. I will follow Billy north toward the chickens and keep my chicken for the weakest."}],"say":"Lewis, I can't 
+- 22:17 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Thank you, Billy. I have two chickens now. I'm heading back to find Lewis."}
+- 22:17 act: {"actions":[{"do":"note","text":"Goto Lewis failed again: out of sight. Asked Billy to lead me to the beds."}],"say":"Billy, I can't find Lewis from here. Can you walk me to the beds by the chest? I'l
+- 22:19 act: {"actions":[{"do":"note","text":"Clark is 16 blocks away, asking for Meriwether. I told him I do not know the way to the beds."}],"say":"Clark, I don't know the way to the beds either. Lewis said he i
+- 22:19 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"intent":{"goal":"reach_clark","program":"travel","arguments":{"target":"ag_clark_01"},"wake_on":["directly_addressed","precondition_failed","unexpect
+- 22:20 act: {"actions":[{"do":"note","text":"Reached Clark at the sign cluster at dusk. He holds an egg. I hold 2 raw chicken for Meriwether and Picard."}],"say":"Clark, I'm here. Lewis is at the white beds by th
+- 22:21 act: {"actions":[{"do":"note","text":"Clark agreed to go together, but I do not know the route to the white beds. Night has come. Proposing we shelter here and I give chicken when Lewis is in sight."}],"sa
+- 22:21 act: {"actions":[{"do":"note","text":"Night. I have 11 cobblestone and 19 dirt, short of 25 for a shelter. Trying a shelter from leaf_litter (34)."}],"intent":{"goal":"shelter_here","program":"build","argu
+- 22:21 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"cobblestone","count":5}],"say":"Clark, I'm giving you 5 cobblestone. The shelter failed on the walls here, so let's pile what we have by the signs a
+- 22:25 act: {"actions":[{"do":"note","text":"Morning, day 314. I survived the night at the signs with Clark. Billy and Lewis are at the white beds, out of my sight. Trini is there too."}],"say":"Morning all. I'm 
+- 22:26 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"intent":{"goal":"reach_beds_with_chicken","program":"travel","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","precondition_faile
