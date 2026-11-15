@@ -10,3 +10,38 @@
 - 01:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed with the group for the night. Food first at dawn: Worf, then Data, then Kimberly. Thanks, all
 - 01:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
+- 01:48 act: {"say":"Still no food here. Unripe wheat is at -253,66,334 and -266,66,325. Is anyone seeing an animal?","actions":[{"do":"note","text":"Dawn day 252, hunger 15, no food. Group near beds: Data, Trini,
+- 01:52 act: {"say":"Kimberly here, day 253. I have no food. Trini, you are first for anything I find, and I will stay in sight at the beds.","actions":[{"do":"note","text":"Day 253 daytime at beds. Hunger 15, hea
+- 01:56 act: {"say":"Kimberly at the beds, day 253. Riker and Worf, porkchops go on as you planned. I have no food and no hoe, but I can hold the beds with Trini and Zack.","actions":[{"do":"note","text":"Day 253 
+- 02:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to bed at the white beds with the group for the night. Food first at dawn: Trini, then Worf."}
+- 02:02 act: {"actions":[{"do":"sleep"}]}
+- 02:02 act: {"actions":[{"do":"sleep"}]}
+- 02:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed at -270,67,336 for the night. Food first at dawn: Trini, then Worf.","reasoning":"Creeper gon
+- 02:05 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night day 253. Sleep blocked at beds (occupied, crowded). Now at white bed -270,67,318. Hunger 15, no food. Trini and Worf first for any food at dawn."}
+- 02:05 act: {"actions":[{"do":"note","text":"Sleep failed again: beds crowded and cut off by time limit. Jason is at health 2.5 and needs a bed more than I do, so I will stand aside and retry later."}],"reasoning
+- 02:05 act: {"actions":[{"do":"sleep"}],"reasoning":"No monsters in the snapshot now. Retry sleep at the bed I stand on."}
+- 02:06 act: {"actions":[{"do":"note","text":"Night 253 at white bed -270,67,318. Sleep failed again: all nearby beds occupied. Hunger 14, health 15, no food. Waiting with the group; will retry sleep after the nex
+- 02:06 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}},{"do":"note","text":"Jason is at health 2.5 and needs the bed at -271,67,318. I stepped aside to let him sleep. I have no food; I will wait
+- 02:06 act: {"actions":[{"do":"note","text":"Phantom 13 blocks south of me at night, group out of sight. I am on grass at -268,66,322 with no weapon worth the name. Waiting for daylight here, watching for damage.
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"note","text":"Day 254 dawn. Hunger 14, health 15, no food. Lewis offered a hoe and his 4 wheat seeds for planting at the beds. Accep
+- 02:08 act: {"actions":[{"do":"note","text":"Dawn 254 at the yellow beds with the group. Hunger 14, no food. Lewis is giving his wheat seeds to Trini; asked him for the hoe. Next: help plant, eat only when food r
+- 02:11 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Thank you, Lewis. Please give the hoe when you are within reach. I'm near the yellow beds, and Trini and Worf eat first."}
+- 02:11 act: {"actions":[{"do":"note","text":"Day 254 morning at south beds, hunger 14, health 15, no food. Lewis is within reach holding a hoe and wheat seeds; asked him to hand over the hoe. Trini and Worf eat f
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":328}},{"do":"craft","item":"wooden_hoe","count":1}],"say":"Lewis, I'll craft my own hoe from planks and sticks instead, so keep your hoe for Trin
+- 02:12 act: {"actions":[{"do":"note","text":"Day 254 at yellow beds -270,67,327. Crafted my own wooden_hoe from planks and sticks at the table. Troi gave me 1 wheat seed. Next: till grass near the beds and plant 
+- 02:13 act: {"actions":[{"do":"note","text":"Day 254 midday at yellow beds. Hunger 14, health 15, no food. Have wooden hoe. Waiting for Troi's wheat seed via Riker. Trini takes Bcrusher's porkchop first."}],"say"
+- 02:15 act: {"actions":[{"do":"goto","target":"ag_tommy_01"}],"say":"Tommy, I'm coming to you for the seeds. Thank you. Worf gets Troi's wheat first."}
+- 02:16 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}],"say":"Troi, Worf is in reach and hungriest, please give him your wheat. Lewis, I'm coming to you for the hoe and seeds for planting."}
+- 02:16 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":1}],"say":"Lewis, I'm in reach. Please give me the wheat seeds, I'll plant them at the beds with Trini. Thank you."}
+- 02:16 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"wheat","count":1}],"say":"Worf, I have one wheat from Troi. Taking it to you now, you are in reach."}
+- 02:18 act: {"actions":[{"do":"till","at":{"x":-268,"y":65,"z":333}}],"say":"Thank you Lewis. I'm tilling the grass here by the beds now, and will plant the seeds. Trini and Worf eat first."}
+- 02:18 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":334}},{"do":"place","block":"wheat_seeds","at":{"x":-268,"y":65,"z":333}}]}
+- 02:18 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-268,"y":66,"z":333}}]}
+- 02:18 act: {"actions":[{"do":"till","at":{"x":-266,"y":65,"z":334}}]}
+- 02:18 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-266,"y":66,"z":334}}]}
+- 02:18 act: {"actions":[{"do":"till","at":{"x":-267,"y":65,"z":335}},{"do":"place","block":"wheat_seeds","at":{"x":-267,"y":66,"z":335}}],"say":"Two wheat seeds are planted by the beds now. Planting the last two.
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly at dusk, day 254. No food. Trying the white bed at -271,67,336 for the night. Worf and Clark get any meat f
+- 02:22 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 02:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 02:32 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wheat_seeds","count":1}],"say":"Troi, here is my last wheat seed. Plant it on tilled dirt in sight of camp. I have no food yet; I'm joining the pig s
+- 02:32 say: {"text":"Kimberly here. I still hold my one wheat seed. Troi, Wesley: whoever is in reach, come to me and I'll hand it over for planting."}
