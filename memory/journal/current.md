@@ -189,3 +189,5 @@
 - 07:36 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":326}}],"say":"No animals out west either. Heading back to the beds with the group. Hunger 7, still no food."}
 - 07:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Hunger 7, no food. Going to the white bed at -270,67,318 to sleep with the group."}
 - 07:55 act: {"say":"Kimberly, hunger 7, no food. Bread goes to Trini first, then me. I'll wait at the beds."}
+- 08:23 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at dusk, hunger 7, no food. Trying the bed here at -270,67,336.","reasoning":"Dusk, safe in group, no errand. Try sleep once here; if refused, wait."}
+- 08:24 say: {"text":"Kimberly: sleep failed here too (\"the way was blocked\") at the bed at -270,67,318. I have no answer yet. I'll wait for dawn with you."}
