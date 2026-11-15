@@ -3,3 +3,9 @@
 - 15:44 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Phantom out of reach now. Try the bed I stand beside, then sleep."}
 - 15:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Use failed on the bed, but sleep was queued; try sleep once more now."}
 - 15:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom left. Sleep in the group at the beds.","say":"Night. Kimberly going to sleep at the beds with the group. No food, health 20."}
+- 15:49 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Kimberly here, dawn 295. I am full, but I have one chicken. Trini, you are weakest in reach, so it is yours. Coming to you.","reasoning":"I am 
+- 15:49 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, here is my chicken. Eat it now.","reasoning":"Trini is in reach and was the weakest in sight. One person only, th
+- 15:49 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, I am holding the chicken out to you now.","reasoning":"First give failed with a reason about items on the ground.
+- 15:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, here is Billy's wheat. Eat it now.","reasoning":"Wesley (wcrusher) is at my side at health 2. Billy's wheat end
+- 15:56 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, I have my chicken for you now. Eat it.","reasoning":"Wheat was picked up by someone else before the give. Wes
+- 16:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Kimberly going to the white bed for the night. Chicken is still in my pack for whoever 
