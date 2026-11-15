@@ -35,3 +35,4 @@
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Dusk. Going to the bed at -270,67,318 to sleep with the group. I'm holding one wheat fo
 - 11:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
 - 11:11 act: {"actions":[{"do":"note","text":"Day 281 dawn. No food in the group. I hold 1 wheat (not edible), 3 saplings, 11 planks, 5 logs. Next: stay with the group at the beds, scout nearby grass for animals, 
+- 11:12 say: {"text":"Kimberly here. I still hold one wheat, which can't be eaten. Trini and Picard are next for any meat we find. I'll scout the grass within sight of the beds."}
