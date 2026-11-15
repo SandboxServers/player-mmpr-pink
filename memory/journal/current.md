@@ -2,3 +2,16 @@
 - 10:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Kimberly is back at the beds. Hunger is 7 and I have no food. It is dusk, so I will try to sleep in the bed here."}
 - 10:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}],"say":"Kimberly here, at the bed. Hunger 7, no food. I'm going to sleep for the night with the group.","reasoning":"It is night and I am beside
 - 10:23 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"reasoning":"The first bed use did not show a sleep. Try the second white bed once, next to the first."}
+- 10:23 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, at the beds with you all. Hunger 7, no food on me. Bcrusher, if the beef is spare, I'd be grateful; Trini first if she comes."}
+- 10:26 act: {"actions":[{"do":"eat"}],"say":"Thank you Leonardo and Bcrusher. I'm eating one beef now, and the second goes to Trini as soon as she is in reach."}
+- 10:30 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"beef","count":1}],"say":"Trini, you're in reach. Here is my spare beef for you. Eat it."}
+- 10:30 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"beef","count":1}],"say":"Lewis, you're in reach and at health 6 with hunger 15. Trini is out of reach now, so my beef goes to you. Eat it."}
+- 10:30 act: {"actions":[{"do":"eat"}],"say":"Nobody is in reach now, so I'm eating my last beef myself. Hunger 10; the group is out looking for the chicken."}
+- 10:32 say: {"text":"Phantom to the west, about 11 blocks. Macdonald, stay close to me. I have a wooden sword; I'll fight it if it comes down."}
+- 10:33 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Macdonald, hold on. I'm going for the phantom with my sword."}
+- 10:36 act: {"actions":[{"do":"goto","target":{"x":-281,"y":66,"z":315}}],"say":"There's a dropped item six blocks north-west at -281,66,315. I'm going to pick it up and see what it is."}
+- 10:36 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 10:40 act: {"actions":[{"do":"eat"}],"say":"I have a chicken, and I'm eating it now at hunger 13 before the night. Trini and Chapman are next for any meat that comes in."}
+- 10:40 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, the chicken is yours, as agreed. Eat it when you can. Raw chicken only goes down at hunger 6 or below, so keep it
+- 10:40 act: {"actions":[{"do":"sleep"}],"say":"The chicken went to Troi, not Trini, so Troi now holds the meat. I have nothing left to give. I'm going to the bed to sleep."}
+- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Night of 279. I have no food. LaForge is weakest, so Chapman's wheat should go to him. I'm sleeping at the bed."}
