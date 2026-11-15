@@ -61,3 +61,5 @@
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly walking to the north white bed to sleep for the night. No food, hunger 14."}
 - 03:07 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, night 256, no food, hunger 14. Trying sleep at the white beds with the group.","reasoning":"Night, group present, sleep was refused before due to mons
 - 03:08 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Kimberly at dawn, day 256. Still no food, hunger 14. Staying with Data and Picard near the beds.","reasoning":"Dawn, golems close to the south. 
+- 03:13 act: {"actions":[{"do":"till","at":{"x":-276,"y":64,"z":329}}],"say":"Kimberly here, midday day 257. I'm on open dirt at -276,65,329 with a hoe. Tommy and Riker, I'm tilling the dirt under me for your whea
+- 03:13 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"}],"say":"Kimberly: the till failed, the block above was not clear. Golems are closing from the south, so I'm moving north to Wesley and Worf.","reaso
