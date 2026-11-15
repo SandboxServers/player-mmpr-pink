@@ -55,3 +55,5 @@
 - 02:57 act: {"actions":[{"do":"note","text":"Day 256 morning: walked north to -270,67,316 to search grass for animals. None in sight. Hunger 14, health 15. Unripe wheat at -267,66,325 and -267,66,335, not yet foo
 - 02:57 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-268,"y":66,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
 - 02:57 act: {"actions":[{"do":"note","text":"Day 256 afternoon: back at the north white beds with the group, -268,66,321. Still no food, hunger 14, health 15. Waiting for dusk to sleep in a bed, with Trini first 
+- 03:02 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"say":"Kimberly heading to the white beds for the night, no food yet.","intent":{"goal":"reach_group_beds","program":"travel","arguments":
+- 03:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly at the white beds, night of day 256. No food, hunger 14, health 15. Trying a bed with the group."}
