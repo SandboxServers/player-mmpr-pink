@@ -15,3 +15,4 @@
 - 10:40 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, the chicken is yours, as agreed. Eat it when you can. Raw chicken only goes down at hunger 6 or below, so keep it
 - 10:40 act: {"actions":[{"do":"sleep"}],"say":"The chicken went to Troi, not Trini, so Troi now holds the meat. I have nothing left to give. I'm going to the bed to sleep."}
 - 10:44 act: {"actions":[{"do":"sleep"}],"say":"Night of 279. I have no food. LaForge is weakest, so Chapman's wheat should go to him. I'm sleeping at the bed."}
+- 10:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, group near, no threats close. Sleep, then reflect.","say":"Night. I'm at the beds with the group. Hungry, no food; wheat goes to LaForge f
