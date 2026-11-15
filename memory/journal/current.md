@@ -161,3 +161,7 @@
 - 00:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 247. Sleeping at the white bed. Trini first at light."}
 - 00:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going back to the white bed at -270,318 away from the golems to the south-west. No food; Trini first at light."}
 - 00:03 act: {"actions":[],"say":"Still at the beds, night 247. Beds are full and a golem is 8 blocks south, so I'm holding here with Data, Billy and Tommy until light. Trini first for any food."}
+- 00:09 act: {"say":"Dawn, day 248. Hunger 18, no food on me. I'll search the grass nearby for cow, pig, sheep or apple. Any food goes to Trini first.","intent":{"goal":"find_food_on_grass","program":"travel","arg
+- 00:09 act: {"intent":{"goal":"find_food_on_grass","program":"travel","arguments":{"target":"grass near the white beds"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 00:09 act: {"say":"I'm staying at the beds with you, Zack. I'll watch the grass and call out any food."}
+- 00:14 act: {"say":"Picard, no food seen from here. I have none on me either. I'm staying at the beds to watch. Call out if you see anything."}
