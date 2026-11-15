@@ -1,1 +1,57 @@
 # Journal
+- 12:09 act: {"say":"Kimberly here. Hunger 13, one wheat, no meat. I'll stay near the beds and scout the grass with the group. Call out any animal you see."}
+- 12:10 act: {"say":"Kimberly going north with Troi, Zack and Billy, staying in sight. Will call out any animal.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":310}}]}
+- 12:10 act: {"say":"No animals north, only a spider. Going back to the beds with the group.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 12:11 act: {"say":"Thank you Riker. I'm at hunger 13, Picard and Trini are lower at 9. I'll hold this mutton for whichever of them comes within reach first."}
+- 12:15 act: {"say":"Kimberly at the beds with a mutton. Picard or Trini, step into sight and I'll hand it to whoever is lowest. I'm staying by the beds away from the phantoms."}
+- 12:16 act: {"say":"Picard, I'm at the beds at -271,67,319 with the mutton for you. Step within arm's reach and I'll hand it over."}
+- 12:17 act: {"say":"Going to the golems with the group to find Picard and hand over the mutton.","actions":[{"do":"goto","target":{"x":-268,"y":66,"z":327}}]}
+- 12:17 act: {"say":"No one in sight here. I'll go back to the beds and hold the mutton for Picard or Trini.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 12:18 act: {"say":"Picard, I'm coming to you with the mutton now.","actions":[{"do":"goto","target":{"x":-269,"y":67,"z":325}}]}
+- 12:18 act: {"say":"Picard, Trini has given you her flesh. My mutton is for whoever is still lowest. Trini, step into sight and I'll hand it to you."}
+- 12:19 act: {"say":"Dusk. Going to the white bed with the group. Trini, the mutton is yours if you are lowest.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 12:20 act: {"say":"Dusk. I'm at the white bed with the mutton. Lowest hunger gets it; say so.","actions":[{"do":"sleep"}]}
+- 12:20 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"mutton","count":1}],"say":"Trini, here's the mutton. You asked for it."}
+- 12:23 act: {"actions":[{"do":"sleep"}]}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 12:23 act: {"actions":[{"do":"sleep"}]}
+- 12:27 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 12:30 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":330}}],"say":"Dawn of day 285. Hunger 13, no food. I'm going to the wheat patch; Picard and Trini first when it's ripe."}
+- 12:30 act: {"actions":[{"do":"use","at":{"x":-273,"y":66,"z":332}}]}
+- 12:30 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}},{"do":"mine","block":"wheat","count":1}]}
+- 12:30 act: {"actions":[],"say":"I have 1 wheat. Trini and Picard, who is hungriest? Tell me and I will give it.","intent":{"goal":"hold_wheat_for_hungriest","program":"trade_wait","arguments":{},"wake_on":["dire
+- 12:31 act: {"actions":[],"say":"Trini says Picard is lower. Picard, come near me and I will hand you my wheat.","intent":{"goal":"find_picard_for_wheat","program":"follow","arguments":{"target":"ag_picard_01"},"
+- 12:31 act: {"actions":[],"say":"Picard, I have my wheat for you. I cannot see you from here. Where are you? I am at the beds near -273,66,331."}
+- 12:32 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat","count":1}],"say":"Picard, here is my wheat. Make bread with Trini at the table."}
+- 12:32 act: {"actions":[],"say":"Jason, my wheat went to you by mistake. Please give it to Picard, who needs it for bread with Trini."}
+- 12:39 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"
+- 12:42 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 12:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Still no food. Going back to the white beds to sleep.","intent":{"goal":"reach_white_beds","program":"travel","arguments":{"target"
+- 12:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:46 act: {"actions":[{"do":"sleep"}]}
+- 12:49 act: {"actions":[],"say":"Dawn. I have no food either, hunger 13. I'll scout the west grass for animals and send anything I find to LaForge first.","intent":{"goal":"scout_west_grass","program":"travel","a
+- 12:53 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"say":"I have no food, hunger 13. Heading to the beds. Porkchops go to LaForge and Data first, as the group agreed."}
+- 12:55 act: {"actions":[],"say":"Trini, Kimberly here, hunger 13, no food. Troi is lower than me, so Troi first, then Lewis, then me."}
+- 13:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sleep_in_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed"
+- 13:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 13:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}]}
+- 13:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":352}},{"do":"sleep"}]}
+- 13:10 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":338}}],"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":338}},"wake_on":["directly_addressed
+- 13:22 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms on me. Fighting them off with my sword. No food here.","reasoning":"Phantoms are hitting me at night. Sleep is refused with them near, s
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Health 7 and falling from phantoms. Golems stand by the beds and phantoms are out of reach. Get to the bed and
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}],"reasoning":"Health 3, no monsters in view now. Go to the white bed to be near the golems and sleep when allowed."}
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":335}}],"reasoning":"Health 3. The group is here, no monsters in view. Get onto the bed tile and rest."}
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Still health 3. Bed is 12 blocks north-west. Try once more, alone."}
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"reasoning":"Golems are closing in but they are not hostile to me. Try the bed once more."}
+- 13:23 act: {"actions":[{"do":"sleep"}],"reasoning":"I am on the white bed with Clark and Riker in reach. Try to sleep."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"reasoning":"I am 3 blocks from the bed. Step onto it, then sleep."}
+- 13:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"intent":{"goal":"sleep_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_c
+- 13:26 act: {"actions":[{"do":"unstick"}],"say":"I fell into a hole by the yellow bed, health 2. Getting out."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}],"say":"Climbing out of this pit toward the yellow bed. Health 2."}
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":325}}],"intent":{"goal":"recover_dropped_pack","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":325}},"wake_on":["directly_addressed
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":325}}],"say":"Going to pick up my pack here."}
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":324}}]}
+- 13:30 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":318}}],"say":"Checking the other dropped item north of here."}
+- 13:31 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}],"say":"Morning. Has anyone found food? I have only dirt and a pickaxe.","intent":{"goal":"reach_yellow_bed","program":"travel","arguments"
