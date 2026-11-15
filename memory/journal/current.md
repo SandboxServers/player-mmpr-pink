@@ -63,3 +63,10 @@
 - 12:01 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 12:01 act: {"say":"Both white beds refused me. I'm trying the yellow bed at -271,67,326 instead.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"use","at":{"x":-271,"y":67,"z":326}},{"do":"sl
 - 12:01 act: {"say":"Night. Beds are refusing me. I'll stay with Riker and the group until morning.","intent":{"goal":"stay_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","u
+- 12:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly here, night of day 283. No food, hunger 13, health 15. Heading to the white bed at -271,67,318 to sleep wit
+- 12:04 act: {"actions":[{"do":"wait","seconds":30},{"do":"sleep"}],"reasoning":"Sleep was refused because a creeper is 9 blocks off. Wait briefly, then try once more at the bed."}
+- 12:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Creeper gone from view. Try the bed once more with Trini and Riker
+- 12:06 act: {"intent":{"goal":"stay_with_group_until_dawn","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 12:06 act: {"intent":{"goal":"stay_with_group_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2
+- 12:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly trying the bed again with Trini, Riker and Clark. No food, hung
+- 12:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
