@@ -5,3 +5,4 @@
 - 23:32 say: {"text":"Lewis, I'll keep the chicken for whoever is weakest. I have 2 oak planks I can give you for the shelter; say when you're in sight."}
 - 23:37 act: {"say":"Lewis, giving you my 2 planks now.","actions":[{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":2}]}
 - 23:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm going to bed here by the beds. Tommy, thanks for the word. I'm keeping the chicken for whoever wakes weakest."}
+- 23:41 say: {"text":"Goodnight, all. I'll feed whoever is weakest when I wake."}
