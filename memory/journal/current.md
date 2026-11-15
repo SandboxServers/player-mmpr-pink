@@ -143,3 +143,5 @@
 - 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at a yellow bed at -241,69,344 at night. The last sleep failed on a blocked way. Try once here; if it fails again, I wait for dawn."}
 - 05:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, group nearby, no food. Retry sleep once at the white bed; if it fails, change place rather than repeat.","say":"Kimberly here at the white bed. No food 
 - 05:48 act: {"intent":{"goal":"gather_food_near_beds","program":"gather","arguments":{"block":"wheat","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2
+- 05:50 act: {"say":"Kimberly, dawn of day 265. No food on me, hunger 9. I'll walk the grass nearby for animals and apples, staying within sight of the beds.","intent":{"goal":"search_food_near_beds","program":"tr
+- 05:50 act: {"say":"Kimberly, day 265. The trader Data mentioned is west of us. If it has food, I'll ask the group before buying. I hold only planks and a spare hoe to trade.","actions":[{"do":"goto","target":{"x
