@@ -68,3 +68,4 @@
 - 18:09 say: {"text":"Kimberly, dawn 302, hunger 17, health 20, holding one beef. Zack is lowest at 7 and I can't see him from here. Zack, step into my sight and it's yours."}
 - 18:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly going to the bed for the night, hunger 17, holding one beef. Jason, if you are in my sight at low health, step n
 - 18:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use refused; a plain sleep try once. If refused, wait."}
+- 18:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at the north white bed, night 302, hunger 17, holding one beef for whoever is lowest in my sight. Trying to
