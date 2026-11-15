@@ -14,3 +14,18 @@
 - 16:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 16:10 act: {"actions":[],"say":"Kimberly, dawn 296. Health 20, hunger 20. The beds refused me all night. Wesley is lowest at health 2: step into my reach and I'll give you my chicken."}
 - 16:13 act: {"actions":[],"say":"Kimberly, health 20, hunger 20. I hold one chicken for whoever is lowest and in my reach. Zack or Clark, step close and say so."}
+- 16:20 act: {"say":"Kimberly here, health 20, hunger 20. Trini just gave Wesley the chicken, so I keep mine. Wesley or anyone weaker, say so and step into reach.","intent":{"goal":"hold_at_beds_until_night","prog
+- 16:22 act: {"say":"Wesley, Kimberly here with my chicken. I can't see you in reach. Step next to me and say so, and it's yours.","actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 16:25 act: {"say":"Kimberly: Wesley, I don't see you in my reach yet. Clark, you're at health 8; if you come next to me I'll give you my chicken.","actions":[]}
+- 16:28 act: {"say":"Kimberly: Wesley has Trini's chicken now, so mine stays with me. Clark, if you're weakest and in reach, say so.","actions":[{"do":"sleep"}]}
+- 16:28 act: {"say":"Kimberly, dawn 296, health 20, hunger 20. I'm at the yellow bed near -263,67,353 with my chicken. Clark, you're the weakest I've heard of; say where you are and I'll come to you.","actions":[]
+- 16:37 act: {"say":"Kimberly walking to the north white beds with my chicken for Clark, who is at health 8.","intent":{"goal":"reach_clark_with_chicken","program":"travel","arguments":{"target":{"x":-270,"y":67,"
+- 16:37 act: {"say":"Kimberly at the north white beds, health 20, hunger 20, with my chicken. Clark, if you're in sight, step next to me and say so.","actions":[]}
+- 16:40 act: {"say":"Clark, I'm coming to you with my chicken now.","actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"chicken","count":1}]}
+- 16:40 act: {"say":"Kimberly: Clark is out of sight, so I'm holding my chicken. Going to the white bed for the night.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"use","at":{"x":-270,"y":67
+- 16:40 act: {"actions":[{"do":"sleep"}]}
+- 16:43 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"Wesley, you are weakest in reach at health 2. Here is my chicken. Eat it when your hunger is low."}
+- 16:43 act: {"actions":[{"do":"sleep"}]}
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
+- 16:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"sleep"}],"say":"Kimberly here at the north beds. I have no food, only dirt. Health 20, hunger 20. Clark or Zack, tell me if you come
+- 16:44 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"sleep"}]}
