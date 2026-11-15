@@ -1,1 +1,12 @@
 # Journal
+- 01:33 act: {"say":"Riker, I am Kimberly, hungry and with no food. I am next to Data and LaForge at the beds. Step into my sight and hand the porkchop to whoever is weakest.","actions":[{"do":"goto","target":"ag_
+- 01:33 act: {"say":"Riker, I am in reach now. I am the hungry one, hunger 15. Please hand me the porkchop, or give it to Trini if she is weaker.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":
+- 01:33 act: {"say":"Riker, I am Kimberly, next to you by the white beds. Please give me one porkchop now. I am hungry, 15.","actions":[]}
+- 01:34 act: {"say":"Worf has the lowest hunger, so the porkchop goes to him first. I will stay by the beds with Riker and wait for the next meat.","actions":[]}
+- 01:36 act: {"say":"Thank you Riker. Yes, please give me one porkchop now. I will eat it and stay by the beds.","actions":[]}
+- 01:37 act: {"actions":[{"do":"eat"},{"do":"sleep"}]}
+- 01:37 act: {"actions":[{"do":"sleep"}]}
+- 01:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed with the group for the night. Food first at dawn: Worf, then Data, then Kimberly. Thanks, all
+- 01:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}]}
