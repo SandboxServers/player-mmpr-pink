@@ -24,3 +24,11 @@
 - 10:49 act: {"actions":[{"do":"wait","seconds":60}],"say":"LaForge, my give keeps failing because items lie on the ground by you. Please pick up the drop by your feet, or step a block away, then I'll hand you the
 - 10:50 act: {"actions":[{"do":"goto","target":"ag_laforge_01"},{"do":"give","to":"ag_laforge_01","item":"wheat","count":1}],"say":"LaForge, I'm walking up to you with the wheat. Chapman's share is yours.","reason
 - 10:50 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, the chicken is yours: you're the weakest. Eat it now. Chapman's wheat comes next, to Trini.","reasoning":"LaF
+- 10:52 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, giving you the chicken now. Eat it. The wheat goes to Trini."}
+- 10:52 act: {"actions":[{"do":"wait","seconds":120}],"say":"LaForge, the give is still blocked by the drop on the ground at your feet. Please step one block away from it, and I'll hand you the chicken right away.
+- 10:54 act: {"actions":[{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, here is the chicken. Trini gets the wheat next."}
+- 10:54 act: {"actions":[{"do":"note","text":"Give of chicken to LaForge failed again (items on ground near him). Holding chicken and wheat; will wait for the ground to clear, then try once more from a new spot."}
+- 10:54 act: {"actions":[{"do":"note","text":"Day 280: chicken give to LaForge blocked by ground items near him, twice now. Holding chicken and wheat for him and Trini. Next: ask LaForge to pick up the items on th
+- 10:56 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":317}},{"do":"give","to":"ag_laforge_01","item":"chicken","count":1}],"say":"LaForge, moving to you now with the chicken."}
+- 10:56 act: {"actions":[{"do":"note","text":"Gave the chicken to LaForge at -268,67,317 after he stepped off the drop. Still holding 1 wheat for Trini (not in view) or whoever is weakest. Next: wait for Trini, th
+- 10:58 act: {"actions":[{"do":"note","text":"LaForge has the chicken and is eating it. Picard (hunger 4) is the weakest now but not in reach; Trini is not in view. Holding 1 wheat for Picard or Trini."}],"say":"P
