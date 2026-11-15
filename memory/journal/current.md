@@ -84,3 +84,5 @@
 - 15:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"At the white bed with the group. Going to sleep."}
 - 15:00 act: {"actions":[{"do":"sleep"}]}
 - 15:05 act: {"actions":[{"do":"sleep"}]}
+- 15:09 act: {"actions":[{"do":"goto","target":{"x":-213,"y":69,"z":350}}],"say":"Dawn 293. I'm full, no food to give. Joining the group at the pig area; calling out any pig or cow I see."}
+- 15:13 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}],"say":"No pig here. Going back to the white beds with the group. Call out any meat."}
