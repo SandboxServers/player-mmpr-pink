@@ -154,3 +154,4 @@
 - 06:09 act: {"say":"Kimberly here at the white beds, dawn. No food, hunger 9. I'll stay in sight of the group and scout the grass south-west for sheep or cow. Meat goes to Jason first.","intent":{"goal":"stay_wit
 - 06:09 act: {"say":"Kimberly: scouting is taken: Picard east, Tommy south-west, Billy north. I'll hold at the white beds in sight of the group and watch for animals, then look again when the light is up."}
 - 06:13 say: {"text":"Kimberly at the beds, hunger 9, no food. I hold 1 wheat seed and two hoes. I'll look for dirt near here to till and plant it, so we have crops later. Meat still goes to the weakest first."}
+- 06:14 act: {"say":"Kimberly at the white beds, hunger 9, health 15, no food. I have one wheat seed and a hoe. I'll stay near the beds and search the grass with the group. Worf, LaForge and Trini are weaker, so t
