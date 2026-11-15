@@ -6,3 +6,4 @@
 - 23:37 act: {"say":"Lewis, giving you my 2 planks now.","actions":[{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":2}]}
 - 23:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm going to bed here by the beds. Tommy, thanks for the word. I'm keeping the chicken for whoever wakes weakest."}
 - 23:41 say: {"text":"Goodnight, all. I'll feed whoever is weakest when I wake."}
+- 23:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Night at the beds. I'm holding one raw chicken for whoever is weakest when they wake. Goodnight, all.","reasoning"
