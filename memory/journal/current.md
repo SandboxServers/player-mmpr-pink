@@ -171,3 +171,22 @@
 - 00:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Stuck near -285,320 with a phantom nearby. Freeing myself and going to the white bed at -282,67,320
 - 00:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Something keeps hitting me unseen. Moving back to the group at the beds, -271,336."}
 - 00:26 act: {"actions":[{"do":"sleep"}],"say":"Trying the bed again with the group. Health 15, hunger 16, no food."}
+- 00:34 act: {"say":"Kimberly here at the white beds, health 15, hunger 16, no food. Trini first for any animal or crop found. I'll stay in sight of the group.","intent":{"goal":"hold_near_beds_watch_for_food","pr
+- 00:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, at the white bed with the group. Health 15, hunger 16, no food. Trini first for any food at dawn. Sleeping now."}
+- 00:42 act: {"actions":[{"do":"sleep"}],"say":"Night on 249 at the white bed. Health 15, hunger 16, no food. Trini has the lowest hunger, so any food goes to her at light. Trying sleep."}
+- 00:43 act: {"actions":[{"do":"sleep"}],"say":"Night at the white bed with the group. Health 15, hunger 16, no food. Trini first at light. Sleeping."}
+- 00:46 act: {"say":"Morning of day 250. Kimberly at the yellow bed -263,67,353, health 15, hunger 16, no food. I'll search the grass near the group for animals. Trini first for anything found."}
+- 00:50 act: {"say":"Kimberly here at the yellow beds. Trini, I have no food to give you, only wood and planks. If I find anything I'll bring it straight to you. Health 15, hunger 16."}
+- 01:03 act: {"actions":[{"do":"sleep"}],"say":"Night, no food on me. Trini first at light."}
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Going to the yellow bed by the group to sleep. No food."}
+- 01:09 act: {"actions":[{"do":"goto","target":"tommy"}],"say":"Kimberly here, dawn day 251. No food. I'll search the grass with the group and stay in sight. Trini first for anything found."}
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":340}}]}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":338}}],"say":"Kimberly searching the grass to the west, staying near the beds. Any animal, tell me."}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}}]}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly going to the white bed for the night, no food. Trini and Worf first at light."}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly here. I have no food, sorry. Riker has the porkchops for Worf and Trini; I will sleep at the white bed by -
+- 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:24 act: {"actions":[{"do":"sleep"}]}
+- 01:26 act: {"actions":[{"do":"sleep"}]}
+- 01:29 act: {"actions":[],"say":"Kimberly, dawn of 252. No food, a wooden sword only. I will join Troi for the pigs at -255,239 if he goes with a few of us. Trini and Worf get any meat first."}
