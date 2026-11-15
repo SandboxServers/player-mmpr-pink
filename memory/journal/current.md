@@ -1,19 +1,1 @@
 # Journal
-- Day 315: Eat failed, raw chicken only at hunger 6 or below (mine 12). Holding chicken for Lewis or Meriwether. Nobody in sight at the beds and chest. Waiting for hunger to fall, then eat.
-- Day 315: Food chest at 433,107,-1051 has chickens (Trini, Jason, Tommy). Picard is weakest and eats first. Lewis is blocked from me by the signs. I am holding my raw chicken and offered it aloud. Staying at the beds.
-- Day 316 night: Use on the white bed failed again ("that block is a bed"). Started a shelter build from 26 leaf_litter, since I am not sealed in.
-- Day 316 morning: Shelter build placed 3 of 25; roof and walls blocked. Still at the beds with my chicken, holding it for Picard or Lewis.
-- Day 316 day: Trini has two chickens for Zack. Chapman (Johnny) is health 6, weakest near me. Offered my chicken to Chapman; waiting for him to come within reach.
-- Day 316 dusk: Johnny went off with Jason to melons, so chicken still with me. Started a shelter build for night (dirt).
-- 22:42 act: {"actions":[],"say":"Kimberly here at the beds with one raw chicken. Jason, Picard is weakest, so he gets the first. Whoever is hungry and near, come to me and I'll hand mine over.","reasoning":"Other
-- 22:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1051}}],"reasoning":"It is night. The white bed is one block west. Try to lie in it once more."}
-- 22:51 act: {"actions":[],"intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"leaf_litter"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","
-- 22:51 act: {"actions":[],"say":"Morning. The shelter failed on the walls, so I'm still out here by the beds. I have one raw chicken for Picard or Lewis, whoever is weakest. Come to me.","reasoning":"Shelter buil
-- 22:51 act: {"actions":[],"say":"Trini, Kimberly at the beds. My hunger is 12, so I can wait. Give yours to Lewis and Picard first. I'll keep mine for whoever drops lower than me.","reasoning":"Several people hol
-- 22:52 act: {"actions":[],"say":"Zack, come close and I'll give you my raw chicken. Keep the feathers for trade. Jason, you're right, Zack goes first among those I can reach.","reasoning":"Zack is weakest near me
-- 22:54 act: {"actions":[],"say":"Chapman, you're at health 6, weakest here. Come within reach and I'll give you my raw chicken. Trini has Zack covered.","reasoning":"Chapman is now weakest at health 6. Trini is h
-- 23:01 act: {"actions":[],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dirt"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_
-- 23:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"say":"Kimberly here, one raw chicken held for whoever drops to 6 or below. Trying the white bed at 429,107,-1051 for the
-- 23:10 act: {"actions":[],"say":"Kimberly at the beds with one raw chicken. Lewis, you are at health 6: come into sight and I'll hand it to you now.","reasoning":"Lewis is weakest reported at 6. I hold one chicke
-- 23:14 act: {"actions":[],"say":"Lewis, I have 9 dirt and 23 leaf litter for your shelter. Come into sight and I'll hand you dirt now.","reasoning":"Lewis needs blocks for a sealed shelter; I have spare dirt and 
-- 23:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}],"reasoning":"Dusk on day 317. The bed one step west worked last night. Sleep there, keep the chicken for whoever wakes we
