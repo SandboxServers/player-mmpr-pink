@@ -65,3 +65,6 @@
 - 18:01 act: {"say":"Kimberly, dusk, hunger 17, no food. Going to the white bed with the group for the night. Call out if you need me.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":
 - 18:01 act: {"actions":[{"do":"sleep"}]}
 - 18:02 act: {"say":"Kimberly, night 301, no food, only dirt. Bcrusher, I have nothing to give you, sorry. Trini has the chicken and beef; I'll call out at dawn and walk to any meat.","actions":[]}
+- 18:09 say: {"text":"Kimberly, dawn 302, hunger 17, health 20, holding one beef. Zack is lowest at 7 and I can't see him from here. Zack, step into my sight and it's yours."}
+- 18:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly going to the bed for the night, hunger 17, holding one beef. Jason, if you are in my sight at low health, step n
+- 18:22 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use refused; a plain sleep try once. If refused, wait."}
