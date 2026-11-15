@@ -45,3 +45,6 @@
 - 11:28 act: {"actions":[{"do":"note","text":"Day 281 dawn. Both bed uses failed (bed blocked for use); sleep not possible at dawn. Holding wheat, wood, tools. No food. Staying with group; Trini and Picard first f
 - 11:28 act: {"intent":{"goal":"scout_grass_near_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
 - 11:28 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}},{"do":"note","text":"Day 281 dusk. Scouted grass east-south of beds, no animals. Lewis was slain (sign at beds). Back at beds with group, n
+- 11:32 act: {"actions":[{"do":"note","text":"Day 282 dawn-day. Group at beds, many without food; Trini hunger 10 after Data's flesh. Clark planted wheat seed on Lewis's farmland. I have 3 hoes and can till more f
+- 11:32 act: {"actions":[{"do":"till","at":{"x":-275,"y":66,"z":321}}],"say":"Billy, I'll till a patch by the beds for your seeds. Trying the grass just west of the beds now.","reasoning":"Billy asked for farmland
+- 11:32 act: {"actions":[{"do":"note","text":"Day 282: till try at -275,66,321 failed, that block is planks, not grass. I need a walked grass spot before tilling again. Asked Billy to plant at Clark/Lewis's tilled
