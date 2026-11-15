@@ -167,3 +167,7 @@
 - 00:14 act: {"say":"Picard, no food seen from here. I have none on me either. I'm staying at the beds to watch. Call out if you see anything."}
 - 00:22 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed -270,67,336, night on day 248. Health 20, hunger 18, no food. Trying to sleep here."}
 - 00:22 act: {"intent":{"goal":"retry_sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_oper
+- 00:23 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, fighting it. Health 18."}
+- 00:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Stuck near -285,320 with a phantom nearby. Freeing myself and going to the white bed at -282,67,320
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Something keeps hitting me unseen. Moving back to the group at the beds, -271,336."}
+- 00:26 act: {"actions":[{"do":"sleep"}],"say":"Trying the bed again with the group. Health 15, hunger 16, no food."}
