@@ -156,3 +156,10 @@
 - 06:13 say: {"text":"Kimberly at the beds, hunger 9, no food. I hold 1 wheat seed and two hoes. I'll look for dirt near here to till and plant it, so we have crops later. Meat still goes to the weakest first."}
 - 06:14 act: {"say":"Kimberly at the white beds, hunger 9, health 15, no food. I have one wheat seed and a hoe. I'll stay near the beds and search the grass with the group. Worf, LaForge and Trini are weaker, so t
 - 06:18 act: {"say":"Kimberly awake at the white beds, day 266. Hunger 9, health 15, no food. LaForge and Jason take the beef first. I'm holding one wheat seed and will till and plant it here in sight of camp.","a
+- 06:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Kimberly here, hunger 9, no food. Going to the beds for the night.","reasoning":"Night, near beds, no food. Get in a bed with the g
+- 06:23 act: {"actions":[{"do":"sleep"}],"reasoning":"At a white bed in the dark, no danger adjacent. Sleep through the night."}
+- 06:24 act: {"actions":[{"do":"sleep"}],"reasoning":"One retry after waiting. If refused, stay put with group until dawn."}
+- 06:26 act: {"actions":[],"say":"Kimberly at the white bed, hunger 9, health 15. I have no food. Jason and Trini first for any meat; LaForge, thank you for the offer, I'll say if I drop to 6.","reasoning":"Answer
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":331}},{"do":"till","at":{"x":-268,"y":66,"z":332}}],"say":"Kimberly at the beds, hunger 9, no food. Scouts, call out any sheep, cow or pig. I'm t
+- 06:31 act: {"actions":[{"do":"till","at":{"x":-269,"y":65,"z":331}}],"reasoning":"Previous target was air. The grass sits at y=65 under me; try the grass one block west."}
+- 06:31 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":-269,"y":66,"z":331}}],"say":"My last wheat seed is planted on the new farmland just west of me, in sight of the beds.","reasoning":"Plant the
