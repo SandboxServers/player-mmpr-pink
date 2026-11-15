@@ -47,3 +47,5 @@
 - 02:32 say: {"text":"Kimberly here. I still hold my one wheat seed. Troi, Wesley: whoever is in reach, come to me and I'll hand it over for planting."}
 - 02:36 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"Kimberly, day 255, hunger 14, no food. Troi, I am heading to the north white bed to hand you my wheat seed for planting. Data, Jaso
 - 02:36 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wheat_seeds","count":1}],"say":"Troi, here is my wheat seed. Plant it on tilled dirt in sight of camp. Thank you.","reasoning":"Troi is in reach; the
+- 02:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at the north white bed, night of day 255. No food, hunger 14. Trying to sleep here with Troi nearby.","reas
+- 02:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Still at the bed, night, no monsters in my snapshot. Retry sleep once."}
