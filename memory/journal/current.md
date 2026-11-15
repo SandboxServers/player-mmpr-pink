@@ -50,3 +50,8 @@
 - 02:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Kimberly at the north white bed, night of day 255. No food, hunger 14. Trying to sleep here with Troi nearby.","reas
 - 02:46 act: {"actions":[{"do":"sleep"}],"reasoning":"Still at the bed, night, no monsters in my snapshot. Retry sleep once."}
 - 02:51 act: {"actions":[{"do":"goto","target":{"x":-268,"y":66,"z":322}}],"say":"Kimberly at dawn, day 256. No food, hunger 14, health 15. I'm searching the grass in sight of the beds for animals. Trini gets any 
+- 02:56 say: {"text":"Kimberly, day 256. No food, hunger 14, health 15. I'll search the grass just north of the beds for animals, stay in sight of the group, and give any meat to Trini first."}
+- 02:56 act: {"intent":{"goal":"search_grass_for_animals","program":"travel","arguments":{"target":{"x":-270,"y":66,"z":316}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 02:57 act: {"actions":[{"do":"note","text":"Day 256 morning: walked north to -270,67,316 to search grass for animals. None in sight. Hunger 14, health 15. Unripe wheat at -267,66,325 and -267,66,335, not yet foo
+- 02:57 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-268,"y":66,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 02:57 act: {"actions":[{"do":"note","text":"Day 256 afternoon: back at the north white beds with the group, -268,66,321. Still no food, hunger 14, health 15. Waiting for dusk to sleep in a bed, with Trini first 
