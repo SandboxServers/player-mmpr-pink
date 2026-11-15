@@ -74,3 +74,4 @@
 - 18:30 act: {"actions":[],"say":"Kimberly, hunger 17, still holding one beef. Picard, Riker: at hunger 10 or below, step into my sight and it is yours.","reasoning":"Nobody in sight is below 10 right now; Chapman
 - 18:33 act: {"actions":[],"say":"Kimberly, midday, hunger 17, still holding one beef. Clark, your hunger is 17, so the beef is not yet yours. Anyone who drops to 10 or below, step into my sight.","reasoning":"Cla
 - 18:37 act: {"actions":[],"say":"Kimberly here, hunger 17, holding one beef. Chapman, Bcrusher or anyone at 6 or below, step into my sight and say your name; it is yours.","reasoning":"Trini's beef went to LaForg
+- 18:43 act: {"say":"Kimberly here at -276,317, night, hunger 17. I hold one beef for the lowest in my sight. LaForge is lowest at 1.5 health; I'm heading to the white beds to find a bed with the group.","intent":
