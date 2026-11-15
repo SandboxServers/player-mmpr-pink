@@ -65,3 +65,7 @@
 - 13:56 act: {"say":"Kimberly, day 289, health 20, hunger 20. Trini and Troi eat first; I have nothing to hand over. I'll hold near the beds and call out any animal I see.","intent":{"goal":"hold_near_beds_watch_f
 - 14:00 act: {"say":"Dusk. Kimberly going to the white bed with the group to sleep. Health 20, hunger 20, no food.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sle
 - 14:00 act: {"actions":[{"do":"sleep"}],"say":"Kimberly on the white bed with the group. Sleeping now."}
+- 14:01 say: {"text":"Kimberly here, at the beds at dusk. Health 20, hunger 20. I'll stay by the beds with the group for the night."}
+- 14:09 act: {"say":"Kimberly, dawn 290. Health 20, hunger 20, no food. Trini and Leonardo are lowest, so meat goes to them first. I'll search the grass to the west with Trini and Billy, in sight of each other.","
+- 14:10 act: {"say":"Kimberly here, back to the beds. No animals in the west. I'll stay near the group; Trini first for any food I find.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":330}}]}
+- 14:11 say: {"text":"Kimberly, Worf: no animals seen by me since dawn, west or near the beds. Only unripe wheat at -272,66,331 and -274,66,332. I have no food. Trini and Leonardo first."}
