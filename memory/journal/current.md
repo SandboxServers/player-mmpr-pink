@@ -116,3 +116,15 @@
 - 04:29 act: {"say":"Clark, I hold no porkchop. Tommy has it, and I asked him to hand it to Trini. I have no food at all, only planks and saplings.","actions":[{"do":"note","text":"Day 261 dawn. At -272,67,336 wit
 - 04:29 act: {"say":"Tommy, Trini is in reach now. Please give her the porkchop, and then Worf if he is close. I have no food to give.","actions":[{"do":"note","text":"Day 261 day. At -272,67,336. Trini, Worf, Tom
 - 04:33 act: {"actions":[{"do":"note","text":"Midday day 261. At -272,67,336 with Tommy, Lewis, Worf, Riker. The porkchop, beef and wheat have gone to Worf, the weakest. I hold no food. Health 15, hunger 11. Waiti
+- 04:36 act: {"say":"Kimberly here, at the beds, hunger 11, no food on me. Worf and Trini first for any meat or wheat that comes in.","intent":{"goal":"hold_at_beds_for_food","program":"rest","arguments":{},"wake_
+- 04:40 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Picard, here are my 7 wheat seeds for your plot at -290,68,285, as Riker asked. Worf and Trini first for any food."
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge, my 7 wheat seeds went to you by mistake. Please give them to Picard at -290,68,285. I'm going to bed now."}
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 04:41 act: {"actions":[{"do":"sleep"}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 04:54 say: {"text":"Kimberly at -272,67,336, dawn of day 262. No food. Staying at the beds in sight. Any meat goes to Worf, then Trini."}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"rest_at_beds","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limit
+- 05:21 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":16}},"act
