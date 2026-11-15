@@ -133,3 +133,13 @@
 - 05:25 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"reach_bed_and_sleep","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":320}},"wake_on":["dire
 - 05:27 act: {"actions":[],"say":"Kimberly, dawn of day 264. Slept near the white beds at -281,67,320 (woke, no bed rest recorded). Health 15, hunger 10, no food. Meat goes to Worf, then Trini. I'll search the gra
 - 05:27 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}],"intent":{"goal":"return_to_bed_and_sleep","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":320}},"wake_on":["
+- 05:28 act: {"say":"Kimberly awake at dawn, day 264, at the white beds. Hunger 10, no food. Looking for pig, cow or sheep nearby. Trini and Worf first for any food.","reasoning":"Dawn, in group at beds. Need food
+- 05:28 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Back at the beds with the group, night, no food. Sleep in the bed; hunger is 10 so wake and search at dawn.","
+- 05:32 act: {"say":"Kimberly here, dawn day 264. I have no porkchops; my pack is planks, logs and tools only. Tommy holds the 2 porkchops. Jason is weakest, then Worf. I will search the grass nearby and call out 
+- 05:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dusk, no food, group at the beds. Sleep in the bed here; I am not in danger in the group.","say":"Kimberly goi
+- 05:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, creeper no longer listed. Retry sleep once in the bed with the group."}
+- 05:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed under me, group nearby. One more sleep try; no creeper listed now."}
+- 05:43 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at a yellow bed at -241,69,344 at night. The last sleep failed on a blocked way. Try once here; if it fails again, I wait for dawn."}
+- 05:48 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, group nearby, no food. Retry sleep once at the white bed; if it fails, change place rather than repeat.","say":"Kimberly here at the white bed. No food 
+- 05:48 act: {"intent":{"goal":"gather_food_near_beds","program":"gather","arguments":{"block":"wheat","count":1},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2
