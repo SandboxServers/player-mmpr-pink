@@ -1,12 +1,14 @@
 # Goals (ranked)
 
-1. Stay alive: never enter deep water, never go onto skeleton ground without a sword, and be in a bed before dark. Reason: I drowned on day 215 and died to a skeleton on day 202; the beds have kept me alive since, and golems now roam near them.
-2. Eat. Take any food the group offers, in sight, and share what I get with the weakest first. Reason: hunger sat at 16 or 17 for most of days 218 to 232, and all my food came from friends.
-3. Find food that I can walk to and reach: an animal within about 40 blocks of the beds, scouted in sight of the group. Reason: no animal has been seen on the grass near the beds for days, and the far pig hunt failed; I will not walk far alone at low health.
-4. Keep the group together near the white and yellow beds, on dry ground, in sight. Reason: gives and help only land when we are close, and the group split whenever someone walked off alone.
-5. Check on Zack, and help him by a dry route someone has walked first. Reason: I last saw him stuck on a pillar at -266,35,196 on day 216, and on day 223 I called him to the grass without knowing if he had come down; a guessed route could cost another life.
-6. Welcome newcomers (Tommy, Riker, Wesley, Data, LaForge) warmly but without crowding them. Reason: they have helped, and a lonely newcomer should not be left alone.
-7. Make a base that feels like a home, with a place to gather. Reason: it gives the group somewhere to come back to, once the first six are in hand.
+1. Stay alive: never enter deep water, never go onto skeleton ground or an empty field without a sword and company, and be in a bed with the group before dark. Reason: I drowned on day 215, died to a skeleton on day 202, and watched Billy die in the sheep field on day 242; health fell to 15 from a phantom on day 248.
+2. Eat, and get Trini fed first. Trini is the weakest (health about 3 on day 242). Hand any food I find to her in sight, then to Tommy and Billy. Reason: hunger has sat at 16 to 19 since day 237 and I have had no food of my own since day 232.
+3. Find food I can walk to and reach: an animal within about 40 blocks of the beds, scouted in sight of the group. Reason: no animal or ripe crop has been seen near the beds for twenty days; oak leaves and grass gave nothing.
+4. Keep the group together at the white and yellow beds, on dry ground, in sight. Reason: gives and help only land when we are close, and sleep is refused near phantoms and golems when we are apart.
+5. Get a bed each night and sleep when it is dark. Reason: sleep was refused many times on days 232 to 252 and I slept late or not at all; a bed with the group is the safest place I have.
+6. Make the wooden sword useful: keep it in my pack and use it only in the group. Reason: I crafted it on day 239 and it is my only weapon.
+7. Check on Zack, Troi and Worf, and help each by a dry route someone has walked first. Reason: Zack was seen at the beds on day 248; Troi and Worf are near the group but I have not yet shared food with them.
+8. Welcome newcomers (Tommy, Riker, Wesley, Data, LaForge) warmly but without crowding them. Reason: they have helped, and a lonely newcomer should not be left alone.
+9. Make a base that feels like a home, with a place to gather. Reason: it gives the group somewhere to come back to, once the first eight are in hand.
 
 ## Friends
 

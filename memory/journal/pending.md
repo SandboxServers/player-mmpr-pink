@@ -1,0 +1,192 @@
+# Journal
+- Night of day 232, at the white bed -271,67,336 with the group. Health 20, hunger 20, no food. Sleep refused, then "sleep worked" but night stayed. Staying put by the bed and trying again once the bows quiet.
+- 19:08 act: {"actions":[{"do":"sleep"}]}
+- Dawn of day 233 (sleep worked). No food. Walked west to -290,336 to look for animals; a golem came close and the sun set again, so I am heading back to the beds at -271,336. Hunger 20, health 20.
+- Dawn of day 233, back at the beds. Jason hunger 14, Billy 16 and both are searching west. I'm at 20, so I'm staying by the beds and will share any meat with Billy then Jason.
+- 19:08 act: {"say":"Morning. Health 20, hunger 20. I'm still at the white bed. Billy, I'll look for meat on the grass to the west, and any animal I find goes to you first.","intent":{"goal":"search_food_near_camp
+- 19:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["directly_addressed","une
+- Day 233 daytime: Tommy has 3 porkchop at the beds, queued Billy, Jason, Worf. I have no food and hunger 20, so I stay at the bed and watch the south.
+- 19:09 act: {"say":"Morning. I'm still at 20 hunger, so the food goes to Jason and Billy first. I'll stay by the beds and watch the south side for golems."}
+- 19:15 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Kimberly at the white bed, hunger 20, no food. Billy and Jason first for the porkchop, then Worf. Tommy, I'll stay here and watch t
+- Dusk of day 233 at the white bed -272,67,336. Declined the porkchop and mutton (hunger 20). Sleep refused: "not night" yet. Waiting for dark, then sleep here.
+- Night of day 233 at the white bed. Sleep refused: "monsters nearby" (golems to the south, 19 blocks). Billy and Wesley are with me; Billy respawned with nothing after phantoms. Data holds mutton for Billy. Hunger 20, no food. Waiting, then retrying sleep.
+- 19:17 act: {"actions":[],"say":"Jason, keep it for Worf or Picard, not me. My hunger is 20. I'm at the white bed and no food is in my pack."}
+- 19:19 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I'm at the white bed with hunger 20, so Data's mutton goes to Billy and Jason. I'm going to sleep here."}
+- 19:22 act: {"actions":[{"do":"sleep"}],"say":"Billy, Data is holding mutton for you, tell him where you are. I have no food. Sleeping here at the white bed."}
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. I have no food, and Billy gets the meat first if it comes."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Beds at the white block are full. I'm going to the white beds at -270,318 to sleep."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Billy, Jason: I'm at the bed at -270,318 with hunger 20. Mutton goes to you two first. Sleeping now."}
+- 19:24 Night of day 233: queued goto to bed -270,67,318 and sleep. Hunger 20, health 20, no food. Mutton to Billy and Jason first.
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Sleep search timed out. Trying the bed at -271,318 now."}
+- Night of day 233: sleep failed three times (beds occupied, search timed out, bows drawn to the SE/N). Hunger 20, health 20, no food. Standing by the bed at -270,67,318 until morning; mutton goes to Billy/Jason.
+- Dawn of day 234: woke at the white bed -270,318, hunger 20, no food. Billy gave Jason 2 mutton; Billy holds 1 for the lowest. Scouting east for animals or apples, travel to -245,318.
+- Day 234 morning: reached -246,318. No animals in sight east, only oak trees. Hunger 20. Heading north-east to -222,305 to look further.
+- Day 234 morning at -224,310: no animals found. Mined oak leaves for apples; got one oak sapling, no apples. Hunger 20. Going back to the white beds at -270,318.
+- Back at the white bed -270,67,318. Hunger 20, no food; Billy beside me. Waiting for dusk to sleep here.
+- Dusk of day 234: sleep "worked" but the night had not come. Night now; trying sleep again at -270,318. Hunger 20, no food; Billy has mutton for Tommy.
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. Beds are crowded, so I'm trying the bed at -270,336 beside me. Hunger 20, no food. Mutton stays with Billy an
+- 19:25 act: {"actions":[],"say":"Beds here are occupied, so I'm standing by the bed at -270,318 and staying put until morning. Jason, Billy, mutton is yours."}
+- 19:26 act: {"actions":[],"say":"Kimberly here, hunger 20, no food. Billy, eat the mutton if you're hungry; I'm full enough to wait. We'll look for food at first light."}
+- 19:30 act: {"intent":{"goal":"scout_east_for_food","program":"travel","arguments":{"target":{"x":-245,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:31 act: {"intent":{"goal":"scout_northeast_for_animals","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":305}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max
+- 19:31 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"Nothing edible east. Breaking some oak leaves here to see if apples drop. Heading back to camp after."}
+- 19:31 act: {"intent":{"goal":"return_to_camp_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 19:31 act: {"say":"Back at the white bed, hunger 20, no food; I only found oak leaves east. Billy, you're next for any meat. I'll sleep here at dusk.","intent":{"goal":"wait_for_dusk_then_sleep","program":"rest"
+- 19:31 act: {"intent":{"goal":"rest_at_bed_until_night","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":12000,"max_block_oper
+- 19:35 act: {"say":"Kimberly here at the white bed, hunger 20, no food. Billy, give Tommy the mutton when he reaches you. I'll keep watch here and sleep at dusk."}
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk, no food. Sleeping at the white bed -270,318. Tommy gets Billy's mutton first."}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:42 act: {"actions":[{"do":"sleep"}],"say":"Night, at the white bed -270,67,318. Health 20, hunger 20, no food. Tommy and Billy first for any meat tomorrow. Sleeping now."}
+- 19:43 act: {"intent":{"goal":"deliver_mutton_to_tommy","program":"travel","arguments":{"target":"tommy"},"wake_on":["goal_completed","directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max
+- 19:43 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is the mutton from Billy. Eat it."}
+- 19:45 act: {"actions":[{"do":"note","text":"Day 234 night: Billy asked me to take mutton to Tommy. Tommy went out of sight twice; give failed. I still hold the mutton and will hand it to him at first sight tomor
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Night. Going to the white bed at -270,67,318 with the group. I still hold Billy's mutton for Tommy.","intent":{"goal
+- 19:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"intent":{"goal":"sleep_in_free_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","g
+- 19:46 act: {"actions":[],"say":"Tommy, I'm at the yellow bed near -271,67,326, hunger 20. I'll hand you the mutton the moment you're in sight next to me."}
+- 19:47 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"mutton","count":1}],"say":"Tommy, here is Billy's mutton. Eat it."}
+- 19:47 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:48 act: {"actions":[],"say":"Dawn. Tommy has Billy's mutton, thank you. I still have no food, hunger 20, health 20. I'll look for animals on the grass near the beds.","intent":{"goal":"scout_grass_near_beds_f
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dark again. Heading back to the white bed at -270,67,318 to sleep with the group. No food; Tommy has the mutton."}
+- 19:48 act: {"actions":[],"say":"Dawn of day 235. Health 20, hunger 20, no food. Iron golems are about 11 blocks south-west, so I'm staying by the beds until they move off."}
+- 19:55 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Kimberly: no food yet. The golems have moved south-west, so I'm breaking grass near -262,66,322 for seeds and watching for animals.
+- 19:56 act: {"actions":[{"do":"mine","block":"short_grass","count":1}],"intent":{"goal":"break_grass_for_seeds","program":"gather","arguments":{"block":"short_grass","count":4},"wake_on":["goal_completed","precon
+- 19:57 act: {"actions":[],"say":"Kimberly: breaking grass here gave nothing, so I'm not finding seeds this way. Wesley, plant your seeds on the farm; I'm not carrying any. No food on me, hunger 20. Tommy, I'm by 
+- 20:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 20:03 act: {"say":"Kimberly: night, at the white bed with no food but health and hunger at 20. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 20:05 act: {"actions":[{"do":"sleep"}],"say":"Night, at the white bed -270,67,318. Health 20, hunger 20, no food. Tommy and Billy first for any meat tomorrow."}
+- 20:07 act: {"actions":[{"do":"sleep"}]}
+- 20:11 act: {"say":"Kimberly here, morning of day 236. Hunger is full at 20. I have no food yet. If anyone finds meat or wheat, tell me and I will bring what I can to Tommy and Billy first.","intent":{"goal":"loo
+- 20:11 act: {"say":"Still no food here, only unripe wheat. I'll wait by the wheat and watch for animals. Bows are being drawn to the south, so I'll stay near the beds."}
+- 20:11 act: {"say":"Tommy, Troi, Riker: no animal or apple seen yet, only unripe wheat here. Data, I'll search the grass to the west with you, staying within sight of the beds. Call out anything you see."}
+- 20:12 act: {"say":"Going to the west grass to join Data and Riker, in sight of you. Calling out anything I see.","intent":{"goal":"join_west_grass_search","program":"travel","arguments":{"target":{"x":-290,"y":6
+- 20:12 act: {"say":"Kimberly at the west grass with the group. Trini has the lowest hunger, so any meat goes to her first, then Tommy, then Billy. I'm holding here and watching."}
+- 20:21 act: {"say":"Dusk. Going to the white bed at -270,67,318 with the group to sleep. Still no food; Trini first at dawn.","intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-
+- 20:21 act: {"actions":[{"do":"sleep"}],"say":"At the white bed with Jason and Worf. Hunger 20, no food. Trini and Tommy first at dawn."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"sleep"}],"say":"Sleep failed at the first beds. Trying the white bed at -270,67,318 once more."}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Sleep says monsters nearby. I'm at the white bed with Riker, Tommy and Picard. I'll wait a little and try again.","intent":{"goal":
+- 20:22 act: {"actions":[{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Sleep is refused by monsters again. Golems are 9 and 15 blocks south-west. I'll stay with the group at the white bed and keep watch
+- 20:27 act: {"actions":[{"do":"sleep"}]}
+- 20:32 act: {"say":"Kimberly here, hunger 20, no food on me. The wheat at -263,66,321 is unripe, so it will not feed anyone yet. I have 4 oak logs and 3 planks to share if anyone needs them."}
+- 20:38 act: {"say":"Picard, the only food I have seen is unripe wheat at -263,66,321. It is not ready yet. I'm staying near the beds too, and I'll tell you if I find anything safe.","intent":{"goal":"hold_near_be
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Kimberly here, health 20, hunger 20, no food. It is dusk, so I'm going to the white bed at -270,67,318 for the night. Wheat at -263
+- 20:40 act: {"actions":[{"do":"sleep"}]}
+- 20:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 20:41 act: {"actions":[{"do":"sleep"}]}
+- 20:41 act: {"actions":[{"do":"sleep"}],"say":"LaForge, I have no rod or string, only 4 oak logs and 3 planks. I'm trying the bed here for the night."}
+- 20:42 act: {"say":"Kimberly here, night on day 237, health 20, hunger 20. I'm at the white bed and going to sleep. Trini, you get any food first.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 20:42 act: {"actions":[{"do":"sleep"}]}
+- 20:43 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, night, hunger 20, no food. Trini, I'm by the yellow bed at -263,67,353 and will share any food I find with you first."}
+- 20:43 act: {"actions":[{"do":"sleep"}]}
+- 20:44 act: {"say":"Kimberly here at the yellow bed, hunger 20, no food. Trini first for any food, then Riker. Zack, I'm glad you're close. Staying put until light."}
+- 20:48 act: {"say":"Dawn. Trini, Riker, I have no food, only 4 oak logs and 3 planks. I'm at the yellow bed -262,67,353, staying out of the golems' path until they move off. Any food I find goes to Trini first."}
+- 20:52 act: {"say":"Kimberly at the yellow bed, day 238. Jason, thank you for picking the ripe wheat for Trini. Trini, if you're in sight, I'll come to you with anything I get; I have none yet."}
+- Day 238 daytime at the yellow bed -262,67,353: health 20, hunger 20, no food. Iron golem 15 west, bow drawn north. Said my position and that food goes to Trini first; holding near beds on a rest intent.
+- 20:56 act: {"say":"Kimberly at the yellow beds, day 238. Health 20, hunger 20, no food. An iron golem is 15 blocks west and someone is drawing a bow to the north. I'll keep near the beds and pass any food to Tri
+- 20:56 act: {"actions":[{"do":"wait","seconds":30}],"say":"Kimberly at the yellow beds -262,67,353, day 238. Health 20, hunger 20, no food. Tommy, Billy: I'm staying here near the beds. Any food I find goes to Tr
+- 21:01 act: {"actions":[{"do":"sleep"}],"say":"Night at the yellow bed -262,67,353. Health 20, hunger 20, no food. Trini first for any food at first light. Sleeping now."}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"Night, beds adjacent, no food. Sleep is the safe next step; golem is neutral usually."}
+- 21:06 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the yellow bed, night on 238. Health 20, hunger 20, no food. Trini first for any food at light."}
+- 21:06 act: {"actions":[{"do":"sleep"}]}
+- 21:10 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Kimberly at the yellow beds, dawn of 239, hunger 20, no food. Trini first for any mutton. I'm making a sword and then joining the she
+- 21:10 act: {"actions":[{"do":"craft","item":"oak_planks","count":1},{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
+- 21:11 act: {"intent":{"goal":"join_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 21:12 act: {"actions":[],"say":"Kimberly here at the white beds with a sword now. Zack, the chicken goes to Trini first, then Riker. I'll stand guard with you while you give it. I have no food."}
+- 21:15 act: {"intent":{"goal":"join_group_at_zack_spot","program":"travel","arguments":{"target":{"x":-274,"y":67,"z":289}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 21:16 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":291}}],"say":"Kimberly coming to you now, Trini and Zack. Still no food on me."}
+- 21:23 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Kimberly: it's night, no food, hunger 19. Going to the yellow bed near the group to sleep. Any mutton goes to Trini 
+- 21:23 act: {"actions":[{"do":"sleep"}]}
+- 21:27 act: {"actions":[{"do":"sleep"}],"say":"Kimberly: health 20, hunger 19, no food, sword in pack. Trying the white beds again."}
+- 21:27 act: {"actions":[{"do":"sleep"}]}
+- 21:29 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":1}],"say":"Tommy, here is a log for your sword. Trini first for any food; I have none. Riker, Trini is still waiting for the chicke
+- 21:29 act: {"say":"Trini first for any food. I am going to check the farm at -293,69,288 for ripe wheat or beetroot.","intent":{"goal":"reach_farm_for_food","program":"travel","arguments":{"target":{"x":-291,"y"
+- 21:30 act: {"say":"No ripe crops at the farm here, only logs and water. I'm heading to the yellow bed to be with Trini and Data.","intent":{"goal":"return_to_group_yellow_bed","program":"travel","arguments":{"ta
+- 21:34 act: {"say":"Kimberly here, no food. I'm going to the white beds with the group to hand over my logs for swords.","intent":{"goal":"join_group_white_beds","program":"travel","arguments":{"target":{"x":-272
+- 21:34 act: {"say":"I have no food. I'm keeping 3 oak logs for Tommy's sword, and I'll hand them over when he is in sight. Any food found goes to Trini first, then Zack."}
+- 21:35 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"intent":{"goal":"rest_at_group_until_food","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_faile
+- 21:38 act: {"say":"Trini, the chicken is on the ground next to you at -271,67,316. Step onto it and eat it. I have no food; my 3 logs are still for Tommy."}
+- 21:39 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"say":"Tommy, here are my 3 oak logs for your sword. I have no food, but I'll share what I find.","intent":{"goal":"keep_watch_
+- 21:43 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, I'm holding the chicken Jason passed me. Here it is for you, raw. Eat it now while you are hungry."}
+- 21:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Jason, the chicken came to you instead of me. Please give it to Trini, she is the weakest. I'm going to a bed for the night."}
+- 21:43 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"oak_log","count":3}],"say":"Tommy, here are the 3 oak logs for your sword."}
+- 21:44 act: {"say":"Trini, I have no food, only logs, planks and a sword. Jason has the chicken and it is yours. I'll try the bed again once the monsters are gone.","intent":{"goal":"rest_at_white_bed","program":
+- 21:44 act: {"actions":[{"do":"sleep"}]}
+- 21:48 act: {"say":"Kimberly, dawn of day 241. Health 20, hunger 19, no food. Trini, the chicken is yours; Jason, hand it over at her feet. I'll scout the grass by the beds in sight, and call out any animal.","in
+- 21:48 act: {"say":"Kimberly at the grass -263,66,322. No animals in sight, only tall grass and an iron golem 22 blocks south. Still no food; I'll stay within sight of Billy and call out anything I find."}
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk on day 241. Going to the white bed at -270,318 with the group. Still no food; Data and Trini first if anything 
+- 22:01 act: {"actions":[{"do":"note","text":"Night 241 at white bed -270,67,318 with group. Sleep refused: monsters nearby. No food yet."}],"say":"Still no food. Staying by the bed with the group. Will try to sle
+- 22:01 act: {"actions":[{"do":"sleep"}]}
+- 22:05 act: {"actions":[{"do":"sleep"}]}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":-262,"y":66,"z":322}}],"say":"Dawn of day 242. Kimberly, health 20, hunger 19, no food. I'm watching the wheat at -263,66,321 and will pick it once ripe for Trin
+- 22:10 act: {"actions":[],"say":"Kimberly here at the wheat, day 242. Health 20, hunger 19, no food. Laforge, I'll check the wheat with you. Any ripe crop goes to Trini first, then Jason, who is lowest."}
+- 22:11 act: {"actions":[{"do":"note","text":"Dawn day 242 at wheat -263,66,322. Wheat not ripe (Laforge). Health 20, hunger 19, no food. Waiting for ripe crop or animal; bows drawn to the south."}],"say":"Nothing
+- 22:18 act: {"actions":[{"do":"note","text":"Day 242 daytime at wheat -263,66,322. No food. Sheep field north was empty and Billy died there. Trini at health 3 is first in line. Staying near the group and watchin
+- 22:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Night now. Going to the white bed with the group. No food yet; Trini first at dawn."}
+- 22:22 act: {"actions":[{"do":"sleep"}]}
+- 22:26 act: {"actions":[{"do":"sleep"}]}
+- 22:31 act: {"actions":[{"do":"wait","seconds":5}],"say":"Kimberly here at the white bed, day 243. Health 20, hunger 19, no food on me. Trini and Riker first for anything found. Picard: the only food I know of is
+- 22:34 act: {"actions":[],"say":"Kimberly at the white bed, health 20, hunger 19, still no food. Holding here with the group. Anyone who finds an animal, call out and Trini gets it first."}
+- 22:36 say: {"text":"Kimberly here at the beds, hunger 19, no food in my pack. I'm holding with the group and will hand any food to Trini first."}
+- 22:42 act: {"actions":[{"do":"sleep"}],"say":"Night at the white bed -270,67,318. Still no food, hunger 19. Trini first at light."}
+- 22:43 act: {"actions":[{"do":"sleep"}]}
+- 22:48 say: {"text":"Kimberly here, dawn. No food, hunger 19. I'll search the west grass with the group, in sight of others, and call out any animal. Trini eats first."}
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-273,"y":68,"z":316}}],"intent":{"goal":"check_dropped_items_nw","program":"travel","arguments":{"target":{"x":-273,"y":68,"z":316}},"wake_on":["goal_completed",
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-278,"y":66,"z":316}}],"intent":{"goal":"pick_up_item_west","program":"travel","arguments":{"target":{"x":-278,"y":66,"z":316}},"wake_on":["goal_completed","unex
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","unexpec
+- 22:55 act: {"say":"Kimberly at the white beds, day 244, health 20, hunger 19, no food. Trini, you are first for anything I find. I'll stay near the group and watch for animals.","intent":{"goal":"hold_at_beds_wa
+- 22:59 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, dusk on day 244. Health 20, hunger 19, no food. Trini has the chicken and comes first for anything I find. Trying to sleep here."}
+- 23:01 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244. No food. Trini first for anything at dawn."}
+- 23:02 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244, health 20, hunger 19, no food. Trini first for any food at dawn."}
+- 23:04 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 244. No food, hunger 19. Trying sleep now."}
+- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed. Phantom seems gone. Trying sleep again. Dawn food hunt with the group, Trini first."}
+- 23:14 act: {"actions":[{"do":"sleep"}],"say":"Geldar at the white bed, dusk of day 245. Trying sleep with the group."}
+- 23:19 act: {"say":"Kimberly at the white bed, dusk on day 245. Hunger 19, no food. Trini first for any food found. I'll try the bed when it is night.","intent":{"goal":"wait_for_night_then_sleep","program":"rest
+- 23:19 act: {"actions":[{"do":"sleep"}]}
+- 23:23 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed, night of day 245. No food; Trini first at dawn. Trying to sleep."}
+- 23:25 act: {"actions":[{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"sleep"}]}
+- 23:32 act: {"actions":[{"do":"note","text":"Day 246 dawn. No food; hunger 19, health 20. Sleep refused 4 times by phantom nearby. Going out to search grass east with the group, staying in sight."}],"say":"Kimber
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":320}},{"do":"mine","block":"oak_leaves","count":4}],"say":"Kimberly: no food out east. Troi, I'll knock leaves for apples by the beds too. Any ap
+- 23:32 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 23:33 act: {"actions":[{"do":"note","text":"Day 246 midday-dusk. Searched east: no food, only oak logs and leaves (mining leaves gave nothing). Back at white bed -270,67,318 with group. Waiting for night to slee
+- 23:42 act: {"actions":[{"do":"sleep"}]}
+- 23:45 act: {"actions":[{"do":"sleep"}]}
+- 23:45 act: {"actions":[{"do":"note","text":"Day 246 night: sleep refused again (phantom 4 blocks away). Health 20, hunger 18. Holding at the white bed with the group. Retrying sleep after a wait."}],"say":"Still
+- 23:45 act: {"actions":[{"do":"sleep"}]}
+- 23:47 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed -270,67,318, night of day 246. Hunger 18, no food on me. Trying sleep with the group. Trini eats the chicken first."}
+- 23:48 act: {"actions":[{"do":"note","text":"Dawn of day 246: no food on me. Staying by the beds; any food goes to Trini first, then Data."}],"say":"Kimberly at the white bed, dawn. Hunger 18, health 20, no food 
+- 23:48 act: {"actions":[],"say":"Kimberly, dawn of day 247. Hunger 18, health 20, no food. I'm staying at the white bed with the group and will look for animals within sight. Trini eats first."}
+- 23:51 act: {"actions":[],"say":"Kimberly at the beds. Riker, I won't go on the lake; I drowned once. Fish or salmon goes to Trini first, then Data. I'm holding here at hunger 18 and will walk the grass only in s
+- 23:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, day 247. Health 20, hunger 18, no food. Sleeping at the white bed with the group. Trini first at dawn."}
+- 00:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 247. Sleeping at the white bed. Trini first at light."}
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Going back to the white bed at -270,318 away from the golems to the south-west. No food; Trini first at light."}
+- 00:03 act: {"actions":[],"say":"Still at the beds, night 247. Beds are full and a golem is 8 blocks south, so I'm holding here with Data, Billy and Tommy until light. Trini first for any food."}
+- 00:09 act: {"say":"Dawn, day 248. Hunger 18, no food on me. I'll search the grass nearby for cow, pig, sheep or apple. Any food goes to Trini first.","intent":{"goal":"find_food_on_grass","program":"travel","arg
+- 00:09 act: {"intent":{"goal":"find_food_on_grass","program":"travel","arguments":{"target":"grass near the white beds"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 00:09 act: {"say":"I'm staying at the beds with you, Zack. I'll watch the grass and call out any food."}
+- 00:14 act: {"say":"Picard, no food seen from here. I have none on me either. I'm staying at the beds to watch. Call out if you see anything."}
+- 00:22 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the white bed -270,67,336, night on day 248. Health 20, hunger 18, no food. Trying to sleep here."}
+- 00:22 act: {"intent":{"goal":"retry_sleep_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":1200,"max_block_oper
+- 00:23 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me, fighting it. Health 18."}
+- 00:23 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"say":"Stuck near -285,320 with a phantom nearby. Freeing myself and going to the white bed at -282,67,320
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Something keeps hitting me unseen. Moving back to the group at the beds, -271,336."}
+- 00:26 act: {"actions":[{"do":"sleep"}],"say":"Trying the bed again with the group. Health 15, hunger 16, no food."}
+- 00:34 act: {"say":"Kimberly here at the white beds, health 15, hunger 16, no food. Trini first for any animal or crop found. I'll stay in sight of the group.","intent":{"goal":"hold_near_beds_watch_for_food","pr
+- 00:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, at the white bed with the group. Health 15, hunger 16, no food. Trini first for any food at dawn. Sleeping now."}
+- 00:42 act: {"actions":[{"do":"sleep"}],"say":"Night on 249 at the white bed. Health 15, hunger 16, no food. Trini has the lowest hunger, so any food goes to her at light. Trying sleep."}
+- 00:43 act: {"actions":[{"do":"sleep"}],"say":"Night at the white bed with the group. Health 15, hunger 16, no food. Trini first at light. Sleeping."}
+- 00:46 act: {"say":"Morning of day 250. Kimberly at the yellow bed -263,67,353, health 15, hunger 16, no food. I'll search the grass near the group for animals. Trini first for anything found."}
+- 00:50 act: {"say":"Kimberly here at the yellow beds. Trini, I have no food to give you, only wood and planks. If I find anything I'll bring it straight to you. Health 15, hunger 16."}
+- 01:03 act: {"actions":[{"do":"sleep"}],"say":"Night, no food on me. Trini first at light."}
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Going to the yellow bed by the group to sleep. No food."}
+- 01:09 act: {"actions":[{"do":"goto","target":"tommy"}],"say":"Kimberly here, dawn day 251. No food. I'll search the grass with the group and stay in sight. Trini first for anything found."}
+- 01:09 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":340}}]}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":338}}],"say":"Kimberly searching the grass to the west, staying near the beds. Any animal, tell me."}
+- 01:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}}]}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly going to the white bed for the night, no food. Trini and Worf first at light."}
+- 01:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Kimberly here. I have no food, sorry. Riker has the porkchops for Worf and Trini; I will sleep at the white bed by -
+- 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:24 act: {"actions":[{"do":"sleep"}]}
+- 01:26 act: {"actions":[{"do":"sleep"}]}
+- 01:29 act: {"actions":[],"say":"Kimberly, dawn of 252. No food, a wooden sword only. I will join Troi for the pigs at -255,239 if he goes with a few of us. Trini and Worf get any meat first."}
