@@ -36,3 +36,7 @@
 - 11:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}]}
 - 11:11 act: {"actions":[{"do":"note","text":"Day 281 dawn. No food in the group. I hold 1 wheat (not edible), 3 saplings, 11 planks, 5 logs. Next: stay with the group at the beds, scout nearby grass for animals, 
 - 11:12 say: {"text":"Kimberly here. I still hold one wheat, which can't be eaten. Trini and Picard are next for any meat we find. I'll scout the grass within sight of the beds."}
+- 11:19 act: {"intent":{"goal":"scout_grass_near_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":326}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 11:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Kimberly at dusk, day 281. No food. Going to the white bed at the beds to sleep with the group."}
+- 11:23 act: {"actions":[{"do":"sleep"}]}
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
