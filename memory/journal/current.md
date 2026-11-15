@@ -61,3 +61,7 @@
 - 17:54 act: {"say":"Wcrusher, my give bounced: your pack may be full (you carry wheat). Drop the wheat or make room, and I'll hand you the beef. Hunger 9 is the lowest I heard."}
 - 17:56 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"},{"do":"give","to":"ag_bcrusher_01","item":"beef","count":1}],"say":"Kimberly walking to Bcrusher with the beef, hunger 9. Stay put please."}
 - 17:56 act: {"actions":[{"do":"goto","target":"ag_wcrusher_01"},{"do":"give","to":"ag_wcrusher_01","item":"beef","count":1}],"say":"Kimberly: Wcrusher, hunger 9 — coming to you with the beef now."}
+- 17:57 act: {"say":"Kimberly, hunger 17, health 20, no food. Zack and Bcrusher are lower, so they eat first. I'm staying at the beds and will walk to any meat call-out.","intent":{"goal":"hold_at_beds_for_food","
+- 18:01 act: {"say":"Kimberly, dusk, hunger 17, no food. Going to the white bed with the group for the night. Call out if you need me.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":
+- 18:01 act: {"actions":[{"do":"sleep"}]}
+- 18:02 act: {"say":"Kimberly, night 301, no food, only dirt. Bcrusher, I have nothing to give you, sorry. Trini has the chicken and beef; I'll call out at dawn and walk to any meat.","actions":[]}
