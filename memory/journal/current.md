@@ -61,3 +61,7 @@
 - 13:43 say: {"text":"Kimberly, back at the beds after a death. I have 13 dirt and a pickaxe, no food. I'll stay with the group until dawn."}
 - 13:43 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"sleep"}]}
 - 13:52 say: {"text":"Kimberly, dawn 289. I'm full and have no food. I'll search the grass with Trini and Bcrusher, in sight of each other. Beef goes to Lewis, LaForge and Troi first."}
+- 13:54 act: {"intent":{"goal":"search_grass_for_animals","program":"travel","arguments":{"target":{"x":-281,"y":67,"z":319}},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":1200,"max
+- 13:56 act: {"say":"Kimberly, day 289, health 20, hunger 20. Trini and Troi eat first; I have nothing to hand over. I'll hold near the beds and call out any animal I see.","intent":{"goal":"hold_near_beds_watch_f
+- 14:00 act: {"say":"Dusk. Kimberly going to the white bed with the group to sleep. Health 20, hunger 20, no food.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"intent":{"goal":"sle
+- 14:00 act: {"actions":[{"do":"sleep"}],"say":"Kimberly on the white bed with the group. Sleeping now."}
