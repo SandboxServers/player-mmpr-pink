@@ -150,3 +150,4 @@
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 06:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 06:07 say: {"text":"Kimberly: no food, Wesley. I have only planks, logs and saplings. I'm at the white bed and will wait for light."}
