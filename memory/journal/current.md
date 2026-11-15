@@ -180,3 +180,6 @@
 - 06:45 act: {"actions":[],"say":"Jason, I'm right here at the white bed, in reach. Hunger 8, health 15. Please give me one rotten flesh if you can spare it. Thank you."}
 - 06:48 act: {"actions":[],"say":"Kimberly at dawn, hunger 8, health 15, no food. I'll go west with the group. Any meat, please give to me or Worf first. I'll name any animal I see."}
 - 06:51 say: {"text":"Kimberly here, no animals seen yet. Still hunger 8. Thanks Tommy, Clark. Call me if you find anything."}
+- 07:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"Kimberly going to the white bed at -270,67,336 for the night. Hunger 8, no food. First 
+- 07:12 say: {"text":"Kimberly, dawn 269, hunger 8, no food. Joining the search for cows or pigs. Any meat: Chapman and Trini first, then me."}
+- 07:13 say: {"text":"Kimberly: LaForge, thanks. I have no rod and I won't enter deep water. Still hunger 8, waiting for meat."}
