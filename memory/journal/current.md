@@ -20,3 +20,11 @@
 - 16:57 act: {"actions":[],"say":"Agreed, Tommy. I am not digging. It is dusk, so once Worf answers we should walk back to the bed row together."}
 - 16:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}},{"do":"note","text":"Dusk. Walking back to the white bed row with the group, leaving Worf in the pit as agreed."}],"say":"Walking back to
 - 16:57 act: {"actions":[{"do":"sleep"}],"say":"Kimberly on the bed at 387,107,-1023, Jason and Tommy in reach. Going to sleep. First light, we go back for Worf together."}
+- 17:01 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Morning. Worf, thank you for the word: 394,108 is air, so nothing to dig there. Jason, Tommy and I walk to the pit edge now, all 
+- 17:02 act: {"actions":[],"say":"Holding at the edge, Worf. I dig nothing. Tell us when you are up or when you name a block."}
+- 17:03 act: {"actions":[],"say":"Jason, Worf: I cannot dig one plank by its spot. My mine takes only a kind of block, and my last oak_planks mine changed nothing. So I will not dig. Worf, can you dig the plank at
+- 17:03 act: {"actions":[{"do":"note","text":"Midday, pit edge at 396,107,-1023 with Jason. Nobody digs. Worf is building a dirt step to climb out, Jason giving him dirt and a plank. I hold still."}],"say":"Good p
+- 17:04 act: {"say":"Morning, Beverly and Tommy. I'm holding at the pit edge with Jason, digging nothing. Worf, tell us when you rise or name a block type.","actions":[{"do":"note","text":"Midday, pit edge at 396,
+- 17:06 act: {"say":"Worf, I hear you. I can only dig by block type, not by spot, and I still see no safe block to name. I hold at the edge and dig nothing until Jason or Beverly names one.","actions":[{"do":"note
+- 17:07 act: {"say":"Agreed, Jason. I stay at the edge in sight and dig nothing until you name a block Worf has seen.","actions":[{"do":"note","text":"Jason holds the group at the edge; no digging until a seen blo
+- 17:13 act: {"say":"Dusk. I'm going to the bed at 387,107,-1023 with Tommy in reach. No digging tonight. Worf, stay safe in the pit; we come at first light.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":
