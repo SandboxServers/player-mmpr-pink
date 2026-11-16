@@ -1,11 +1,1 @@
 # Journal
-- 15:15 act: {"say":"Morning soon. I'm at the bed with Tommy in reach. I'll wait for Billy's call for the cow walk.","intent":{"goal":"hold_bed_until_dawn","program":"rest","arguments":{},"wake_on":["directly_addr
-- 15:17 act: {"say":"Kimberly here, at the bed row, health 11, hunger 17. In sight of the group. Waiting for Billy's call for the cow walk.","intent":{"goal":"hold_with_group_for_cow_walk","program":"rest","argume
-- 15:17 act: {"say":"Worf, Kimberly here. I'm coming to the pit edge with melon for you. Hold on.","actions":[{"do":"goto","target":{"x":397,"y":107,"z":-1022}}]}
-- 15:17 act: {"say":"I'm at the pit edge, 397,107,-1021. Worf, I can't see you yet. Tell me when you're at the top and I'll hand you melon.","intent":{"goal":"hand_worf_food_at_pit","program":"rest","arguments":{}
-- 15:18 act: {"say":"Worf hasn't come up and I'm alone at the pit edge. I'm going back to the bed row with the group. Worf, call me when you're out.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}}]}
-- 15:21 act: {"say":"Worf, I hear you're alive and well. I'm here at the bed row with melon if you need it when you're out. Good luck with the stone."}
-- 15:30 act: {"say":"Night at the bed row. I'm going to sleep at the bed beside Tommy, in reach of the group.","actions":[{"do":"use","at":{"x":401,"y":107,"z":-1022}},{"do":"sleep"}]}
-- 15:30 act: {"say":"Good morning, Trini. I'm well, health 11, hunger 17, here at the bed row. I'll feed whoever drops to 6 first, and I'm still holding for Billy's cow walk."}
-- 15:34 say: {"text":"Kimberly here, health 11, hunger 17. Steady and in sight. Still waiting for Billy's call."}
-- 15:42 act: {"actions":[{"do":"sleep"}]}
