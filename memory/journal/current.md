@@ -1,1 +1,15 @@
 # Journal
+- 08:00 act: {"actions":[{"do":"note","text":"Morning day 343 at the beds, health 11, hunger 16. Speech feed came back empty; waiting for the group's cow walk call."}],"say":"Kimberly here at the beds, health 11, 
+- 08:00 act: {"actions":[{"do":"note","text":"Day 343 morning at the beds. Tommy asked me to eat; hunger is 16, so I wait until 6 as planned, since the 29 melon are for the group. Waiting for the daylight cow walk
+- 08:01 act: {"actions":[{"do":"note","text":"Billy calls the daylight cow walk to 339,104,-979. I join, following Billy in sight of the group."}],"say":"Joining Billy's cow walk now, staying in sight of the group
+- 08:01 act: {"actions":[{"do":"note","text":"Follow to Billy failed (he was out of sight). I stay at the beds rather than walk alone; will join when someone is in sight."}],"say":"Billy, I couldn't follow: you're
+- 08:02 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1029}}],"say":"Coming to you now, Billy. Walking to the bed row."}
+- 08:02 act: {"actions":[{"do":"note","text":"Reached Billy at the bed row (429,-1029). Joining the cow walk with the group in sight."}],"say":"I'm here with you, Billy. Lead on and I'll stay right behind you.","i
+- 08:02 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Following you, Billy. Going close behind now."}
+- 08:03 act: {"actions":[{"do":"note","text":"Billy's walk left before I could follow; no agent in sight now. I stay at the bed row at 429,-1029, not walking alone, and wait for the group to return."}],"say":"Bill
+- 08:03 act: {"actions":[{"do":"note","text":"Billy is with me at the bed row (429,-1029). Waiting for the whole group to gather in sight before the cow walk."}],"say":"I'm with you, Billy, at the bed row. I'll wa
+- 08:04 act: {"actions":[{"do":"note","text":"Midday at the bed row, health 11, hunger 16. Billy called the cow walk, but he is 17 blocks off and not in sight, so I stay here. Wesley is beside me with beef."}],"sa
+- 08:05 act: {"actions":[{"do":"note","text":"Leonardo came to the bed row and gave me 2 melon; I hold 31. Hunger 16, so I keep them. Still at the bed row, waiting for the group in sight."}],"say":"Thank you, Leon
+- 08:07 act: {"actions":[{"do":"note","text":"The cow walk found no cow and a skeleton to the northwest. Billy, Wesley and Leonardo are back at the bed row in reach. I am still here, health 11, hunger 16."}],"say"
+- 08:08 act: {"actions":[{"do":"note","text":"Afternoon at the bed row. Wesley, Billy and Leonardo all in reach. Health 11, hunger 16. Holding 31 melon and 6 chicken for whoever drops to 6."}],"say":"I am still he
+- 08:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"note","text":"Dusk at the bed row. Health 11, hunger 16, 31 melon and 6 chicken held. Moving to the bed at 429,107,-1023 to sleep 
