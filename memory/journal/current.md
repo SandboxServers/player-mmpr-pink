@@ -1,4 +1,5 @@
 # Journal
+- Day 325 morning: walked to the group beds at 440,107,-1050. Hunger 16, health 17, holding 1 chicken for the weakest. Chapman says he is full and is staying at the beds. Nobody weak in sight yet.
 - 01:13 act: {"say":"Kimberly here at the white bed, 444,107,-1036. Thank you all. I hold one chicken for the weakest; Jason, I'm in your sight, come by if you need to hand over melon."}
 - 01:13 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 01:17 act: {"actions":[{"do":"note","text":"Dawn. Leonardo at hunger 10 has melon; Jason is bringing chicken. I keep my chicken for whoever drops lower."}],"say":"Kimberly here, morning. Trini, I'll come with yo
@@ -28,3 +29,4 @@
 - 01:51 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1078}}],"say":"Going to the bed inside Clark's wall for the night. Wcrusher, keep watch outside; Trini and Clark are close.","intent":{"goal":"r
 - 01:52 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1078}},{"do":"sleep"}]}
 - 01:52 act: {"actions":[{"do":"sleep"}],"say":"The bed will not take a use from here, so I will sleep in Clark's sealed wall where I stand."}
+- 01:53 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1050}},{"do":"note","text":"Day 325 morning: at 416,107,-1079, hunger 16, holding 1 chicken for the weakest. Heard Laforge has melon for the wea
