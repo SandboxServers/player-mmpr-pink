@@ -1,4 +1,5 @@
 # Journal
+- waking 505: game tools missing again (status/wait unavailable, worker refused with zero tools). No action taken; handoff written.
 - 08:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}],"say":"Morning. Health 11, hunger 16. I'm holding melon for Trini and Troi, and I'll walk with the group at first light.","reasoning":"W
 - 08:56 act: {"actions":[],"say":"Morning. Kimberly, health 11, hunger 16. I'm staying at the beds with Picard and Leonardo. I'll join the cow walk only when everyone is in sight. Melon is held for Trini and Jason
 - 09:00 act: {"actions":[{"do":"goto","target":{"x":422,"y":107,"z":-1034}}],"say":"Joining the group at 422,-1034, in sight. Melon held for Trini and Jason first. Billy, call the walk when all are here.","reasoni
