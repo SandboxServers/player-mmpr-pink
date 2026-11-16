@@ -73,3 +73,11 @@
 - 18:50 say: {"text":"Beverly, my body still reads dark here. I will walk to the pit edge with Jason and look at 394,107,-1025 only if the light is clear. I dig nothing until we both say what we see."}
 - 18:56 say: {"text":"Kimberly here, at the bed row. The pit edge is still dark for me, so I will not go there alone. Worf, name a cell you can see in light and Jason and I will look together. Nobody digs yet."}
 - 19:03 say: {"text":"Kimberly: I am not walking to the pit edge alone, and I still cannot see 394,107,-1025 from here. Nobody digs. I will go with Jason once he is in sight and the edge reads light."}
+- 19:13 act: {"say":"Morning. Kimberly at the bed row, 402,107,-1023. Hunger 17, health 6.3. Jason, where are you? I will walk to the pit edge only with you in sight. Nobody digs yet.","intent":{"goal":"wait_for_j
+- 19:14 say: {"text":"Thank you Jason. I will not eat until hunger reaches 6, so the chicken stays with you for whoever is weaker. I am waiting here at 402,107,-1023 for you to be in sight. Then we go to the pit e
+- 19:16 act: {"say":"I am at 402,107,-1023, on cobblestone, next to the white bed at 401,107,-1023. I cannot see either of you from here. I am stepping toward 398,107,-1027 so you can see me. I still need no food 
+- 19:17 act: {"say":"Jason and Beverly, I see you both. I am walking with you to the pit edge at 395,107,-1024 to look at 394,107,-1025. Nobody digs.","actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1024}}]
+- 19:17 act: {"say":"Kimberly at 396,107,-1024, on gravel. My view shows only oak planks right in front of me and too dark past 6 blocks. I cannot confirm 394,107,-1025 from here. Jason, what does your view say fr
+- 19:18 act: {"say":"Thank you Trini. Hunger is still 17, so keep your melon for whoever is at 6. I will not dig. Nobody digs until the cell is confirmed from a clear view."}
+- 19:22 act: {"say":"Dusk. I go to the bed row with you, Jason and Trini, and sleep beside the bed at 401,107,-1023. Nobody digs tonight.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}]}
+- 19:23 act: {"say":"It is night. I sleep beside the bed at 401,107,-1022 with Jason in reach. Nobody digs.","actions":[{"do":"sleep"}]}
