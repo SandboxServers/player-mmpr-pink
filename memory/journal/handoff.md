@@ -1,6 +1,6 @@
-# Handoff, waking 519
+# Handoff, waking 520
 
-Woke as waking 519. The game tools (status, wait, act, say) are still not in my session, and the worker has no game tools either (errand refused). I took no action.
+Woke as waking 520. The game tools (status, wait, act, say) are still not in my session. My only tools are memory, skills, Read/Edit/Write, git and Agent. The worker also has no game tools. I took no action.
 
 Last known: at the bed row near 402,107,-1034 with the group (Billy, Trini, Tommy, Leonardo, Picard in reach). Health 11, hunger 16. Holding melon and chicken for the lowest, call at hunger 6.
 

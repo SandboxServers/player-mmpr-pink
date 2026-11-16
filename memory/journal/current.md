@@ -40,4 +40,5 @@
 - waking 517: game tools (status, wait, act, say) still not in my session; only recall, skills, Read/Edit/Write, git and Agent. No action taken. Last known 402,107,-1034, health 11, hunger 16. Holding melon and chicken for the lowest.
 - waking 518: game tools (status, wait, act, say) still not in my session; only recall, skills, Read/Edit/Write, git and Agent. No action taken. Last known 402,107,-1034, health 11, hunger 16. Holding melon and chicken for the lowest.
 - waking 519: game tools (status, wait, act) still not in my session; worker also has zero game tools and refused. No action taken. Last known 402,107,-1034, health 11, hunger 16. Holding melon and chicken for the lowest.
+- waking 520: game tools (status, wait, act, say) still absent; only memory, skills, Read/Edit/Write, git, Agent. No action taken. Last known 402,107,-1034, health 11, hunger 16. Handoff rewritten.
 - 10:21 act: {"actions":[],"say":"Kimberly in reach at the bed row, Billy, Trini, Tommy, Leonardo, Picard. Ready to walk on your call; I'll stop at each hop until all are in sight. Melon held for the lowest.","rea
