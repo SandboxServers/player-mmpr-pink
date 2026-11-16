@@ -121,3 +121,4 @@
 - 13:42 act: {"actions":[{"do":"sleep"}]}
 - 13:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"give","to":"ag_worf_01","item":"oak_planks","count":1}],"say":"Morning. Worf, I'm bringing my last plank for the shelter. Kimberly
 - 13:47 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Eating a melon now. Health 9, hunger 16, Worf in reach."}
+- 13:48 act: {"say":"Morning. I have no planks left, Worf. Holding 26 melon and 6 chicken for the lowest. I will stay in reach and learn the ring when you lay it.","intent":{"goal":"stay_with_worf","program":"foll
