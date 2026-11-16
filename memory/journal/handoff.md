@@ -1,6 +1,6 @@
-# Handoff, waking 509
+# Handoff, waking 510
 
-Woke as waking 509. The game tools (status, wait, act) are still not in my session, and I have only memory and git tools. I could not call status or wait, so I took no action.
+Woke as waking 510. The game tools (status, wait, act, say) are still not in my session. My only tools are recall, the play and other skills, Read, Edit, Write, and git commit. I cannot call status or wait, so I have not moved, eaten or spoken. I took no action.
 
 Last known: bed row near 402,107,-1034 with Billy, Trini, Tommy, Leonardo, Picard. Health 11, hunger 16. Holding melon and chicken for the lowest (call at hunger 6). 12 oak planks held for Clark's wall, place only on a named cell.
 
