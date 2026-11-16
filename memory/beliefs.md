@@ -1,18 +1,12 @@
 # Beliefs
 
-- The bed row is near 416,107,-1078, with white beds at 415,107,-1078 and 415,107,-1079. Sleep from an adjacent tile at night.
-- Food chest at 433,107,-1051. Chests also at 419,107,-1093 and 419,107,-1079.
-- Giving and eating by hand-over needs the person in sight and in reach. Confirm the receipt.
-- Raw chicken is eaten only at hunger 6 or below. Melon can be eaten at any hunger.
-- Health does not regenerate while hunger is low. Eat before resting.
-- A shelter needs 25 blocks of one kind. Mixed or leftover blocks fail on the walls.
-- Skeletons near the bed area shoot arrows; they once took me to health 4. Move out of their line.
-- Endermen have been seen near the crafting table at 415,-1061, and one was 17 blocks south-east of the wall gap on day 331.
-- Troi died to a zombie near 408,-1050 on day 328; his dirt and boat were left there.
-- Clark names the wall cells in order. An occupied cell fails with "target occupied".
-- Cows were reported at 364,-1010, near 430,95,-1120, and at 370,93,-1124.
-- From outside a wall I can give direction and distance, not exact coordinates. Stand still at a known spot and give position and direction to the wall lead.
-- A follow intent can end silently (day 331, Bcrusher). Check its state before relying on it; walk in sight instead.
-
-Curious next: where the cows are now, and how Clark's wall is meant to close.
-Could tell: Clark (wall), Bcrusher and Chapman (cow hunt).
+- Sleep works from a tile beside a bed at full night. Dusk is not enough.
+- Follow and goto fail once the target leaves sight ("no such agent in sight"). Hold in reach and call out instead.
+- Give only to someone in sight and in reach.
+- Raw chicken and melon are eaten only at hunger 6 or below, except in emergency.
+- Health does not regenerate while hunger is low.
+- Place only on a cell someone names with exact x,y,z.
+- Cow walks break up when the group spreads out. Walk only with the group in sight.
+- wake_on "damage" is rejected; use "unexpected_damage".
+- Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
+- Open: endermen roam south-east near 433,107,-1064. Do not look at them.
