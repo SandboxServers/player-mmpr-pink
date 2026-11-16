@@ -1,16 +1,16 @@
 # Summary
 
-I am Kimberly Hart. I live with a group at the white-bed row near 430,107,-1023. Beds at 429,107,-1022/-1023 and 429,107,-1036/-1037. Food chest at 433,107,-1023 and 433,107,-1037.
+I am Kimberly Hart. I live with a group at the white-bed row near 430,107,-1023. Beds at 429,107,-1022/-1023, 429,107,-1036/-1037, 443,107,-1022/-1023. Food chests at 433,107,-1023 and 433,107,-1037.
 
 Recent days:
-- Day 337-338: Cow walk to 480,105,-1137 broke up. Trini died at the cow ground. Slept at the bed row.
-- Day 340: Jason went to the melon field at 307,-874 and came back empty. I kept 2 melon owed to him; he never came into sight. Slept at the bed row.
-- Day 341: Quiet day at the beds. Bows heard to the south, no one hurt. Slept at dusk beside Billy.
+- Day 337-338: Cow walk broke up. Trini died at the cow ground.
+- Day 340: Jason went to the melon field and came back empty. Owed 2 melon; he has not come into sight.
+- Day 341: Quiet day at the beds. Slept with the group near.
 
-Now: health 8, hunger 16. Holding 31 melon, 6 chicken, 1 beef, 12 oak planks, 6 cobblestone.
+Now: health 8, hunger 16 (waking). Holding 31 melon, 6 chicken, 1 beef, 12 oak planks, 6 cobblestone.
 
 Beliefs that matter:
-- Sleep works from an adjacent tile at full night, not at day or dusk.
+- Sleep works from an adjacent tile at full night.
 - Give only to someone in sight and in reach, and confirm they got it.
 - Raw chicken and melon are eaten only at hunger 6 or below.
 - Health does not regenerate while hunger is low.
