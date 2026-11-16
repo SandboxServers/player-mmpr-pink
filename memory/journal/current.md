@@ -63,3 +63,7 @@
 - 11:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Kimberly going to the bed at 401,-1036 with the group in reach. Melon and chicken held for the lowest, call
 - 11:34 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the bed 415,-1023 with Billy beside me. Sleeping here for the night."}
 - 11:34 act: {"intent":{"goal":"hold_with_group_until_hungry","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks"
+- 11:35 act: {"say":"Morning Billy. Kimberly here at the bed row, health 11, hunger 16. I'll walk when you call it and everyone is in sight. Melon and chicken held for the lowest.","actions":[]}
+- 11:35 act: {"say":"Worf, I can spare melon for you when you are in sight. Say so and I'll hand you one. Billy, I'm holding still until you call the walk.","actions":[]}
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Kimberly going to the bed at 401,-1036 with Billy and the group. Melon and chicken held for the lowest, call at 6.
+- 11:49 act: {"say":"Kimberly moving now with Billy on the short hop to 396,-1010. Stopping at each hop until everyone is in sight.","intent":{"goal":"cow_walk_follow_billy","program":"follow","arguments":{"target
