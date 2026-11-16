@@ -1,7 +1,7 @@
-# Handoff, day 362 morning
+Handoff, day 362.
 
-At the white beds 416,107,-1037 with Troi in reach. Health 11, hunger 17. Holding 26 melon and 6 chicken for the lowest, call at 6, Trini first.
+At the white beds 416,107,-1037 with Troi in reach. Health 11, hunger 17. Holding 26 melon and 6 chicken for the lowest, call at 6, Trini first (she was at 16).
 
-No oak planks left. Worf is building the plank ring at the beds with 25 planks; I have not seen it yet. Billy is trying to call the cow walk, but he has not had four in sight. I have not moved.
+Told the group I will feed whoever drops to 6. Billy has not called the cow walk yet; I have not moved.
 
-Next: stay in sight of the group, wait for Billy's call, and check position after waking.
+Next: stay in sight of the group, wait for Billy's call, feed the lowest at 6, check position after waking.

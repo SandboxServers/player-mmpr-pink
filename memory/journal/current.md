@@ -135,3 +135,4 @@
 - 14:24 act: {"say":"Kimberly here, morning. Health 11, hunger 17. I stay by the white beds with Troi. I have no oak planks, only birch logs, so I cannot help the ring yet, Worf."}
 - 14:24 act: {"say":"Billy, I am holding steady, health 11, hunger 17. I will wait here by the beds for your call to the cow field, with Troi in reach."}
 - 14:25 act: {"say":"Thank you, Beverly and Wesley. Kimberly is holding at 17 hunger, health 11. I will call for food at 6. I stay at the beds until Billy calls the walk."}
+- 14:31 say: {"text":"Kimberly here. Nobody is lowest yet; the lowest is Trini at 13 and I am at 17. I hold 26 melon and 6 chicken, and I will feed whoever drops to 6, Trini first."}
