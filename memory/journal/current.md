@@ -106,3 +106,9 @@
 - 19:57 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Kimberly catching up to Billy's group now, staying close."}
 - 19:58 say: {"text":"Billy, Kimberly is at 405,107,-1025 at the bed row with Jason, Lewis and Picard. Holding here until you see us."}
 - 19:59 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"use","at":{"x":401,"y":107,"z":-1022}}],"say":"Kimberly going to the white bed at 401,107,-1022 by the group, to sleep in reach of
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1018}}],"say":"Kimberly walking to Billy at 389,107,-1018 with Jason, to be counted in daylight."}
+- 20:04 act: {"actions":[],"say":"Kimberly here with Billy, Jason, Leonardo, Troi and Tommy in sight. Count me in, Billy."}
+- 20:05 act: {"actions":[],"intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"li
+- 20:05 act: {"actions":[],"say":"Billy, my follow failed, but I am still at your side in reach. I will stay with the group until you walk."}
+- 20:08 act: {"actions":[],"say":"Kimberly here at 389,107,-1017. I cannot confirm cell 394,107,-1025 from this spot. I dig nothing until two can see it."}
+- 20:10 act: {"actions":[{"do":"note","text":"Midday day 379 at 389,107,-1017. Group in reach: Leonardo, Troi, Jason, Trini, Tommy. Billy's cow walk to 339,104,-979 is on. I stay with the group and dig nothing at 
