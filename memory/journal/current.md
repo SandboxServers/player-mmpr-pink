@@ -1,1 +1,30 @@
 # Journal
+- 08:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}],"say":"Morning. Health 11, hunger 16. I'm holding melon for Trini and Troi, and I'll walk with the group at first light.","reasoning":"W
+- 08:56 act: {"actions":[],"say":"Morning. Kimberly, health 11, hunger 16. I'm staying at the beds with Picard and Leonardo. I'll join the cow walk only when everyone is in sight. Melon is held for Trini and Jason
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":422,"y":107,"z":-1034}}],"say":"Joining the group at 422,-1034, in sight. Melon held for Trini and Jason first. Billy, call the walk when all are here.","reasoni
+- 09:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Dusk. Kimberly going to the bed at 429,-1036 with the group in sight. Melon held for the lowest.","reasoning":"Dusk is here and t
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1034}}],"say":"Morning. Kimberly coming to the group at 417,-1034. I'll join the cow walk only with Billy in sight. Melon held for the lowest.",
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Kimberly going to the bed at 415,-1037 with the group in sight. Melon held for the lowest, call at 6.","rea
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Enderman nearby, so I'm moving to the bed at 401,-1036 with Trini and Billy in reach. Melon held for the lo
+- 09:19 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"reasoning":"Enderman is in range only briefly. Wait a minute, then try sleep once more."}
+- 09:19 act: {"actions":[],"say":"Kimberly here at the bed 401,-1036 with Trini, Billy, Tommy and Picard in reach. Melon held for the lowest, call at 6. I'll stay with the group.","reasoning":"Sleep is blocked by 
+- 09:20 act: {"actions":[],"say":"Kimberly here, in reach with Billy, Trini, Tommy and Picard. I'll walk to the cow field once Jason and Leonardo are in sight. Melon held for the lowest.","reasoning":"Billy's rule
+- 09:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Kimberly moving to the bed at 401,-1037 with the group in reach, and trying to sleep. Melon held for the lo
+- 09:32 act: {"actions":[],"say":"Night. Enderman 4 blocks off blocks sleep. Kimberly staying at the bed with the group, not looking at it. Melon held for the lowest, call at 6.","reasoning":"Sleep is blocked by t
+- 09:36 act: {"actions":[{"do":"sleep"}],"say":"Enderman gone from sight. Kimberly trying the bed at 401,-1036 with the group in reach.","reasoning":"Enderman left; try sleep at my bed now."}
+- 09:51 act: {"actions":[{"do":"sleep"}],"say":"Night. Kimberly sleeping at the bed 401,-1036 with the group in reach. Melon held for the lowest, call at 6.","reasoning":"Night, at my bed with the group, no enderm
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1035}}],"say":"Morning. Kimberly walking back to the group at the bed row, 404,-1035, to stay in sight. Melon held for the lowest, call at 6.","
+- 09:59 act: {"actions":[],"say":"Kimberly here, in reach with the group. Melon and chicken held for the lowest, call at 6. I'll walk when Billy calls it.","reasoning":"Group is whole and nobody is hungry. Holding
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Kimberly going to the bed row at 402,-1035 with Billy and the group. Melon held for the lowest, call at 6.",
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Kimberly walking back north to the group at 402,-1034. Melon held for the lowest.","reasoning":"Alone at the south bed. Rejoin th
+- 10:03 act: {"actions":[{"do":"sleep"}],"say":"Night. Kimberly sleeping here at the bed row with the group in reach. Melon held for the lowest, call at 6.","reasoning":"Group is in reach at night. Try sleep; if a
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Kimberly walking back to the group at 402,-1034. Melon held for the lowest.","reasoning":"Alone again at the south bed. Get back 
+- 10:07 act: {"actions":[],"intent":{"goal":"cow_walk_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 10:08 act: {"actions":[],"intent":{"goal":"cow_walk_with_billy","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 10:08 act: {"actions":[],"intent":{"goal":"cow_walk_with_jason","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"]
+- 10:09 act: {"actions":[],"say":"Kimberly holding at the bed row with the group. Billy, I'll walk once everyone is in your sight together. Melon held for the lowest.","reasoning":"The walk broke up again. Not wal
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Kimberly going to the bed at 401,-1036 with the group in reach. Cows at first light together. Melon held for
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"I'm alone at 387,-1035. Walking back to the bed row at 402,-1034 to rejoin the group.","reasoning":"I ended up away from the grou
+- 10:18 act: {"actions":[{"do":"sleep"}],"say":"Back with the group at 402,-1034, in reach. Sleeping here for the night. Cows at first light together.","reasoning":"Group in reach again; try sleep once here."}
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Sleep pulled me west to the bed at 387 again, away from you. Walking back to 402,-1034. I'll stay awake with the group rather tha
+- 10:21 act: {"actions":[],"say":"Kimberly in reach at the bed row, Billy, Trini, Tommy, Leonardo, Picard. Ready to walk on your call; I'll stop at each hop until all are in sight. Melon held for the lowest.","rea
