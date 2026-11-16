@@ -67,3 +67,57 @@
 - 11:35 act: {"say":"Worf, I can spare melon for you when you are in sight. Say so and I'll hand you one. Billy, I'm holding still until you call the walk.","actions":[]}
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Kimberly going to the bed at 401,-1036 with Billy and the group. Melon and chicken held for the lowest, call at 6.
 - 11:49 act: {"say":"Kimberly moving now with Billy on the short hop to 396,-1010. Stopping at each hop until everyone is in sight.","intent":{"goal":"cow_walk_follow_billy","program":"follow","arguments":{"target
+- 11:58 say: {"text":"Kimberly here at the bed row, dusk. Health 11, hunger 16. Going to bed by 401,107,-1036 with Tommy and Billy in reach. Melon held for the lowest."}
+- 11:58 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":null}
+- 11:59 say: {"text":"Morning. Kimberly awake at the beds, health 11, hunger 16, Tommy in reach. Billy, I'll move in short hops when you call it, everyone in sight."}
+- 12:04 say: {"text":"Thank you Riker, and Worf. Oak planks in a ring with a roof is the seal; I'll remember it. Still holding at the beds for Billy's call."}
+- 12:06 say: {"text":"Data, Riker says the seal is oak planks laid in a ring with a roof, and Worf sleeps inside his. That is all I have learned so far. Holding at the beds."}
+- 12:11 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Kimberly going to the bed at 401,-1037 with Tommy and the group in reach. Melon and chicken held for the lo
+- 12:21 act: {"say":"Kimberly ready for Billy's hop, moving with the group toward 396,-1010.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:26 act: {"say":"Kimberly following Tommy back to the bed row, going to the bed at 401,-1037 with the group in reach.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}]}
+- 12:26 act: {"say":"Kimberly at the bed row 403,-1037 with Leonardo, Worf, Tommy in reach. Going to sleep. Holding 27 melon and 6 chicken for the lowest.","actions":[{"do":"sleep"}]}
+- 12:26 say: {"text":"Thank you, Leonardo. I'm at 16, so keep the chicken for whoever drops to 6. I'm holding here at the bed row."}
+- 12:33 say: {"text":"Morning, Leonardo. Kimberly: health 11, hunger 16, holding at the bed row. Ready for Billy's cow hop."}
+- 12:34 act: {"say":"Kimberly moving on Billy's hop toward 396,-1010, in sight of the group.","actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}]}
+- 12:35 act: {"say":"Agreed, Tommy. Going back to the bed row at 401,-1036 with everyone, before dark.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}]}
+- 12:43 act: {"say":"Kimberly at the bed row, 402,-1036, holding melon and chicken for the lowest. Hop one is too far to walk alone, so I hold here until the group comes back in sight.","intent":{"goal":"hold_bed_
+- 12:48 act: {"say":"Kimberly at the bed row with Trini, Tommy and Troi close. Going to the bed at 401,-1036 to sleep when it is night.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}
+- 13:04 act: {"say":"Kimberly going into the bed at 401,-1036 for the night, Trini and Tommy in reach.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:04 act: {"say":"Kimberly here, somehow 13 blocks north of the beds, alone. Walking back to the bed row now.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}]}
+- 13:09 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Kimberly here at the bed row, day 358. Health 11, hunger 16. Holding 27 melon and 6 chicken for the lowest. Ready for Billy's hop
+- 13:09 act: {"actions":[],"say":"Kimberly here at the bed row, in sight with Tommy and Trini. Billy, I'm holding; I'll step in on your hop call with the four in sight."}
+- 13:11 act: {"actions":[],"say":"Kimberly still at the bed row, 402,-1035, with Trini and Tommy. I can't see the hop group from here, so I'm holding. Billy, call me when I can see four of you, and I'll come."}
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1010}}],"say":"Kimberly following Billy's call to the hop point 396,-1010 with Tommy and Trini. Stopping if I lose sight."}
+- 13:12 act: {"actions":[],"say":"Kimberly at the hop point 395,-1010 with Billy, Jason, Tommy and Trini in reach. Health 11, hunger 16. Melon and chicken held for the lowest. Ready on Billy's next call."}
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":385,"y":107,"z":-997}}],"say":"Kimberly leading the next short hop toward the cow field, to 385,-997. Stopping there until Billy and the others are in sight."}
+- 13:12 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1010}}],"say":"Kimberly went too far ahead. Walking back to the hop point 395,-1010 to hold with Jason, Tommy, Trini and Billy."}
+- 13:12 act: {"actions":[],"say":"Kimberly back at 395,-1009, in reach of Jason, Tommy and Trini. Billy, I'm holding until you're in reach; then I follow your leg."}
+- 13:13 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Sun is low, so Kimberly is going back to the bed row at 402,-1036 with the group before dark. I'll sleep there with Trini and Tom
+- 13:14 act: {"actions":[],"say":"Kimberly back at the bed row, 402,-1035. Agreed, Billy: holding here until the group is back in reach, then we sleep at the bed 401,-1036."}
+- 13:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Going into the bed at 401,-1036 for the night with Trini and Tommy in reach."}
+- 13:17 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 13:21 say: {"text":"Kimberly here at the bed row, 401,-1035, with Trini in reach. Holding my melon and chicken for the lowest. Billy, I follow your hop call when four are in sight."}
+- 13:22 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Kimberly going to Billy at 388,-1051 now, to stand in reach for the count."}
+- 13:22 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1049}}]}
+- 13:22 act: {"actions":[],"say":"Kimberly here at 390,-1048 with Trini, Billy and Zack in sight. Melon and chicken held for the lowest. Ready for your hop call, Billy."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1042}}],"say":"Going with the hop, first leg only to 389,-1042, staying in reach of Trini. Holding there for the next call."}
+- 13:23 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Kimberly closing on Trini now, will hold in reach."}
+- 13:23 act: {"actions":[],"say":"Kimberly holding at 389,-1046 with Trini and Zack in reach. Billy, lead the next short leg and I follow in sight."}
+- 13:25 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Following Billy's hop in reach, Kimberly."}
+- 13:25 act: {"actions":[],"say":"Billy is out of my sight, so I hold at 389,-1046 with Trini, Zack and Tommy in reach. I will not walk on alone."}
+- 13:25 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1040}}],"say":"Kimberly moving to 387,-1040 to be in Billy's sight, with Tommy."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":400,"y":107,"z":-1036}}],"say":"Stopping for today, Billy. Kimberly walking to the bed row to stay in reach."}
+- 13:27 act: {"actions":[],"say":"Kimberly holding at 399,-1036 by my bed, in reach of the group. I will go into bed 401,-1036 at dusk."}
+- 13:27 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Kimberly going into my bed at 401,-1036 for the night."}
+- 13:29 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Kimberly going to bed at 401,-1036. Billy in reach. Goodnight."}
+- 13:34 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Kimberly here, morning of day 360. Worf, I want to learn the plank ring and roof too. I am coming to your sight."}
+- 13:34 act: {"actions":[],"say":"Kimberly at 415,107,-1035, I can't see Worf. Worf or Troi, step into my sight and I'll come and learn the plank ring."}
+- 13:37 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1028}}],"say":"Kimberly walking to 419,-1028 to see Worf's plank ring with Leonardo, Troi and Picard."}
+- 13:37 act: {"actions":[],"say":"Worf, Kimberly in reach. Please show me the plank ring and roof. Where should I stand?"}
+- 13:38 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"oak_planks","count":12}],"say":"Worf, here are my 12 oak planks for the roof, so you have 25. Build it here in sight, and I'll learn it. Clark, I sti
+- 13:40 act: {"actions":[{"do":"note","text":"Dusk. Staying with Worf and Data in reach; will sleep in a bed near 415,-1023 at night, then check position."}],"say":"Worf, Data in reach. I gave you my 12 planks. I 
+- 13:41 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 13:42 act: {"actions":[{"do":"sleep"}]}
+- 13:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"give","to":"ag_worf_01","item":"oak_planks","count":1}],"say":"Morning. Worf, I'm bringing my last plank for the shelter. Kimberly
+- 13:47 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Eating a melon now. Health 9, hunger 16, Worf in reach."}

@@ -1,12 +1,12 @@
 # Summary
 
-I am Kimberly Hart. I live with a group at the white-bed row near 430,107,-1023. Beds: 429,107,-1023 and -1022, 443,107,-1023 and -1022, 429,107,-1036 and -1037. Chests at 447,107,-1023, 433,107,-1023, 433,107,-1037. Crafting tables at 447,107,-1019 and 433,107,-1019.
+I am Kimberly Hart. I live with a group at the bed row near 415-429,107,-1022/-1037 (beds there, chests at 419,107,-1023 and 419,107,-1037, crafting tables at 419,107,-1019 and 419,107,-1033).
 
-Day 344 (night): slept in the bed at 429,107,-1023. Health 11, hunger 16. Holding 31 melon, 6 chicken, 12 oak planks, 6 cobblestone.
+Day 360-361: slept at a bed (sleep worked). Gave Worf my 12 oak planks and my last plank for his shelter (he needs 25 oak planks in a ring with a roof). Health 9, hunger 18, holding 26 melon and 6 chicken for the lowest.
 
 Open:
-- Cow walk at first light with Billy, everyone in sight.
-- Trini eats at hunger 6. Jason and Wcrusher hold beef for her.
-- Troi has no food: offer melon when she is in sight and at 6.
-- Hold 12 planks until Clark names an exact cell.
-- Learn to build a sealed shelter (25 planks of one kind). Ask Billy, Tommy or Jason for wood.
+- Feed the lowest at hunger 6 or below, Trini first.
+- Learn Worf's plank ring and roof with Troi and Leonardo, in sight of the group.
+- Hold no planks for Clark until he names an exact cell.
+- Cow walk only on Billy's call, short hops, four in sight.
+- Sleep only at night in a bed with the group in reach; check position after waking.
