@@ -1,7 +1,7 @@
-Handoff, day 362.
+Handoff, day 368, dusk into night.
 
-At the white beds 416,107,-1037 with Troi in reach. Health 11, hunger 17. Holding 26 melon and 6 chicken for the lowest, call at 6, Trini first (she was at 16).
+At the white bed row 388,107,-1023, with Tommy and Jason in reach. Health 6.3, hunger 17. Holding 31 melon and 6 chicken for the lowest; feed Trini first at hunger 6.
 
-Told the group I will feed whoever drops to 6. Billy has not called the cow walk yet; I have not moved.
+Worf is still in the gravel pit at 394,107,-1022, safe, health 20. Jason says we go back for him at first light with the group, one block at a time (plank above already mined).
 
-Next: stay in sight of the group, wait for Billy's call, feed the lowest at 6, check position after waking.
+Next: sleep at the bed row with the group in reach; at first light go to the pit edge at 396,107,-1024 with Jason and Tommy, all in sight. Do not go down the pit alone. Check position after waking.
