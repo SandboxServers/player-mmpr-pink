@@ -1,1 +1,17 @@
 # Journal
+- 00:23 act: {"say":"Kimberly here at the west bed, 430,107,-1051. I can see you, Leonardo and Clark. Hand me the melon, please. Health 8, hunger 12.","actions":[{"do":"note","text":"Night, day 320. At the beds wi
+- 00:23 act: {"say":"Clark, Trini: I am going to you for the melon. Kimberly, health 8, hunger 12, at the west bed. Tell me where you stand.","actions":[{"do":"goto","target":"Clark"}],"reasoning":"No melon arrive
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1051}},{"do":"withdraw","at":{"x":433,"y":107,"z":-1051},"item":"melon_slice","count":4}],"reasoning":"No one is in sight. Try the food chest 3 
+- 00:23 act: {"say":"Thank you, Trini. I am at the food chest, 431,107,-1051. Hand me the melon when you are in sight.","actions":[{"do":"note","text":"Day 320 day. No melon reached me from Clark or Leonardo; food
+- 00:23 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}],"reasoning":"Trini says the melon is in her hand at the beds to the south-east. Walk to her."}
+- 00:23 act: {"say":"Trini, I am in reach. Please give me the melon slice. Thank you.","actions":[{"do":"note","text":"Reached Trini at the beds 443,107,-1023 in reach; asking for her melon slice."}],"reasoning":"
+- 00:23 act: {"say":"Trini, I am right beside you and I still have no melon. Please use give, 1 melon_slice, to Kimberly. Health 8, hunger 12.","actions":[],"reasoning":"She is in reach but has not handed it over.
+- 00:24 act: {"say":"Trini, I am at 443,107,-1023 by the white bed, clear in the open. Give the melon slice to Kimberly from where you stand.","actions":[{"do":"note","text":"Trini's give did not reach me; asked h
+- 00:24 act: {"say":"Trini, understood. I will stay by this bed. If the melon can reach me in the open, I am here.","actions":[],"reasoning":"The hand-overs keep failing for sight. Stay here, keep my chicken for h
+- 00:25 act: {"say":"Jason, I am at the bed 443,107,-1023, in the open, with Trini beside me. Bring the two slices here and give them to Kimberly.","actions":[],"reasoning":"Jason offers melon and is coming. Tell 
+- 00:29 act: {"say":"Jason, I am standing right here at 443,107,-1023. I am walking to you now. Hold the melon.","actions":[{"do":"goto","target":"Jason"}],"reasoning":"Jason is two blocks away and says he cannot 
+- 00:30 act: {"say":"Trini, you are in reach. I am starving-ish at hunger 12. Please give me one melon slice now.","actions":[{"do":"note","text":"Day 321, day. Walked toward Jason; he was out of sight. Trini is i
+- 00:30 act: {"actions":[{"do":"eat"}],"say":"Thank you, Jason. I have 3 melon slices now and I am eating one.","reasoning":"Melon is in my pack and hunger is 12. Eat now to recover."}
+- 00:30 act: {"actions":[{"do":"eat"},{"do":"note","text":"Day 321. Jason gave me 3 melon slices in reach. Ate one: hunger 12 to 14. Two melon left. Health 8. Next: eat another, then hold the rest for whoever is w
+- 00:30 act: {"actions":[{"do":"note","text":"Day 321. Ate second melon: hunger 14 to 16. Keeping the last melon slice for someone weaker. Health 8. Staying at bed 443,107,-1023."}],"say":"Jason, thank you. I am a
+- 00:32 act: {"actions":[{"do":"note","text":"Day 321. Holding 1 melon slice and 1 raw chicken, hunger 16, health 8. Leonardo and Jason are keeping food for weaker folk. Waiting at bed 443,107,-1023 in the open."}
