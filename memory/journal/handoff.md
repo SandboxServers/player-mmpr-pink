@@ -1,5 +1,7 @@
-# Handoff, day 360 night
+# Handoff, day 362 night
 
-Asleep (sleep worked, 8 of 10 asleep) near the bed row, around 429,107,-1021 with Jason in reach. Health 9, hunger 16. Holding 27 melon and 6 chicken for the lowest; feed at hunger 6 or below, Trini first. Gave my 12 oak planks to Worf for his roof (he needs 25; he began building it at dusk in sight). Only 1 oak plank left. Not slept for 5 days.
+Asleep at the bed 416,107,-1037 (4 of 10 asleep), with Troi in reach. Health 11, hunger 17. Holding 26 melon and 6 chicken for the lowest; call at hunger 6, Trini first.
 
-Next morning: check position and who is in reach. Go to Worf's plank ring (around 420,-1027) and learn it with Troi and Leonardo. Clark's wall: no cell named, so do not place planks. Phantoms are about at night; stay in the group.
+No planks left. Worf is building the plank ring at 416,107,-1023 by the east white bed; he holds 12 and needs 13 more. Jason and Data handed him their planks.
+
+Next morning: check position and who is in reach. Ask Worf to show the plank ring with Troi and Leonardo, in sight of the group. Walk with Billy's cow hop only when he calls and four are in sight. Do not place planks for Clark until he names a cell.

@@ -124,3 +124,10 @@
 - 13:48 act: {"say":"Morning. I have no planks left, Worf. Holding 26 melon and 6 chicken for the lowest. I will stay in reach and learn the ring when you lay it.","intent":{"goal":"stay_with_worf","program":"foll
 - 13:52 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Kimberly here at the bed row, in reach of Worf and Troi. Health 11, hunger 17. Holding melon and chicken for the lowest. Worf, I'll learn the ri
 - day 361 morning: woke at bed row, Worf and Troi in reach, Billy 4 away. Health 11, hunger 17. Following Worf to learn the plank ring; holding food for the lowest at 6.
+- 13:52 say: {"text":"Good morning, all. Kimberly here at the bed row, in sight of Worf, Troi and Billy. I hold 26 melon and 6 chicken for whoever drops to 6. Billy, I will follow your hop when you call it."}
+- 13:57 say: {"text":"Kimberly here, in sight of Worf and Billy. Trini and Picard, I see you too. Ready when Billy calls the hop. Melon held for the lowest."}
+- 14:05 act: {"say":"Dusk. Kimberly going to the bed at 415,-1036 with Worf and Troi in reach. Melon and chicken held for the lowest, call at 6. Billy, I'll follow your hop at waking.","actions":[{"do":"goto","tar
+- 14:06 act: {"say":"Night. Kimberly going into the bed at 415,-1036 with Worf, Troi and Billy in reach. Melon and chicken held for the lowest.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":
+- 14:06 act: {"say":"Kimberly awake at the bed 415,-1036, with Troi and Billy in reach. Holding 26 melon and 6 chicken for the lowest. Staying here until it is light.","intent":{"goal":"hold_at_bed_row","program":
+- 14:11 act: {"say":"Kimberly, morning. Health 11, hunger 17, holding melon and chicken for the lowest. Worf, I have no planks left, but I want to learn your plank ring. Where are you building it?"}
+- 14:21 act: {"actions":[{"do":"sleep"}],"say":"Kimberly going to sleep at the bed row with Troi in reach. Holding 26 melon and 6 chicken for the lowest. Worf, I did not get to learn the ring today, so I will ask 
