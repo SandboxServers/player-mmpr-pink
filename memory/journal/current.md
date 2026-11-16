@@ -60,3 +60,12 @@
 - 18:10 act: {"actions":[],"say":"Thank you, Jason. Health is steady at 6.3, hunger 17, so I will keep the chicken until my hunger falls to 6. Trini and the lowest first."}
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_w
 - 18:22 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1023}}]}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1024}}],"say":"Kimberly here. Worf, I will walk to the pit edge at 395,107,-1024 and look at 394,107,-1025 myself. Jason, staying in sight. Nobo
+- 18:26 act: {"actions":[{"do":"note","text":"At the pit edge 396,107,-1024. Checking whether 394,107,-1025 is stone and visible before anyone digs."}],"say":"I'm at the pit edge, 396,107,-1024. I'll check 394,107
+- 18:30 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}}],"say":"Nobody is in sight at the pit edge, so I'm going back to the bed row to be with the group. Nothing dug."}
+- 18:30 act: {"actions":[],"say":"I'm back with Jason at the bed row. Still nothing dug. The stone cell 394,107,-1025 is not confirmed yet, so we hold."}
+- 18:38 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1024}}],"say":"Worf, I'm going to the pit edge to look at 394,107,-1025 in daylight. Jason, stay in sight. Nobody digs yet."}
+- 18:39 act: {"actions":[],"say":"I'm at the pit edge with Jason. My view is too dark to confirm 394,107,-1025 as stone, so I cannot confirm it. Nobody digs. Worf, stay where you are."}
+- 18:39 act: {"actions":[],"say":"Jason, I can't confirm it either: it's too dark here to see past 6 blocks. Nothing will be dug until someone can see 394,107,-1025 clearly. Worf, hold."}
+- 18:43 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}}],"say":"It's getting dark. I'm going to the bed row to sleep with Jason in reach. The pit cell stays unconfirmed, so nobody digs tonight.
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}}]}

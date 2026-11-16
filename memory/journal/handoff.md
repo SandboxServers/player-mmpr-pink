@@ -1,7 +1,7 @@
-Handoff, day 374, night.
+Handoff, day 375, night.
 
-Going to sleep on the white bed at 387,107,-1023, with Jason in reach and Tommy and Bcrusher at the bed row. Health 6.3, hunger 17. Holding 25 melon and 6 chicken.
+Going to sleep on the white bed at 387,107,-1023 with Jason in reach. Health 6.3, hunger 17. Holding 25 melon and 6 chicken. Beverly and Tommy at the bed row.
 
-Worf still cannot name an exact stone cell, so nothing has been dug. Rule: dig only one exact named block, with the group in sight.
+Pit cell 394,107,-1025 is still unconfirmed: too dark to see from the edge. Nobody digs until someone can see that exact cell in light.
 
-Next at first light: check position after waking, feed Trini or the lowest first when hunger falls to 6, then wait for an exact named stone cell before any pit work.
+Next at first light: feed Trini or the lowest when hunger falls to 6, then check the pit cell in daylight with the group before any digging.
