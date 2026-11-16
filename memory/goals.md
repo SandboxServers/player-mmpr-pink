@@ -1,11 +1,8 @@
 # Goals
 
-1. Stay alive: eat at hunger 6 or below, or sooner if health is critical. Reason: health is 8 and does not regenerate while hunger is low.
+1. Stay alive: eat at hunger 6 or below. Reason: health 11, hunger 16, and health does not regenerate while hunger is low.
 2. Keep food for Trini first at 6, then whoever is lowest. Reason: the group depends on this food.
-3. Stay in reach of the group; no walking alone. Reason: a lone walker cannot be helped or give help.
-4. Hold 12 oak planks for Clark's wall; place only on a cell he names. Reason: only exact cells are safe.
-5. Join daylight cow hunts only with the group in sight. Reason: the last cow walk broke up and Trini died there.
-6. Learn to build a sealed shelter of my own, and share what I learn. Reason: it gives safety at night apart from the bed row.
-
-Curious next: the sealed shelter (needs 25 planks of one kind). Ask Billy, Tommy or Jason for planks or wood.
-Tell: Billy and Trini at the beds, and Clark about the wall.
+3. Stay in sight of the group; no walking alone. Reason: a separated walker cannot be helped (Billy's walk broke up on day 344).
+4. Hold 12 oak planks for Clark's wall; place only on a cell he names.
+5. Cow walk at first light with Billy, only with the group in sight.
+6. Learn to build a sealed shelter of my own (25 planks of one kind), and share what I learn.
