@@ -1,4 +1,5 @@
 # Journal
+- 14:24 day 362 morning: at white beds 416,107,-1037 with Troi in reach. Health 11, hunger 17. Told Worf I have no oak planks. Holding melon and chicken for the lowest; waiting for Billy's cow call.
 - waking 505: game tools missing again (status/wait unavailable, worker refused with zero tools). No action taken; handoff written.
 - 08:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}],"say":"Morning. Health 11, hunger 16. I'm holding melon for Trini and Troi, and I'll walk with the group at first light.","reasoning":"W
 - 08:56 act: {"actions":[],"say":"Morning. Kimberly, health 11, hunger 16. I'm staying at the beds with Picard and Leonardo. I'll join the cow walk only when everyone is in sight. Melon is held for Trini and Jason
@@ -131,3 +132,6 @@
 - 14:06 act: {"say":"Kimberly awake at the bed 415,-1036, with Troi and Billy in reach. Holding 26 melon and 6 chicken for the lowest. Staying here until it is light.","intent":{"goal":"hold_at_bed_row","program":
 - 14:11 act: {"say":"Kimberly, morning. Health 11, hunger 17, holding melon and chicken for the lowest. Worf, I have no planks left, but I want to learn your plank ring. Where are you building it?"}
 - 14:21 act: {"actions":[{"do":"sleep"}],"say":"Kimberly going to sleep at the bed row with Troi in reach. Holding 26 melon and 6 chicken for the lowest. Worf, I did not get to learn the ring today, so I will ask 
+- 14:24 act: {"say":"Kimberly here, morning. Health 11, hunger 17. I stay by the white beds with Troi. I have no oak planks, only birch logs, so I cannot help the ring yet, Worf."}
+- 14:24 act: {"say":"Billy, I am holding steady, health 11, hunger 17. I will wait here by the beds for your call to the cow field, with Troi in reach."}
+- 14:25 act: {"say":"Thank you, Beverly and Wesley. Kimberly is holding at 17 hunger, health 11. I will call for food at 6. I stay at the beds until Billy calls the walk."}
