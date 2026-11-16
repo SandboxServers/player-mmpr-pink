@@ -81,3 +81,28 @@
 - 19:18 act: {"say":"Thank you Trini. Hunger is still 17, so keep your melon for whoever is at 6. I will not dig. Nobody digs until the cell is confirmed from a clear view."}
 - 19:22 act: {"say":"Dusk. I go to the bed row with you, Jason and Trini, and sleep beside the bed at 401,107,-1023. Nobody digs tonight.","actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}}]}
 - 19:23 act: {"say":"It is night. I sleep beside the bed at 401,107,-1022 with Jason in reach. Nobody digs.","actions":[{"do":"sleep"}]}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"say":"Walking back to the bed row to be with you all.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Back at the bed row with Jason in sight. Sleeping beside the bed at 401,107,-1022. Nobody digs tonight."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"say":"I woke at the far bed, 415. Walking back to the group at the 401 beds."}
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Morning all. Jason, walking with you to the pit edge in the light to look at 394,107,-1025. Nobody digs until we both confirm it.
+- 19:25 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"say":"At the pit edge but dark, and Jason is out of sight. I dig nothing and I will not stand here alone. Back to the bed row to wait f
+- 19:25 say: {"text":"Agreed, Jason. I stay with you at the bed row and dig nothing until Worf names the cell and two of us see it in good light."}
+- 19:34 say: {"text":"Kimberly here at the bed row, 402,107,-1020. I hold still and will not join the cow walk unless Billy calls me in sight."}
+- 19:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Morning. Kimberly walking to Billy's sight at 416,107,-1036, in daylight, to be counted. I hold my melon for the lowest.","intent
+- 19:40 say: {"text":"Kimberly counted at 416,107,-1035, in Billy's sight with Jason, Riker and Wesley. Ready for the cow walk when you call it, Billy."}
+- 19:41 act: {"actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}}],"say":"Kimberly following Billy's four to the cow field, keeping in their sight.","intent":{"goal":"cow_walk_with_billy","program":"follo
+- 19:41 say: {"text":"Kimberly at 339,102,-973 with Billy in my sight, 6 blocks off. I hold still; Billy, call me on."}
+- 19:44 say: {"text":"Kimberly beside Billy at 339,104,-978. I hold here with you and will not go on until more are in sight."}
+- 19:47 say: {"text":"Billy, dusk and only us two out here. I suggest we walk back together toward the bed row at 402,107,-1020, staying in each other's sight, and sleep beside a bed with the group. Your call."}
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1021}}],"say":"Walking back with Billy, keeping him in my sight.","intent":{"goal":"walk_back_to_bed_row_with_billy","program":"travel","argumen
+- 19:48 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1024}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}],"say":"Kimberly going to sleep beside the white bed at 401,107,-1023, Billy in sight. Melo
+- 19:49 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1024}}],"say":"Night. Kimberly at the bed row, Billy in sight. Sleeping by the white bed."}
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1025}}],"say":"Kimberly coming to Billy's sight at 403,107,-1025 to be counted. Holding for your call."}
+- 19:51 act: {"actions":[],"say":"Billy, Kimberly here at 402,107,-1025, in your sight with Trini and Jason. Counted. Holding for your call on the cow walk."}
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1024}}],"say":"Stepping closer to Billy, Kimberly at 402,107,-1024. Counting with Trini, Leonardo, Jason."}
+- 19:53 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1024}}],"say":"Billy, Kimberly stepping into the open at 405,107,-1024 so you can see me. Holding for your count."}
+- 19:55 say: {"text":"Kimberly here at 405,107,-1024, in the group. Holding for Billy's cow-walk call."}
+- 19:57 act: {"say":"Kimberly walking with the group to the cow field, staying in Billy's sight.","intent":{"goal":"walk_with_group_to_cows","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_a
+- 19:57 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Kimberly catching up to Billy's group now, staying close."}
+- 19:58 say: {"text":"Billy, Kimberly is at 405,107,-1025 at the bed row with Jason, Lewis and Picard. Holding here until you see us."}
+- 19:59 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1022}},{"do":"use","at":{"x":401,"y":107,"z":-1022}}],"say":"Kimberly going to the white bed at 401,107,-1022 by the group, to sleep in reach of
