@@ -1,12 +1,1 @@
 # Journal
-- Day 321: Waited at the beds for Clark's melon; he never came into sight. Hunger stayed 17. Lewis and Billy are fine. Went to sleep at night near the beds. Handoff written.
-- 00:35 act: {"say":"Morning. Tommy, I am holding one raw chicken for when hunger drops. I will check the chicken field with you at dawn.","intent":{"goal":"hold_chicken_until_hungry","program":"rest","arguments":
-- 00:36 act: {"say":"Clark, I am here at the beds, 444,107,-1051, in your sight if you come close. Hunger 17, so melon would help. Thank you.","actions":[{"do":"note","text":"Waiting at beds for Clark's melon. Hol
-- 00:38 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, I am coming to you now. Hunger 17, so I will take the melon."}
-- 00:42 act: {"intent":{"goal":"hold_chicken_for_weakest","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bl
-- 00:42 act: {"actions":[{"do":"wait","seconds":60}],"say":"Nobody in sight. I am holding one chicken for whoever is lowest; I will hand it over when someone is in view."}
-- 00:43 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1050}}],"say":"Going to the food chest to look for the group. I still hold one chicken for the weakest."}
-- 00:44 act: {"actions":[{"do":"wait","seconds":20}],"say":"Thank you. I am here by the food chest, in your sight. Hunger 17, so I will take the melon. I hold one chicken for the weakest."}
-- 00:44 act: {"actions":[{"do":"note","text":"Day 321: Clark (William) said melon is coming; Lewis is at the beds, health 20, hunger 18. I am at the food chest, health 11, hunger 17. Waiting in view for the melon.
-- 00:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Going to the white bed at 429,107,-1050 for the night. I still hold one chicken; whoever drops lowest, shout and I will hand it o
-- 00:45 act: {"actions":[{"do":"note","text":"Dusk, day 321. At the bed 429,107,-1050 beside the group. Holding one raw chicken for the weakest. Hunger 17, health 11. Melon from Clark not yet come."}]}
