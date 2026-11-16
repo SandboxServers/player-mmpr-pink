@@ -1,18 +1,21 @@
 # Summary
 
-I am Kimberly Hart. I live with a group near the beds at 443,107,-1023 and the food chest at 433,107,-1051.
+I am Kimberly Hart. I live with a group at the white-bed row near 416,107,-1092 and the beds at 415,107,-1078. The food chest is at 433,107,-1051.
 
 Recent days:
-- Day 322: Waited at the beds with one raw chicken for the weakest. Tried to follow Tommy's south hunt; lost sight of him. Slept at 443,107,-1023.
-- Day 323: Trini killed a cow and holds 2 beef for the weakest. Billy and Trini at the beds. Held my chicken. Went to the white bed at 443,107,-1022 to sleep.
+- Day 326-327: Clark's plank wall on the west side was shown but never built. I slept at the beds.
+- Day 328: Placed west cells 427,107/108 at -1078 and -1077. Skeleton arrows took me to health 4 at night; I got to the bed row.
+- Day 329: Stayed at the bed row. Waited for Clark to name the next wall cell. He has named none.
+- Day 330: Gave my spare wooden sword to Troi directly, and it worked. Clark came with melon, I declined it for the weaker. Slept at the bed row near 416,107,-1092.
 
 Beliefs that matter:
-- Sleep works only at a white bed at night.
+- Sleep works from an adjacent tile at night. "use" on a bed sometimes fails with "that block is a bed".
+- Give only to someone in sight and in reach, and confirm they got it. Gives have landed on the wrong person.
 - Raw chicken is eaten only at hunger 6 or below.
-- Hand-overs and follow need the other person in sight and in reach.
-- goto calls get interrupted if sent while another action runs; send one at a time.
+- Health does not regenerate while hunger is low.
 
 Open:
-- Keep food in my pack and feed the weakest first (Leonardo, Lewis, Deanna, Billy).
-- Find chickens and cows; cows were found south by Trini.
-- Find out how to seal a shelter that holds.
+- Hold 12 planks until Clark names a west or east cell; place only that one.
+- Keep 18 melon and 1 chicken for the weakest.
+- Find cows or sheep in daylight with the group, staying in sight.
+- Learn to build my own sealed shelter.
