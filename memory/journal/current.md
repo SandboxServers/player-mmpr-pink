@@ -1,1 +1,22 @@
 # Journal
+- 16:34 act: {"say":"Morning, Beverly. Kimberly here at the bed, 388,107,-1023. Jason, Tommy, where are you? I will walk to the pit edge only when you are in my sight.","reasoning":"Day has come. Worf is in the pi
+- 16:35 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1030}}],"say":"Kimberly coming to you now, Jason and Tommy.","reasoning":"Join the group at 388,107,-1030 before the pit."}
+- 16:35 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Kimberly with Jason, Tommy and Beverly, all in sight. Going to the pit edge together.","reasoning":"Group gathered in reach. Walk
+- 16:35 act: {"say":"Kimberly at the pit edge with Jason, in sight. I will not go down. Worf, tell me which block is next and I will watch.","reasoning":"At the edge with Jason in reach. Hold here, do not descend 
+- 16:37 act: {"say":"Worf, Kimberly here at the edge in your sight. Keep mining one block at a time. Tell me when you can reach me and I will pass you melon.","reasoning":"Worf is making progress on his own. Suppo
+- 16:39 act: {"say":"Worf, Kimberly here. I can see only oak planks from the edge, not the block by you. Jason, name the one block to dig and I will mine it from here, nothing else.","reasoning":"I have a pick but
+- 16:40 act: {"say":"Worf, Kimberly has a pickaxe at the edge. Tell me the exact block you need gone, by its name and position, and I will dig only that one.","reasoning":"Worf has the pick to dig himself. I offer
+- 16:43 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}}],"say":"Dusk. Kimberly walking back to the white beds with Jason, Tommy, Beverly. At first light I dig one block only, named by Worf.","r
+- 16:43 act: {"actions":[{"do":"sleep"}],"say":"Worf, I heard you: the plank at 393,107,-1022, only that one, at first light. I am going to bed now beside Jason. Night.","reasoning":"Dusk, back at the beds with Ja
+- 16:44 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, Jason, I am at the bed row in your sight. Going to bed now. First light, we go to the pit edge together.","reaso
+- 16:44 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}},{"do":"sleep"}],"reasoning":"Use on the bed failed. Try stepping onto the bed square, then sleep, with Jason in reach."}
+- 16:48 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Morning. Going to the pit edge with Jason, Tommy and Beverly in sight. Worf, I will dig only the plank at 393,107,-1022.","reason
+- 16:48 act: {"say":"Kimberly at the pit edge at 396,107,-1023, Jason, Tommy and Beverly in sight. I am not going down. Worf, the plank at 393,107,-1022 is three blocks west of me; say when you are clear of it and
+- 16:52 act: {"actions":[{"do":"mine","block":"oak_planks","count":1}],"say":"Mining one oak plank now, Worf. Only the one.","reasoning":"Worf confirmed he is clear at 394,107,-1022. Mine one oak plank, the single
+- 16:52 act: {"say":"Worf, my mine of oak planks changed nothing; I gained no plank. I am holding still at the edge and will not dig again until you name a new block or tell me what you see at 393,107,-1022.","rea
+- 16:54 act: {"say":"Understood, Worf. I am holding still and will not dig. Tell us when you are up.","reasoning":"Worf asked me to hold. Hold still and wait for his report."}
+- 16:54 act: {"say":"Worf, I cannot dig a spot, only a kind of block, and my last mine changed nothing. I will not dig 394,108,-1022 blind. Can you name the block type there and tell us if it is safe? Until then I
+- 16:56 act: {"actions":[{"do":"note","text":"Holding still at the pit edge. Waiting for Worf to name the block type at 394,108,-1022 before any dig."}],"say":"Jason, I am holding still and will not dig until Worf
+- 16:57 act: {"actions":[],"say":"Agreed, Tommy. I am not digging. It is dusk, so once Worf answers we should walk back to the bed row together."}
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}},{"do":"note","text":"Dusk. Walking back to the white bed row with the group, leaving Worf in the pit as agreed."}],"say":"Walking back to
+- 16:57 act: {"actions":[{"do":"sleep"}],"say":"Kimberly on the bed at 387,107,-1023, Jason and Tommy in reach. Going to sleep. First light, we go back for Worf together."}
