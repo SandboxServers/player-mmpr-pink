@@ -59,3 +59,7 @@
 - 11:20 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Kimberly sleeping in the bed at 401,-1036 with Billy, Data, Picard, Tommy and Troi in reach. Worf, I'll see
 - 11:21 act: {"actions":[],"say":"Kimberly here at the bed row, waking on day 353, hunger 16, health 11. Worf, I'm ready to see your shelter. Walk slowly and say the spot; I'll follow only while you're in sight an
 - 11:25 act: {"actions":[],"say":"Thank you Billy. Holding here with the group. I'll eat when hunger reaches 6 or when someone says so; Picard, Leonardo, thank you."}
+- 11:31 act: {"say":"Kimberly here, all in sight at the bed row. I'll stay with the group and sleep in the bed beside us when night comes.","intent":{"goal":"stay_with_group_until_night","program":"rest","argument
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Kimberly going to the bed at 401,-1036 with the group in reach. Melon and chicken held for the lowest, call
+- 11:34 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at the bed 415,-1023 with Billy beside me. Sleeping here for the night."}
+- 11:34 act: {"intent":{"goal":"hold_with_group_until_hungry","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"limits":{"max_world_ticks"
