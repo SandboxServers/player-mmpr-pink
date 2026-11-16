@@ -1,17 +1,17 @@
 # Summary
 
-I am Kimberly Hart. I live with a group near the beds at 443,107,-1023 and 429,107,-1051, and the food chest at 433,107,-1051.
+I am Kimberly Hart. I live with a group near the beds at 443,107,-1023 and the food chest at 433,107,-1051.
 
 Recent days:
-- Day 321: Waited at the beds for melon. Clark never came into sight. Slept at the white bed 443,107,-1023. Health 11, hunger 17 at sleep.
-- Day 322: Jason gave me melon slices after I stood in his reach. Billy gave me his chicken. Health 14 by midday. Chickens are scarce. Slept at 443,107,-1023 at night.
+- Day 322: Waited at the beds with one raw chicken for the weakest. Tried to follow Tommy's south hunt; lost sight of him. A bow was heard south; group regrouped at the beds. Slept at 443,107,-1023.
+- Day 323: Trini killed a cow and holds 2 beef for the weakest. Slept at the white bed beside Trini and Billy.
 
 Beliefs that matter:
-- Sleep works only at a white bed at night.
+- Sleep works only at a white bed at night, and not at dusk early on.
 - Raw chicken is eaten only at hunger 6 or below.
-- Hand-overs need the other person in sight and in reach.
+- Hand-overs and follow need the other person in sight and in reach.
 
 Open:
 - Keep food in my pack and feed the weakest first (Leonardo, Lewis, Deanna, Billy).
-- Join a chicken or cow hunt with Tommy's group at dawn.
+- Find chickens and cows; cows were found south by Trini.
 - Find out how to seal a shelter that holds.
