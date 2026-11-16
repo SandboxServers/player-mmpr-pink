@@ -1,10 +1,30 @@
 # Journal
 - 06:27 act: {"say":"Goodnight. Billy is in reach at the bed row. I'm sleeping now, health 8, hunger 16.","actions":[]}
-- 06:27 act: {"say":"Kimberly here at the white beds, 430,107,-1023, in sight of Bcrusher's melon. Sleeping by the bed now. Morning: I'll hold my planks for Clark's named cell.","actions":[{"do":"sleep"}]}
-- 06:28 act: {"say":"Morning Tommy. Kimberly here at the beds, health 8. I'll join the cow walk once you are in sight. I hold 12 planks for Clark's wall and melon for the weakest.","reasoning":"Group cow hunt in d
-- 06:29 act: {"say":"Thank you Jason and Bcrusher. I have plenty of melon, so keep yours for the weak. I'm ready for the cow walk when you are all in sight.","reasoning":"Hunger 16, food enough. Group talking of w
-- 06:30 act: {"say":"Billy, I'm sorry about your loss. I can't see you yet. Step into sight and I'll hand you melon right away.","reasoning":"Billy is hungry and needs food; I can only give to someone in sight, an
-- 06:32 act: {"say":"Trini, you are the weakest. I hold 31 melon and can hand you some when you are in my sight. Jason, I can't see you yet; I'm still at the beds.","reasoning":"Trini health 2 is most urgent. I ca
-- 06:32 act: {"say":"Tommy, Jason is with Trini now. Walk to the beds at 430,-1023 and I'll hand you melon as soon as you are in my sight.","reasoning":"Tommy has no food and is out of my sight. Keep food for him 
-- 06:33 act: {"say":"Jason, Tommy: I'm at 430,-1023 by the first white bed. Come into sight and I'll give you melon, Jason first.","reasoning":"Jason asked for one melon; I have plenty. Give once he is in sight."}
-- 06:39 act: {"say":"Good night all. Billy is beside me at the bed row. I'm holding 31 melon and 4 chicken for whoever is lowest in the morning.","reasoning":"Dusk, group sleeping at the beds, no errand running. S
+- 06:27 act: {"say":"Kimberly here at the white beds, 430,107,-1023, in sight of Bcrusher's melon. Sleeping by the bed now.","actions":[{"do":"sleep"}]}
+- 06:28 act: morning greeting to Tommy; I'll join the cow walk once the group is in sight. Holding 12 planks for Clark's wall and melon for the weakest.
+- 06:29 act: thanked Jason and Bcrusher; kept my melon for the weak.
+- 06:30 act: told Billy I'll hand him melon once he is in sight.
+- 06:32 act: Trini is the weakest (health 2). Offered melon when she is in my sight. Tommy walked to the beds for food.
+- 06:33 act: told Jason and Tommy to come into sight and I'd give melon.
+- 06:39 act: night, group at the beds. Holding 31 melon, 4 chicken for the lowest.
+- 06:40 say: goodnight to Billy.
+- 06:43 say: morning greeting; health 8, hunger 16. Holding 31 melon, 4 chicken.
+- 06:44 say: Tommy is full, no food needed. Asked about the cow walk once all are in sight.
+- 06:44 say: {"text":"Jason, Tommy: I'm still at the first white bed, 430,-1023. Walk to me or tell me when you're in sight, and I'll go with you to the melon field."}
+- 06:45 say: {"text":"I'm here at the first white bed, 430,-1023, health 8, hunger 16. Tommy, Jason, I can see you now. Leonardo, keep your food for the lowest. When everyone is in sight, we walk to the cows toget
+- 06:45 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm stepping over to you now. Let's all walk together to the cows."}
+- 06:45 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1025}}],"say":"I'm walking to 430,-1025 to meet you, Jason and Tommy."}
+- 06:46 say: {"text":"Group in reach now. I'm at 429,-1025, health 8, hunger 16. Billy, Trini: say if you are at 6 or below and I'll hand you melon. We walk to the cows together, all in sight."}
+- 06:47 say: {"text":"Thank you, Leonardo, for the 2 chicken. I'm holding at the beds with Billy and Tommy until the melon group is back in sight."}
+- 06:48 day 340: Jason's group went to the melon field. Leonardo gave me 2 chicken (now 6). I stayed at the beds with Billy, Tommy, Trini and Bcrusher, not walking alone. Hunger 16, health 8.
+- 06:52 act: tried to give Jason 2 melon; failed, he was not in my sight. Holding 31 melon, 6 chicken. Jason at hunger 16 can wait for dusk.
+- 06:50 say: {"text":"Agreed, Tommy. We'll sleep at the beds at dusk, with Billy, Trini and Bcrusher close by. Morning melon walk after."}
+- 06:50 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"melon_slice","count":2}],"say":"Jason, here are 2 melon. The melon field was empty, so we'll look again in the morning."}
+- 06:55 say: {"text":"Morning all. Kimberly, health 8, hunger 16, holding 31 melon and 6 chicken. Jason, step into my sight and I'll hand you 2 melon. Trini, say when you reach 6."}
+- 06:57 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1024}},{"do":"give","to":"ag_jason_01","item":"melon_slice","count":2}],"say":"Jason, I'm walking to you at the first white bed with 2 melon."}
+- 06:57 say: {"text":"Jason, I can't see you from here at the bed row. Walk into my sight and I'll hand you the melon. Trini at 7, I'll feed her at 6."}
+- 07:20 night: Jason never came into sight; kept 31 melon, 6 chicken for Trini and Jason. Going to bed at 430,-1023 with Billy and Bcrusher near.
+- 07:01 wait: Jason said he was moving to 430,-1026 but is not in my sight yet. Trini at 7, fed enough. Waiting at bed 430,-1023 with Billy, holding 31 melon, 6 chicken.
+- 07:00 say: {"text":"Heard bows drawn to the south. Everyone stay close to the beds. Jason, I still can't see you; step east or north into my view and I'll hand you melon."}
+- 07:03 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, I'm coming to you at the crafting table now with melon. Billy stays with me."}
+- 07:04 say: {"text":"I can't find Jason in sight, so I'm staying at the bed 430,-1023 with Billy. Melon is ready for whoever walks into view. Trini first at 6."}
