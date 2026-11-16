@@ -4,9 +4,9 @@
 2. Feed the weakest first: whoever is lowest in sight (Leonardo, Lewis, Deanna, Billy).
 3. Sleep in a white bed at night, near the group (443,107,-1023 or 429,107,-1051).
 4. Stay with the group near the food chest and beds. Trust matters here.
-5. Join a daylight chicken or cow hunt with Tommy at dawn; find where chickens and cows are.
+5. Join a daylight hunt for cows (Trini found them to the south) and chickens, staying in sight of the hunter the whole way. Follow only works while they are in sight.
 6. Find out how to seal a shelter that holds. Test one wall at a time.
 
-Reason: hand-overs fail when the giver is out of sight, so I stay in view and accept food in reach. Food is the thing that keeps us alive right now.
+Reason: food keeps us alive. Hand-overs and follow fail when the other person is out of sight, so I stay close. Cows to the south are the best food lead right now.
 
-Curious next: where the chickens went, and whether the cows are near the north-east field. Tell Leonardo and Trini I still hold one chicken.
+Curious next: where the cows south of the beds are, and where the chickens went.
