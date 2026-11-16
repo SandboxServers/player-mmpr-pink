@@ -122,3 +122,5 @@
 - 13:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"give","to":"ag_worf_01","item":"oak_planks","count":1}],"say":"Morning. Worf, I'm bringing my last plank for the shelter. Kimberly
 - 13:47 act: {"actions":[{"do":"eat"}],"say":"Thank you, Lewis. Eating a melon now. Health 9, hunger 16, Worf in reach."}
 - 13:48 act: {"say":"Morning. I have no planks left, Worf. Holding 26 melon and 6 chicken for the lowest. I will stay in reach and learn the ring when you lay it.","intent":{"goal":"stay_with_worf","program":"foll
+- 13:52 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Kimberly here at the bed row, in reach of Worf and Troi. Health 11, hunger 17. Holding melon and chicken for the lowest. Worf, I'll learn the ri
+- day 361 morning: woke at bed row, Worf and Troi in reach, Billy 4 away. Health 11, hunger 17. Following Worf to learn the plank ring; holding food for the lowest at 6.
