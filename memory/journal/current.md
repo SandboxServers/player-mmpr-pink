@@ -28,3 +28,12 @@
 - 17:06 act: {"say":"Worf, I hear you. I can only dig by block type, not by spot, and I still see no safe block to name. I hold at the edge and dig nothing until Jason or Beverly names one.","actions":[{"do":"note
 - 17:07 act: {"say":"Agreed, Jason. I stay at the edge in sight and dig nothing until you name a block Worf has seen.","actions":[{"do":"note","text":"Jason holds the group at the edge; no digging until a seen blo
 - 17:13 act: {"say":"Dusk. I'm going to the bed at 387,107,-1023 with Tommy in reach. No digging tonight. Worf, stay safe in the pit; we come at first light.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":
+- 17:13 say: {"text":"Kimberly at the white beds, 388,107,-1023. Holding 31 melon and 6 chicken. Jason, Tommy: I stay here until you call the walk to the pit edge in sight."}
+- 17:14 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1028}}],"say":"Coming to the gather spot 389,107,-1028 to meet Jason and Tommy. Walking now."}
+- 17:14 say: {"text":"Kimberly here with Jason and Tommy in reach at 388,107,-1028. Jason, I am ready to walk to the pit edge with you. Name the exact stone spot first."}
+- 17:15 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Walking to the pit edge 396,107,-1024 with Jason and Tommy in sight."}
+- 17:15 act: {"actions":[{"do":"note","text":"At pit edge 395,107,-1024 with Jason and Tommy in reach. Worf not in sight. Digging nothing until Worf names one exact stone spot."}],"say":"At the pit edge with Jason
+- 17:15 act: {"actions":[{"do":"note","text":"Worf cannot give exact coordinates. Still at pit edge with Jason, Tommy, Beverly in sight. Digging nothing blind. Holding."}],"say":"Worf, Kimberly here. I dig nothing
+- 17:19 act: {"actions":[{"do":"note","text":"Worf says he cannot give exact stone coordinates. Nothing dug. Holding at pit edge with Jason, Tommy, Beverly in sight. Worf is safe in the pit."}],"say":"Worf, Kimber
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Dusk. Walking to the beds at 388,107,-1034 with Jason and Tommy in sight. Worf, stay safe in the pit."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Going to the bed at 387,107,-1036 with Jason in reach. Resting here tonight."}
