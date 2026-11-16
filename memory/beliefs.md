@@ -12,3 +12,4 @@
 - Troi died to a zombie near 408,-1050 on day 328; his dirt and boat were left there.
 - Clark names the wall cells in order. An occupied cell fails with "target occupied".
 - Cows were reported at 364,-1010 and near 430,95,-1120.
+- Day 331: from outside the wall, a view shows gap direction and rough distance but not exact coordinates. Stand still at a known spot and give the position and direction to the wall lead.
