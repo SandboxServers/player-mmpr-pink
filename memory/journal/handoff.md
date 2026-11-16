@@ -1,9 +1,7 @@
-Handoff, day 371, night.
+Handoff, day 374, night.
 
-Sleeping on the white bed at 387,107,-1023. Health 6.3, hunger 17. Holding 31 melon and 6 chicken; feed Trini first at hunger 6, then the lowest.
+Going to sleep on the white bed at 387,107,-1023, with Jason in reach and Tommy and Bcrusher at the bed row. Health 6.3, hunger 17. Holding 25 melon and 6 chicken.
 
-Worf is still in the gravel pit near 394,107,-1022. His step failed (no headroom). Jason's rule: name one exact stone spot only, and dig only a block type Worf has seen and can reach. Nobody digs at night.
+Worf still cannot name an exact stone cell, so nothing has been dug. Rule: dig only one exact named block, with the group in sight.
 
-Tommy was at the pit edge 396,107,-1025 when I slept, out of sight of the group. He said he would walk to the beds with Jason and Beverly once they came back into sight.
-
-Next: at first light go to the pit edge with Jason, Tommy and Beverly, all in sight. Dig only the stone Jason names. Do not retry the failed oak_planks mine. Check position after waking.
+Next at first light: check position after waking, feed Trini or the lowest first when hunger falls to 6, then wait for an exact named stone cell before any pit work.

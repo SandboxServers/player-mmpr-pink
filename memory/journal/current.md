@@ -37,3 +37,26 @@
 - 17:19 act: {"actions":[{"do":"note","text":"Worf says he cannot give exact stone coordinates. Nothing dug. Holding at pit edge with Jason, Tommy, Beverly in sight. Worf is safe in the pit."}],"say":"Worf, Kimber
 - 17:23 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Dusk. Walking to the beds at 388,107,-1034 with Jason and Tommy in sight. Worf, stay safe in the pit."}
 - 17:24 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Going to the bed at 387,107,-1036 with Jason in reach. Resting here tonight."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"sleep"}],"say":"Dusk. Kimberly walking to the beds at 388,107,-1034 with Beverly and Jason in sight. Worf, hold in the pit tonight
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night. Kimberly at the beds with Jason in sight. Going to the bed at 387,107,-1036. Worf, stay safe in the pit; fi
+- 17:28 act: {"actions":[{"do":"note","text":"Woke at bed 388,107,-1037, day 371. Jason 5 blocks off, in sight. Holding for his call to the pit edge; dig nothing unless Worf names one exact block."}],"say":"Mornin
+- 17:30 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1024}}],"say":"Walking to the pit edge 396,107,-1024 with Jason, Tommy and Beverly. I will not go down. Worf, name one exact stone spot."}
+- 17:30 act: {"actions":[{"do":"note","text":"At pit edge 395,107,-1024 with Jason and Beverly in reach. Worf not in sight. Digging nothing until he names one exact stone spot."}],"say":"At the edge with Jason and
+- 17:38 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Kimberly walking back to the beds with Jason, Tommy and B
+- 17:40 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Goodnight, all. Kimberly is on the bed at 387,107,-1036 with the group in reach. Worf, stay safe."}
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":395,"y":107,"z":-1025}}],"say":"Morning. Kimberly woke at 388,107,-1037, health steady. Walking to the pit edge with the group in sight. Worf, name one exact sto
+- 17:51 act: {"actions":[],"say":"Worf, I cannot see an exact stone x y z from here either. My snapshot lists only one stone nearby, with no coordinates. I will not name a guess. Dig nothing until Jason confirms a
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Kimberly walking back to the bed row now. Not alone. Worf, stay in the pit and hold still."}
+- 17:56 act: {"actions":[],"say":"Kimberly here at the beds, health steady 6.3, hunger 17. I have 31 melon slices and 6 chicken. Tommy, I can give you melon slices if you want them. Say how many."}
+- 17:56 act: {"actions":[{"do":"goto","target":"tommy"},{"do":"give","to":"tommy","item":"melon_slice","count":6}],"say":"Tommy, walking to you now to hand over 6 melon slices."}
+- 17:56 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1024}}],"say":"Tommy, I could not find you in sight, so I am walking to the bed row at 388,107,-1024. Call out when you see me."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1024}}],"say":"Kimberly here at the bed row. Tommy, I have melon slices for you. Please come into sight and I will hand you 6. Worf, I still wil
+- 18:00 act: {"actions":[{"do":"give","to":"tommy","item":"melon_slice","count":6}],"say":"Tommy, Kimberly here at 388,107,-1025. Giving you 6 melon slices now."}
+- 18:00 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}},{"do":"give","to":"tommy","item":"melon_slice","count":6}],"say":"Tommy, I am stepping to 388,107,-1023 next to the beds. Tell me if you 
+- 18:00 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"melon_slice","count":6}],"say":"Tommy, you are in reach now. Here are 6 melon slices."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Tommy, the 6 melon slices are yours. Night is coming, so I am going to sleep on the bed at 387,107,-1023 with you 
+- 18:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Kimberly on the bed at 387,107,-1023, Tommy in reach. Going to sleep. Worf, stay safe in the pit; at first light we come to the edge together."}
+- 18:10 act: {"actions":[],"say":"Good morning. Kimberly awake at 387,107,-1021, health 6.3, hunger 17. Worf, still no exact stone cell named, so I dig nothing. Name one x y z and everyone will watch."}
+- 18:10 act: {"actions":[],"say":"Thank you, Jason. Health is steady at 6.3, hunger 17, so I will keep the chicken until my hunger falls to 6. Trini and the lowest first."}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_w
+- 18:22 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1023}}]}
