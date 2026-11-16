@@ -69,3 +69,7 @@
 - 18:39 act: {"actions":[],"say":"Jason, I can't confirm it either: it's too dark here to see past 6 blocks. Nothing will be dug until someone can see 394,107,-1025 clearly. Worf, hold."}
 - 18:43 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}}],"say":"It's getting dark. I'm going to the bed row to sleep with Jason in reach. The pit cell stays unconfirmed, so nobody digs tonight.
 - 18:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}}]}
+- 18:47 say: {"text":"Worf, I also cannot confirm 394,107,-1025 in this dark. I dig nothing. When it is light, Jason and I will look from the edge and say what we see."}
+- 18:50 say: {"text":"Beverly, my body still reads dark here. I will walk to the pit edge with Jason and look at 394,107,-1025 only if the light is clear. I dig nothing until we both say what we see."}
+- 18:56 say: {"text":"Kimberly here, at the bed row. The pit edge is still dark for me, so I will not go there alone. Worf, name a cell you can see in light and Jason and I will look together. Nobody digs yet."}
+- 19:03 say: {"text":"Kimberly: I am not walking to the pit edge alone, and I still cannot see 394,107,-1025 from here. Nobody digs. I will go with Jason once he is in sight and the edge reads light."}
