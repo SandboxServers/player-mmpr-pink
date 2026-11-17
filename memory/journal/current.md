@@ -1,4 +1,22 @@
 # Journal
 - 03:39 night: goodnight by bed 443,107,-1051; sleep worked later. Woke at day 403 first light, walked to bed row 429,107,-1039. Billy's walk was called and stopped; I did not go (not in group count). Holding at the row in Billy's sight. Health 9.3, hunger 17, holding 26 melon, 9 chicken for the lowest. Not eating until hunger 6.
-- 03:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}],"say":"Night. I am going to the white bed at 429,107,-1037, in Billy's sight with the group. Hunger 17, health 9.3, no walk tonight."}
-- 03:53 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 03:53 act: went to white bed 429,107,-1037, slept with group in sight. No walk tonight.
+- 03:54 say: morning greeting at bed row, counted, holding food for the lowest, no cow walk until Billy calls it.
+- Morning day 403 wake: at 430,107,-1037, health 9.3 steady, hunger 17. Group nearby (Leonardo, Wesley). Waiting for Billy's call; eat at hunger 6.
+- Day 403 midday: Billy called cow walk; I could not see him, so I held at 430,107,-1037 and did not go.
+- Dusk: phantom hitting people at bed row. I am at the white bed 430,107,-1037, alone out of sight of group. Holding, not walking, until called.
+- Night day 403: Tommy at health 2. I walked to 414,107,-1041 with melon; gave Tommy 6 melon and 2 chicken (both gives worked). Jason gave him flesh too. Now at 416,107,-1041 with Trini, Tommy, Lewis in reach. Phantom around at 9 east. Holding 20 melon, 8 chicken.
+- 04:09 give: 4 melon to Trini (health 5). Now at 414,107,-1040 in reach of Tommy, Lewis, Trini, Jason, Troi. Holding 16 melon, 8 chicken. Staying in group through the phantoms.
+- 03:57 say: {"text":"Kimberly here, counted at the bed row. Hunger 17, health 9.3. Trini, I will tell you at 6. Holding melon and chicken for the lowest."}
+- 04:01 say: {"text":"Billy, Kimberly heard the walk call. I cannot see you from the bed row, so I hold here at 430,107,-1037 with my food for the lowest. Call me into your view and I will come."}
+- 04:05 say: {"text":"Kimberly at the white bed 430,107,-1037, not in sight of the group, so I am not walking alone at dusk. Jason, Billy, call me into your sight and I will come. Hunger 17, health 9.3."}
+- 04:06 say: {"text":"Tommy, I hold 26 melon and 9 chicken. I cannot see you from here. Stand where I can see you, or call me, and I will bring food to you at once."}
+- 04:06 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"give","to":"Tommy","item":"melon_slice","count":6}],"say":"Tommy, coming now with melon. Holding for you."}
+- 04:06 act: {"actions":[{"do":"give","to":"tommy_01","item":"melon_slice","count":6}],"say":"Tommy, melon coming to you now. Eat it."}
+- 04:06 act: {"actions":[{"do":"give","to":"tommy_01","item":"chicken","count":2}],"say":"Tommy, I gave you 6 melon and I am giving 2 chicken. Eat now. A phantom is coming from the northeast; Jason, Trini, strike 
+- 04:07 act: {"actions":[{"do":"give","to":"trini_01","item":"melon_slice","count":4}],"say":"Trini, 4 melon for you, you are at health 5. Stay in the group and eat."}
+- 04:11 act: {"actions":[{"do":"give","to":"trini_01","item":"oak_planks","count":1}],"say":"Trini, I picked up one oak plank from the ground here. Giving it back to you now. I did not take your sword or melon."}
+- 04:16 say: {"text":"Kimberly counted at 415,107,-1040, midday, health 9.3, hunger 17. Billy, I cannot see you now, so I hold here with 16 melon and 8 chicken for the lowest. Call me into sight and I will walk wi
+- 04:39 act: {"actions":[{"do":"give","to":"billy_01","item":"melon_slice","count":6}],"say":"Billy, 6 melon for you now. Eat one at once and stay with the group."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Kimberly going to the bed at 413,107,-1042 with the group near. Hold
+- 04:49 act: {"actions":[{"do":"note","text":"Morning day 405 (Jason says 406). Bed use failed: 'that block is a bed'. Sleep only works at night. Holding at the bed row with Troi, Picard, Bcrusher in reach. Health
