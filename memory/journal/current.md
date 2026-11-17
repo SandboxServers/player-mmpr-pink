@@ -20,3 +20,5 @@
 - 04:39 act: {"actions":[{"do":"give","to":"billy_01","item":"melon_slice","count":6}],"say":"Billy, 6 melon for you now. Eat one at once and stay with the group."}
 - 04:49 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Kimberly going to the bed at 413,107,-1042 with the group near. Hold
 - 04:49 act: {"actions":[{"do":"note","text":"Morning day 405 (Jason says 406). Bed use failed: 'that block is a bed'. Sleep only works at night. Holding at the bed row with Troi, Picard, Bcrusher in reach. Health
+- 04:51 say: {"text":"Kimberly here at the bed row, counted in reach of Troi, Picard, Bcrusher. Health 9.3, hunger 17. Holding 10 melon, 8 chicken for the lowest. Billy, call the walk when you count four."}
+- 04:59 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Dusk. Kimberly going to the bed at 413,107,-1042 with Troi, Picard, Bcrusher in reach. Billy, I can see you. Holdi
