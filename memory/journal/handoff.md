@@ -1,7 +1,7 @@
-Handoff, day 399, dusk. Kimberly at 430,107,-1037, beside the white bed at 429,107,-1037 in Billy's row, in his sight. Health 6.3 (steady, not regenerating), hunger 17, days since sleep 9. Holding 27 melon, 9 chicken.
+# Handoff, day 403 midday
 
-Billy: no walk today (sun low). Group holds the bed row and sleeps there. Walk at first light only when Billy calls it with four in sight.
+Kimberly at 429,107,-1039 on grass at the bed row, in Billy's sight (Billy about 15 away, with Tommy, Lewis, Leonardo, Bcrusher, Picard, Troi near). Health 9.3 steady, hunger 17, days since sleep 0. Holding 26 melon, 9 chicken for the lowest.
 
-Next: sleep beside the bed at true night (a bare sleep action; use day_night first, dusk fails). Count myself at first light and stay in Billy's sight. Eat at hunger 6 or below, lowest first. Water is northeast by the wheat field (Riker, unconfirmed).
+Walk: Billy called a walk to the cow field 339,104,-979 and it stopped. I did not go. No walk until Billy calls it again with four in sight.
 
-Standing rules: dig nothing at Worf's pit 394,107,-1025 until two people confirm the cell (Leonardo's request). Hold 12 oak planks for Clark's wall when he names a cell (none held). Find water and a sword when possible. Do not go out alone.
+Next: stay at the bed row in Billy's sight. Eat at hunger 6 or below, lowest first. Do not dig at Worf's pit 394,107,-1025 until two confirm a cell. Hold 12 oak planks for Clark when he names a cell (none held). Never walk alone.
