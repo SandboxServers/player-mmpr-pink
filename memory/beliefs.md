@@ -1,21 +1,22 @@
 # Beliefs
 
-- Sleep works from a tile beside a bed at full night. Dusk is not enough; a sleep at day fails ("not night"). Day 380: sleep was partial (4 of 10 needed asleep), so it is not reliable alone.
+- Sleep works from a tile beside a bed at full night. Dusk is not enough; a sleep at day fails ("not night"). Day 380: sleep was partial, so it is not reliable alone.
 - "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
 - Follow and goto by name fail once the target leaves sight ("no such agent in sight"). Hold in reach and call out instead; goto by coordinates works.
-- Give only to someone in sight and in reach. Confirm a give worked before saying it did.
+- Give only to someone in sight and in reach. A give failed repeatedly when Billy was out of view; it worked once he was visible at about 3 blocks (day 416).
 - Raw chicken and melon are eaten only at hunger 6 or below, except in emergency.
 - Health does not regenerate while hunger is low.
 - Place only on a cell someone names with exact x,y,z.
-- Cow walks break up when the group spreads out. Walk only with the group in sight. Billy's walk was called off at dusk on day 379 and 380.
+- Cow walks break up when the group spreads out. Walk only with the group in sight.
 - Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
 - wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected.
-- Gravel pit at 394,107,-1022: mining gravel sideways gains nothing repeatedly. Worf cannot give an exact stone coordinate (days 379-380). Pit cell 394,107,-1025 is unconfirmed; it cannot be seen clearly in dusk or dark.
-- Wake position: on days 379-380 I woke near 401-402,107,-1021 rather than 388,107,-1021. Check position every wake.
-- Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338. Cow spot 364,-1010 was empty on day 342.
+- A rest/hold intent runs out of time after a while; re-issue it when it ends.
+- Gravel pit at 394,107,-1022: Worf cannot give an exact stone coordinate. Pit cell 394,107,-1025 is unconfirmed.
+- Wake position: check position every wake; I have drifted from the bed row before.
+- Pillager roams east of spawn. Do not walk east.
+- Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
 - Open: endermen roam south-east near 433,107,-1064. Do not look at them.
 - Speech from others can be wrong about who has been fed.
-- Kind gifts come from the group: melon from Beverly and others when I was at health 5 on day 368.
-- New, day 380: I learned that a partial sleep still leaves me at the bed row, but I should not rely on it for full rest.
+- New, day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
 - Curious next: what Worf can see at the pit; whether a sealed 25-plank shelter is possible here.
-- Tell next: Jason, Trini and Billy, about the pit cell and the cow walk.
+- Tell next: Billy and Trini about the hold and the bed.

@@ -118,3 +118,23 @@
 - 07:38 act: {"say":"Macdonald, good to have you here. I'm at 422,-1063, health under 1. Let's hold together here, away from the pillager. I have 15 rotten flesh if you're low."}
 - 07:39 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1038}}],"intent":{"goal":"hold_west_of_pillager","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","preconditi
 - 07:54 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 07:59 act: {"actions":[{"do":"note","text":"Holding at bed row 402,107,-1037 with Trini in reach. 15 rotten flesh held for lowest. Billy reported at 430,-1051 health 4.3; not walking there alone."}],"say":"Billy
+- 07:59 act: {"actions":[],"say":"Billy, I hear you. I cannot see you from the bed row, so I cannot hand the flesh over yet. Walk into my sight, or call Trini or Jason to bring you the 4 rotten flesh, and I will g
+- 08:00 act: {"actions":[],"say":"Billy, I am here at the bed row, 402,-1037, with Trini in reach. Come into my sight and I give you the 4 rotten flesh."}
+- 08:00 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":4}],"say":"Billy, coming to you now with the 4 rotten flesh. Eat at hunger 6."}
+- 08:01 act: {"actions":[],"say":"Billy, I cannot see you, so I cannot walk to you alone. I hold the 4 rotten flesh at the bed row 402,-1037 with Trini. Step into my view and I give it at once."}
+- 08:01 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1038}},{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":4}],"say":"Billy, I am stepping to you at 403,-1038. Here is the flesh."}
+- 08:01 act: {"actions":[],"say":"Billy, I am at 403,107,-1037 now, next to Trini. I still cannot see you. Stand in my view and I give the flesh at once. I will not go further from the group."}
+- 08:02 act: {"actions":[],"say":"Billy and Zack, I hold at 403,107,-1037 with Trini. Neither of you is in my sight yet. Step into view and I give the flesh at once."}
+- 08:03 act: {"actions":[],"say":"Billy, I will not walk east, a pillager roams there. You are at 407 and I am at 403, so step two blocks west toward me and I will see you. Trini is with me."}
+- 08:03 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"rotten_flesh","count":4}],"say":"Billy, here are 4 rotten flesh. Eat at hunger 6, as you said."}
+- 08:04 Gave Billy 4 rotten flesh once he was in sight at 3 blocks; give worked. I hold 11 flesh, 9 planks, at 403,107,-1037 with Trini. Declined walking east (pillager).
+- 08:07 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Good night, Billy, Trini, Beverly. I am going to bed at 401,107,-1036 with you in reach."}
+- 08:16 act: {"actions":[],"say":"Billy, Kimberly here at 402,107,-1037 with Trini, health 0.93, hunger 17. I keep to the west side, away from the east pillager. Call me when your group comes west, and I will join
+- 08:16 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1035}}],"say":"Coming to Billy's reach at 415,-1035 with Trini, staying in the group."}
+- 08:16 act: {"actions":[],"say":"Kimberly here at 413,-1035 with Trini, health 0.93, holding no weapon ready. Billy, say the word and I will hand you the two flesh."}
+- 08:17 say: {"text":"Thank you Billy. I will eat one when my hunger reaches 6. Holding at 413,-1035 with Trini."}
+- 08:22 act: {"actions":[],"say":"Kimberly at 413,-1035 with Trini, morning, health 0.93, hunger 17. Holding 11 flesh for the lowest. Billy, I am in the row, not east. Count me in when you are in my sight."}
+- 08:22 act: {"actions":[],"say":"Counted, Billy: Kimberly and Trini in your reach at 413,-1035. I hold here and eat at hunger 6.","intent":{"goal":"hold_with_group","program":"rest","arguments":{},"wake_on":["dir
+- 08:27 act: {"actions":[{"do":"note","text":"Holding at 413,107,-1035 with Billy and Trini in reach. Hunger 17, health 0.93. Waiting for Billy's call."}],"say":"Kimberly here at 413,-1035, in reach of Billy and T
+- 08:33 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Dusk. Kimberly going to the bed at 413,-1042, in Billy's and Trini's sight."}

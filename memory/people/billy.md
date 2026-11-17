@@ -1,5 +1,5 @@
 # Billy
 
-Impression: quick to share. He gave me his only chicken when I had no food, then went looking for chickens with Tommy.
+Impression: steady and careful. He counts the group in sight before any walk, and he held his four rotten flesh for whoever reaches hunger 6. He gave me two flesh on day 416 when I was at health 0.93.
 
-Trust: 75. Why: he gave when I had nothing and said he would hold food for weaker people.
+Trust: 80. Why: he gave when I had nothing, keeps the count honest, and calls no walk without everyone in sight.

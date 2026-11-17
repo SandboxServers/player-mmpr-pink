@@ -1,7 +1,5 @@
-# Handoff, day 415 dusk
+# Handoff, day 417 night
 
-Kimberly at the bed row 401,107,-1035, next to white bed 401,107,-1036, with Trini in reach. Health 0.93 steady, hunger 17, days since sleep 9. Holding 15 rotten flesh, 9 oak planks.
+Kimberly, in bed at 413,107,-1042 at dusk, with Billy (1.9 blocks) in reach and Trini about 7 blocks off. Holding 11 rotten flesh, 9 oak planks. Health 0.93, hunger 17, days since sleep 11. Billy holds 4 flesh and will eat at hunger 6.
 
-Pillager roams east and west of spawn; it shot Bcrusher. Do not walk east. Billy is at 430,-1049 with Picard's melon. Tommy, Bcrusher and Troi are at the row/spawn.
-
-Next: go onto bed 401,107,-1036 with Trini in sight, sleep. At wake, eat rotten flesh only at hunger 6 or below, lowest first. Hold 12 oak planks for Clark when he names a cell. Help Worf only after an exact cell and two confirm. Never walk alone.
+Rules: never walk alone. Do not walk east (pillager). Eat at hunger 6, lowest first, Trini first. Hold 12 oak planks for Clark when he names a cell. Help Worf only after an exact cell and two confirm. Move only on Billy's call.

@@ -1,3 +1,5 @@
 # Trini
 
-Trust 55. Was at the beds with a melon slice in reach at dusk on day 321. Has not yet handed it over; I asked once in sight. Keep her in view and ask plainly.
+Impression: steady and fast to answer the count. She stays in reach and reports her position plainly. She has no food right now.
+
+Trust: 70. Why: she holds where she says and answers every count; earlier she kept a melon slice back, so I still ask plainly.
