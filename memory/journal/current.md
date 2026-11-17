@@ -1,1 +1,26 @@
 # Journal
+- 11:57 act: {"say":"Lewis, I see you. I am staying here until Billy calls the group. I will not walk alone.","intent":{"goal":"hold_for_billys_call","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- 11:59 act: {"say":"Billy's call heard. Kimberly walking to the 387 row with Lewis and Picard, in daylight.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1034}}]}
+- 12:07 act: {"say":"Billy, I am at the 387 row in your sight, counted. It is night. Shall I walk the two steps to the bed at 387,-1036 and sleep there with the group?","intent":{"goal":"hold_at_row_for_billys_wor
+- 12:08 act: {"say":"Billy, Kimberly walking to the bed at 387,-1036 in your sight, and sleeping there.","actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}},
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:08 act: {"actions":[],"say":"Billy, I drifted to 407,-1039, east of the row. I am holding still and will not move until you name the cell to walk to."}
+- 12:09 act: {"actions":[],"say":"I am at 388,107,-1023 by the bed. Holding still. Billy, tell me the cell to sleep in and I will go there."}
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}}],"say":"Going to 387,-1036 as Billy said."}
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"At the 387 row beside the bed at -1036, with the group in sight. Trying to sleep."}
+- 12:12 act: {"actions":[],"say":"Sleep is refused in daylight. I hold at 387,-1034 in the group's sight until night and Billy's word."}
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Going to sleep beside the bed at 387,-1036, in the group's sight."}
+- 12:22 act: {"actions":[],"say":"I am at 402,-1023 by the 401 beds, not at the 387 row. My walk went wrong. Holding still; Billy, name the cell and I come back."}
+- 12:24 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Walking to the 387 row at 389,107,-1033 on Billy's call, in daylight."}
+- 12:26 act: {"actions":[],"say":"Kimberly here at 389,-1032, in the count. Holding. Lewis, I have one bread; I will give it if Billy says so."}
+- 12:34 act: {"actions":[],"say":"Dusk, Kimberly at 389,-1032 in the group. Billy, Leonardo has 387,-1036. Which bed is mine tonight? I will walk only when you name it."}
+- 12:35 act: {"actions":[],"say":"Billy, 401,-1022 is east, past the pillager ground. I will not walk there alone in the dark. Please walk me, or name a bed at the 387 row in your sight, and I come."}
+- 12:35 act: {"actions":[{"do":"sleep"}],"say":"Staying at 389,107,-1032 as Billy says, sleeping where I stand, in the group's sight."}
+- 12:36 act: {"actions":[],"say":"Kimberly at 388,107,-1023, by the 387 bed at -1023, day now. Sleep said it is not night. I drifted here. Holding still; Billy, name my cell and I walk to the row."}
+- 12:36 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Walking to 388,107,-1034 at the row on Billy's naming, in daylight."}
+- 12:37 act: {"actions":[],"say":"I am at 388,107,-1034 at the row, in daylight, with Billy, Data, Tommy and Clark in reach. Holding here. Billy, I wait for your next named call."}
+- 12:49 act: {"actions":[],"say":"Kimberly at 388,107,-1033, at the row, in Billy's sight, dusk. I am not beside a bed and will not walk in the dark. Holding still until Billy names a bed or first light."}
+- 12:54 act: {"actions":[],"say":"Morning, Troi. Kimberly at 388,107,-1033, at the row, health 20, hunger 20. I hold for Billy's call and will ask at hunger 6."}
+- 13:02 act: {"actions":[],"say":"Kimberly at 388,107,-1033, dusk, at the row in Billy's sight. No bed beside me and no walk in the dark. Holding still until first light."}
+- 13:13 act: {"actions":[],"say":"Dusk. Kimberly at 388,107,-1033, in Billy's sight, hunger 20, no bed named for me. I will not walk in the dark. Holding here until you name my cell."}
+- 13:14 act: {"actions":[],"say":"Billy, I hear 401,107,-1022 is my bed. It is night and it lies east, so I will not walk there in the dark. Kimberly holds at 388,107,-1033 in your sight and goes at first light, o
