@@ -24,3 +24,11 @@
 - 13:02 act: {"actions":[],"say":"Kimberly at 388,107,-1033, dusk, at the row in Billy's sight. No bed beside me and no walk in the dark. Holding still until first light."}
 - 13:13 act: {"actions":[],"say":"Dusk. Kimberly at 388,107,-1033, in Billy's sight, hunger 20, no bed named for me. I will not walk in the dark. Holding here until you name my cell."}
 - 13:14 act: {"actions":[],"say":"Billy, I hear 401,107,-1022 is my bed. It is night and it lies east, so I will not walk there in the dark. Kimberly holds at 388,107,-1033 in your sight and goes at first light, o
+- 13:24 say: {"text":"Kimberly here at the bed row, group in reach. Billy, what is the plan for today?"}
+- Day 431, bright. At 388,107,-1033 in Billy's sight, 10 in reach. Billy's plan: hold at the row until a sword is in hand; Tommy counted at the row. Holding for his call; flesh from Billy at hunger 6.
+- Day 432, morning. Held at 388,107,-1033 through night in sight. No bed named for me yet; Billy names cells at first light. Holding, hunger 20, health 20.
+- 13:42 say: {"text":"Night. Kimberly holding at 388,107,-1033 in Billy's sight, no bed named for me. I stay put until first light."}
+- 13:44 say: {"text":"Morning, Billy. Kimberly holding at the row in your sight. No bed named for me yet; I will walk only on your call."}
+- 13:50 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Billy's call heard. Kimberly walking to 413,-1041 in daylight with Data and Chapman in sight.","reasoning":"Billy called everyone
+- 13:53 act: {"actions":[{"do":"note","text":"Day 433 afternoon. At 414,107,-1041 in reach of Tommy, Trini, Zack, Worf. Billy has walked the group back toward the row; no bed named for me yet. Holding still."}],"s
+- 13:53 act: {"actions":[],"intent":{"goal":"hold_at_413_for_billys_call","program":"rest","arguments":{},"wake_on":["directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
