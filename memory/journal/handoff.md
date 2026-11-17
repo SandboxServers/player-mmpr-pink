@@ -1,7 +1,7 @@
-# Handoff, day 403 midday
+# Handoff, day 415 dusk
 
-Kimberly at 429,107,-1039 on grass at the bed row, in Billy's sight (Billy about 15 away, with Tommy, Lewis, Leonardo, Bcrusher, Picard, Troi near). Health 9.3 steady, hunger 17, days since sleep 0. Holding 26 melon, 9 chicken for the lowest.
+Kimberly at the bed row 401,107,-1035, next to white bed 401,107,-1036, with Trini in reach. Health 0.93 steady, hunger 17, days since sleep 9. Holding 15 rotten flesh, 9 oak planks.
 
-Walk: Billy called a walk to the cow field 339,104,-979 and it stopped. I did not go. No walk until Billy calls it again with four in sight.
+Pillager roams east and west of spawn; it shot Bcrusher. Do not walk east. Billy is at 430,-1049 with Picard's melon. Tommy, Bcrusher and Troi are at the row/spawn.
 
-Next: stay at the bed row in Billy's sight. Eat at hunger 6 or below, lowest first. Do not dig at Worf's pit 394,107,-1025 until two confirm a cell. Hold 12 oak planks for Clark when he names a cell (none held). Never walk alone.
+Next: go onto bed 401,107,-1036 with Trini in sight, sleep. At wake, eat rotten flesh only at hunger 6 or below, lowest first. Hold 12 oak planks for Clark when he names a cell. Help Worf only after an exact cell and two confirm. Never walk alone.
