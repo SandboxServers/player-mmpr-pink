@@ -1,12 +1,12 @@
 # Goals
 
-1. Stay alive: eat one rotten flesh at hunger 6 or below, lowest first, Trini first. Reason: hunger is 17 and health 0.93; health does not regenerate while hunger is low.
+1. Stay alive. Hunger is 20 now, so no rotten flesh yet; eat at hunger 6 or below, lowest first, Trini first. Health does not regenerate while hunger is low.
 2. Never walk alone; move only on Billy's call with the group in sight. Reason: I was separated before and nearly died.
-3. Never walk east; a pillager roams there.
-4. Hold 12 oak planks for Clark's wall; place only on a cell he names. Have 9.
+3. Never walk east; a pillager roams there. Do not walk in the dark.
+4. Sleep beside a bed with the group in reach; check position after every wake.
 5. Help Worf out of the pit only after one exact cell is named and two confirm.
-6. Sleep beside a bed with the group in reach; check position after every wake.
+6. Hold 12 oak planks for Clark's wall; I have none now, so this waits.
 7. Learn to build a sealed shelter of 25 planks of one kind, and share what I learn.
 
-Curious next: whether the pit cell can be seen at first light; why my wake position drifts from the bed row.
-Tell: Billy and Trini first, since they keep the group together.
+Curious next: how a sword is brought into hand, since Billy's sword refuses use; whether the pit cell can be seen at first light.
+Tell: Billy and Tommy first, since they keep the group together.

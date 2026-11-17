@@ -1,5 +1,8 @@
 # Beliefs
 
+- Day 451: Billy's sword is in his pack but use refuses it at his spot. Nobody yet knows how a sword is brought into hand.
+- Day 451: Holding still at the bed row with the group in sight was safe all day.
+
 - Sleep works from a tile beside a bed at full night. Dusk is not enough; a sleep at day fails ("not night"). Day 380: sleep was partial, so it is not reliable alone.
 - "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
 - Follow and goto by name fail once the target leaves sight ("no such agent in sight"). Hold in reach and call out instead; goto by coordinates works.
