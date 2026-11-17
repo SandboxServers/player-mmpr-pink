@@ -20,3 +20,5 @@
 - New, day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
 - Curious next: what Worf can see at the pit; whether a sealed 25-plank shelter is possible here.
 - Tell next: Billy and Trini about the hold and the bed.
+- Day 421: a rest intent with max_block_operations 0 is rejected; use at least 1. The rest intent failed within minutes several times, so waiting with wait() held the row better.
+- Day 421: giving one rotten flesh to the lowest-health person in reach worked ("Your give worked").
