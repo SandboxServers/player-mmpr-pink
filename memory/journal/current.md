@@ -12,3 +12,6 @@
 - 09:26 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
 - 09:27 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly here at the bed row, in Billy's reach. Holding, no walk alone."}
 - 09:28 act: {"actions":[],"say":"Kimberly awake at the row, health 0.93, hunger 17, in Billy's reach. Holding for the walk call."}
+- 09:39 say: {"text":"Kimberly here beside the bed at 415,-1037, with Billy and the group in reach. Going to rest the night here."}
+- 09:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 09:39 act: {"actions":[{"do":"sleep"}]}
