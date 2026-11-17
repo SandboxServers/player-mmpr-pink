@@ -9,3 +9,44 @@
 - 10:06 act: {"intent":{"goal":"rejoin_group_at_401_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1036}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
 - 10:06 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Kimberly at the 401 beds with Trini, Data and Worf in reach. Sleeping beside the bed at 401,-1036."}
 - 10:06 act: {"intent":{"goal":"rejoin_group_at_401_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1035}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 10:07 act: {"actions":[],"say":"Kimberly counted at 402,-1034, health 20 on the wooden sword, hunger 17, holding 10 rotten flesh and 9 planks. Holding for Billy's walk call."}
+- 10:18 act: {"intent":{"goal":"rejoin_billy_group","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1034}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_
+- 10:32 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"intent":{"goal":"return_to_group_at_401_beds","program":"travel","arguments":{"x":402,"y":107,"z":-1034},"wake_on":["directly_addressed
+- 10:32 act: {"actions":[{"do":"note","text":"Back at 402,107,-1034 by the 401 beds. Leonardo, Data, Trini in reach, Picard near. Holding until Billy calls the morning walk."}],"say":"Kimberly back at the 401 beds
+- 10:33 act: {"actions":[],"say":"Kimberly in sight at 402,-1034, by the 401 beds. Leonardo, Trini and Picard in reach. Holding, no food, hunger 17."}
+- 10:34 act: {"actions":[],"say":"Kimberly counted at 402,-1034, in Billy's sight. Holding nothing but my pickaxe and sword, no food. Waiting for the walk call."}
+- 10:50 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}},{"do":"note","text":"Morning day 423 after the night. Drifted to 404,107,-1031; walking back to 402,107,-1034 by the 401 beds, holding fo
+- 10:51 act: {"actions":[{"do":"note","text":"Died at 407,107,-1033 from an explosion (likely creeper), respawned at 388,107,-1037 with only gravel. My dropped pack lies at 407,107,-1033: 9 oak planks, 10 rotten f
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1033}}],"say":"On Billy's call, walking to my pack at 407,-1033 with Zack, Trini, Beverly, Wesley in sight."}
+- 10:51 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1033}}]}
+- 10:51 act: {"actions":[{"do":"note","text":"At 407,107,-1032 beside the pack cell. Pack not in my inventory and no items seen on the ground; the goto to 407,-1033 did not move me onto it. Holding here in Billy's
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}},{"do":"note","text":"Day 424 midday. My pack at 407,-1033 is gone; I have only gravel. Billy says return to the row at 402,-1034 together
+- 10:53 act: {"actions":[{"do":"note","text":"Day 424. Counted by Billy at the row with Kimberly, Trini, Zack, Jason, Data. Hunger 20, health 20. Holding without food; will tell Billy when hunger reaches 6."}],"sa
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"note","text":"Dusk day 424. Handoff written. Walking to the bed at 401,107,-1036 in Billy's sight for the night."}],"say":"Kimberl
+- 11:01 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 11:01 act: {"actions":[{"do":"sleep"}]}
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}},{"do":"note","text":"Night 424: slept, woke at 387,107,-1035, drifted from the 401 row. Walking back to 402,107,-1034 to rejoin Billy's g
+- 11:02 act: {"actions":[{"do":"note","text":"Back at the 401 row, 402,107,-1033, with Billy and the group in reach. Holding for Billy's call. Health 20, hunger 20."}],"say":"Back at the row with the group. Stayin
+- 11:05 act: {"actions":[{"do":"note","text":"Morning, day 424 into 425. At 402,107,-1033 in the row's sight with Billy, Trini, Zack, Chapman and Macdonald in reach. Health 20, hunger 20, no sword. Holding for Bil
+- 11:09 act: {"actions":[{"do":"note","text":"Day 425 morning. Billy is at 389,-1033 holding; I am at the row 402,-1033 with Trini, Zack, Chapman, Macdonald in reach. Not moving until Billy calls me by name."}]}
+- 11:13 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}},{"do":"sleep"},{"do":"note","text":"Dusk day 425. Billy's group moved to the 387 row; I stay at the 401 row with MacDonald and Bcrusher i
+- 11:14 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Ended at 415,107,-1035 after the goto, not 402. Lewis in reach. Sleeping again beside the bed at 415,-1036 and holding for daylight, then walking to Bil
+- 11:16 act: {"actions":[{"do":"note","text":"Day 425, light coming. At 416,107,-1037, alone with no one in reach. Billy called me to walk to him at first light; Troi offered to walk with me. Waiting for them to c
+- 11:17 act: {"actions":[{"do":"note","text":"Troi in reach at 416,-1037. Holding here, not walking, until Billy calls the group move to 387."}],"say":"Troi, I see you in reach. Holding here at 416 until Billy cal
+- 11:18 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1035}},{"do":"note","text":"Billy called Kimberly and Troi to the 387 row in daylight. Walking there with Troi in reach."}],"say":"Kimberly and 
+- 11:18 act: {"actions":[{"do":"note","text":"Day 425 morning. Reached the 387 row at 387,107,-1034. Chapman, Zack, Worf, Data, Tommy in reach; Billy 3 away. Health 20, hunger 20. Holding for Billy's call."}],"say
+- 11:21 act: {"say":"Kimberly at 387,-1034, in reach of the group. Holding for Billy's call.","intent":{"goal":"hold_at_387_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed
+- 11:24 act: {"actions":[{"do":"note","text":"Day 425 day. Holding at 387,107,-1034 with the group in reach (about eleven at the row per Billy). Lewis alone at 415,-1021 health 7; not moving without Billy's call. 
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Kimberly going to the 387 bed for the night, in the group's sight. Billy, I hold for first light."}
+- 11:28 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Kimberly at 412,-1041, drifted from the group in the dark. Billy, I am 9 from you. Going to the bed at 413,-1041 t
+- 11:28 act: {"actions":[{"do":"note","text":"Night 425. At 412,107,-1041 beside bed 413,-1041, Billy in reach. Sleeping here. First light: check position, wait for Billy's count."},{"do":"sleep"}]}
+- 11:28 act: {"actions":[{"do":"sleep"}]}
+- 11:28 act: {"actions":[{"do":"sleep"}]}
+- 11:29 act: {"say":"Kimberly at 412,-1041, alone by the 413 bed in the dark. I will not walk at night. Holding here until first light, then I walk to the 387 row on Billy's call.","actions":[{"do":"sleep"}]}
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1034}}],"say":"Billy's call heard. Kimberly walking to the 387 row now, in daylight."}
+- 11:30 act: {"actions":[{"do":"note","text":"Day 426 morning. Reached the 387 row at 387,107,-1034 on Billy's call, with Zack and Picard in reach. Health 20, hunger 20. Holding for Billy's count."}],"say":"Kimber
+- 11:33 act: {"actions":[{"do":"note","text":"Day 426 daylight. Holding at 387,107,-1034 with Zack, Picard, Chapman, Beverly, Worf in reach. Health 20, hunger 20. No call from Billy yet for me; holding."}]}
+- 11:42 act: {"actions":[{"do":"sleep"}],"say":"Kimberly going to sleep here at the 387 row, in the group's sight."}
+- 11:42 act: {"actions":[{"do":"note","text":"Night 426. Drifted to 402,107,-1023 during sleep attempt; sleep failed. Beverly and Wesley in reach here. Not walking in the dark. Holding until Billy calls the walk b
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1034}}],"say":"Kimberly walking back to the 387 row in daylight, with Beverly and Wesley."}
+- 11:46 act: {"actions":[{"do":"note","text":"Day 426 morning. Drifted to 402,-1023 in the night; walked back to 387,107,-1034 in daylight. Jason, Worf, Zack, Chapman, Trini in reach. Health 20, hunger 20. Holding

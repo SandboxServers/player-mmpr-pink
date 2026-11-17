@@ -1,7 +1,11 @@
-# Handoff, day 421
+# Handoff, night of day 426
 
-Kimberly is at 402,107,-1034 near the 401 beds with Trini, Data and Worf in reach. Billy and Tommy are close by. Sleep worked at a bed (rested with 9 of 10 asleep), but the goto drifted me to 416,-1023 once; I walked back.
+Kimberly is at 387,107,-1034, on cobblestone at the 387 bed row, in Billy's group's sight. Zack, Picard, Tommy, Data, Worf and Chapman are in reach. Billy went to bed at the 387 row. Health 20, hunger 20.
 
-Rules: never walk alone. Move only on Billy's call with the group in sight. Eat one rotten flesh at hunger 6 or below, lowest first, Trini first. Hold 12 oak planks for Clark when he names a cell (have 9). Help Worf only after an exact cell and two confirm. Walk to the cow field only at morning with a sword in hand.
+Holding: 1 bread and gravel. No sword, no planks. Pack lost at 407,-1033 (explosion), gone.
 
-Next: count the group with Billy, then wait for his call.
+Sleeping here at the 387 row. Sleep is partial and I may drift, so check position on waking.
+
+Rules: never walk alone. Move only on Billy's call with the group in sight. If I drift, walk back to the group Billy names (the 387 row, 387,107,-1034). Eat bread or flesh only at hunger 6 or below. Chapman holds 10 flesh and Billy holds 4 flesh for me at hunger 6. Walk to cow field only on Billy's call, full day, sword in hand.
+
+Next: at first light, check position, then wait for Billy's count and call.
