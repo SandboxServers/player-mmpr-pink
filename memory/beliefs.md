@@ -1,7 +1,7 @@
 # Beliefs
 
-- Day 461: Zack's method (use with item stone_sword, a block in reach) failed for Billy on a sign and on gravel. Billy's swords are in pack but use refuses them. Nobody yet knows how a sword is brought into hand.
-- Day 461: Holding still at the bed with the group in sight was safe through the day and the night.
+- Day 462: Billy's sword try on grass or dirt is not yet proven; Zack's method ("use" with item stone_sword or wooden_sword, a block in reach) worked for Zack, and failed for Billy on sign and gravel.
+- Holding still at the bed with the group in sight is safe through day and night.
 - Sleep works from a tile beside a bed at dusk or night. A sleep at day fails ("not night").
 - "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
 - Follow and goto by name fail once the target leaves sight. Hold in reach and call out instead; goto by coordinates works.
@@ -12,7 +12,7 @@
 - Cow walks break up when the group spreads out. Walk only with the group in sight.
 - Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
 - wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected here; wait interests accept damage.
-- A rest/hold intent ends after a while; re-issue it when it ends. Use at least 1 for max_block_operations.
+- A rest/hold intent ends quickly (it finished at once on day 461); re-issue or simply wait.
 - Gravel pit at 394,107,-1022: Worf cannot give an exact stone coordinate. Pit cell 394,107,-1025 is unconfirmed.
 - Pillager roams east of spawn. Do not walk east.
 - Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
