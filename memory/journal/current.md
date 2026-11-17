@@ -1,1 +1,11 @@
 # Journal
+- 09:53 act: {"say":"Kimberly at the bed row, 416,-1037, in reach of Trini, Data, Picard and Jason. Holding here for Billy's call.","intent":{"goal":"hold_at_row_for_billys_call","program":"rest","arguments":{"pos
+- 09:53 act: {"say":"Phantom near, so I could not sleep. Staying put at 416,-1037 beside Trini, Data and Picard. Billy, tell me when to move.","intent":{"goal":"hold_at_row_until_billys_call","program":"rest","arg
+- 09:53 act: {"say":"I drifted to 429,-1049 and no one is in reach. Going back to the row at 416,-1037 to be with Billy's group.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"intent":{"goal":"re
+- 10:02 act: {"say":"Kimberly at 416,-1037 with Trini, Data, Tommy and Picard in reach. Holding, hunger 17. Billy, I will walk to the 401 beds when you call."}
+- 10:02 act: {"say":"Billy's call heard. Walking to the 401 beds with Tommy, Trini, Picard and Data.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"intent":{"goal":"walk_with_group_to_401_beds","
+- 10:02 act: {"say":"Kimberly at the 401 beds, 401,-1035. In reach: Billy, Worf, Beverly. Hunger 17, holding for Billy's count."}
+- 10:05 act: {"intent":{"goal":"rejoin_group_at_401_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1036}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 10:06 act: {"intent":{"goal":"rejoin_group_at_401_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1036}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
+- 10:06 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Kimberly at the 401 beds with Trini, Data and Worf in reach. Sleeping beside the bed at 401,-1036."}
+- 10:06 act: {"intent":{"goal":"rejoin_group_at_401_beds","program":"travel","arguments":{"target":{"x":402,"y":107,"z":-1035}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_

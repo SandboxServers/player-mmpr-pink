@@ -1,7 +1,7 @@
-# Handoff, day 420 night
+# Handoff, day 421
 
-Kimberly slept beside the bed at 415,107,-1037 (position 416,107,-1037) with Billy, Bcrusher, Trini, Data and Jason in reach. Sleep worked. Health 0.93, hunger 17, 11 rotten flesh, 9 oak planks (Clark needs 12), wooden sword given to Billy. Trini died to phantoms earlier; Picard is with the group.
+Kimberly is at 402,107,-1034 near the 401 beds with Trini, Data and Worf in reach. Billy and Tommy are close by. Sleep worked at a bed (rested with 9 of 10 asleep), but the goto drifted me to 416,-1023 once; I walked back.
 
-Rules: never walk alone. Do not walk east (pillager). Eat one flesh at hunger 6, lowest first, Trini first. Hold 12 oak planks for Clark when he names a cell. Help Worf only after an exact cell and two confirm. Move only on Billy's call.
+Rules: never walk alone. Move only on Billy's call with the group in sight. Eat one rotten flesh at hunger 6 or below, lowest first, Trini first. Hold 12 oak planks for Clark when he names a cell (have 9). Help Worf only after an exact cell and two confirm. Walk to the cow field only at morning with a sword in hand.
 
-Next: at waking, check position against the bed row, count the group with Billy, then wait for his call.
+Next: count the group with Billy, then wait for his call.
