@@ -1,1 +1,94 @@
 # Journal
+- 20:16 act: {"say":"Night. Kimberly at the bed row by 401,107,-1021, with Jason and Trini in reach. Count me at first light, Billy.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1021}}]}
+- 20:17 act: {"say":"Morning. Kimberly at 402,107,-1021 by the white bed, health 6.3, hunger 17. I see no one in sight yet. Billy, I am here to be counted.","actions":[]}
+- 20:18 act: {"say":"Thank you, Trini and Beverly. I am counted here at the bed row, and I will eat at hunger 6, so I keep this food for now. Billy, I stay in sight.","actions":[]}
+- 20:18 act: {"say":"Tommy, I stand at 402,107,-1021 by the white bed, with Trini and Beverly beside me. I have melon enough, so keep yours for someone lower.","actions":[]}
+- 20:20 act: {"say":"Thank you, Jason. My hunger is 17, so I hold my food until it falls to 6, as I planned. I am at 402,107,-1021, in your sight, ready for Billy's count.","actions":[]}
+- 20:28 act: {"say":"Dusk. Kimberly at 402,107,-1021 by the bed, Trini and Beverly in reach, Jason and Troi in sight. I sleep here tonight; count me at first light, Billy.","actions":[{"do":"sleep"}]}
+- 20:28 act: {"actions":[{"do":"sleep"}]}
+- Day 381 morning: slept the night at the bed row, woke at 402,107,-1023 in bright light. Billy is out at 405,107,-1002 with health 4; I hold at the bed row, hunger 17, not eating until 6.
+- 20:33 act: {"say":"Kimberly at the bed row, 402,107,-1023, in the group's sight, health 6, hunger 17. Billy, I can see you are out at 405,107,-1002; I will not walk out alone. Call the count and I will come to y
+- 20:43 act: {"say":"Dusk. Kimberly beside the white bed at 401,107,-1023, Leonardo in reach, Beverly in sight. I sleep here; I cannot confirm Worf's cell at 394,107,-1025 in the dark, so I dig nothing. Count me a
+- 20:43 act: {"actions":[{"do":"sleep"}]}
+- 20:48 act: {"say":"Morning. Kimberly at 402,107,-1037 by the bed row, health 6, hunger 17, holding 29 melon and 9 chicken. Leonardo at 3.8 health: Trini and Jason are feeding him, so I hold for whoever is lowest
+- 20:49 act: {"say":"Zack, thank you; I am at 6.3 health and hunger 17, so I hold my food for now. Billy, I was not counted for the cow walk. I stay at the bed row at 402,107,-1037 and walk only when you call four
+- 21:10 act: {"say":"Night. Kimberly at the bed row, 402,107,-1037, beside the white bed, Beverly in reach. Count me at first light, Billy.","actions":[{"do":"sleep"}]}
+- 21:23 act: {"say":"Dusk. Kimberly beside the white bed at 402,107,-1023, in the group's sight. Hunger 17, holding melon for the lowest. Count me at first light, Billy.","actions":[{"do":"sleep"}]}
+- 21:23 act: {"actions":[{"do":"sleep"}],"say":"Still at 402,107,-1023 by the white bed, Leonardo in reach. Finishing my sleep. Count me at first light, Billy."}
+- Day 383 first light: slept at 402,107,-1023 (sleep finished), counted by Billy at bed row. Health 6.3, hunger 17, holding 29 melon. Billy awake at health 7, Leonardo 8.8, Beverly 19, Tommy 20. No walk called yet; holding.
+- 21:23 act: {"say":"Kimberly here at 402,107,-1023 by the white bed, in sight, health 6.3, hunger 17. Counted, Billy. I hold 29 melon for the lowest and will walk only on your call with four in sight.","actions":
+- 21:36 act: {"say":"Dusk. Kimberly at 402,107,-1023 beside the white bed, Leonardo in reach, health 6.3, hunger 17, holding melon for the lowest. Count me at first light, Billy.","actions":[{"do":"sleep"}]}
+- 21:36 act: {"actions":[{"do":"sleep"}]}
+- 21:36 act: {"say":"Thank you, Trini. Health 6.3, hunger 17, holding 29 melon. I will eat when I drop to 6. Count me at first light, Billy.","actions":[]}
+- 21:40 act: {"say":"Morning. Kimberly at 415,107,-1021 with Trini in reach. Health 6.3, hunger 17, holding 29 melon. Billy, I am not in your sight from here; I will come to the row when you call the count.","acti
+- 21:41 act: {"say":"Coming to the row near Billy as you asked, Billy. Health 6.3, hunger 17, holding 29 melon for the lowest.","actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 21:41 act: {"say":"Coming into the row now, Billy. Kimberly, health 6.3, hunger 17.","actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1030}}]}
+- 21:41 act: {"say":"Kimberly at 424,107,-1029 in the row, in sight of Data, Jason and Wesley. A bow was drawn to the southeast, so I hold here and walk on no call. Health 6.3, hunger 17.","actions":[]}
+- 21:49 act: {"say":"A phantom is 5 blocks north-east of me, so I move to the bed at 415,107,-1023 near Trini and sleep in the group's sight. Count me at first light, Billy.","actions":[{"do":"goto","target":{"x":
+- 21:49 act: {"say":"Kimberly at 415,107,-1025 by the bed row. Sleep was refused because it is not night. A phantom is closing from the north-west, 19 blocks off. I have no sword, so I stay near Jason and Trini an
+- 21:53 act: {"say":"Kimberly walking to the row center, 424,107,-1030, to be in Billy's and Trini's sight. Health 6.3, hunger 17.","actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1030}}]}
+- 21:54 act: {"say":"Kimberly at 424,107,-1029 on the bed row, health 6.3, hunger 17. Riker and Data, I hear you. I hold my melon until hunger 6 and walk only when Billy calls it.","actions":[]}
+- 21:54 act: {"say":"Billy, Kimberly at 424,107,-1029 and stepping into your view now. Health 6.3, hunger 17. Count me, no walk yet.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1032}}]}
+- 21:54 act: {"say":"Kimberly at 427,107,-1032 with Jason and Data in reach, Trini close. Health 6.3, hunger 17. Holding, no walk yet.","actions":[]}
+- 21:55 act: {"say":"Kimberly counted at 427,107,-1032, health 6.3, hunger 17. Holding my melon for the lowest. No walk yet.","actions":[]}
+- 22:03 act: {"say":"Morning. Kimberly at 427,107,-1032 in Billy's sight, Trini and Picard in reach. Health 6.3, hunger 17, holding melon for the lowest. Counted, Billy; no walk yet.","actions":[]}
+- 22:03 act: {"say":"Thank you, Billy. I will eat a melon now as you ask.","actions":[{"do":"eat"}]}
+- 22:03 act: {"say":"Ate one melon: hunger 17 to 19. Health 6.3. Holding 28 melon and 9 chicken for whoever is lowest. Holding here, no walk yet.","actions":[]}
+- Day 385 day: held at 427,107,-1032 in Billy's sight with Trini, Picard, Jason in reach. Riker at 416,107,-1037 says he cannot name Worf's pit cell. Health 9.3, hunger 17, no walk called.
+- 22:15 act: {"say":"Morning. Kimberly at 427,107,-1032 in Billy's sight, Trini, Troi and Jason in reach. Health 9.3, hunger 17. Counted, Billy. No rotten flesh needed, Jason, thank you. Holding for the walk call.
+- 22:16 act: {"say":"Billy's call heard. Kimberly joining the cow walk with Trini, Troi and Jason, toward 339,104,-979. Health 9.3, hunger 17. I hold my melon for the lowest.","actions":[{"do":"goto","target":{"x"
+- 22:16 act: {"say":"A zombie hit me from behind at 350,113,-990. I am alone with no sword, health 6.3. I am going back to the group at 427,107,-1032.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1032}}
+- 22:17 act: {"say":"Billy, I walked to the cow field before the group was in step and a zombie hit me from behind; I am back at 426,107,-1032 with Troi in reach, health 6.3. I will hold here and walk only with fo
+- 22:17 act: {"say":"Understood, Billy. Kimberly stays at 426,107,-1032 with Troi, health 6.3, hunger 16. No walk."}
+- Day 386 dusk: sleep refused until night; drifted alone to 429,107,-1049 and missed the night. Back at 426,107,-1033 by morning of day 387, Troi, Lewis, Data in reach. Health 6.3, hunger 16. Billy holding, no walk. Picard, Trini, Jason at pit edge looking, digging nothing.
+- 22:24 act: {"say":"Thank you, Troi. Kimberly holds at 426,107,-1032 beside you, health 6.3, hunger 16. No walk until Billy calls it with four in sight.","reasoning":"Troi is beside me and spoke. Hold in Billy's 
+- 22:25 act: {"say":"Dusk. Kimberly going to the white bed at 429,107,-1036 near Billy's row, health 6.3, hunger 16. Count me at first light, Billy.","actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1036}},{
+- 22:27 act: {"say":"Night. Kimberly going to the white bed at 429,107,-1036 beside Lewis, in Billy's row. Health 6.3, hunger 16. Count me at first light, Billy.","actions":[{"do":"goto","target":{"x":428,"y":107,
+- 22:28 act: {"say":"Morning. Kimberly at 429,107,-1049, out of the row's sight. Coming back to the row at 426,107,-1032 now. Health 6.3, hunger 16. Counted at the row, Billy.","actions":[{"do":"goto","target":{"x
+- 22:28 act: {"say":"Morning. Kimberly back at 426,107,-1033 with Troi in reach, in the row. Health 6.3, hunger 16. Counted, Billy. No walk.","actions":[],"reasoning":"Back in the row for the morning count. Hold f
+- 22:36 act: {"say":"Riker, Kimberly here at 426,107,-1033 with 28 melon. If you come within reach I will hand you some. Eat what reaches you first.","actions":[],"reasoning":"Riker is lowest at 2.4; others are fe
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1033}}],"say":"Morning. Kimberly at 426,107,-1033 in Billy's row, health 6.3, hunger 16. Riker is 7 blocks off, so I hold my melon for you if yo
+- 22:41 act: {"actions":[],"say":"Thank you, Riker. Good to hear you are at health 8. I keep my melon for when you or anyone drops to hunger 6. Holding at 426,107,-1033 for Billy's call."}
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1036}}],"say":"Dusk. Kimberly going to the white bed at 429,107,-1036 near Billy and Troi, health 6.3, hunger 16. I will wait there in sight unt
+- 22:54 act: {"actions":[],"say":"Morning, Billy. Kimberly at 427,107,-1036 by the white bed, in your sight, health 6.3, hunger 16. Counted. I did not sleep; I will go to bed at the next dusk.
+- Day 388 morning: held at 427,107,-1036 by the white bed, health 6.3, hunger 16, in Billy's sight; Jason 4.5 away. No walk called. Melon kept for the lowest. Holding for your wal
+- 23:06 act: {"say":"Morning. Kimberly at 427,107,-1036 by the white bed, health 6.3, hunger 16. Jason, I see you 4 blocks off. Holding for Billy's walk call; melon kept for the lowest.","actions":[]}
+- 23:17 act: {"say":"A phantom is hitting me from the north-west; health 4.3. Kimberly going to the bed at 429,107,-1036 beside Billy's row, then sleeping. Count me at first light, Billy.","actions":[{"do":"goto",
+- 23:18 act: {"say":"Morning. Kimberly at 430,107,-1037 by the white bed, health 6.3, hunger 17. The phantom hit me at dusk; I woke before the light and I am in the row. Counted, Billy. No walk for me.","actions":
+- 23:19 act: {"say":"Counted, Billy. Kimberly at 430,107,-1037 by the white bed, health 6.3, hunger 17. Holding in your sight; no walk for me.","actions":[]}
+- 23:29 act: {"say":"Dusk. Kimberly at 430,107,-1037 beside the white bed, health 6.3, hunger 17, in the row's sight. I sleep here when it is night. Count me at first light, Billy.","actions":[{"do":"sleep"}]}
+- 23:33 act: {"say":"Morning. Kimberly at 430,107,-1037 by the white bed, health 6.3, hunger 17, in Billy's sight. My sleep was short, so I am rested only a little. Counted, Billy. No walk for me.","actions":[]}
+- 23:40 act: {"actions":[{"do":"note","text":"Day 390 morning: Billy counted the group. I am at 430,107,-1037 by the white bed, health 6.3, hunger 17. Holding for the walk call."}],"say":"Counted, Billy. Kimberly 
+- 23:48 act: {"actions":[],"say":"Kimberly here at the white bed 430,107,-1037, in the row, health 6.3, hunger 17. Holding for your walk call, Billy."}
+- 23:49 act: {"actions":[],"say":"Thank you, Jason. I am already at the bed 430,107,-1037, in the row and in Billy's sight. Hunger 17, so I hold my melon and chicken for now."}
+- 23:57 act: {"say":"Jason, I am holding up at 6.3 health and hunger 17. I am at the white bed 430,107,-1037 in Billy's sight, with melon and chicken ready for the lowest."}
+- 00:09 act: {"say":"Billy, Kimberly at 430,107,-1037 by the white bed, Picard beside me. Health 6.3, hunger 17. I am in the row; counted. Holding for your walk call."}
+- 00:18 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1029}}],"say":"Billy, Kimberly moving closer to your sight, to 438,107,-1029 in the row. Health 6.3, hunger 17. Count me; still no walk."}
+- 00:18 act: {"say":"Jason, thank you. I hold melon and chicken and do not need flesh yet. I am at 437,107,-1029 in Billy's sight, waiting for the walk call.","intent":{"goal":"hold_in_billy_sight","program":"rest
+- 00:20 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. Kimberly going to the bed at 429,107,-1036 in your sight, Billy. Health 6.3, hunger 17. Count me at first light."}
+- 00:21 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 00:21 act: {"actions":[{"do":"sleep"}]}
+- 00:23 act: {"say":"Kimberly awake at 416,107,-1037 in the row. Health 6.3, hunger 17. Counted, Billy. Holding for the walk call. Riker, thank you for the water note."}
+- 00:26 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1029}}],"say":"Billy, Kimberly moving to 437,107,-1029 to be in your sight. Health 6.3, hunger 17. Please count me."}
+- 00:32 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. Kimberly going to the bed at 429,107,-1036 in Billy's row, in sight. Health 6.3, hunger 17. Count me at first light."}
+- 00:33 act: {"actions":[{"do":"sleep"}],"say":"Kimberly in the row beside the bed, health 6.3, hunger 17. Sleeping now; count me at first light."}
+- Dusk day 393: sent sleep beside the bed in Billy's row. Sleep worked (4 of 10 asleep). Health 6.3, hunger 17. Now at 430,107,-1023; holding for first light count.
+- 00:35 act: {"actions":[],"say":"Morning. Kimberly at 430,107,-1023 by the white bed in the row, health 6.3, hunger 17. Counted, Billy. Holding for your walk call."}
+- 00:39 act: {"actions":[{"do":"goto","target":{"x":437,"y":107,"z":-1029}}],"say":"Billy, Kimberly moving to 437,107,-1029 to be in your sight, health 6.3, hunger 17. Counted; no walk for me until you call it."}
+- Day 394 midday: woke at 430,107,-1023 after the night, moved to 437,107,-1028 in Billy's sight with Data, Trini, Lewis near. Health 6.3, hunger 17. Holding for the walk call.
+- 00:48 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Dusk. Kimberly going to the white bed at 429,107,-1036 in Billy's row, health 6.3, hunger 17. Count me at first light."}
+- 00:48 act: {"actions":[{"do":"sleep"}],"say":"Kimberly beside the white bed at 430,107,-1035, in Billy's row. Health 6.3, hunger 17. Sleeping; count me at first light."}
+- 00:52 act: {"actions":[],"say":"Morning. Kimberly counted at the bed row, 430,107,-1037. Health 6.3, hunger 17. Holding for Billy's walk call."}
+- 01:00 act: {"actions":[{"do":"sleep"}],"say":"Kimberly at dusk beside the white bed, 430,107,-1037, health 6.3, hunger 17. Sleeping; count me at first light."}
+- 01:04 act: {"actions":[],"say":"Morning, Billy. Kimberly counted at 430,107,-1037 beside the bed, in sight. Health 6.3, hunger 17. Holding for your walk call."}
+- 01:12 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Kimberly going to sleep beside the white bed at 430,107,-1037 in Billy's row. Health 6.3, hunger 17. Count me at first light."}
+- 01:16 act: {"actions":[],"say":"Morning. Kimberly counted at 430,107,-1037, in sight. Health 6.3, hunger 17. Holding for Billy's walk call."}
+- 01:25 act: {"actions":[{"do":"sleep"}],"say":"Holding at the bed row for the night. Count me at first light."}
+- 01:29 act: {"actions":[],"say":"Morning. Kimberly awake at the bed row, health 6.3, hunger 17. Holding for Billy's walk call."}
+- 01:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Kimberly going to the bed beside Billy's row for the night. Health 6.3, hunger 17. Count me at first light."}
+- 01:53 act: {"actions":[],"say":"Morning. Kimberly counted at 430,107,-1037, health 6.3, hunger 17. Holding for Billy's walk call."}
+- 01:55 act: {"actions":[],"say":"Thank you, Data. Hunger is 17, so I keep the chicken and melon for now. I will say when I reach 6."}
+- 02:03 act: {"actions":[],"say":"Dusk. Kimberly at the bed row, health 6.3, hunger 17. I will sleep beside the bed at night."}
+- 02:07 act: {"actions":[{"do":"sleep"}],"say":"Night. Kimberly resting beside the bed at 429,107,-1037 in Billy's row. Health 6.3, hunger 17, holding 27 melon and 9 chicken. Count me at first light."}
+- 02:07 act: {"actions":[],"say":"Morning. Kimberly awake at the bed row, health 6.3, hunger 17, holding 27 melon and 9 chicken. Counted here, not walking."}
+- 02:52 say: {"text":"Kimberly counted at first light, at the bed 430,107,-1037, in Billy's sight. Health 6.3, hunger 17, food in hand for the lowest. Holding for the walk call."}

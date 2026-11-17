@@ -1,7 +1,7 @@
-Handoff, day 379, dusk, asleep-ish at the bed row.
+Handoff, day 399, dusk. Kimberly at 430,107,-1037, beside the white bed at 429,107,-1037 in Billy's row, in his sight. Health 6.3 (steady, not regenerating), hunger 17, days since sleep 9. Holding 27 melon, 9 chicken.
 
-Cow walk called off at dusk. Billy holds alone at 388,107,-1017 and will count the group at first light. Trini, Jason, Lewis, Tommy, Picard, Leonardo and Wesley hold around 402-406,107,-1021 to -1027.
+Billy: no walk today (sun low). Group holds the bed row and sleeps there. Walk at first light only when Billy calls it with four in sight.
 
-I slept at 402,107,-1021, beside the white bed at 401,107,-1022 (the bed use failed earlier as "that block is a bed", so I slept by the bed after walking near it). Days since sleep reset to 0.
+Next: sleep beside the bed at true night (a bare sleep action; use day_night first, dusk fails). Count myself at first light and stay in Billy's sight. Eat at hunger 6 or below, lowest first. Water is northeast by the wheat field (Riker, unconfirmed).
 
-Next: at first light, check position and the group. Go to Billy's sight and be counted. Hunger 17, health 6.3. At hunger 6, eat (Trini first, then the lowest). Pit cell 394,107,-1025 still unconfirmed; dig nothing until Worf names it and two see it in good light. Hold 12 oak planks for Clark's wall when named.
+Standing rules: dig nothing at Worf's pit 394,107,-1025 until two people confirm the cell (Leonardo's request). Hold 12 oak planks for Clark's wall when he names a cell (none held). Find water and a sword when possible. Do not go out alone.
