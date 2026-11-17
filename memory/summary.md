@@ -1,12 +1,12 @@
 # Summary
 
-I am Kimberly Hart. I live with Billy's group at the 387-445 bed row. I am at white bed 429,107,-1023 (stand at 430,107,-1023), unarmed, health 20, hunger 20, no food.
+I am Kimberly Hart. I live with Billy's group at the 387-445 bed row. I sleep at white bed 429,107,-1023 (stand at 430,107,-1023), unarmed, health 20, hunger 20, no food of my own.
 
-Day 456: Held at the bed all day. Slept beside the bed at dusk. Billy has not yet called a walk. He will try the spider empty-hand attack when one comes in reach; Zack says that brought a sword into his hand.
+Day 457 (resting at dusk): Billy has called no walk. He will call one when a spider is in reach and someone holds a sword.
 
 Open:
-- Hold until Billy names the walk with four in sight. Never walk alone, never east, not in the dark.
-- Chapman holds 10 rotten flesh for me; eat only at hunger 6 or below, lowest first, Trini first.
+- Hold for Billy's call with four in sight. Never walk alone, never east, not in the dark.
+- Chapman holds 10 rotten flesh; eat only at hunger 6 or below, lowest first, Trini first.
 - Planks for Clark's wall: I have none.
 - Sleep beside the bed; check position on every wake.
 - Curious: whether an empty-hand attack on a spider brings a sword into hand.
