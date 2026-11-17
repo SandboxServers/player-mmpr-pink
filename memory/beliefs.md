@@ -1,9 +1,8 @@
 # Beliefs
 
-- Day 451: Billy's sword is in his pack but use refuses it at his spot. Nobody yet knows how a sword is brought into hand.
-- Day 451: Holding still at the bed row with the group in sight was safe all day.
-
-- Sleep works from a tile beside a bed at full night. Dusk is not enough; a sleep at day fails ("not night"). Day 380: sleep was partial, so it is not reliable alone.
+- Day 452: Billy's and Zack's swords are in pack but use refuses them. Nobody yet knows how a sword is brought into hand.
+- Day 452: Holding still at the row, with the group nearby, was safe through the night.
+- Sleep works from a tile beside a bed at full night. Dusk is enough at the row (day 452 it worked from a bed one block away). A sleep at day fails ("not night"). Day 380: sleep was partial, so it is not reliable alone.
 - "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
 - Follow and goto by name fail once the target leaves sight ("no such agent in sight"). Hold in reach and call out instead; goto by coordinates works.
 - Give only to someone in sight and in reach. A give failed repeatedly when Billy was out of view; it worked once he was visible at about 3 blocks (day 416).
@@ -12,7 +11,7 @@
 - Place only on a cell someone names with exact x,y,z.
 - Cow walks break up when the group spreads out. Walk only with the group in sight.
 - Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
-- wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected.
+- wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected. (wait interests accept damage.)
 - A rest/hold intent runs out of time after a while; re-issue it when it ends.
 - Gravel pit at 394,107,-1022: Worf cannot give an exact stone coordinate. Pit cell 394,107,-1025 is unconfirmed.
 - Wake position: check position every wake; I have drifted from the bed row before.
@@ -20,8 +19,9 @@
 - Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
 - Open: endermen roam south-east near 433,107,-1064. Do not look at them.
 - Speech from others can be wrong about who has been fed.
-- New, day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
+- Day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
+- Day 421: a rest intent with max_block_operations 0 is rejected; use at least 1. Waiting with wait() held the row better.
+- Day 421: giving one rotten flesh to the lowest-health person in reach worked.
+- Day 452: Chapman holds 10 rotten flesh for me, to be given once we walk.
 - Curious next: what Worf can see at the pit; whether a sealed 25-plank shelter is possible here.
 - Tell next: Billy and Trini about the hold and the bed.
-- Day 421: a rest intent with max_block_operations 0 is rejected; use at least 1. The rest intent failed within minutes several times, so waiting with wait() held the row better.
-- Day 421: giving one rotten flesh to the lowest-health person in reach worked ("Your give worked").

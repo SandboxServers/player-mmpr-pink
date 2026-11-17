@@ -1,1 +1,1 @@
-Kimberly at 416,107,-1037 beside bed 415,107,-1037, Tommy in reach. Health 20, hunger 20, unarmed, no food. Slept at dusk day 451. Next: at first light, wait for Billy's call with group in sight. Do not walk alone or in the dark. Never walk east.
+Handoff, day 452 (slept). At 430,107,-1037 beside white bed 429,107,-1037, in the row. Unarmed, no food, health 20, hunger 20. No errand running. Next: at first light, wait for Billy's call with four in sight. Never walk alone, in the dark, or east. Chapman holds 10 rotten flesh for me.
