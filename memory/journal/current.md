@@ -1,1 +1,14 @@
 # Journal
+- 08:49 act: {"say":"Kimberly here at the bed row, 414,-1041, in reach of Billy. Holding still until Billy calls a walk.","reasoning":"Morning, group counted near me. Rules: move only on Billy's call. Hunger 17, s
+- 08:59 act: {"say":"Kimberly at the bed 413,-1041, with Billy in reach. Trini, stay by Picard. I hold a wooden sword and will not leave the row without Billy's call.","actions":[{"do":"sleep"}],"reasoning":"Night
+- 09:00 act: {"say":"Trini, stay right here by me and Billy. I have the sword. Picard, come to the row too.","reasoning":"Trini is beside me at health 7 with phantoms closing. I hold the wooden sword; staying put 
+- 09:02 act: {"say":"Kimberly awake at 414,-1041, Trini is gone to the phantoms. Coming to Billy at 416,-1037 now, as Billy asked.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"reasoning":"Trini
+- 09:02 act: {"say":"Kimberly counted at 415,-1037 with Billy, Picard, Beverly and Tommy in reach. Holding for Billy's call.","reasoning":"Back in sight of Billy. Trini died to phantoms. Hold until Billy calls."}
+- 09:03 act: {"say":"Kimberly counted with Billy, Beverly, Tommy and Picard. Holding for Billy's walk to the cow field at full day.","reasoning":"Billy counted us four. I wait for his call at full day, as my rule 
+- 09:12 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1},{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, Leonardo's wooden sword came to me by mista
+- 09:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}]}
+- 09:12 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"intent":{"goal":"rest_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":
+- 09:14 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, the wooden sword from Leonardo is in my pack. Passing one to you now. It is first light; I am holding in you
+- 09:26 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+- 09:27 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly here at the bed row, in Billy's reach. Holding, no walk alone."}
+- 09:28 act: {"actions":[],"say":"Kimberly awake at the row, health 0.93, hunger 17, in Billy's reach. Holding for the walk call."}
