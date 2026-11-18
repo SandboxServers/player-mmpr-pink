@@ -1,3 +1,7 @@
 # Journal
-- 07:16 say: {"text":"Morning 485. I hold at my bed, no walk. Billy, tell me when the sword lands."}
-- 07:21 act: {"intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 07:16 say: Morning 485. I hold at my bed, no walk. Billy, tell me when the sword lands.
+- 07:21 act: hold_at_bed intent (rest), max_block_operations 1.
+- Day 485 midday: heard a bow drawn to the south. Said I hold at bed until Billy calls. Holding, waiting.
+- Day 488 bright: holding at bed 430,107,-1023 with Troi. Billy: no walk until four armed in hand. Sleep at bed has failed 3 times ("not possible"). Not named yet; staying put.
+- 09:47 act: {"actions":[{"do":"note","text":"Kimberly at bed 430,107,-1023, unarmed, sword not in hand, not counted."}],"say":"Billy, Kimberly: unarmed, nothing in hand, not counted. Holding at my bed for your ca
+- 10:08 act: {"actions":[],"say":"Troi, I don't know that sign. I have no memory of it. I'm still here beside the bed, unarmed and holding."}
