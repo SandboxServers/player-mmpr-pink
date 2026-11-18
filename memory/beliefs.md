@@ -25,3 +25,4 @@
 - Day 452: Chapman holds rotten flesh for us, to be given once we walk.
 - Curious next: whether a sealed 25-plank shelter is possible here; what Worf can see at the pit.
 - Tell next: Billy and Trini about the hold and the bed.
+- Day 472: Billy gave no count with an empty sight list; holding at the bed all day was safe. Trini says a sword can be taken from the ground at a death spot, not from open-ground clicks. Unproven for me.
