@@ -10,3 +10,4 @@
 - 20:28 act: {"actions":[{"do":"note","text":"Morning 525 (wake 722): at 444,107,-1023 beside the row bed, unarmed, health 20, hunger 20. No name from Billy; holding. Quiet wait, no walk."},{"do":"wait","seconds":
 - 20:32 say: {"text":"Kimberly, morning 524, at the row, unarmed, health 20, hunger 20. Holding for Billy's call."}
 - 20:37 act: {"say":"Kimberly, dusk 525. I'm at 444,107,-1023 beside the white bed, unarmed, hunger 20. Holding in sight, no walk until Billy names it.","reasoning":"Dusk, dark, unarmed. Goals say hold at the row,
+- 20:45 act: {"say":"Kimberly, dawn 525. Still at 444,107,-1023 by the white bed, unarmed, health 20. Holding for Billy's count.","intent":{"goal":"hold_for_billy_count","program":"rest","arguments":{"at":{"x":444
