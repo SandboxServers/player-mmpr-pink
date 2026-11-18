@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 533: a give from Data to Jason at the row landed in hand, and Jason's snapshot showed the wooden sword held. Riker's sword-into-hand still failed.
+
 - Day 531: sleep beside the bed at dusk worked again; the group's night talk all came from beds in sight.
 - Day 531: Billy's count works as a roll call: name, day, position, and "holding until named" each time. Food reached Billy only by walking to the row near 416,107,-1037 when named; a give from out of sight did not arrive.
 - Day 522: sleeping beside the bed at night counted; the row stays quiet when no one is in sight.
