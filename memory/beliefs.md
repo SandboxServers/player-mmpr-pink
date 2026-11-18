@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 522: sleeping beside the bed at night counted; the row stays quiet when no one is in sight.
+
 - Billy's count is what is in hand. A sword in pack or on the ground does not count.
 - A give lands in hand only when the receiver is in sight and close. Laforge's gives to MacDonald from a few blocks off landed on the ground twice (day 485).
 - Billy's wooden sword given to Jason on day 485 went into his pack, not his hand.
