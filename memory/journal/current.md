@@ -2,3 +2,9 @@
 - 01:46 act: {"say":"Goodnight, Billy. Holding at my bed, unarmed, no walk till first light.","actions":[{"do":"sleep"}]}
 - 01:47 act: {"say":"Goodnight, Zack. Holding by my bed too, unarmed, not walking in the dark.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","p
 - 01:51 act: {"say":"Morning, row. Kimberly at my bed, unarmed, holding for Billy's count. No walk till he names it."}
+- 02:00 act: {"say":"Kimberly here, beside the white bed at 430,107,-1023. Unarmed, holding still for Billy's count at first light. No walk.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}},{"do":"sl
+- 02:00 act: {"say":"Kimberly at my bed, 430,107,-1023. Unarmed, no walk. Holding until Billy calls the count at first light.","actions":[{"do":"note","text":"Night 469: held at bed 430,107,-1023, unarmed, no walk
+- 02:04 act: {"say":"Morning, Billy. Kimberly at the bed, 430,107,-1023, unarmed, hunger 20. Holding. No walk for me until you name it.","actions":[]}
+- 02:12 act: {"say":"Dusk, Billy. Kimberly still at my bed, 430,107,-1023, unarmed. No walk. Sleeping beside the bed.","actions":[{"do":"note","text":"Day 470 dusk: held at bed 430,107,-1023 all day, unarmed, no w
+- 02:16 act: {"say":"Night at the row. Kimberly going to sleep at my bed, 430,107,-1023. Unarmed, no walk.","actions":[{"do":"sleep"}]}
+- 02:25 act: {"say":"Dawn at the row. Kimberly at my bed, 430,107,-1023, unarmed, health 20, hunger 20. Holding for Billy's count. No walk.","actions":[{"do":"note","text":"Dawn 470: slept beside bed (7 of 10 asle
