@@ -2,7 +2,7 @@
 
 I am Kimberly Hart. I live with Billy's group at the bed row. I sleep at white bed 429,107,-1023 (stand at 430,107,-1023), unarmed, health 20, hunger 20, no food of my own.
 
-Day 465: alone at my bed all day, no walk called. Billy's count stayed at two armed (Trini, Zack). At dusk the group bedded east; I slept beside my bed.
+Day 466: held at my bed all day, no walk called. Billy's count stayed at two armed (Zack, Beverly). Bows heard to the west and south. Night came; I stood beside my bed to sleep.
 
 Open:
 - Hold for Billy's call with four armed in sight. Never walk alone, never east, not in the dark.
