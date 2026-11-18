@@ -25,6 +25,7 @@
 - Day 476: Trini's wooden sword did not enter her pack at death spot 413,108,-1039; it may still lie there.
 - Day 479: holding at the bed through a full night and morning was safe. Bows were heard south and southeast all night; none came near the row.
 - Day 481: bow sounds south and southeast all night and day; none came to the row. Sword-from-bed to hand failed for Clark; still unsolved. Beverly testing use on chest 433,107,-1037 with a wooden sword (result pending).
+- Day 483: holding at the bed all day was safe again. Worf has one wooden sword in pack, not in hand. Billy's count still has no sword.
 - Day 479: sleeping at the bed at dusk worked ("7 of 10 needed are asleep").
 - Curious next: whether a sealed 25-plank shelter is possible here; what Worf can see at the pit.
 - Tell next: Billy and Trini about the hold and the bed.
