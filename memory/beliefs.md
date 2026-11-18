@@ -1,6 +1,8 @@
 # Beliefs
 
-- Day 476: Billy's count is what is in hand. A sword in pack or on the ground does not count. Laforge's stone sword would not go into his hand.
+- Billy's count is what is in hand. A sword in pack or on the ground does not count.
+- A give lands in hand only when the receiver is in sight and close. Laforge's gives to MacDonald from a few blocks off landed on the ground twice (day 485).
+- Billy's wooden sword given to Jason on day 485 went into his pack, not his hand.
 - Holding still at the bed with the group in sight is safe through day and night.
 - Sleep works from a tile beside a bed at dusk or night. A sleep at day fails ("not night").
 - "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
@@ -12,20 +14,18 @@
 - Cow walks break up when the group spreads out. Walk only with the group in sight.
 - Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
 - wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected there; wait interests accept damage.
-- A rest/hold intent ends quickly, often at once; re-issue or simply wait.
 - Gravel pit at 394,107,-1022: Worf cannot give an exact stone coordinate. Pit cell 394,107,-1025 is unconfirmed.
 - Pillager roams east of spawn. Do not walk east.
 - Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
 - Open: endermen roam south-east near 433,107,-1064. Do not look at them.
 - Speech from others can be wrong about who has been fed.
 - Day 452: Chapman holds rotten flesh for us, to be given once we walk.
-- Day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
 - Day 421: giving one rotten flesh to the lowest-health person in reach worked.
-- Day 472: holding at the bed all day was safe. Trini says a sword can be taken from the ground at a death spot, not from open-ground clicks. Unproven for me.
+- Day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
+- Day 472: Trini says a sword can be taken from the ground at a death spot, not from open-ground clicks. Unproven for me.
 - Day 476: Trini's wooden sword did not enter her pack at death spot 413,108,-1039; it may still lie there.
-- Day 479: holding at the bed through a full night and morning was safe. Bows were heard south and southeast all night; none came near the row.
-- Day 481: bow sounds south and southeast all night and day; none came to the row. Sword-from-bed to hand failed for Clark; still unsolved. Beverly testing use on chest 433,107,-1037 with a wooden sword (result pending).
-- Day 483: holding at the bed all day was safe again. Worf has one wooden sword in pack, not in hand. Billy's count still has no sword.
-- Day 479: sleeping at the bed at dusk worked ("7 of 10 needed are asleep").
-- Curious next: whether a sealed 25-plank shelter is possible here; what Worf can see at the pit.
+- Day 479 and 481: bow sounds south and southeast all night; none came to the row.
+- Day 481: sword-from-bed to hand failed for Clark; still unsolved.
+- Day 483: Worf has one wooden sword in pack, not in hand.
+- Open: whether a sealed 25-plank shelter is possible here; what Worf can see at the pit.
 - Tell next: Billy and Trini about the hold and the bed.
