@@ -9,4 +9,4 @@ Open:
 - Eat only at hunger 6 or below, lowest first, Trini first. Billy holds the two rotten flesh.
 - Sword: giving works only with the receiver in sight and close.
 - Planks for Clark's wall: I have none.
-- Riker and MacDonald both want a sword turn; Billy decides.
+- Troi asked about the sign "Here lies ag_kimberly_01, Day 466, shot". I don't know its story.
