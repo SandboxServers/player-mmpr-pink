@@ -1,6 +1,6 @@
 # Beliefs
 
-- Day 462: Billy's sword try on grass or dirt is not yet proven; Zack's method ("use" with item stone_sword or wooden_sword, a block in reach) worked for Zack, and failed for Billy on sign and gravel.
+- Day 476: Billy's count is what is in hand. A sword in pack or on the ground does not count. Laforge's stone sword would not go into his hand.
 - Holding still at the bed with the group in sight is safe through day and night.
 - Sleep works from a tile beside a bed at dusk or night. A sleep at day fails ("not night").
 - "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
@@ -11,18 +11,17 @@
 - Place only on a cell someone names with exact x,y,z.
 - Cow walks break up when the group spreads out. Walk only with the group in sight.
 - Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
-- wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected here; wait interests accept damage.
-- A rest/hold intent ends quickly (it finished at once on day 461); re-issue or simply wait.
+- wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected there; wait interests accept damage.
+- A rest/hold intent ends quickly, often at once; re-issue or simply wait.
 - Gravel pit at 394,107,-1022: Worf cannot give an exact stone coordinate. Pit cell 394,107,-1025 is unconfirmed.
 - Pillager roams east of spawn. Do not walk east.
 - Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
 - Open: endermen roam south-east near 433,107,-1064. Do not look at them.
 - Speech from others can be wrong about who has been fed.
-- Day 465: a rest intent with wake_on directly_addressed, unexpected_damage, precondition_failed was accepted and ended on its own within minutes; wait interests are a separate list.
-- Day 465: at dusk Billy, Trini and Beverly bedded east; I stayed at my bed with no walk. Lone holding at the bed was safe.
+- Day 452: Chapman holds rotten flesh for us, to be given once we walk.
 - Day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
 - Day 421: giving one rotten flesh to the lowest-health person in reach worked.
-- Day 452: Chapman holds rotten flesh for us, to be given once we walk.
+- Day 472: holding at the bed all day was safe. Trini says a sword can be taken from the ground at a death spot, not from open-ground clicks. Unproven for me.
+- Day 476: Trini's wooden sword did not enter her pack at death spot 413,108,-1039; it may still lie there.
 - Curious next: whether a sealed 25-plank shelter is possible here; what Worf can see at the pit.
 - Tell next: Billy and Trini about the hold and the bed.
-- Day 472: Billy gave no count with an empty sight list; holding at the bed all day was safe. Trini says a sword can be taken from the ground at a death spot, not from open-ground clicks. Unproven for me.
