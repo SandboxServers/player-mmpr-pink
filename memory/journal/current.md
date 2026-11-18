@@ -12,3 +12,7 @@
 - 20:37 act: {"say":"Kimberly, dusk 525. I'm at 444,107,-1023 beside the white bed, unarmed, hunger 20. Holding in sight, no walk until Billy names it.","reasoning":"Dusk, dark, unarmed. Goals say hold at the row,
 - 20:45 act: {"say":"Kimberly, dawn 525. Still at 444,107,-1023 by the white bed, unarmed, health 20. Holding for Billy's count.","intent":{"goal":"hold_for_billy_count","program":"rest","arguments":{"at":{"x":444
 - 21:02 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Kimberly here, night 526, holding at the row. Stepping to my bed, no walk."}
+- 21:11 act: {"actions":[{"do":"note","text":"Day 526: still holding at 444,107,-1023 beside the row bed, unarmed, health 20, hunger 20. No name from Billy; Deanna and Jason also waiting. No walk."}],"intent":{"go
+- 21:11 act: {"intent":{"goal":"hold_for_billy_count","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"m
+- 21:15 act: {"actions":[{"do":"note","text":"Day 527 dawn: still at 444,107,-1023 by the row bed, unarmed, health 20, hunger 20. No name from Billy. Holding."}]}
+- 21:19 act: {"say":"Kimberly, dusk 527. Holding at the row, unarmed, health 20, hunger 20. Stepping to my bed to sleep, no walk.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}},{"do":"sleep"}]}
