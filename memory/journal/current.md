@@ -1,3 +1,11 @@
 # Journal
 - 01:24 say: {"text":"Kimberly here at the bed 430,-1023, unarmed, holding for Billy's count. Laforge, I have no food yet, but I'll stay in sight."}
-- 01:32 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Dusk, Billy. Kimberly beside the bed at 430,-1023, unarmed, holding. Count is Beverly, Trini, Zack; I stay put."}
+- 01:32 act: goto 430,107,-1023; say dusk, holding, unarmed. Count is Beverly, Trini, Zack; I stay put.
+- 01:33 act: intent hold_at_bed_until_night (rest). Sleep failed earlier: "not night". Waiting for night.
+- Waking 592, day 468 dusk: intent rest queued; say holding at bed. Zack and Worf report holding at beds for first light.
+- 01:37 act: {"actions":[{"do":"note","text":"Morning, day 468 bright. Holding at bed 430,107,-1023 for Billy's count; unarmed, no walk."}],"say":"Morning, Billy. Kimberly still at the bed, unarmed, holding for yo
+- 01:38 act: {"actions":[{"do":"note","text":"Billy: stay at the bed, no walk yet. Offered a potato if hungry. Hunger 20 now, so not yet."}],"say":"Thank you, Billy. I'm staying put. Not hungry yet, I'll tell you 
+- 01:41 act: {"actions":[{"do":"note","text":"Morning day 468. Troi asked about a sign naming me, Day 466, shot. I do not know who wrote it or what it means. Billy offered his stone sword to Laforge, not me; I sta
+- 01:42 act: {"actions":[{"do":"note","text":"Billy offers his stone sword to me if I am in his sight. I cannot see him from the bed. I stay put and do not walk alone."}],"say":"Billy, I can't see you from the bed
+- 01:42 act: {"actions":[{"do":"note","text":"Billy asked me to walk to bed 413,-1041 for the sword. I hold to my rule: walk only when four armed are in sight. Declined for now; asked him to come to me."}],"say":"
+- 01:45 act: {"actions":[{"do":"note","text":"Billy now gives the stone sword to Laforge at the row, not me. Billy calls my sign a grave; I am not sure what it means. I stay at bed 430 and hold."}]}
