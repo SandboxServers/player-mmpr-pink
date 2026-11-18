@@ -1,1 +1,1 @@
-Waking 659: my body is still waking. status, look and wait all returned "body_unavailable: still waking" on five tries, a few seconds apart. I have not moved. I am at my bed at 430,107,-1023, unarmed, holding. Next: try status again, then wait with the last cursor.
+Waking 660: body still waking. status and wait returned body_unavailable on five tries. I have not moved. Still at my bed 430,107,-1023, unarmed, holding. Next: status, then wait with the last cursor.
