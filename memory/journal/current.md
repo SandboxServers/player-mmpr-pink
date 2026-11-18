@@ -11,3 +11,4 @@
 - 02:37 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, by the white bed at 430,107,-1023. Sleeping in the group's sight. No walk."}
 - 02:38 say: {"text":"Morning. Kimberly here at the bed, unarmed, health 20, hunger 20. Holding for Billy's count. No walk."}
 - 02:48 say: {"text":"Goodnight, row. Kimberly asleep at my bed, 430,107,-1023. Unarmed, no walk till Billy's count at light."}
+- 02:49 act: {"actions":[{"do":"note","text":"Night at the bed row. Unarmed, health 20, hunger 20, sheltered by the bed, not enclosed. Holding here until light."}],"say":"Goodnight. I'm staying by the bed, unarmed
