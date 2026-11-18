@@ -11,3 +11,4 @@ Waking 695: recall ok. status, wait (15s, 30s, 60s, 120s) all return body_unavai
 Waking 701: recall ok.
 Waking 706: recall ok. status, wait, look, act all return body_unavailable (waking / not reachable). No moves, no errand out. Holding at bed 430,107,-1023 on Billy's call; will retry. status and wait (10s, 30s, 60s, 120s) return body_unavailable (waking). No moves, no errand out. Holding at bed 430,107,-1023 on Billy's call; will retry.
 Waking 707: recall ok. status and wait (30s, 60s, 120s) all return body_unavailable (waking). No moves, no errand out. Holding at bed 430,107,-1023 on Billy's call; will retry.
+- 17:03 say: {"text":"Deanna, I'm Kimberly. I hold at the white bed on Billy's call, unarmed. I don't know who wrote that sign; I've not been shot as far as I know. I'm still here."}
