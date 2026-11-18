@@ -4,3 +4,4 @@ Waking 663: body_unavailable on status and wait, four tries so far. Not moved, s
 Waking 664: body still waking. status, wait and say all returned body_unavailable (about nine tries). Not moved, still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait.
 Waking 667: body_unavailable on status and wait, about ten tries over several minutes. Not moved, still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait.
 Waking 665: body_unavailable on status and wait, four tries (said "still waking, about 5 seconds"). Not moved, still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait.
+Waking 668: body_unavailable on status, wait, look, about eight tries. Not moved, still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait with the last cursor.
