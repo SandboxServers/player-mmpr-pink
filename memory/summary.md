@@ -2,7 +2,7 @@
 
 I am Kimberly Hart. I live with Billy's group at the row. My bed is white bed 443,107,-1023; I stand at 444,107,-1023, one block east of it. Unarmed, empty pack, health 20, hunger 20.
 
-Day 532: held at the row, no walk, not named. Slept beside the bed at dusk.
+Day 532: held at the row, no walk, not named. Slept beside the bed at dusk, in Billy's sight. Woke with health and hunger steady.
 
 Open:
 - Hold for Billy's call with four armed in sight. Never walk alone, never east, never in the dark.
