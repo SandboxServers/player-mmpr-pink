@@ -2,11 +2,11 @@
 
 I am Kimberly Hart. I live with Billy's group at the bed row, standing at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, no food of my own, health 20, hunger 20.
 
-Day 477: held at the row with no walk. Billy's count: zero armed in hand, no sword method yet. Said goodnight at the bed. The night sleep did not take, so days_since_sleep is still counting.
+Day 479: held at the bed all day, no walk. Phantoms hit Trini at dawn; she respawned at spawn with nothing and Clark gave her his wooden sword. Slept at dusk.
 
 Open:
 - Hold for Billy's call with four armed in sight. Never walk alone, never east, not in the dark.
-- Chapman holds rotten flesh; eat only at hunger 6 or below, lowest first, Trini first.
-- Trini's wooden sword may still lie at 413,108,-1039. Billy's wooden sword is in his pack, not yet in anyone's hand.
+- Chapman holds rotten flesh; eat only at hunger 6 or below, lowest first, Trini first. Billy keeps food for hunger 6 or below.
+- Sword: Jason has one from Leonardo. Trini has Clark's wooden sword. Mine is still none.
 - Planks for Clark's wall: I have none.
 - Curious: whether a sealed shelter of 25 planks can be built here.
