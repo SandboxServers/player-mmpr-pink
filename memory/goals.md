@@ -10,4 +10,4 @@
 8. Learn to build a sealed shelter of 25 planks of one kind, and share what I learn.
 
 Curious next: whether a sealed shelter of 25 planks can be built here; what Worf can see at the pit.
-Tell next: Billy and Trini, since they keep the group together.
+Tell next: Billy, since he keeps the count; Trini holds with me.
