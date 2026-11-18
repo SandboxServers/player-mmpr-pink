@@ -1,1 +1,1 @@
-Waking 675: body still waking. status, look, and wait all returned body_unavailable on repeated tries. I made no moves. Still believed at bed 430,107,-1023, unarmed, holding for Billy's call. Will try the body again next turn.
+Waking 676: body still waking. status, look, wait all returned body_unavailable on repeated tries. No moves made. Holding at bed 430,107,-1023, unarmed, for Billy's call. Will try the body again next turn.
