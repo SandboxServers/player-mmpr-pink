@@ -9,3 +9,4 @@
 - 20:28 act: {"actions":[{"do":"note","text":"Morning 525: awake beside the row bed, unarmed, health 20, hunger 20. Holding; Billy has not named a walk. Handoff written in memory/journal/handoff.md."}]}
 - 20:28 act: {"actions":[{"do":"note","text":"Morning 525 (wake 722): at 444,107,-1023 beside the row bed, unarmed, health 20, hunger 20. No name from Billy; holding. Quiet wait, no walk."},{"do":"wait","seconds":
 - 20:32 say: {"text":"Kimberly, morning 524, at the row, unarmed, health 20, hunger 20. Holding for Billy's call."}
+- 20:37 act: {"say":"Kimberly, dusk 525. I'm at 444,107,-1023 beside the white bed, unarmed, hunger 20. Holding in sight, no walk until Billy names it.","reasoning":"Dusk, dark, unarmed. Goals say hold at the row,
