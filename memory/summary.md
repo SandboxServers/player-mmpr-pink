@@ -9,4 +9,4 @@ Open:
 - Eat only at hunger 6 or below, lowest first, Trini first. Chapman holds rotten flesh.
 - Sword: giving works only with the receiver in sight and close.
 - Planks for Clark's wall: I have none.
-- Riker and MacDonald both want a sword turn; Billy decides.
+- Riker (hunger 17, no food) and MacDonald both want a sword turn; Billy decides.
