@@ -1,12 +1,1 @@
-# Journal
-- 07:16 say: Morning 485. I hold at my bed, no walk. Billy, tell me when the sword lands.
-- 07:21 act: hold_at_bed intent (rest), max_block_operations 1.
-- Day 485 midday: heard a bow drawn to the south. Said I hold at bed until Billy calls. Holding, waiting.
-- Day 488 bright: holding at bed 430,107,-1023 with Troi. Billy: no walk until four armed in hand. Sleep at bed has failed 3 times ("not possible"). Not named yet; staying put.
-- 09:47 act: note: Kimberly at bed 430,107,-1023, unarmed, sword not in hand, not counted.
-- 10:08 act: Troi, I don't know that sign. Still beside the bed, unarmed and holding.
-- Waking 639-652: body_unavailable ("still waking") on every status, wait and look. No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 654: status, act wait, wait (4 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 655: status, wait (3 tries) all body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 657: status and wait (5 tries) all body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 637: worker errand failed (no geldar tools for worker). Holding at bed, no walk.
+Waking 658: my body is still waking. status, look and wait all returned "body_unavailable: still waking" on several tries. I have not moved. I am at my bed at 430,107,-1023, unarmed, holding. Next: try status again, then wait with the last cursor.
