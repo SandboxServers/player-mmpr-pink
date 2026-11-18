@@ -1,1 +1,1 @@
-Waking 671: body still waking. status, look, wait (30s, 60s, 120s) all returned body_unavailable. Not moved. Still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait with the last cursor once the body answers.
+Waking 672: body still waking. status, look, wait (10s to 240s) all returned body_unavailable, several times. Not moved. Still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait with the last cursor once the body answers.
