@@ -7,4 +7,5 @@
 - 10:08 act: {"actions":[],"say":"Troi, I don't know that sign. I have no memory of it. I'm still here beside the bed, unarmed and holding."}
 - Waking 639: body still waking; status and wait both return body_unavailable (retried 6 times). No move. Holding at bed.
 - Waking 641: status, wait, wait again all return body_unavailable ("body is waking", retried 5 times). No move. Holding at bed 430,107,-1023, unarmed.
+- Waking 642: status and wait (4 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
 - Waking 637: my worker errand failed twice (no geldar tools for worker; general-purpose launched to report status). Holding at bed, no walk, awaiting report.
