@@ -4,3 +4,4 @@
 - 21:38 act: {"actions":[{"do":"wait","seconds":240}]}
 - 21:42 act: {"actions":[{"do":"wait","seconds":240}]}
 - 21:46 say: {"text":"Kimberly at dawn 528, beside the white bed at the row, unarmed, health 20, hunger 20. Holding still until Billy calls a count."}
+- 21:58 act: {"actions":[{"do":"wait","seconds":240}]}
