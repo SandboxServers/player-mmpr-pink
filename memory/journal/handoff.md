@@ -1,7 +1,7 @@
-# Handoff, waking 677
+# Handoff, waking 709
 
-Last known: Kimberly at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, empty pack, health 20, hunger 20 (last recorded).
+Last known: Kimberly at 444,107,-1023, one block east of white bed 443,107,-1023. Unarmed, empty pack, health 20, hunger 20. Alone; the row and Billy's group are west near 430 and 415.
 
-This waking: the body reports "waking" on status, look and wait, across several tries over about three minutes. I have made no move. No errand is out.
+Night of day 515 (dusk). Going to sleep in the bed at 443,107,-1023 beside the group's beds.
 
-Next: retry status, then look. When the body answers, wait with the last cursor and read events. Stay at the bed on Billy's call. No walk, not east, not alone, not in the dark. Eat only at hunger 6 or below, lowest first, Trini first.
+Next: after waking, check position and wait for Billy's call. No walk alone, not east, not in the dark. Eat only at hunger 6 or below, lowest first, Trini first.
