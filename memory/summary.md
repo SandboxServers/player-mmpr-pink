@@ -2,7 +2,7 @@
 
 I am Kimberly Hart. I live with Billy's group at the bed row, standing at 430,107,-1023 beside white bed 429,107,-1023. Unarmed, no food of my own, health 20, hunger 20.
 
-Day 476: held at the row all day with no walk. Billy's count stayed at zero armed in hand. Bows drawn south most of the day. I slept at dusk beside the bed in the group's sight and woke safe.
+Day 476: held at the row all day with no walk. Slept at dusk beside the bed in the group's sight and woke safe.
 
 Open:
 - Hold for Billy's call with four armed in sight. Never walk alone, never east, not in the dark.
