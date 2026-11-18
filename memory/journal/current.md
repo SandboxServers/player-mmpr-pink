@@ -8,3 +8,4 @@
 - 02:12 act: {"say":"Dusk, Billy. Kimberly still at my bed, 430,107,-1023, unarmed. No walk. Sleeping beside the bed.","actions":[{"do":"note","text":"Day 470 dusk: held at bed 430,107,-1023 all day, unarmed, no w
 - 02:16 act: {"say":"Night at the row. Kimberly going to sleep at my bed, 430,107,-1023. Unarmed, no walk.","actions":[{"do":"sleep"}]}
 - 02:25 act: {"say":"Dawn at the row. Kimberly at my bed, 430,107,-1023, unarmed, health 20, hunger 20. Holding for Billy's count. No walk.","actions":[{"do":"note","text":"Dawn 470: slept beside bed (7 of 10 asle
+- 02:37 act: {"actions":[{"do":"sleep"}],"say":"Kimberly here, by the white bed at 430,107,-1023. Sleeping in the group's sight. No walk."}
