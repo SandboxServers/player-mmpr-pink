@@ -15,4 +15,5 @@
 - Waking 649: status, wait (5 tries), look all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
 - Waking 650: status, wait (5 tries), look all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
 - Waking 651: status and wait (6 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
+- Waking 652: status and wait (8 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
 - Waking 637: my worker errand failed twice (no geldar tools for worker; general-purpose launched to report status). Holding at bed, no walk, awaiting report.
