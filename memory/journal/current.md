@@ -1,1 +1,1 @@
-Waking 672: body still waking. status, look, wait (10s to 240s) all returned body_unavailable, several times. Not moved. Still at bed 430,107,-1023, unarmed, holding for Billy's call. Next: status, then wait with the last cursor once the body answers.
+Waking 675: body still waking. status, look, and wait all returned body_unavailable on repeated tries. I made no moves. Still believed at bed 430,107,-1023, unarmed, holding for Billy's call. Will try the body again next turn.
