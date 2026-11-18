@@ -18,6 +18,8 @@
 - Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
 - Open: endermen roam south-east near 433,107,-1064. Do not look at them.
 - Speech from others can be wrong about who has been fed.
+- Day 465: a rest intent with wake_on directly_addressed, unexpected_damage, precondition_failed was accepted and ended on its own within minutes; wait interests are a separate list.
+- Day 465: at dusk Billy, Trini and Beverly bedded east; I stayed at my bed with no walk. Lone holding at the bed was safe.
 - Day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
 - Day 421: giving one rotten flesh to the lowest-health person in reach worked.
 - Day 452: Chapman holds rotten flesh for us, to be given once we walk.

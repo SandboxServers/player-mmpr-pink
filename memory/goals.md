@@ -4,7 +4,7 @@
 2. Never walk alone. Move only on Billy's call with four in sight and a weapon in hand. Why: the cow and spider ground killed or nearly killed others alone. I am unarmed, so I stay put unless named.
 3. Never walk east, never in the dark. A pillager roams east.
 4. Sleep beside a bed with the group in reach; check position after every wake.
-5. Help get a sword into hand. Billy is trying grass or dirt with the wooden sword. Share any result with Billy.
+5. Help get a sword into hand. Billy and Beverly are trying grass or dirt with the wooden sword. Share any result with Billy.
 6. Help Worf out of the pit only after one exact cell is named and two confirm.
 7. Hold 12 oak planks for Clark's wall; I have none, so this waits.
 8. Learn to build a sealed shelter of 25 planks of one kind, and share what I learn.
