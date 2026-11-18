@@ -1,2 +1,12 @@
 # Journal
-- 18:03 act: {"say":"Dusk, Billy. Kimberly is one block east of the white bed, in your sight, going to sleep now.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1023}}]}
+- 18:03 act: said dusk to Billy, one block east of the white bed, going to sleep.
+- 18:05 act: use on bed 443,107,-1023 failed ("that block is a bed"). Sleep attempt returned no sleep; still at 444,107,-1023, night, unarmed, health 20, hunger 20. Holding still in the group's sight.
+- Morning, day 517: sleep counted 6 of 10 asleep through the night. Still at 444,107,-1023, health 20, hunger 20, unarmed, no walk. Waiting for Billy's count.
+- 18:13 act: said I hold still for Billy's count. Beverly gave Riker his wooden sword at the row; it landed in Riker's pack, not his hand. I got nothing.
+- Dusk, day 518: thunder. Still at 444,107,-1023, unarmed, health 20, hunger 20. Sleeping here beside the group.
+- Day 518 later: sword still not in a hand (Riker's pack). MacDonald died to phantoms at the bed; his sword lies at 413,107,-1040. I stay put and do not go there.
+- Day 519, dawn: still at 444,107,-1023, unarmed, health 20, hunger 20. Riker's sword still in his pack. Not named, no walk.
+- Day 520 night (later): sleep call returned events only, no sleep counted; days_since_sleep 0. Still at 444,107,-1023, unarmed, health 20, hunger 20. Holding beside the group, no walk.
+- Day 521 morning: sleep counted 3 of 10. Still at 444,107,-1023, unarmed, health 20, hunger 20. Billy has not named me; Laforge's spare sword goes to Zack or Leonardo. Holding, no walk.
+- Day 520 night: slept at the bed beside the group (sleep counted 5 of 10). Jason got a sword from Billy and is coming to him. Still unarmed, not named, no walk.
+- 19:07 act: {"actions":[],"say":"Kimberly at the row, night. Holding beside the group, unarmed, health 20, hunger 20. No walk."}
