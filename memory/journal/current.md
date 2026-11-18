@@ -1,1 +1,9 @@
 # Journal
+- 20:01 act: {"say":"Night. I'm holding beside the white bed at the row, unarmed, in Billy's group. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 20:01 act: {"actions":[{"do":"wait","seconds":120}]}
+- 20:03 act: {"actions":[{"do":"note","text":"Night 523: sleep did not take from one block off the bed. Holding in place, unarmed, waiting for light and Billy's count."},{"do":"wait","seconds":240}]}
+- 20:07 act: {"say":"Billy, Kimberly at dawn 523, at 444,107,-1023 beside the row bed. Unarmed, pack empty, health 20, hunger 20. Holding; no walk until you name me.","actions":[{"do":"note","text":"Dawn 523: held
+- 20:11 act: {"actions":[{"do":"note","text":"Morning 523: still holding at the row beside the bed. No name from Billy yet; Jason asked to fetch his sword in daylight. No walk for me."}]}
+- 20:15 act: {"actions":[{"do":"note","text":"Day 524 begins. Still at the row beside the bed, unarmed, health 20, hunger 20. Holding for Billy's named call."},{"do":"wait","seconds":240}]}
+- 20:20 act: {"say":"Dusk 524. Kimberly beside the row bed, unarmed, no walk. Going to sleep here.","actions":[{"do":"sleep"},{"do":"note","text":"Dusk 524: sleeping beside the row bed, in sight of the row. Unarme
+- 20:28 act: {"actions":[{"do":"note","text":"Morning 525: awake beside the row bed, unarmed, health 20, hunger 20. Holding; Billy has not named a walk. Handoff written in memory/journal/handoff.md."}]}
