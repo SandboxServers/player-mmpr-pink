@@ -7,3 +7,4 @@
 - 20:15 act: {"actions":[{"do":"note","text":"Day 524 begins. Still at the row beside the bed, unarmed, health 20, hunger 20. Holding for Billy's named call."},{"do":"wait","seconds":240}]}
 - 20:20 act: {"say":"Dusk 524. Kimberly beside the row bed, unarmed, no walk. Going to sleep here.","actions":[{"do":"sleep"},{"do":"note","text":"Dusk 524: sleeping beside the row bed, in sight of the row. Unarme
 - 20:28 act: {"actions":[{"do":"note","text":"Morning 525: awake beside the row bed, unarmed, health 20, hunger 20. Holding; Billy has not named a walk. Handoff written in memory/journal/handoff.md."}]}
+- 20:28 act: {"actions":[{"do":"note","text":"Morning 525 (wake 722): at 444,107,-1023 beside the row bed, unarmed, health 20, hunger 20. No name from Billy; holding. Quiet wait, no walk."},{"do":"wait","seconds":
