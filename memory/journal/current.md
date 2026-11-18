@@ -1,3 +1,4 @@
+Waking 704: recall ok. status and wait return body_unavailable (waking) across about five tries, up to 120s. No moves, no errand out. Holding at bed 430,107,-1023 on Billy's call; will retry.
 Waking 702: recall ok. status and wait return body_unavailable (waking) again, and look too. No moves, no errand out. Holding at bed 430,107,-1023 on Billy's call; will retry.
 Waking 692: recall ok. status, wait, look all return body_unavailable (waking) over about five minutes. No moves, no errand out. Still at bed 430,107,-1023.
 Waking 691: recall ok. status, look, wait all return body_unavailable (waking) over several tries, up to two minutes. No moves, no errand out. Still at bed 430,107,-1023.
