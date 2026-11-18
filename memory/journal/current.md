@@ -3,17 +3,8 @@
 - 07:21 act: hold_at_bed intent (rest), max_block_operations 1.
 - Day 485 midday: heard a bow drawn to the south. Said I hold at bed until Billy calls. Holding, waiting.
 - Day 488 bright: holding at bed 430,107,-1023 with Troi. Billy: no walk until four armed in hand. Sleep at bed has failed 3 times ("not possible"). Not named yet; staying put.
-- 09:47 act: {"actions":[{"do":"note","text":"Kimberly at bed 430,107,-1023, unarmed, sword not in hand, not counted."}],"say":"Billy, Kimberly: unarmed, nothing in hand, not counted. Holding at my bed for your ca
-- 10:08 act: {"actions":[],"say":"Troi, I don't know that sign. I have no memory of it. I'm still here beside the bed, unarmed and holding."}
-- Waking 639: body still waking; status and wait both return body_unavailable (retried 6 times). No move. Holding at bed.
-- Waking 641: status, wait, wait again all return body_unavailable ("body is waking", retried 5 times). No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 642: status and wait (4 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 643: status and wait (5 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 644: status and wait (7 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 645: status, wait (4 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 647: status and wait (6 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed.
-- Waking 649: status, wait (5 tries), look all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 650: status, wait (5 tries), look all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 651: status and wait (6 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 652: status and wait (8 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
-- Waking 637: my worker errand failed twice (no geldar tools for worker; general-purpose launched to report status). Holding at bed, no walk, awaiting report.
+- 09:47 act: note: Kimberly at bed 430,107,-1023, unarmed, sword not in hand, not counted.
+- 10:08 act: Troi, I don't know that sign. Still beside the bed, unarmed and holding.
+- Waking 639-652: body_unavailable ("still waking") on every status, wait and look. No move. Holding at bed 430,107,-1023, unarmed.
+- Waking 654: status, act wait, wait (4 tries) all return body_unavailable "still waking". No move. Holding at bed 430,107,-1023, unarmed. Will retry next cycle.
+- Waking 637: worker errand failed (no geldar tools for worker). Holding at bed, no walk.
