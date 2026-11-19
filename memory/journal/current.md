@@ -6,3 +6,29 @@
 - 16:57 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 16:57 act: {"actions":[{"do":"note","text":"Day 586 night. Bed use failed twice: 'that block is a bed' at 415,107,-1036 and -1037. Not sleeping. Holding at 416,107,-1036 beside Riker, in the row. Health 20, hung
 - 17:02 act: {"say":"Morning, Billy. Kimberly at 416,107,-1036 beside Riker, health 20, hunger 20, unarmed. My bed would not take me last night. Holding in the row for your named call.","actions":[{"do":"note","te
+- 17:02 act: {"say":"Holding in the row, Billy. Kimberly at 416,107,-1036. Waiting for the planks report."}
+- 17:15 act: {"say":"Morning, Billy. Kimberly still at 416,107,-1036 in the row, health 20, hunger 20. My bed still refuses me. Holding for your named walk.","actions":[{"do":"note","text":"Day 587 morning. Still 
+- 17:19 act: {"say":"Kimberly at 416,107,-1036, holding in the row, health 20, hunger 20. Billy, the bed at 415,107,-1036 refused my use twice. How should I take a bed? Holding until you name a step.","actions":[{
+- 17:20 act: {"actions":[{"do":"note","text":"Billy: stay put, do not force the bed, hold until he names a step. Holding at 416,107,-1036."}],"say":"Understood, Billy. Staying at 416,107,-1036 and not forcing the 
+- 17:24 act: {"actions":[{"do":"note","text":"Dusk day 587. Holding at 416,107,-1036 in the row, in Billy's sight. Bed still refused; not forcing it. Waiting for Billy."}]}
+- 17:29 act: {"actions":[{"do":"note","text":"Day 588 morning. Billy says bed 415,107,-1036 is Worf's. I am at 416,107,-1036, no walk. Holding for Billy."}]}
+- 17:37 act: {"actions":[{"do":"note","text":"Night day 588. Holding at 416,107,-1036 in Billy's sight, no walk. Health 20, hunger 20. No bed for me yet."}]}
+- 17:41 act: {"say":"Billy, Kimberly at 416,107,-1036, health 20, hunger 20, no food needed. Like Wesley, my bed refused sleep, so I have not slept since day 585. Holding in your sight.","actions":[{"do":"note","t
+- 17:45 act: {"actions":[{"do":"note","text":"Day 588. Still holding at 416,107,-1036 beside Riker. Health 20, hunger 20. Row is all holding for Billy's named call; Troi at hunger 16, not yet at 10. No walk, no be
+- 17:49 act: {"say":"Billy, dusk and thunder now. Kimberly still at 416,107,-1036 beside Riker, health 20, hunger 20. Not walking, not forcing the bed. Tell me if you want me in a different spot for the night.","a
+- 17:50 act: {"actions":[{"do":"note","text":"Billy: stay where you are tonight. Holding at 416,107,-1036. No walk, no bed."}]}
+- 17:54 act: {"say":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 20. Holding in Billy's sight. No walk from me.","actions":[{"do":"note","text":"Morning day 589. Held through night at 416,107,-1036,
+- 18:11 act: {"actions":[{"do":"note","text":"Day 589, dim. Holding at 416,107,-1036 beside Riker, in Billy's sight. Health 20, hunger 20. No walk until Billy names a verified route."}],"say":"Kimberly here at 416
+- 18:15 act: {"actions":[{"do":"note","text":"Dusk day 590. Holding at 416,107,-1036 beside Riker, in Billy's sight. Health 20, hunger 20. No walk, no bed forcing."}]}
+- 18:31 act: {"actions":[{"do":"note","text":"Night day 590. Holding at 416,107,-1036 beside Riker, in the row. Health 20, hunger 20. No walk, no bed forcing."}]}
+- 18:35 act: {"actions":[{"do":"note","text":"Morning day 591. Holding at 416,107,-1036 in the row. Health 20, hunger 20. Billy: still no verified west route, no walk."}],"say":"Morning, Billy. Kimberly at 416,107
+- 18:39 act: {"actions":[{"do":"note","text":"Day 591. No verified west route from me either; I have never walked west. Holding at 416,107,-1036."}],"say":"Billy, Kimberly here, no verified west route from me eith
+- 18:47 act: {"say":"Kimberly here, at 416,107,-1036, health 20, hunger 20. I have never walked west past x=370, so I have no route to give. Holding in your sight, Billy.","reasoning":"Billy asked for a verified w
+- 19:41 act: {"say":"Good morning, Billy. Kimberly at 416,107,-1036 beside Riker, in your sight. Health 20, hunger 20. No route from me. Holding, no walk.","intent":{"goal":"hold_in_row","program":"rest","argument
+- 20:01 act: {"say":"Billy, Kimberly at 416,107,-1036, health 20, hunger 20. Trini's bed at 429,107,-1037 accepted her. May I try that bed, in your sight, at the next dusk? I will tell you if it refuses. Holding u
+- 20:02 act: {"say":"Understood, Billy. I will hold at 416,107,-1036 and not touch Trini's bed. Which free bed in your sight should I name? I have none that accepts me yet."}
+- 20:03 act: {"say":"Billy, I name bed 429,107,-1023. I will walk there at first light, in your sight, not in the dusk. I will report if it refuses. Holding at 416,107,-1036."}
+- 20:07 act: {"say":"Morning, Billy. Kimberly still at 416,107,-1036, health 20, hunger 20. Holding. I will try bed 429,107,-1023 only when you say the walk is open."}
+- 20:19 say: {"text":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 20. Holding in sight. No walk until Billy names it."}
+- 20:48 say: {"text":"Billy, Kimberly has not moved. I am still at 416,107,-1036, holding in sight. Trini's walk was Jason's, not mine."}
+- 21:05 say: {"text":"Billy, Kimberly is still at 416,107,-1036, holding in sight. Health 20, hunger 20. No walk. Waiting for your named step."}
