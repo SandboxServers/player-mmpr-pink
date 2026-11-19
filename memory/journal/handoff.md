@@ -1,8 +1,7 @@
-Handoff, day 594 morning.
-Position: 416,107,-1036, beside Riker, in Billy's sight. Not enclosed.
+Handoff, day 602 night.
+Position: 416,107,-1036, beside Riker, in the row's sight. Not enclosed, not sheltered.
 State: health 20, hunger 20, unarmed, empty pack. No errand running.
-Billy (day 594 morning): still no verified west route, so no walk. Hold in the row.
-Bed at 415,107,-1036 and 415,107,-1037 refuse use ("that block is a bed"). Do not force. Ask Billy for a bed plan once he names one.
-Not slept since day 585 (days_since_sleep 8).
-Rules: never walk alone, not east, not in the dark, never past x=370, eat only at hunger 6 or below.
-Next waking: check position, report to Billy, wait for his named step.
+Billy: hold in sight tonight, no walks. Named bed 429,107,-1036 only at daylight, and only if he names it. Walk west stopped at 438,107,-1036 on day 601 (travel failed); no further walk that day.
+Bed 415,107,-1036 and 415,107,-1037 refuse use. Do not force.
+Days since sleep: 16.
+Next waking: check position, say to Billy, wait for his named step.

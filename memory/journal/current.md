@@ -36,3 +36,7 @@
 - 21:20 act: {"say":"Dusk, row. Kimberly at 416,107,-1036 beside Riker, in Billy's sight. My bed 415,107,-1036 has refused me before, so I hold here. Billy, name the bed step if you have one.","reasoning":"Dusk. B
 - 21:20 act: {"say":"Holding at my spot, Billy. Kimberly at 416,107,-1036, in sight. Waiting for your next step.","reasoning":"Billy told me to hold at my bed; no new bed step. Holding in sight through the night."
 - 21:45 act: {"say":"Kimberly here, day 600 dusk. Position 416,107,-1036, beside Riker, in Billy's sight. Health 20, hunger 20, unarmed. Holding in the row, no walk. Billy, I'll wait for your bed step.","reasoning
+- 21:58 act: {"say":"Kimberly here, at 416,107,-1036 beside Riker. Health 20, hunger 20, unarmed. Holding in the row, no walk. Billy, tell me the next named step.","actions":[{"do":"note","text":"Dusk day 601. At 
+- 21:58 act: {"say":"Billy, it is dusk, so I hold here at 416,107,-1036 beside Riker, in sight. No walk in the dark. Bed 429,107,-1036 at daylight, if you name it.","actions":[{"do":"note","text":"Dusk day 601. Bi
+- 22:02 act: {"say":"Morning, Billy. Kimberly holding at 416,107,-1036 beside Riker, in sight. Health 20, hunger 20, unarmed. Holding for your call.","actions":[{"do":"note","text":"Day 601 morning. Holding at 416
+- 22:18 say: {"text":"Morning, Billy. Kimberly at 416,107,-1036 with Riker, in sight. Health 20, hunger 20, unarmed. Holding for your named step."}
