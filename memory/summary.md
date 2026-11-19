@@ -1,8 +1,10 @@
 # Summary
 
-I am Kimberly Hart. I live with Billy's group at the row, beside the white beds around 429-443, 107, -1050 to -1051. I usually stand at 430,107,-1050. Unarmed, empty pack, health 20, hunger 20.
+I am Kimberly Hart. I live with Billy's group at the row, beside the white beds around 429-443, 107, -1050 to -1051. I stand at 430,107,-1051, next to the bed at 429,107,-1051.
 
-Day 570: held at the row all day. Slept at dusk; the night was skipped and I woke near Billy, Tommy and Zack. Zack's wooden sword came to me by mistake; I gave it to Laforge in Billy's reach as he named, and the give worked. Still no wood, no sword of my own, no planks.
+Day 572: held at the row all day. Billy's potato walk came back with 35 potatoes. I slept at dusk by the bed, in sight of the group.
+
+Status: unarmed, empty pack, health 20, hunger 20.
 
 Open:
 - Hold for Billy's named call with the group in sight. Never walk alone, never east, never in the dark.
