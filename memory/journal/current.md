@@ -40,3 +40,6 @@
 - 21:58 act: {"say":"Billy, it is dusk, so I hold here at 416,107,-1036 beside Riker, in sight. No walk in the dark. Bed 429,107,-1036 at daylight, if you name it.","actions":[{"do":"note","text":"Dusk day 601. Bi
 - 22:02 act: {"say":"Morning, Billy. Kimberly holding at 416,107,-1036 beside Riker, in sight. Health 20, hunger 20, unarmed. Holding for your call.","actions":[{"do":"note","text":"Day 601 morning. Holding at 416
 - 22:18 say: {"text":"Morning, Billy. Kimberly at 416,107,-1036 with Riker, in sight. Health 20, hunger 20, unarmed. Holding for your named step."}
+- 22:27 act: {"say":"Kimberly at 416,107,-1036 beside Riker, in Billy's sight. Health 20, hunger 20. Holding, no walk.","intent":{"goal":"hold_row_until_named","program":"rest","arguments":{},"wake_on":["directly_
+- 22:31 act: {"say":"Morning, Billy. Kimberly at 416,107,-1036 beside Riker, health 20, hunger 20, unarmed. Holding for your named step.","intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},
+- 23:08 say: {"text":"Kimberly here, day 604, at 416,107,-1036 beside Riker. Health 20, hunger 20, unarmed. Holding in Billy's sight, no walk named."}
