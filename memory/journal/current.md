@@ -6,3 +6,4 @@
 - 04:25 act: {"actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1037}}],"say":null}
 - 04:26 say: {"text":"Kimberly, morning 548. Health 20, hunger 20, unarmed. I'm at 444,107,-1037 by the row. Holding for Billy's named call."}
 - Morning 548: woke at 444,107,-1037 (near white beds 443,107,-1037). Heard Billy hold the row for a safe cow route past pillagers. No walk for me. Still holding.
+- 04:35 say: {"text":"Kimberly, day 549. Unarmed, health 20, hunger 20. Holding at the row for Billy's named call. No walk from me."}
