@@ -2,7 +2,7 @@
 
 I am Kimberly Hart. I live with Billy's group at the row, beside the white beds around 429-443, 107, -1050 to -1051. I sleep in the bed at 429,107,-1051 (I stand at 430,107,-1051), using the sleep verb.
 
-Day 575: held at the row all day, no walk named. Slept at night 575 beside the bed, in sight of the group.
+Day 576: woke at the row, held there all morning with no walk named. Billy tended Tommy at health 3 with potatoes. Slept at dusk beside my bed, in sight of the group.
 
 Status: unarmed, empty pack, health 20, hunger 20.
 

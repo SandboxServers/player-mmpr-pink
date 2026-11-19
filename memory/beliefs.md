@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 576: Holding at the row all morning with no named walk was safe. Billy tended Tommy at health 3 with potatoes; Wesley held his five until Billy named him.
+- Day 576: Speech goes through the say tool. Act accepts only world actions (goto, mine, craft, place...), not say text.
 - Day 575: "use" on a bed fails ("that block is a bed"). Lie down with the sleep verb from beside the bed at night; it worked.
 - Day 574: sleep verb in daylight is not needed; wait until dusk. Holding at the row all day with no walk stayed safe.
 - Day 570: a sword handed to me by mistake can be passed on in reach of its owner, as Billy names it. The give worked from one step away.
