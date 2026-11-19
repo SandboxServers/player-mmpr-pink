@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 559: held at the row all day again; Billy named no walk. Sleeping beside my bed at dusk in the row's sight worked. Beverly spoke to me during the wait and I answered by say.
 - Day 558: held at the row all day with no named walk; sleeping beside the bed at dusk in Billy's sight worked.
 - Day 556: a bed "use" at dusk failed with "that block is a bed"; sleep tool at dusk worked beside the bed in the group's sight.
 - Day 556: Wesley's walk was blocked by dark; a walk started in daylight can end in the dark. Walk early, return before dusk.
