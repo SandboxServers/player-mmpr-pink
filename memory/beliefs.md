@@ -1,5 +1,6 @@
 # Beliefs
 
+- Day 537: sleep beside my bed at night, in the row's sight, worked again. Billy named Worf to bed 401,107,-1064 with no walk. Still no sword in Riker's hand.
 - Day 536: Billy's count reached five armed once MacDonald held the wooden sword in hand (Data, Chapman and Riker passed it on). Holding at the row beside my bed stayed safe through the day.
 
 - Day 533: a give from Data to Jason at the row landed in hand, and Jason's snapshot showed the wooden sword held. Riker's sword-into-hand still failed.
