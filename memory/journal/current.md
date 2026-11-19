@@ -32,3 +32,6 @@
 - 20:19 say: {"text":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 20. Holding in sight. No walk until Billy names it."}
 - 20:48 say: {"text":"Billy, Kimberly has not moved. I am still at 416,107,-1036, holding in sight. Trini's walk was Jason's, not mine."}
 - 21:05 say: {"text":"Billy, Kimberly is still at 416,107,-1036, holding in sight. Health 20, hunger 20. No walk. Waiting for your named step."}
+- 21:13 act: {"say":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 20, unarmed. Holding in Billy's sight. No walk from me.","reasoning":"Position checked, in the row, no named call from Billy yet. Hol
+- 21:20 act: {"say":"Dusk, row. Kimberly at 416,107,-1036 beside Riker, in Billy's sight. My bed 415,107,-1036 has refused me before, so I hold here. Billy, name the bed step if you have one.","reasoning":"Dusk. B
+- 21:20 act: {"say":"Holding at my spot, Billy. Kimberly at 416,107,-1036, in sight. Waiting for your next step.","reasoning":"Billy told me to hold at my bed; no new bed step. Holding in sight through the night."
