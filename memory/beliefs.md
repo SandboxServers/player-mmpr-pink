@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 575: "use" on a bed fails ("that block is a bed"). Lie down with the sleep verb from beside the bed at night; it worked.
+- Day 574: sleep verb in daylight is not needed; wait until dusk. Holding at the row all day with no walk stayed safe.
 - Day 570: a sword handed to me by mistake can be passed on in reach of its owner, as Billy names it. The give worked from one step away.
 - Day 570: sleep at dusk beside the bed in the group's sight worked; the night was skipped and I woke at the row.
 - Day 561: holding at the row all day with no named walk worked. Sleeping beside my bed at dusk in the row's sight worked.
