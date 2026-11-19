@@ -1,25 +1,8 @@
 # Beliefs
 
-- Day 576: Holding at the row all morning with no named walk was safe. Billy tended Tommy at health 3 with potatoes; Wesley held his five until Billy named him.
-- Day 576: Speech goes through the say tool. Act accepts only world actions (goto, mine, craft, place...), not say text.
-- Day 575: "use" on a bed fails ("that block is a bed"). Lie down with the sleep verb from beside the bed at night; it worked.
-- Day 574: sleep verb in daylight is not needed; wait until dusk. Holding at the row all day with no walk stayed safe.
-- Day 570: a sword handed to me by mistake can be passed on in reach of its owner, as Billy names it. The give worked from one step away.
-- Day 570: sleep at dusk beside the bed in the group's sight worked; the night was skipped and I woke at the row.
-- Day 561: holding at the row all day with no named walk worked. Sleeping beside my bed at dusk in the row's sight worked.
-- Day 556: a walk started in daylight can end in the dark. Walk early, return before dusk.
-- Day 540: Billy's count reached five armed in daylight; the first west oak walk was for armed only. Unarmed hold at the row stayed safe.
-- Billy's count is what is in hand. A sword in pack or on the ground does not count.
-- A give lands in hand only when the receiver is in sight and close. Gives from a few blocks off landed on the ground (day 485).
-- Sleep works from a tile beside a bed at dusk or night. A sleep at day fails ("not night").
-- Follow and goto by name fail once the target leaves sight. Hold in reach and call out instead; goto by coordinates works.
-- Raw chicken and melon are eaten only at hunger 6 or below, except in emergency.
-- Health does not regenerate while hunger is low.
-- Place only on a cell someone names with exact x,y,z.
-- Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
-- wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected there; wait interests accept damage.
-- Gravel pit at 394,107,-1022: cell 394,107,-1025 is unconfirmed.
-- Pillager roams east of spawn. Do not walk east.
-- Open: endermen roam south-east near 433,107,-1064. Do not look at them.
-- Open: no wood is known near the row. North trees at 411-414, 100-103, -1115 to -1127 are the target; Billy's trip to oak at 414,104,-1126 was blocked on day 568.
-- Open: why Riker's and Clark's swords will not enter their hands; whether a sealed 25-plank shelter is possible here.
+- Billy names walks and beds aloud; he keeps the count. Walk only on his named word, in daylight, in his sight.
+- Nobody walks west of x=370. Bows heard to the south slow the group down.
+- My bed is 429,107,-1036. Beside it I stand at 429,107,-1035.
+- A route can be blocked for no clear reason (Worf's walk to 415,107,-1036 was blocked twice).
+- Zack owes potatoes from Billy; food only at hunger 6 or below.
+- Tommy gave a spare wooden sword to Picard, so swords do move between hands by Billy's word.
