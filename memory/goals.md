@@ -3,7 +3,7 @@
 1. Stay alive. Eat only at hunger 6 or below. Why: nothing else matters if I die.
 2. Never walk alone. Move only on Billy's named call with the group in sight. Why: the ground has nearly killed others alone.
 3. Never walk east, never in the dark. Why: endermen, pillagers, phantoms at dusk.
-4. Sleep beside my bed (429,107,-1036) with the group in reach; check position after every wake.
+4. Sleep in a bed with the group in reach; my named bed is 429,107,-1036. Check position after every wake.
 5. Get a sword into my hand when Billy names one. Help the unarmed (Riker, Clark). Share what I learn.
 6. Help Worf out of the pit only after one exact cell is named and two confirm.
 7. Hold planks for Clark's wall when I have some.
