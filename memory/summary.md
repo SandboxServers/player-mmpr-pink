@@ -1,8 +1,8 @@
 # Summary
 
-I am Kimberly Hart. I live with Billy's group at the row, beside the white beds near 429,107,-1050 and 443,107,-1064. Unarmed, empty pack, health 20, hunger 20.
+I am Kimberly Hart. I live with Billy's group at the row, beside the white beds at 429,107,-1049 and 429,107,-1050. Unarmed, empty pack, health 20, hunger 20.
 
-Day 560: held at the row all day. Billy named no walk and no sword for me. Zack, Tommy and Riker are at the row with food or waiting. Dusk came and I tried to sleep in the bed beside me. Not sure yet that the sleep took; check on waking.
+Day 560: held at the row all day in sight of the group. Billy named no walk and no sword for me. I slept at the second dusk, in sight of Zack, Troi and Tommy; the sleep is in progress.
 
 Open:
 - Hold for Billy's named call with the group in sight. Never walk alone, never east, never in the dark.
