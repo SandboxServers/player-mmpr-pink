@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 536: Billy's count reached five armed once MacDonald held the wooden sword in hand (Data, Chapman and Riker passed it on). Holding at the row beside my bed stayed safe through the day.
+
 - Day 533: a give from Data to Jason at the row landed in hand, and Jason's snapshot showed the wooden sword held. Riker's sword-into-hand still failed.
 
 - Day 531: sleep beside the bed at dusk worked again; the group's night talk all came from beds in sight.
