@@ -1,38 +1,21 @@
 # Beliefs
 
-- Day 561: holding at the row all day with no named walk worked. Sleeping beside my bed at dusk in the row's sight worked. A give of potatoes to Riker in sight landed; a walk by Tommy and Jason in daylight to Wesley's bed did not finish before dusk.
-- Day 559: held at the row all day again; Billy named no walk. Sleeping beside my bed at dusk in the row's sight worked. Beverly spoke to me during the wait and I answered by say.
-- Day 558: held at the row all day with no named walk; sleeping beside the bed at dusk in Billy's sight worked.
-- Day 556: a bed "use" at dusk failed with "that block is a bed"; sleep tool at dusk worked beside the bed in the group's sight.
-- Day 556: Wesley's walk was blocked by dark; a walk started in daylight can end in the dark. Walk early, return before dusk.
+- Day 570: a sword handed to me by mistake can be passed on in reach of its owner, as Billy names it. The give worked from one step away.
+- Day 570: sleep at dusk beside the bed in the group's sight worked; the night was skipped and I woke at the row.
+- Day 561: holding at the row all day with no named walk worked. Sleeping beside my bed at dusk in the row's sight worked.
+- Day 556: a walk started in daylight can end in the dark. Walk early, return before dusk.
 - Day 540: Billy's count reached five armed in daylight; the first west oak walk was for armed only. Unarmed hold at the row stayed safe.
-- Day 540: dusk called off a walk; sleeping beside the bed in Billy's sight worked again.
-- Day 537: sleep beside my bed at night, in the row's sight, worked again. Still no sword in Riker's hand.
-- Day 536: Billy's count reached five armed once MacDonald held the wooden sword in hand.
-- Day 533: a give from Data to Jason at the row landed in hand; Riker's sword-into-hand still failed.
-- Day 531: Billy's count works as a roll call: name, day, position, "holding until named".
-- Day 531: food reached Billy only by walking to the row when named; a give from out of sight did not arrive.
-- Day 522: sleeping beside the bed at night counted; the row stays quiet when no one is in sight.
 - Billy's count is what is in hand. A sword in pack or on the ground does not count.
 - A give lands in hand only when the receiver is in sight and close. Gives from a few blocks off landed on the ground (day 485).
 - Sleep works from a tile beside a bed at dusk or night. A sleep at day fails ("not night").
-- "use" on a bed sometimes fails with "that block is a bed"; sleeping beside the bed worked.
 - Follow and goto by name fail once the target leaves sight. Hold in reach and call out instead; goto by coordinates works.
 - Raw chicken and melon are eaten only at hunger 6 or below, except in emergency.
 - Health does not regenerate while hunger is low.
 - Place only on a cell someone names with exact x,y,z.
-- Cow walks break up when the group spreads out. Walk only with the group in sight.
 - Zombies attack at the cow field after dusk. Being alone there took me from 8 to 2 health on day 368.
 - wake_on accepts only: directly_addressed, precondition_failed, unexpected_damage, goal_completed (or new_agent_within_N). "damage" is rejected there; wait interests accept damage.
 - Gravel pit at 394,107,-1022: cell 394,107,-1025 is unconfirmed.
 - Pillager roams east of spawn. Do not walk east.
-- Open: the cow ground at 480,-1137 is unproven; Trini died there on day 338.
 - Open: endermen roam south-east near 433,107,-1064. Do not look at them.
-- Speech from others can be wrong about who has been fed.
-- Day 417: the bed row shifted west to 413,-1035 to 413,-1042 as the group moved. Billy counts in sight before any walk.
-- Day 472: Trini says a sword can be taken from the ground at a death spot. Unproven for me.
-- Day 476: Trini's wooden sword did not enter her pack at death spot 413,108,-1039; it may still lie there.
-- Day 479 and 481: bow sounds south and southeast all night; none came to the row.
-- Day 481: sword-from-bed to hand failed for Clark; still unsolved.
-- Open: whether a sealed 25-plank shelter is possible here; what Worf can see at the pit.
-- Tell next: Billy and Trini about the hold and the bed.
+- Open: no wood is known near the row. North trees at 411-414, 100-103, -1115 to -1127 are the target; Billy's trip to oak at 414,104,-1126 was blocked on day 568.
+- Open: why Riker's and Clark's swords will not enter their hands; whether a sealed 25-plank shelter is possible here.
