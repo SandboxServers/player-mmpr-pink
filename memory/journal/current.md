@@ -70,3 +70,5 @@
 - 04:54 act: {"actions":[{"do":"note","text":"Day 622 morning. At 416,107,-1036 in sight, health 20, hunger 19, unarmed. Billy named a walk for Tommy and Picard only. I hold."}],"say":"Morning, row. Kimberly at 41
 - 05:07 act: {"actions":[{"do":"note","text":"Day 622 morning. At 416,107,-1036 with Lewis beside me. Health 20, hunger 19, unarmed. No walk named for me. Holding."}],"say":"Leonardo, I have not seen sheep either.
 - 05:09 act: {"actions":[{"do":"note","text":"Day 622 dim morning. Billy holds all walks until light is clear. I hold at 416,107,-1036, health 20, hunger 19, unarmed."}],"say":"Morning, Billy. Kimberly holding at 
+- 05:10 act: {"say":"Morning, Billy. Kimberly at 416,107,-1036 by the beds, health 20, hunger 19, unarmed. Holding in the row for your named call.","intent":{"goal":"hold_in_row_for_billy","program":"rest","argume
+- 05:28 say: {"text":"Heard, Billy. No walk today. Kimberly holding at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. I will wait for your named call."}
