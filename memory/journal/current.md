@@ -72,3 +72,5 @@
 - 05:09 act: {"actions":[{"do":"note","text":"Day 622 dim morning. Billy holds all walks until light is clear. I hold at 416,107,-1036, health 20, hunger 19, unarmed."}],"say":"Morning, Billy. Kimberly holding at 
 - 05:10 act: {"say":"Morning, Billy. Kimberly at 416,107,-1036 by the beds, health 20, hunger 19, unarmed. Holding in the row for your named call.","intent":{"goal":"hold_in_row_for_billy","program":"rest","argume
 - 05:28 say: {"text":"Heard, Billy. No walk today. Kimberly holding at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. I will wait for your named call."}
+- 05:46 act: {"say":"Kimberly at 416,107,-1036, night, unarmed, hunger 19. Trying my bed at 415,107,-1036 with Lewis in reach. No walk.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+- 05:59 say: {"text":"Heard, Billy. No walk from me. Kimberly holding at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. Staying in the row for the night."}
