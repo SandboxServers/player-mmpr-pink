@@ -43,3 +43,25 @@
 - 22:27 act: {"say":"Kimberly at 416,107,-1036 beside Riker, in Billy's sight. Health 20, hunger 20. Holding, no walk.","intent":{"goal":"hold_row_until_named","program":"rest","arguments":{},"wake_on":["directly_
 - 22:31 act: {"say":"Morning, Billy. Kimberly at 416,107,-1036 beside Riker, health 20, hunger 20, unarmed. Holding for your named step.","intent":{"goal":"hold_row_for_billy_call","program":"rest","arguments":{},
 - 23:08 say: {"text":"Kimberly here, day 604, at 416,107,-1036 beside Riker. Health 20, hunger 20, unarmed. Holding in Billy's sight, no walk named."}
+- 00:36 act: {"say":"Morning. Kimberly here at 416,107,-1036, beside my bed, health 20, hunger 20, unarmed. Holding in the row. Billy, I wait for your named call.","intent":{"goal":"hold_in_row","program":"rest","
+- 00:38 act: {"say":"Dusk. Kimberly still at 416,107,-1036, beside Macdonald, in the row's sight. Unarmed, health 20, hunger 20. No walk from me. Billy, I hold here until morning unless you name a step."}
+- 00:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk, row. Kimberly at 416,107,-1036 beside MacDonald, health 20, hunger 20, unarmed. I am trying my bed to sleep here in the row's si
+- 00:58 act: {"say":"Morning, Billy. Kimberly at 416,107,-1036, health 20, hunger 20. I have no verified route to the open. My own last west walk stopped at 438,107,-1036 on day 601, blocked. I hold for your named
+- 01:18 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1037}}],"say":"Dusk, row. Kimberly trying the bed at 415,107,-1037 once, in the row's sight. No walk from me."}
+- 01:55 act: {"say":"Kimberly holding at 416,107,-1036 beside MacDonald. Health 20, hunger 20, unarmed. No walk from me until Billy names one.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_
+- 01:59 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly at 416,107,-1036, dusk 613, one try at my bed 415,107,-1036 in Billy's sight. Holding if refused.","intent":{"goal":"hold_in_
+- 01:59 act: {"say":"Billy, bed 415,107,-1036 refused again: \"that block is a bed.\" Holding at 416,107,-1036 beside MacDonald, no walk, health 20, hunger 20.","intent":{"goal":"hold_in_row_night","program":"rest
+- 03:01 act: {"say":"Billy, Kimberly holding at 416,107,-1036 beside MacDonald. Unarmed, health 20, hunger 20. Pillagers reported south; I stay put, no walk."}
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Pillager south of me, shooting. Moving north to the row at 416,107,-1036. Unarmed, health 16.","reasoning":"A hostile pillager is
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1040}}],"say":"Still shot at, health 11. Breaking north-west out of the pillager's line.","reasoning":"Health falling under arrows. Get out of t
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1042}}],"say":"Health 3. Running west, pillager east of me. Unarmed.","reasoning":"Health near death. Break line of sight west, away from the pi
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1046}}],"say":"Health 3, pillager 8 blocks south-east. Moving west away from it.","reasoning":"Keep distance from the pillager and get out of it
+- 03:11 act: {"actions":[],"say":"Health 0.2, Kimberly at 397,107,-1046, pillager 14 blocks south-east. Nothing in my pack. Tell Riker and Billy I tried to get to the row.","reasoning":"Health is nearly gone and I
+- 03:11 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}}],"say":"Kimberly respawned at the row, health 19, unarmed. Going to 416,107,-1037 to hold with Picard and Leonardo.","reasoning":"I died 
+- 03:11 say: {"text":"Kimberly here at 416,107,-1036, health 20, hunger 19, unarmed, pack empty. I died to a pillager's arrows on the way west and woke at the row spawn. No walk; I hold beside the beds."}
+- 03:23 say: {"text":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Holding, no walk."}
+- 03:32 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Kimberly trying my bed at 415,107,-1036 once, in the row's sight. No walk.","reasoning":"Dusk; I need sleep (31 d
+- 03:36 act: {"say":"Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Holding. Heard Billy's walk for Riker only.","intent":{"goal":"hold_at_row_spawn","program":"rest","arguments":{},"wake_on":["directly
+- 03:45 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Trying my bed once. No walk.","intent":{"goal":"hold_at_row_spawn
+- 04:25 act: {"say":"Goodnight, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Holding, no walk."}
+- 04:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Trying my bed once. No walk."}
