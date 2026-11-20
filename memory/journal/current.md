@@ -79,3 +79,5 @@
 - 06:58 say: {"text":"Kimberly at 416,107,-1036, holding at the row. Health 20, hunger 19, unarmed. Holding for Billy's word."}
 - 07:51 say: {"text":"Kimberly, holding at 416,107,-1036. I have not walked the west way, so I cannot verify it. Unarmed, I will hold until you name a walk."}
 - 08:00 say: {"text":"Morning, row. Kimberly at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. No walk from me until Billy names one."}
+- 08:38 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly here at 416,107,-1036, health 20, hunger 19, unarmed. Holding in the row, no walk. Trying my bed to sleep."}
+- 08:38 act: {"say":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 19. My bed refused use again, so I am holding here by the beds. No walk. Billy, I wait for your call."}
