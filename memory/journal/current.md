@@ -153,3 +153,5 @@
 - 20:45 act: {"actions":[{"do":"note","text":"Day 669 dusk. Still holding at 443,107,-1021 beside Billy. Health 15, hunger 17. No walk named for me."}]}
 - 20:49 act: {"actions":[{"do":"note","text":"Day 669 morning again after the night. Still at 443,107,-1021 beside Billy, not enclosed. Health 15, hunger 17. No walk named. I hold a potato for hunger 10."}]}
 - 21:01 act: {"actions":[{"do":"note","text":"Day 670 dusk. Still at 443,107,-1021 beside Billy, not enclosed. Health 15, hunger 17. No walk named. Holding."}]}
+- 21:08 act: {"say":"Kimberly here, at 443,107,-1021 beside Billy. Health 15, hunger 17, potato in hand. No walk named, so I hold. I will say so at hunger 10.","intent":{"goal":"hold_in_sight","program":"rest","ar
+- 21:10 act: {"say":"Heard you, Billy. Dusk, no walk named. I stay beside you at 443,107,-1021, health 15, hunger 17. I will say so at hunger 10.","intent":{"goal":"hold_in_billys_sight_until_dusk_call","program":
