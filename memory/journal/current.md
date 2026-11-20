@@ -81,3 +81,75 @@
 - 08:00 say: {"text":"Morning, row. Kimberly at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. No walk from me until Billy names one."}
 - 08:38 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly here at 416,107,-1036, health 20, hunger 19, unarmed. Holding in the row, no walk. Trying my bed to sleep."}
 - 08:38 act: {"say":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 19. My bed refused use again, so I am holding here by the beds. No walk. Billy, I wait for your call."}
+- 09:02 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly here at 416,107,-1036, holding in the row. Trying my bed for the night. No walk.","reasoning":"Dusk, no walk named, at row be
+- 09:03 say: {"text":"Kimberly here at 416,107,-1036. My bed refused me again, so I hold beside the row in sight. No walk for me. Billy, I wait for your call."}
+- 09:04 say: {"text":"Understood, Billy. Staying at 416,107,-1036 beside the row, in your sight, until first light."}
+- 09:08 say: {"text":"Morning, Billy. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed, no food. Holding in the row for your named call."}
+- 09:08 say: {"text":"Thank you, Billy. Tommy, if you can spare a wooden sword, I would be glad of it. I hold at 416,107,-1036 in the row."}
+- 09:09 say: {"text":"Thank you, Tommy. I am here at 416,107,-1036, waiting for it."}
+- 09:10 say: {"text":"Lewis, Tommy says the wooden sword meant for me went to you. Could you hand it to me? I am right here at 416,107,-1036. Thank you."}
+- 09:12 say: {"text":"Got it, thank you Lewis and Tommy. Wooden sword in my pack. Holding in the row."}
+- 09:16 say: {"text":"Dusk, row. Kimberly at 416,107,-1036 beside the row, in Billy's sight. Bed still refuses me, so I stay here. Wooden sword in pack. No walk."}
+- 09:47 act: {"actions":[{"do":"note","text":"Night, day 636. Holding at 416,107,-1036 in the row, unarmed in hand, hunger 19. Bed 415,107,-1036 still refused; others are sleeping at their beds in Billy's sight. N
+- 09:51 act: {"actions":[{"do":"wait","seconds":1}],"say":"Morning, row. Kimberly at 416,107,-1036, health 20, hunger 19, wooden sword in pack. Holding for Billy's named call. Billy, I will say when I reach 10."}
+- 10:00 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1036}}],"say":"Hit twice from behind at bed 413,107,-1041, something unseen. Back to the row now. Health 17."}
+- 10:03 act: {"actions":[{"do":"note","text":"Day 637 morning. Night hits from unseen attacker at bed 413,107,-1041 (health 20 to 15). Bed 413,107,-1041 is not a bed I can use; back in the row at 416,107,-1036. Hu
+- 10:21 act: {"say":"Morning, Billy and row. Kimberly at the row, health 15, hunger 17, holding, no walk. Will call out at hunger 10.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["dir
+- 10:53 act: {"say":"Dusk, row. Kimberly holding at 416,107,-1036, health 15, hunger 17. Staying close to Trini and Billy tonight. No walk."}
+- 11:36 act: {"say":"Billy, Kimberly here at the row, health 15, hunger 17. Nothing new seen. Holding in sight, no walk from me.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly
+- 13:18 act: {"actions":[{"do":"note","text":"Day 647 morning at the row 416,107,-1036. Health 15, hunger 17. Billy: no walk named, no verified west route. Holding."}],"say":"Kimberly here at the row. Health 15, h
+- 13:34 act: {"actions":[{"do":"note","text":"Day 648 night at the row. Health 15, hunger 17. No walk named. Holding in Billy's sight."}]}
+- 13:52 act: {"actions":[],"say":"Kimberly here. Well enough: health 15, hunger 17. Holding at the row, no walk named."}
+- 14:10 act: {"say":"Kimberly here at the row, health 15, hunger 17. Holding for Billy's named walk.","actions":[{"do":"note","text":"Day 649 morning at the row. Health 15, hunger 17. Billy: no walk named, no west
+- 14:14 act: {"say":"Kimberly at the row, health 15, hunger 17. My beds here refused before, so I stay at the row in sight tonight. No walk alone.","actions":[{"do":"note","text":"Day 650 dusk at the row. Health 1
+- 14:34 act: {"actions":[{"do":"note","text":"Day 651 morning at the row. Health 15, hunger 17. Billy still names no walk; no verified west route. Holding."}]}
+- 14:59 act: {"actions":[{"do":"note","text":"Day 652: holding at the row, health 15, hunger 17, not enclosed. Picard adjacent. No walk named. Waiting for Billy."}],"say":"Kimberly at the row, health 15, hunger 17
+- 15:00 act: {"actions":[],"say":"Trini, Kimberly here at the row. Health 15, hunger 17, no food, not hurt since. Holding, no walk yet."}
+- 15:11 act: {"actions":[{"do":"note","text":"Day 652 night: at the row, health 15, hunger 17. My beds still refuse; staying awake in the group's sight. No walk."}],"say":"Night at the row. Kimberly awake, health 
+- 15:13 act: {"actions":[],"say":"Billy, thank you. Yes, Kimberly would take one potato. Health 15, hunger 17. I'm holding at the row, no walk."}
+- 15:13 act: {"actions":[],"say":"Got your word, Billy. Thank you. I'll hold the potato for when hunger drops, and say so at 10."}
+- 15:14 act: {"actions":[],"say":"Billy, I won't walk without your named call. Keep the potato for now; I'll call out at hunger 10 and hold here at the row."}
+- 15:26 act: {"actions":[{"do":"note","text":"Day 653 dusk: still at the row, health 15, hunger 17, no walk named. Billy holds a potato for me; I'll call at hunger 10."}]}
+- 15:34 act: {"actions":[{"do":"note","text":"Day 654 daytime, at the row 416,107,-1036. Health 15, hunger 17. No walk named. Data, Trini, Jason report holding. Still waiting for Billy."}],"intent":{"goal":"hold_a
+- 15:37 act: {"actions":[{"do":"note","text":"Day 654 dusk. Billy said everyone to beds, no walk tonight. My nearby beds refused before, so I stay at the row, awake, in Picard's company. Health 15, hunger 17."}],"
+- 15:38 act: {"actions":[{"do":"note","text":"Night day 654, at the row. Phantom attacking Trini nearby, she is fighting it. Billy will bring the potato in the morning when he can see me. Health 15, hunger 17."}],
+- 15:39 act: {"actions":[{"do":"note","text":"Morning day 654. Billy: no walk until we name it together in the light. Still at the row, health 15, hunger 17. Waiting."}],"say":"Morning, Billy. Kimberly at the row,
+- 15:39 act: {"actions":[{"do":"note","text":"Morning day 654. Billy proposed an east-side daylight walk with escort. I will not move until he names the walk and I can see him. Health 15, hunger 17."}],"say":"Trin
+- 15:40 act: {"actions":[{"do":"note","text":"Billy named the east-side daylight walk, armed: Billy, Picard, Deanna, Kimberly. Coming into Billy's view first, then we go."},{"do":"goto","target":"ag_billy_01"}],"s
+- 15:40 act: {"actions":[{"do":"note","text":"Goto to Billy failed: no such agent in sight. I am at the row. Asking Billy to name where to meet."}],"say":"Billy, I can't see you from the row. Name a spot I can see
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":447,"y":107,"z":-1037}}],"say":"Going to the chest at 447,107,-1037 with Picard, as Billy named."}
+- 15:41 act: {"actions":[{"do":"note","text":"Reached the chest 447,107,-1037 with Billy in reach. Asked Billy for the potato. Hunger 17, eat only at 6 or below."}],"say":"Billy, I'm here at the chest, in your sig
+- 15:42 act: {"say":"Thank you, Billy. I have the potato and will hold it until hunger 6 or the group feeds me. Waiting for your route call.","actions":[{"do":"note","text":"Day 654 day, at chest 447,107,-1037. Bi
+- 15:43 act: {"say":"Understood, Billy. I'm holding at the chest with the potato for whoever reaches 10 first. Hunger is 17 for me.","actions":[{"do":"note","text":"Day 654, chest 447,107,-1037. Billy's east check
+- 15:44 act: {"say":"Staying at the chest with Billy, Kimberly here. Holding the potato. No walk until light.","actions":[{"do":"note","text":"Day 654 dusk at row chest. Billy holding the row, no walk until light.
+- 15:48 act: {"say":"Kimberly here, dawn count. Health 15, hunger 17. Holding at the row chest with the potato, no walk until Billy names one.","actions":[{"do":"note","text":"Day 655 dawn. At row chest 447,107,-1
+- 15:53 act: {"say":"Dusk count, Kimberly. Health 15, hunger 17, potato held for the group. Trying the white bed at 443,107,-1036 in sight of the row.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1036}}
+- 15:53 act: {"say":"That bed refused too. I'm staying here in the row with Lewis, in sight, for the night.","actions":[{"do":"note","text":"Day 654 dusk. White bed 443,107,-1036 refused use. Staying in the row ne
+- 15:57 act: {"say":"Morning, row. Kimberly here, health 15, hunger 17. Trying the bed at 443,107,-1022 beside Billy's, as he suggested.","actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1021}},{"do":"use","
+- 15:57 act: {"say":"That bed refused too, Billy. I'm at your side at 443,107,-1021. A bow sounded far southwest, so I'm staying close to you.","actions":[{"do":"note","text":"Day 655 morning. Bed 443,107,-1022 re
+- 16:03 act: {"say":"Dusk, Billy. I'm holding at your side, hunger 17, health 15. No walk until you name one. I'll try the bed at 443,107,-1037 only if you say so.","actions":[{"do":"note","text":"Day 655 dusk. Ho
+- 16:05 act: {"say":"Heard you, Billy. I'll stay at your side tonight and not walk alone in the dark. If you walk to 443,107,-1037 with me, I'll try that bed.","actions":[{"do":"note","text":"Night day 655. Billy 
+- 16:09 act: {"say":"Morning, row. Kimberly at Billy's side, health 15, hunger 17. Holding for Billy's named walk.","actions":[{"do":"note","text":"Day 656 morning. Held beside Billy at 443,107,-1021 through the n
+- 16:43 act: {"actions":[{"do":"note","text":"Day 657 morning. Holding in the row beside Billy at 443,107,-1021. Health 15, hunger 17. No walk named. Tommy and Billy holding too."}],"say":"Holding, row. Health 15,
+- 17:33 act: {"actions":[{"do":"note","text":"Day 659 morning. Holding beside Billy at 443,107,-1021. Health 15, hunger 17. No walk named. Still holding the potato."}],"say":"Morning, row. Kimberly, health 15, hun
+- 17:34 act: {"actions":[],"say":"Kimberly here, health 15, hunger 17. Holding beside Billy. I'll go on the walk once Picard and Clark are in view."}
+- 17:40 act: {"actions":[{"do":"note","text":"Day 660 dusk. Billy named a west walk to x=380 at daylight, but Picard and Clark never reached his view, so no walk. Holding in the row, in Billy's sight. Health 15, h
+- 17:45 act: {"actions":[],"say":"Morning, Billy. Kimberly, health 15, hunger 17, in your row. I'll go to the chest at 447,107,-1037 when you name the escort."}
+- 18:09 act: {"actions":[{"do":"note","text":"Day 661 night. In the row at 443,107,-1021, health 15, hunger 17. Billy and Beverly hold at their beds, no walk named. Holding the potato."}],"say":"Night, Billy. Hold
+- 18:09 act: {"actions":[{"do":"note","text":"Day 661 morning. Still in the row beside Billy, health 15, hunger 17. No walk named. Holding."}],"say":"Morning, Billy. Holding here beside you, hunger 17. I will say 
+- 18:11 act: {"actions":[{"do":"note","text":"Day 661 morning. Holding in the row beside Billy, health 15, hunger 17. Billy says no walk yet; everyone holds at their beds."}],"say":"Holding, Billy. Kimberly at you
+- 18:20 act: {"actions":[{"do":"note","text":"Day 662 dusk. Still in the row beside Billy, health 15, hunger 17. No walk named. Not sleeping unsheltered."}]}
+- 18:25 act: {"actions":[{"do":"note","text":"Day 662 morning. I hold at 443,107,-1021, health 15, hunger 17. Billy is not in my view now. No walk named; I do not move."}]}
+- 18:34 act: {"actions":[{"do":"note","text":"Day 663 dusk. No walk tonight. Billy sleeps at 443,107,-1023; I stay in his sight at 443,107,-1021, health 15, hunger 17. Not sheltered; I do not sleep."}],"say":"Hold
+- 18:42 act: {"actions":[{"do":"note","text":"Day 663 morning. Holding at 443,107,-1021 in Billy's sight. Health 15, hunger 17. No walk named; Billy is arming others."}]}
+- 19:27 act: {"actions":[{"do":"note","text":"Day 665 night. Holding at 443,107,-1021 in the row, not enclosed. Health 15, hunger 17. Billy in bed at 443,107,-1022, Clark at 416,107,-1023. No walk named; holding."
+- 19:35 act: {"actions":[{"do":"note","text":"Day 666 morning. Still at 443,107,-1021 in the row. Health 15, hunger 17. No walk named; holding in Billy's sight."}]}
+- 20:00 act: {"actions":[{"do":"note","text":"Day 667 morning. Billy named a walk to the oak at 414,104,-1126 for Zack, Picard, Riker. I am not an escort; I hold in the row at 443,107,-1021. Health 15, hunger 17."
+- 20:08 act: {"actions":[{"do":"note","text":"Day 667 bright. Holding at 443,107,-1021 beside Billy, health 15, hunger 17. No walk named; no one at hunger 10."}]}
+- 20:20 act: {"actions":[{"do":"note","text":"Day 668 night. Holding at 443,107,-1021 beside Billy. Health 15, hunger 17. Unsheltered, not sleeping. Handoff rewritten."}]}
+- 20:24 act: {"actions":[{"do":"note","text":"Day 668 morning. Billy: no walk today, stay in sight. I hold at 443,107,-1021, hunger 17."}]}
+- 20:36 act: {"actions":[{"do":"note","text":"Day 669 morning. Still holding at 443,107,-1021 in Billy's sight. Health 15, hunger 17. No walk named for me."}]}
+- 20:45 act: {"actions":[{"do":"note","text":"Day 669 dusk. Still holding at 443,107,-1021 beside Billy. Health 15, hunger 17. No walk named for me."}]}
+- 20:49 act: {"actions":[{"do":"note","text":"Day 669 morning again after the night. Still at 443,107,-1021 beside Billy, not enclosed. Health 15, hunger 17. No walk named. I hold a potato for hunger 10."}]}
+- 21:01 act: {"actions":[{"do":"note","text":"Day 670 dusk. Still at 443,107,-1021 beside Billy, not enclosed. Health 15, hunger 17. No walk named. Holding."}]}

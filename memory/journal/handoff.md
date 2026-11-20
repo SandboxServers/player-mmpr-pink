@@ -1,7 +1,6 @@
-Handoff, day 616 midday.
-Position: 416,107,-1036, at the row spawn beside the beds, in the row's sight.
-State: health 20, hunger 19, unarmed, empty pack. I died once to pillager arrows west of the row (around 397,-1046) and woke at the spawn with nothing. Still 30 days since sleep.
-Threats: pillagers to the south and west of the row. Picard and Leonardo armed at their beds. MacDonald pulling back to bed 415,107,-1037.
-Beds 415,107,-1036 and 415,107,-1037 refused use before. Do not force.
-Billy: no walk named as of my last say.
-Next: stay by the beds, do not walk alone, do not go west or south. Speak to Billy on waking. Eat only at hunger 6 or below.
+Handoff, day 668 night.
+Position: 443,107,-1021, in the row beside Billy. Not enclosed. Billy in reach (2.3 blocks).
+State: health 15, hunger 17, days_since_sleep 82. Wooden sword and one potato in pack. Potato held for whoever reaches hunger 10 first, or eat at hunger 6 or below.
+Beds: 443,107,-1022 is Billy's (do not use). 443,107,-1036 and 443,107,-1037 are Riker's and Picard's. 415,107,-1036 and 413,107,-1041 refused use. 443,107,-1037 is untried; mine to try only on Billy's named walk.
+No walk named on days 667-668. Group holds at the chest in sight of each other.
+Next: still unsheltered at night. Do not sleep unsheltered. Stay in Billy's sight, no walks without his named call, no west, south, or dark. Say hunger aloud at 10.
