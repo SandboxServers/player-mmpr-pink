@@ -65,3 +65,8 @@
 - 03:45 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Trying my bed once. No walk.","intent":{"goal":"hold_at_row_spawn
 - 04:25 act: {"say":"Goodnight, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Holding, no walk."}
 - 04:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk, row. Kimberly at 416,107,-1036, health 20, hunger 19, unarmed. Trying my bed once. No walk."}
+- 04:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Kimberly here at 416,107,-1036, unarmed, holding in the row. Going to my bed at 415
+- 04:50 act: {"actions":[{"do":"note","text":"Bed 415,107,-1036 refused use again; holding in the row at 416,107,-1036 unarmed, no walk."}],"say":"Bed 415,107,-1036 will not take me, same as before. I will not for
+- 04:54 act: {"actions":[{"do":"note","text":"Day 622 morning. At 416,107,-1036 in sight, health 20, hunger 19, unarmed. Billy named a walk for Tommy and Picard only. I hold."}],"say":"Morning, row. Kimberly at 41
+- 05:07 act: {"actions":[{"do":"note","text":"Day 622 morning. At 416,107,-1036 with Lewis beside me. Health 20, hunger 19, unarmed. No walk named for me. Holding."}],"say":"Leonardo, I have not seen sheep either.
+- 05:09 act: {"actions":[{"do":"note","text":"Day 622 dim morning. Billy holds all walks until light is clear. I hold at 416,107,-1036, health 20, hunger 19, unarmed."}],"say":"Morning, Billy. Kimberly holding at 
