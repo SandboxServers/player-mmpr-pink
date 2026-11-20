@@ -74,3 +74,5 @@
 - 05:28 say: {"text":"Heard, Billy. No walk today. Kimberly holding at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. I will wait for your named call."}
 - 05:46 act: {"say":"Kimberly at 416,107,-1036, night, unarmed, hunger 19. Trying my bed at 415,107,-1036 with Lewis in reach. No walk.","actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
 - 05:59 say: {"text":"Heard, Billy. No walk from me. Kimberly holding at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. Staying in the row for the night."}
+- 06:14 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Kimberly here at the row, 416,107,-1036, unarmed, hunger 19. Trying my bed for the night. No walk named.","reasoning":"
+- 06:36 say: {"text":"Morning, row. Kimberly at 416,107,-1036 beside Lewis, health 20, hunger 19, unarmed. No walk from me. Holding for Billy's named call."}
