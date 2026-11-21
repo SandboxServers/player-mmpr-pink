@@ -107,3 +107,5 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 21:43 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, still beside Billy. No walk. Hunger 10, I will call it."}
 - 21:56 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, holding beside Billy. Billy, that bed at 415,107,-1023 was named to Jason; I am not sure it is mine. Kimberly, if you name it to me, I will try i
 - 21:57 act: {"say":"Thank you, Billy. 443,107,-1022 refused me before, so I will not try it. I stay here in your sight, no walk, and I will call at hunger 10."}
+- 22:10 act: {"say":"Morning, Troi. Really? A little tired and hungry, health 15, hunger 17, but steady. Holding in Billy's sight, no walk."}
+- 22:26 say: {"text":"Morning, Billy. Kimberly here, health 15, hunger 17. I have seen no verified route west. Holding in your sight."}

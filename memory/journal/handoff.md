@@ -1,7 +1,6 @@
-Handoff, day 696 day.
-Position: 443,107,-1021, in the row beside Billy (2.3 blocks, in reach). Not enclosed. Standing on cobblestone.
-State: health 15, hunger 17, days_since_sleep 110. Wooden sword and one potato in pack; potato held for my own hunger 10 (call out by name then).
-Beds: 443,107,-1022 is Billy's (do not use). 443,107,-1023 is another white bed. Trini sleeps at 443,107,-1037; Beverly at 430,107,-1037.
-Group: Billy, Beverly, Trini, Lewis, Zack, Troi (Deanna) hold in the row. Billy: no walk until a route is verified; no one named a walk yet.
-Bows keep sounding to the southwest only; nothing seen.
-Next: no active intent. Wait in Billy's sight, no walks without his named call, no west, south, or dark. Say hunger aloud at 10 and eat the potato then.
+Handoff, day 747 dusk.
+Position: 443,107,-1021, beside Picard and Troi, in Billy's sight. Not enclosed. Standing on cobblestone.
+State: health 15, hunger 17, days_since_sleep 161. Wooden sword and one potato in pack; eat potato at hunger 10 and say so aloud.
+Beds: 443,107,-1022 refused, do not use. Billy sleeps at 429,107,-1037. No bed named to me.
+Group: holding in the row. No verified route west yet; Billy asked again this morning. I told him I have seen none.
+Next: no active intent. Wait in Billy's sight. No walk without his named route. No west, south, or dark. Answer Billy if he addresses me.
