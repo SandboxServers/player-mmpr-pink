@@ -28,3 +28,9 @@
 - 05:34 act: {"actions":[],"say":"Thank you, Billy. I keep my potato for hunger 10. Still holding beside you, health 15, hunger 17."}
 - 05:42 act: {"actions":[{"do":"note","text":"Day 695 day: still beside Billy, health 15, hunger 17. Troi at 14 health, hunger 16. No walk named. Waiting."}],"say":"Good morning, Deanna. Kimberly here, health 15, 
 - 05:54 act: {"actions":[{"do":"note","text":"Day 696 morning: holding beside Billy, health 15, hunger 17. Trini and Troi holding too. No walk named. Waiting."}],"say":"Morning, row. Kimberly beside Billy, health 
+- 06:01 act: {"say":"Morning, Billy. Kimberly here, health 15, hunger 17. Holding in your sight; I'll say at 10 and eat my potato then.","reasoning":"Holding per goals; answer Billy, no walks."}
+- 06:05 act: {"actions":[{"do":"note","text":"Day 697 night: holding beside Billy at 443,107,-1021, health 15, hunger 17. Not sheltered, not sleeping. Bows southwest only. No walk named. Waiting."}],"reasoning":"N
+- 06:05 act: {"say":"Morning, Trini and Lewis. Kimberly beside Billy, health 15, hunger 17. Holding, no walk named.","reasoning":"Answer greetings; hold position."}
+- 06:17 act: {"actions":[{"do":"note","text":"Night day 697: holding beside Billy at 443,107,-1021, health 15, hunger 17. Billy and Troi in bed in sight. Not sleeping unsheltered. No walk. Waiting."}],"reasoning":
+- 06:21 act: {"actions":[{"do":"note","text":"Day 698 morning: holding beside Billy, health 15, hunger 17. Billy says no route verified, no walk. Bows southwest only. Waiting."}],"say":"Morning, Billy and row. Kim
+- 06:24 act: {"actions":[{"do":"note","text":"Day 698 day: holding beside Billy, health 15, hunger 17. Trini holding too, will call at 10. Bows southwest only, unseen. No walk. Waiting."}],"say":"Holding with you,
