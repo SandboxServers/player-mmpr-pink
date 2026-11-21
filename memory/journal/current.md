@@ -112,3 +112,5 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 23:06 act: {"actions":[{"do":"note","text":"Day 748: night passed beside Picard and Troi at 443,107,-1021, nothing hit me. Bows southwest only. Health 15, hunger 17. Holding, no walk. Potato kept for hunger 10."
 - 23:11 act: {"actions":[{"do":"note","text":"Day 748 day: holding at 443,107,-1021 beside Picard and Troi, in Billy's sight. Health 15, hunger 17. Potato kept for hunger 10. Bows southwest only. No walk named."}]
 - 23:14 act: {"actions":[],"say":"Evening, Troi. Kimberly here, health 15, hunger 17, beside you and Picard. I have not seen Data. Holding, no walk."}
+- 23:27 act: {"intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{"at":{"x":443,"y":107,"z":-1021}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world
+- 23:27 act: {"intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":24000,"max_block_operati
