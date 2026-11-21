@@ -55,3 +55,6 @@
 Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sound southwest only, unseen. No walk named. Waiting.
 - 07:36 act: {"say":"Morning, Billy. Kimberly here beside you, health 15, hunger 17. I hold the potato until my hunger is 10 and I'll call it out. No walk.","reasoning":"Billy greeted me and noted the potato. Answ
 - 07:46 act: {"actions":[{"do":"note","text":"Day 702 dusk: holding beside Billy at 443,107,-1021, health 15, hunger 17. No walk named. Not sleeping unsheltered. Waiting."}],"say":"Evening, Billy. Kimberly beside 
+- 07:46 act: {"say":"Kimberly here, at 443,107,-1021 beside Billy. Health 15, hunger 17. Holding in the row; no walk. I keep the potato until hunger 10.","reasoning":"Dusk, no walk named, I am in Billy's sight. Ho
+- 08:17 act: {"say":"Billy, Kimberly here. I have seen no safe route, no sheep, no potato field. I hold the one potato for hunger 10. Health 15, hunger 17, beside you. I hold until you name a walk.","reasoning":"B
+- 09:06 act: {"say":"Good morning, Billy. Kimberly here: health 15, hunger 17. I am holding beside you with the potato. No route to share yet."}
