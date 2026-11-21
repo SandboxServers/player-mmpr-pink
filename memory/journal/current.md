@@ -65,3 +65,37 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 09:33 act: {"say":"Morning, row. Kimberly here, health 15, hunger 17, beside Billy. Deanna, Trini, I am holding too.","reasoning":"Greet the row briefly; hold."}
 - 09:35 say: {"text":"Kimberly here, beside Billy at 443,107,-1021. Holding in the row, no walk. Hunger 17; I will call at 10."}
 - 10:10 act: {"actions":[{"do":"note","text":"Day 709 dusk: holding beside Billy at 443,107,-1021, health 15, hunger 17. Trini and Lewis in row, no walk named. Bows southwest only. Waiting."}],"say":"Evening, row.
+- 10:11 act: {"say":"Kimberly here, night in the row, at 443,107,-1021 beside Billy. Health 15, hunger 17. Holding, no walk. Will call at 10.","reasoning":"Night, hunger 17, no walk named. Hold in Billy's sight an
+- 10:14 act: {"say":"Morning, row. Kimberly here, health 15, hunger 17, beside Billy. No walk from me. Holding for a named call.","reasoning":"Morning. Hunger 17, no walk named. Hold in sight and report."}
+- 10:30 act: {"say":"Morning, row. Kimberly beside Billy, health 15, hunger 17. Holding, no walk. Beverly, I hear you.","reasoning":"Morning greeting; keep holding in Billy's sight."}
+- 10:44 act: {"say":"Morning, Billy. Kimberly holding beside you, health 15, hunger 17. Potato kept for 10. No walk.","reasoning":"Answer Billy; hold."}
+- 10:57 say: {"text":"Morning, row. Kimberly holding at 443,107,-1021, health 15, hunger 17. Potato kept for 10. No walk."}
+- 11:06 say: {"text":"Evening, Billy. Kimberly holding here at 443,107,-1021, health 15, hunger 17. No bed named for me, so I stay put."}
+- 11:10 say: {"text":"Morning, Billy. Kimberly has no verified route out, east or otherwise. Health 15, hunger 17, holding here."}
+- 11:23 say: {"text":"Kimberly holding at 443,107,-1021, health 15, hunger 17. I don't see Billy in reach right now. Holding here until he or someone names a walk."}
+- 11:52 say: {"text":"Morning, row. Kimberly here at 443,107,-1021, health 15, hunger 17. Holding, no walk."}
+- 11:57 say: {"text":"Pillager with a crossbow about 22 blocks southeast, near 454,107,-1002. Kimberly holding at 443,107,-1021, health 15, hunger 17."}
+- 12:02 say: {"text":"Dusk. Kimberly holding at 443,107,-1021 in the row, health 15, hunger 17. No walk. Good night, row."}
+- 12:22 say: {"text":"Kimberly here, health 15, hunger 17. No verified route east or north from me either. Holding at 443,107,-1021, no walk."}
+- 12:47 say: {"text":"Morning, Billy. Kimberly here, health 15, hunger 17. No verified route past x=370 from me either. Holding at 443,107,-1021, no walk."}
+- 13:23 act: {"actions":[{"do":"note","text":"Night 718. Holding at 443,107,-1021 beside Billy. Health 15, hunger 17. Potato kept for hunger 10. Pillager still southeast, bows to the southwest."}],"say":"Good nigh
+- 13:23 act: {"actions":[],"say":"Good morning, Billy. I have not seen a route past x=370, and I have not walked since I came to this row. Health 15, hunger 17. I stay here."}
+- 13:27 act: {"actions":[{"do":"note","text":"Day 719 morning. Holding at 443,107,-1021 beside Billy, no walk. Health 15, hunger 17. Pillager still southeast; bows to the southwest."}],"say":"Good morning, Troi an
+- 13:39 act: {"actions":[],"say":"Billy, I have seen no verified route past x=370 either. I hold here at your side, no walk. Health 15, hunger 17."}
+- 13:47 act: {"actions":[{"do":"note","text":"Day 720 dusk. Still holding at 443,107,-1021 beside Billy, no walk. Health 15, hunger 17, potato kept for hunger 10. Pillager still southeast."}],"say":"Holding at you
+- 13:50 act: {"actions":[],"say":"Holding my potato, Billy. Health 15, hunger 17. No walk."}
+- 14:03 act: {"actions":[],"say":"Goodnight, Billy. I stay here in your sight, no walk. Health 15, hunger 17."}
+- 14:07 act: {"actions":[{"do":"note","text":"Day 721 morning. Holding at 443,107,-1021 beside Billy, no walk named. Health 15, hunger 17. Potato kept for hunger 10."}],"say":"Morning, row. Kimberly holding at Bil
+- 14:13 act: {"actions":[],"say":"Still here, Billy. Health 15, hunger 17. I will call at 10."}
+- 14:30 act: {"intent":{"goal":"hold_in_row","program":"rest","arguments":{"at":{"x":443,"y":107,"z":-1021}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":1
+- 14:34 act: {"say":"Kimberly here, good morning. Health 15, hunger 17. Holding at 443,107,-1021 in sight. No walk. I will call at hunger 10.","intent":{"goal":"hold_in_row_until_hunger_10","program":"rest","argum
+- 14:47 say: {"text":"Kimberly here, morning. Health 15, hunger 17. Holding in sight at 443,107,-1021. No walk. I call at hunger 10."}
+- 14:56 say: {"text":"Kimberly: good morning, Picard. No sheep or oak seen from here. Health 15, hunger 17. Holding, no walk."}
+- 15:50 say: {"text":"Good morning, row. Kimberly here, health 15, hunger 17. Holding at 443,107,-1021. No walk. Calling at hunger 10."}
+- 16:14 say: {"text":"Kimberly here, morning. Health 15, hunger 17, one potato held. No walk. I call at hunger 10."}
+- 16:15 say: {"text":"Billy, I hear you. My hunger is 17, and I keep my potato until 10 as you first asked. Troi, at 16 hunger, is ahead of me in line; if you need it sooner, say so and I will give it to you."}
+- 17:08 act: {"say":"Morning, row. Kimberly here, health 15, hunger 17, holding at 443,107,-1021 beside Picard. I have not seen a verified route west. No walk from me."}
+- 18:35 say: {"text":"Kimberly here, health 15, hunger 17, holding at 443,107,-1021 with Picard. Doing fine. Potato kept until 10."}
+- 18:40 say: {"text":"Morning, Billy. Kimberly: health 15, hunger 17, potato held. No verified route from me. Holding at 443,107,-1021, no walk."}
+- 19:06 say: {"text":"Morning, Billy. Kimberly: health 15, hunger 17, potato held. No verified route, no sheep or cow seen. Holding in sight, no walk."}
+- 19:43 say: {"text":"Kimberly here, health 15, hunger 17. Holding in place beside Picard. No walk, and no bed named for me. I will eat the potato at hunger 10."}
