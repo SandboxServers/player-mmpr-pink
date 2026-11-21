@@ -109,3 +109,4 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 21:57 act: {"say":"Thank you, Billy. 443,107,-1022 refused me before, so I will not try it. I stay here in your sight, no walk, and I will call at hunger 10."}
 - 22:10 act: {"say":"Morning, Troi. Really? A little tired and hungry, health 15, hunger 17, but steady. Holding in Billy's sight, no walk."}
 - 22:26 say: {"text":"Morning, Billy. Kimberly here, health 15, hunger 17. I have seen no verified route west. Holding in your sight."}
+- 23:06 act: {"actions":[{"do":"note","text":"Day 748: night passed beside Picard and Troi at 443,107,-1021, nothing hit me. Bows southwest only. Health 15, hunger 17. Holding, no walk. Potato kept for hunger 10."
