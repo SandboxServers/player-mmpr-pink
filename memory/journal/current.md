@@ -1,1 +1,30 @@
 # Journal
+- Day 685 morning: said hello (health 15, hunger 17). Holding beside Billy at 443,107,-1021, no walk. Billy: hold, eat the potato at 10 and call it out.
+- Day 686: still beside Billy, health 15, hunger 17, no walk named. Bows sound southwest and west; nothing seen. Billy has no food, sleeping at his bed; says hold until a route is checked. Told Troi I hold too.
+- 02:47 act: {"say":"Kimberly, night, health 15, hunger 17. Staying beside Billy in the row's sight. Good night all."}
+- Day 687 morning: night passed beside Billy, unsheltered, nothing hit me. Health 15, hunger 17. Billy still has no verified route; we hold in the row.
+- 02:52 act: {"say":"Morning, Billy and Trini. Kimberly, health 15, hunger 17, beside Billy. Holding, no walk. The potato stays with me until my hunger is 10."}
+- Day 687 night: Billy went to his bed, no walk tonight. I hold in the row with Trini in sight, health 15, hunger 17.
+- 03:01 act: {"say":"Holding in sight, Trini. Good night, Billy. I stay here beside the row."}
+- Day 688 night: holding beside Billy at 443,107,-1021, health 15, hunger 17. Trini in reach. No walk named; bows sound southwest only. Waiting.
+- Day 689 night: still beside Billy, health 15, hunger 17, Trini in reach. No walk named. Bows only southwest, unseen.
+- Day 690 dusk: still in the row beside Billy, health 15, hunger 17. Billy and Zack hold, no verified route. Holding; eat at 10.
+- 03:14 act: {"actions":[{"do":"note","text":"Day 688 morning: holding beside Billy, health 15, hunger 17. No walk named."}],"say":"Morning, row. Kimberly here beside Billy, health 15, hunger 17. Holding, no walk.
+- 03:28 act: {"actions":[],"say":"Morning, Trini. I have not seen Tommy since the sword. Billy is by his bed, I am beside him. Holding, health 15, hunger 17."}
+- 03:54 act: {"actions":[],"say":"Morning, Trini. Kimberly holding beside Billy, health 15, hunger 17. No walk named; I wait for Billy's call."}
+- Day 691 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Zack and Trini in reach. No walk named. Bows only southwest and west, unseen. Waiting.
+- 04:19 act: {"actions":[],"say":"Dusk, row. Kimberly beside Billy, health 15, hunger 17. Holding, no walk, not sleeping unsheltered."}
+- Day 692 day: still beside Billy, health 15, hunger 17. Zack offered a potato; I declined until hunger 10. Thunder, bows southwest only. No walk named. Waiting.
+- 04:20 act: {"actions":[],"say":"Thank you Zack, I'm fine for now at 17; I'll eat my potato at 10. Kimberly holding in the row, health 15. Hello Deanna."}
+- 04:36 act: {"actions":[],"say":"Morning, Billy and row. Kimberly here, health 15, hunger 17. Holding in your sight, no walk. I'll call at 10."}
+- Day 693 day: still beside Billy, health 15, hunger 17. Billy agreed to hold; he will help if I reach 10. Trini asked after Tommy; none seen. No walk. Waiting.
+- Day 694 night: holding beside Billy at 443,107,-1021, health 15, hunger 17. Nothing hit me. Bows southwest only. No walk named. Waiting.
+- 04:38 act: {"actions":[],"say":"Morning, Billy. Health 15, hunger 17, holding beside you. No walk yet. I'll call at 10 and eat my potato then."}
+- 04:59 act: {"actions":[],"say":"Good evening, Troi. Kimberly beside Billy, health 15, hunger 17. Not hurt, holding, no walk."}
+- Day 694 day: Billy and Beverly hold, no route west yet. Bows southwest only, unseen. Still beside Billy, health 15, hunger 17. Waiting.
+- 05:23 act: {"actions":[{"do":"note","text":"Dusk day 694: Billy going to bed in sight; Lewis too. No walk named. Holding beside Billy, health 15, hunger 17."}],"say":"Good evening, Billy. Kimberly holding beside
+- 05:24 act: {"actions":[],"say":"Good night, Billy. Kimberly stays beside the row in your sight, health 15, hunger 17. No walk."}
+- 05:28 act: {"actions":[{"do":"note","text":"Day 695 morning: night passed beside Billy, nothing hit me. Health 15, hunger 17. Lewis, Trini, Troi, Beverly all holding; no walk named. Waiting."}],"say":"Morning, r
+- 05:34 act: {"actions":[],"say":"Thank you, Billy. I keep my potato for hunger 10. Still holding beside you, health 15, hunger 17."}
+- 05:42 act: {"actions":[{"do":"note","text":"Day 695 day: still beside Billy, health 15, hunger 17. Troi at 14 health, hunger 16. No walk named. Waiting."}],"say":"Good morning, Deanna. Kimberly here, health 15, 
+- 05:54 act: {"actions":[{"do":"note","text":"Day 696 morning: holding beside Billy, health 15, hunger 17. Trini and Troi holding too. No walk named. Waiting."}],"say":"Morning, row. Kimberly beside Billy, health 
