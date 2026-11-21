@@ -102,3 +102,8 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 20:56 act: {"say":"Kimberly here, holding by Billy at 443,107,-1021. A pillager with a crossbow is about 22 blocks southeast. I will not move without your named call, Billy.","intent":{"goal":"hold_in_billys_sig
 - 20:56 act: {"say":"Kimberly here, hunger 17, holding by Billy with my potato for hunger 10. Thank you, Picard. No walk.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"wake_on":["direct
 - 21:17 act: {"say":"Kimberly here. Health 15, hunger 17, holding beside Billy with my potato. Thank you, Deanna. No walk.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"wake_on":["direc
+- 21:17 act: {"say":"Kimberly here, health 15, hunger 17, in Billy's sight at 443,107,-1021. Holding, no walk. Billy, I will say it aloud at hunger 10.","intent":{"goal":"hold_in_billys_sight","program":"rest","ar
+- 21:25 act: {"say":"Good morning, Troi. Kimberly, health 15, hunger 17, holding in the row. I am well enough. Hunger 10, I will call it."}
+- 21:43 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, still beside Billy. No walk. Hunger 10, I will call it."}
+- 21:56 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, holding beside Billy. Billy, that bed at 415,107,-1023 was named to Jason; I am not sure it is mine. Kimberly, if you name it to me, I will try i
+- 21:57 act: {"say":"Thank you, Billy. 443,107,-1022 refused me before, so I will not try it. I stay here in your sight, no walk, and I will call at hunger 10."}
