@@ -63,3 +63,4 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 09:19 act: {"say":"Morning, Billy. Kimberly beside you, health 15, hunger 17. No walk for me; I will call at 10.","reasoning":"Answer Billy's greeting; keep holding."}
 - 09:32 act: {"say":"Morning, Billy. Kimberly beside you, health 15, hunger 17. Holding; no walk. I call at 10.","reasoning":"Answer Billy; keep holding."}
 - 09:33 act: {"say":"Morning, row. Kimberly here, health 15, hunger 17, beside Billy. Deanna, Trini, I am holding too.","reasoning":"Greet the row briefly; hold."}
+- 09:35 say: {"text":"Kimberly here, beside Billy at 443,107,-1021. Holding in the row, no walk. Hunger 17; I will call at 10."}
