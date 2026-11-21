@@ -99,3 +99,6 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 18:40 say: {"text":"Morning, Billy. Kimberly: health 15, hunger 17, potato held. No verified route from me. Holding at 443,107,-1021, no walk."}
 - 19:06 say: {"text":"Morning, Billy. Kimberly: health 15, hunger 17, potato held. No verified route, no sheep or cow seen. Holding in sight, no walk."}
 - 19:43 say: {"text":"Kimberly here, health 15, hunger 17. Holding in place beside Picard. No walk, and no bed named for me. I will eat the potato at hunger 10."}
+- 20:56 act: {"say":"Kimberly here, holding by Billy at 443,107,-1021. A pillager with a crossbow is about 22 blocks southeast. I will not move without your named call, Billy.","intent":{"goal":"hold_in_billys_sig
+- 20:56 act: {"say":"Kimberly here, hunger 17, holding by Billy with my potato for hunger 10. Thank you, Picard. No walk.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"wake_on":["direct
+- 21:17 act: {"say":"Kimberly here. Health 15, hunger 17, holding beside Billy with my potato. Thank you, Deanna. No walk.","intent":{"goal":"hold_in_billys_sight","program":"rest","arguments":{},"wake_on":["direc
