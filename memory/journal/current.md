@@ -44,3 +44,13 @@
 - 06:42 act: {"say":"Billy, 443,107,-1022 refused me again at dusk: \"that block is a bed.\" I will not force it. I stay beside you in the row, health 15, hunger 17.","reasoning":"Bed refused; report, do not retry
 - 06:42 act: {"say":"Good night, Billy. Staying beside you in the row, health 15, hunger 17. Not walking.","reasoning":"Billy asked me to stay beside him; hold through the night."}
 - 06:46 act: {"actions":[{"do":"note","text":"Day 699 morning: night passed beside Billy, nothing hit me. Health 15, hunger 17. Bed 443,107,-1022 refused at dusk. Holding, no walk. Waiting."}],"say":"Morning, row.
+- 06:51 act: {"say":"Morning, row. Kimberly beside Billy, health 15, hunger 17. Holding, no walk named. I'll call at 10 and eat my potato then.","actions":[]}
+- Day 699 day (wait): Billy, Trini, Lewis, Beverly all holding in the row; no walk named. Bows southwest/west only, unseen. Still at 443,107,-1021, health 15, hunger 17. Waiting.
+- 06:54 act: {"say":"Holding, Billy, Beverly, Lewis. Kimberly beside you at dusk, health 15, hunger 17. No walk. Good night all.","actions":[]}
+- 06:54 act: {"say":"Yes, Billy. Staying beside you, not walking. Good night.","actions":[]}
+- 06:59 act: {"say":"Morning, row. Kimberly beside Billy, health 15, hunger 17. Holding, no walk named. Good morning, Deanna; I'll call at 10.","actions":[]}
+- Day 699 dusk to day 700 morning: beside Billy through the night, not sleeping unsheltered, nothing hit me. Billy went to bed at 443,107,-1023 (not mine). Health 15, hunger 17. No walk. Waiting.
+- 07:07 act: {"say":"Goodnight, Billy, Trini, Troi. Kimberly beside you in the row, health 15, hunger 17. No walk.","actions":[]}
+- Day 700 dusk: Billy, Trini, Troi in beds in sight. I hold beside Billy, health 15, hunger 17. Nothing hit me. No walk. Waiting.
+Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sound southwest only, unseen. No walk named. Waiting.
+- 07:36 act: {"say":"Morning, Billy. Kimberly here beside you, health 15, hunger 17. I hold the potato until my hunger is 10 and I'll call it out. No walk.","reasoning":"Billy greeted me and noted the potato. Answ
