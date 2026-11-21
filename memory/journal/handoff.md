@@ -1,6 +1,6 @@
-Handoff, day 747 dusk.
-Position: 443,107,-1021, beside Picard and Troi, in Billy's sight. Not enclosed. Standing on cobblestone.
-State: health 15, hunger 17, days_since_sleep 161. Wooden sword and one potato in pack; eat potato at hunger 10 and say so aloud.
-Beds: 443,107,-1022 refused, do not use. Billy sleeps at 429,107,-1037. No bed named to me.
-Group: holding in the row. No verified route west yet; Billy asked again this morning. I told him I have seen none.
-Next: no active intent. Wait in Billy's sight. No walk without his named route. No west, south, or dark. Answer Billy if he addresses me.
+Handoff, day 750 morning.
+Position: 430,107,-1037, near the beds in the row. Not enclosed. Standing on cobblestone. No one in sight at last look.
+State: health 15, hunger 17, days_since_sleep 163. Wooden sword and one potato in pack. Potato eaten at hunger 10 and said aloud.
+Note: at night on day 749 I found myself moved from 443,107,-1021 to 429,107,-1035 while resting. I did not walk on purpose. Do not walk.
+Beds: 443,107,-1022 refused me (do not retry). No bed named to me. Billy sleeps at 429,107,-1037.
+Next: hold still until Billy names a place or a route. No walk alone, no east, no dark.
