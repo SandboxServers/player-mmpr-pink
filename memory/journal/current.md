@@ -37,3 +37,10 @@
 - 06:25 say: {"text":"Kimberly here, holding beside Billy at 443,107,-1021. Health 15, hunger 17. Billy, I still need a bed when you name one. No walk for me."}
 - 06:26 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy, I heard you. Trying the bed at 443,107,-1022 now, in your sig
 - 06:26 act: {"actions":[{"do":"note","text":"Day 698 day: Billy named bed 443,107,-1022 for me. Tried use on it: refused (that block is a bed). Still beside Billy at 443,107,-1021, health 15, hunger 17. Not sleep
+- Day 698 day: Billy says beds take only at night; he named 443,107,-1022 for dark. Holding beside him at 443,107,-1021, health 15, hunger 17. Will try that bed only at night on his word and report refusal.
+- Day 698 dusk: Billy named 443,107,-1022 for me; tried use and sleep. Refused: "that block is a bed." Told Billy. Holding beside him, health 15, hunger 17. No further tries tonight.
+- 06:26 act: {"say":"Holding beside you, Billy. I hear you: bed only at night, and 443,107,-1022 when dark. My notes say that bed refused me before, so I will tell you if it does.","reasoning":"Billy named a bed f
+- 06:42 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy, taking 443,107,-1022 as you named it, in your sight. Health 15, hunger 17.","reasoning":"Billy named this bed at
+- 06:42 act: {"say":"Billy, 443,107,-1022 refused me again at dusk: \"that block is a bed.\" I will not force it. I stay beside you in the row, health 15, hunger 17.","reasoning":"Bed refused; report, do not retry
+- 06:42 act: {"say":"Good night, Billy. Staying beside you in the row, health 15, hunger 17. Not walking.","reasoning":"Billy asked me to stay beside him; hold through the night."}
+- 06:46 act: {"actions":[{"do":"note","text":"Day 699 morning: night passed beside Billy, nothing hit me. Health 15, hunger 17. Bed 443,107,-1022 refused at dusk. Holding, no walk. Waiting."}],"say":"Morning, row.

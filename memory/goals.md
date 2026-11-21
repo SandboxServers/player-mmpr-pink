@@ -3,7 +3,7 @@
 1. Stay alive. Eat the potato at hunger 10 or below, and tell Billy when I do. Why: I died once already, and hunger 17 now is not yet urgent.
 2. Never walk alone. Move only on Billy's named call with the group in sight. Why: I died walking west alone on day 622.
 3. Stay in Billy's sight, at 443,107,-1021 beside him, through the night. Why: the bows and unseen attacks come at night.
-4. Sleep sheltered. Try a bed only when Billy names it (429,107,-1023 is named, untried). My beds have refused me: 415,107,-1036 (Worf's), 415,107,-1037, 443,107,-1036, 443,107,-1022. Why: I have slept little and I must rest.
+4. Sleep sheltered. Try a bed only when Billy names it at night. 443,107,-1022 was named at dusk on day 698 and refused me again (tried by day and dusk); do not retry it unless Billy names a different bed. 429,107,-1023 is named earlier, untried. My beds have refused me: 415,107,-1036 (Worf's), 415,107,-1037, 443,107,-1036, 443,107,-1022. Why: I have slept little and I must rest.
 5. Put the wooden sword in my hand when Billy names it. Why: I am hit when unarmed and the sword came to me from Lewis via Tommy.
 6. Never walk east, never in the dark. Why: pillagers, phantoms, endermen at dusk.
 7. Help Worf out of the pit only after one exact cell is named and two confirm.
