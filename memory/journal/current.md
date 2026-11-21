@@ -158,3 +158,18 @@
 - 21:26 act: {"say":"Morning, Billy. Kimberly here, health 15, hunger 17, at your side. Well enough. No walk for me without your word."}
 - 21:37 act: {"say":"Good night, Billy. Kimberly beside you at 443,107,-1021, health 15, hunger 17. I stay awake here in your sight, no bed of mine named yet."}
 - 22:03 act: {"say":"Welcome, Tommy. Kimberly here, beside Billy. Come in close, you are safe in the row. I have one potato if you need it."}
+- 22:59 say: {"text":"Kimberly here, health 15, hunger 17, at 443,107,-1021 beside Billy. Holding in the row. Bow sounds to the southwest; I stay put."}
+- 23:00 say: {"text":"Trini, Kimberly here. Yes, I heard the bow to the southwest, several times. I see nothing near, and I stay put beside Billy at 443,107,-1021, health 15, hunger 17."}
+- 23:03 say: {"text":"Zack, Kimberly here. Nothing new seen to the west or south, only bows sounding southwest. I have not walked out, I hold beside Billy."}
+- 23:20 say: {"text":"Billy, Kimberly here. Hunger 17, not 10 yet, so I keep my potato. I am awake beside you at 443,107,-1021. No walk for me."}
+- 23:21 say: {"text":"Morning, row. Kimberly beside Billy at 443,107,-1021, health 15, hunger 17, potato kept. No walk named. Holding."}
+- 23:34 act: {"say":"Billy, hunger 17, health 15. I hold one potato and will eat it at 10 or below. Holding by you.","intent":{"goal":"hold_by_billy","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- 23:43 say: {"text":"Thank you, Billy. Hunger 17, I hold here beside you and will not sleep unsheltered."}
+- 00:26 say: {"text":"Billy, Kimberly here beside you. Holding, health 15, hunger 17. I have not seen the west route or Wesley."}
+- 00:27 say: {"text":"Trini, Kimberly here. I have not seen Jason or Tommy's place. Zack is at his bed in the row. Holding with you."}
+- 00:32 act: {"say":"Morning, Billy. Hunger 17, health 15, steady. No, I know no safe route west. I'm holding beside you and won't walk without your call.","actions":[]}
+- 00:37 act: {"say":"Dusk now, Billy. I'm staying beside you in the row, not sleeping unsheltered. Hunger 17, health 15.","actions":[]}
+- 00:58 say: {"text":"Kimberly here, hunger 17, health 15. I have seen no sheep or west route either. Holding beside you, Billy."}
+- 01:37 say: {"text":"Kimberly here, health 15, hunger 17. I have seen no safe route west and no sheep. Holding at my bed beside you, Billy."}
+- 01:42 say: {"text":"Thank you, Billy. I will keep the potato for when my hunger reaches 10. I am holding here beside the row."}
+- 01:59 say: {"text":"Morning, Billy. Kimberly here, health 15, hunger 17. I hold the potato for when I reach 10. Holding beside you, no walk."}
