@@ -34,3 +34,6 @@
 - 06:17 act: {"actions":[{"do":"note","text":"Night day 697: holding beside Billy at 443,107,-1021, health 15, hunger 17. Billy and Troi in bed in sight. Not sleeping unsheltered. No walk. Waiting."}],"reasoning":
 - 06:21 act: {"actions":[{"do":"note","text":"Day 698 morning: holding beside Billy, health 15, hunger 17. Billy says no route verified, no walk. Bows southwest only. Waiting."}],"say":"Morning, Billy and row. Kim
 - 06:24 act: {"actions":[{"do":"note","text":"Day 698 day: holding beside Billy, health 15, hunger 17. Trini holding too, will call at 10. Bows southwest only, unseen. No walk. Waiting."}],"say":"Holding with you,
+- 06:25 say: {"text":"Kimberly here, holding beside Billy at 443,107,-1021. Health 15, hunger 17. Billy, I still need a bed when you name one. No walk for me."}
+- 06:26 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1022}},{"do":"use","at":{"x":443,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Billy, I heard you. Trying the bed at 443,107,-1022 now, in your sig
+- 06:26 act: {"actions":[{"do":"note","text":"Day 698 day: Billy named bed 443,107,-1022 for me. Tried use on it: refused (that block is a bed). Still beside Billy at 443,107,-1021, health 15, hunger 17. Not sleep
