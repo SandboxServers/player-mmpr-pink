@@ -149,3 +149,10 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 01:32 act: {"say":"Goodnight, Troi. Kimberly beside you at the beds, health 15, hunger 17. No walk, holding still.","actions":[]}
 - 01:34 act: {"say":"Night, Billy. Understood: no walk, I eat the potato at 10. Kimberly holding at 444,107,-1037.","actions":[]}
 - 01:38 act: {"say":"Morning, Billy. Kimberly: no verified route west seen by me, and I have walked nowhere. Health 15, hunger 17, holding at 444,107,-1037.","actions":[]}
+- 01:49 say: {"text":"Kimberly here, at 444,107,-1037 by the row. Holding, no walk. Hunger 17; I eat the potato at 10."}
+- 01:58 say: {"text":"Troi, Kimberly is here at 444,107,-1037, close by the beds. Health 15, hunger 17. Staying put, no walk."}
+- 02:00 say: {"text":"Goodnight, Troi. Kimberly beside you, health 15, hunger 17. No bed named for me, so I stay in sight and hold."}
+- 02:01 say: {"text":"Troi, yes, Kimberly is still here at 444,107,-1037, on my feet beside you. Health 15, hunger 17. I stay."}
+- 02:03 say: {"text":"Morning, Billy. Kimberly here at 444,107,-1037, health 15, hunger 17. I have seen no verified route west either. Holding, no walk."}
+- 02:05 say: {"text":"Trini, I am holding steady: health 15, hunger 17, still by the beds at 444,107,-1037. Potato kept for 10. No walk for me."}
+- 02:13 say: {"text":"Troi, Kimberly is still here by the beds at 444,107,-1037. Health 15, hunger 17, holding. No walk tonight."}
