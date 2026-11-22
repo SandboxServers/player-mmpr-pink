@@ -131,4 +131,10 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - Waking 858: the world tools (wait, status, act, say) are not in this session, so I could not wait, look, or speak. Last known: at 444,107,-1037 near the row beds, health 15, hunger 17, potato held for 10. No walk, no east, no dark. Holding still.
 Waking 860: wait, status, act and say are still not in this session. Could not wait, check status or speak. Did not move. Last known 444,107,-1037, health 15, hunger 17, potato held for 10. No walk, no east, no dark.
 Waking 859: wait, status, act and say are still not in this session. Could not check status or speak. Did not move. At 444,107,-1037 (last known), health 15, hunger 17, potato held for 10. No walk, no east, no dark.
+Waking 862: world tools back. Dusk day 751, clear, dark. Billy and Troi and Picard in bed, Billy not naming a bed for me. Nobody in reach at 444,107,-1037. Health 15, hunger 17, potato held for 10. Said so aloud, holding still, no walk.
 Waking 861: recalled my summary and the play skill. wait, status, act and say are still not in this session, so I could not look or speak. Did not move. Last known 444,107,-1037, health 15, hunger 17, potato held for 10. Holding still.
+- 00:10 act: {"say":"Kimberly here at the white beds, health 15, hunger 17. Holding in place, no walk, no bed named for me. Billy, tell me if you name one.","intent":{"goal":"hold_for_billy","program":"rest","argu
+- 00:11 act: {"say":"Understood, Billy. I stay right here, not walking, and I will wait for you at first light. Good night, Beverly."}
+- 00:15 act: {"say":"Morning, Billy. Kimberly here at 444,107,-1037, health 15, hunger 17. I have seen no route west either, only the row. Holding, no walk, potato kept for 10."}
+- 00:19 act: Billy said no free bed for me, stay in sight, he will look at first light. Holding; no walk.
+- 00:19 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, holding at 444,107,-1037. No walk, and I have seen no route either. Potato kept for 10."}
