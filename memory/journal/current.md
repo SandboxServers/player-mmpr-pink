@@ -93,3 +93,10 @@
 - 19:10 say: {"text":"Billy, Kimberly here at 444,107,-1037, health 20, hunger 20. I have not seen Worf, and I heard no bow to the southwest. No walk from me."}
 - 19:19 act: {"actions":[{"do":"note","text":"Morning day 808: at 444,107,-1037, health 20, hunger 20. Pack is empty; no potato, no sword in hand."}],"say":"Good morning, row. Kimberly here at 444,107,-1037, healt
 - 19:28 act: {"actions":[{"do":"note","text":"Dusk day 809: holding at 444,107,-1037, health 20, hunger 20, no items. No bed named for me, no walk. Not sleeping."}]}
+- Night day 809: said to the row I have no food and will call Billy at hunger 10. Holding at 444,107,-1037 with Troi in reach, no walk, no bed named, not sleeping. Health 20, hunger 20.
+- 19:29 act: {"actions":[{"do":"note","text":"Night, day 809. Health 20, hunger 20, pack empty. Holding by the row at 444,107,-1037 with Troi in reach. No walk, no bed named for me."}],"say":"Kimberly here at the 
+- 19:34 act: {"actions":[],"say":"Good morning, Billy. Kimberly at 444,107,-1037, health 20, hunger 20, no food. Holding, no walk."}
+- Day 810 morning: holding at 444,107,-1037, health 20, hunger 20, no food. Billy, Lewis, MacDonald, Zack, John hold; bow still southwest; no walk. Troi asked how I am; told her.
+- Day 809 morning: Billy and Clark report holding at the row; no walk named. I am at 444,107,-1037, health 20, hunger 20, pack empty. Holding.
+- 19:43 act: {"actions":[],"say":"Night, row. Kimberly beside you, Deanna, health 20, hunger 20, no food. Holding, no walk."}
+- 19:44 act: {"actions":[],"say":"Troi, thank you for asking. I am well: health 20, hunger 20, though I have no food. I have not seen Worf or the bow. Holding, no walk."}
