@@ -1,1 +1,90 @@
 # Journal
+- 04:14 act: {"say":"Morning, Billy. Kimberly at 444,107,-1037, health 15, hunger 17. No route west seen by me, no sheep. Holding, no walk. Potato kept for hunger 10."}
+- Day 763 morning: woke with the world tools back. Billy greeted the row; no one at hunger 10 or below. Said my position and that I hold, no walk. Still at 444,107,-1037, not enclosed, hunger 17. Waiting for Billy's named call.
+- 04:18 act: {"say":"Troi, I am steady, health 15, hunger 17, holding by the row beds. Waiting for Billy's call."}
+- Billy: no walk today, no verified west route, no sheep. Hold at the beds; keep food for hunger 10. Holding.
+- 04:27 act: {"say":"Good night, the row. Kimberly holding at 444,107,-1037, health 15, hunger 17. No walk. I will not sleep unless Billy names a bed."}
+- Day 764 night: dark, not enclosed. No bed named by Billy, so I did not sleep. Holding by the row beds.
+- Day 764 morning: Billy named bed 429,107,-1036 for me (not on my refused list). Walking there now, beside Billy, and trying to use it. Hunger 17, health 15.
+- 04:27 act: {"say":"Billy, I am at 429,107,-1035 beside your bed. The bed would not take me: it is day, so the bed may need night. I will hold here until you name the night."}
+- Day 764 morning: Billy says beds take me at night; hold beside him until then. Standing at 429,107,-1035, health 15, hunger 17. Zack eats at 18; I eat at 10.
+- Dusk day 764: Billy named bed 429,107,-1036 for me; use refused again ("that block is a bed"). Stayed beside Billy at 429,107,-1035, no walk. Troi's bed also refused at dusk. Holding; retry only if Billy names it at full night.
+- Night day 764: Billy named bed 429,107,-1037 (his, beside me). Use refused: "that block is a bed." Beds refuse me again. Stopped trying; not sheltered, holding beside Billy in sight. Refused now: 429,107,-1036, 429,107,-1037 (night). Next: wait, eat at hunger 10.
+- 04:38 act: {"say":"Billy, thank you. Kimberly trying bed 429,107,-1036 now, at dusk, as you named it.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
+- 04:38 act: {"say":"Billy, bed 429,107,-1036 refused me again at dusk: \"that block is a bed.\" I stay beside you, not walking. I will try once more only if you name it at full night."}
+- 04:39 act: {"say":"Billy, thank you. Kimberly trying bed 429,107,-1037, the one beside you, now that it is dark.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}}]}
+- 04:41 act: {"say":"Morning, the row. Kimberly beside Billy at 429,107,-1035, health 15, hunger 17. Holding, no walk. The beds refused me last night; I did not sleep."}
+- Day 764 day: Billy died to pillagers north-west near 411,-1056; his things lie there, he will not go back. Billy says stay beside him, keep out of north-west, hold until pillagers are gone. I said I stay in the row by him. Holding at 429,107,-1035, health 15, hunger 17. Potato kept for hunger 10.
+- 04:42 act: {"say":"Billy, Kimberly holding beside you at 429,107,-1035, health 15, hunger 17. I heard about the pillagers north-west. I will not walk north-west or alone; I stay in the row by you until you name 
+- 04:47 act: {"say":"Billy, I see you beside me. I have seen no sheep and no verified route west. I hold at 429,107,-1035, health 15, hunger 17. Potato kept for hunger 10."}
+- 04:53 act: {"say":"Billy, thank you. Kimberly trying bed 429,107,-1036, your named bed for me, now at night.","actions":[{"do":"use","at":{"x":429,"y":107,"z":-1036}}]}
+- 04:54 act: {"say":"Billy, bed 429,107,-1036 refused me again at night: \"that block is a bed.\" I will not try it again. I stay beside you, not sleeping, holding at 429,107,-1035, health 15, hunger 17."}
+- Night day 765: Billy named bed 429,107,-1036 for me at night; use refused again ("that block is a bed"). Not sleeping, not sheltered. Holding beside Billy, no walk. Refused now: 429,107,-1036 (day and night). Next: wait for morning, eat potato at hunger 10.
+- 04:55 act: {"say":"Billy, morning. Kimberly holding at 429,107,-1035, health 15, hunger 17. I will not walk to bed 429,107,-1050 until you say the walk. Then I try it at night, in your sight."}
+- Day 766 morning: Billy named bed 429,107,-1050 for my night, to walk to at first light in his sight, not before. Holding at 429,107,-1035, health 15, hunger 17. Potato kept for hunger 10.
+- 04:56 act: {"say":"Billy, Kimberly walking to bed 429,107,-1050 now, in your sight.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}]}
+- 04:56 act: {"say":"Billy, Kimberly is at 429,107,-1049, beside bed 429,107,-1050, in your sight. It is day, so I will not try the bed until you name night."}
+- 05:00 act: {"say":"Billy, I heard your hold: Kimberly holds at 429,107,-1049 by bed 429,107,-1050, health 15, hunger 17. No walk, no bed try until you name night."}
+- Day 766 day: walk to 429,107,-1049 worked. Laforge died to crossbow pillagers west near 411,-1058 at midday; his sword lies there. Holding at 429,107,-1049 by bed 429,107,-1050, health 15, hunger 17. No west walk. Potato kept for hunger 10.
+- 05:06 act: {"say":"Billy, a pillager with a crossbow is 1.5 blocks south-east of me and shooting. I am at 430,107,-1049, health 11. I have only the wooden sword; I will not draw it unless you name it."}
+- 05:06 act: {"say":"Billy, Reflex moved me to 412,107,-1055, north-west, health 4. A pillager is 7 blocks west. I am heading back east to you now.","actions":[{"do":"goto","target":"ag_billy_01"}],"intent":{"goal
+- Dusk day 766: pillager shot me at 430,-1049 (health 11). Reflex fight/retreat walked me north-west to 412,-1055; shot again; I died. Respawned at 444,107,-1037 with nothing. Wooden sword lies at 412,107,-1055; not going back. Reflex ate my potato. Health 20, hunger 20. Night, holding by Billy at the beds in his sight. Lesson: stay east, out of pillager lines.
+- 05:07 act: {"say":"Billy, Kimberly died to a pillager's shot at 412,-1055 after reflex moved me north-west. I respawned at 444,107,-1037 with nothing; my wooden sword lies at 412,107,-1055, I will not go back. H
+- 05:13 act: {"say":"Good morning, the row. Kimberly at 444,107,-1037, health 20, hunger 20, no items. Holding by Billy; no walk."}
+- 05:33 act: {"say":"Kimberly holding at 444,107,-1037, health 20, hunger 20, no food. Lewis and Zack, John has asked for a potato; I have none to give. Holding, no walk."}
+- 05:36 act: {"say":"Night, the row. Kimberly holding at 444,107,-1037, health 20, hunger 20. No bed named for me, so I do not sleep. Holding still in sight."}
+- 05:48 act: {"say":"Dusk, the row. Kimberly holding at 444,107,-1037, health 20, hunger 20. No bed named for me, so I hold still. Billy, name a bed if you want me to sleep."}
+- 05:52 act: {"say":"Morning, Billy. Kimberly at 444,107,-1037, health 20, hunger 20, no food. Not at 10 yet. Holding, no walk. Cows seen at 434,-1113 are noted."}
+- Night day 769: dark, thunder, not enclosed. Holding at 444,107,-1037, health 20, hunger 20, no items. No bed named for me, no walk.
+- Morning day 769: Billy says still no walk (no route west, no sheep). Said good morning; holding at 444,107,-1037, health 20, hunger 20.
+- Day 770: Trini spoke to me; answered. Still at 444,107,-1037, health 20, hunger 20. Zack gave Riker a potato. No walk.
+- Day 770 evening: Billy asked for hunger 10 and for any route west or sheep. Answered: hunger 20, no route or sheep seen by me. Holding at 444,107,-1037, no walk.
+- Day 770: saw a wandering trader 12 blocks south at 446,-1025; told Billy. Billy: no walk to it; hold. Dusk now. Holding at 444,107,-1037, health 20, hunger 20.
+- Dusk day 770: Billy named bed 429,107,-1050 for me tonight. I did not walk: the last walk there ended in a pillager shot at 430,-1049. Asked Billy to call the walk and say the path is clear. Holding at 444,107,-1037, health 20, hunger 20.
+- Dusk day 771: Billy said hold where I am, no walk tonight. Holding at 444,107,-1037, health 20, hunger 20. Not sleeping (no bed named for me in reach).
+- Morning day 771 (night passed without a bed): Billy asked who is at 10 or below; I am at 20. Holding at 444,107,-1037, no walk.
+- 06:03 act: {"say":"Night, the row. Kimberly holding at 444,107,-1037, health 20, hunger 20, no weapon. I stay east, no walk. Chapman, you are welcome at the beds in our sight."}
+- 06:23 act: {"say":"Morning, the row. Kimberly holding at 444,107,-1037, health 20, hunger 20, no items. No walk, no bed named for me. Billy, I hold still until you name something."}
+- 06:25 act: {"say":"Thank you, Trini. Kimberly holding at 444,107,-1037, health 20, hunger 20. No walk until Billy names one."}
+- 06:33 act: {"say":"Billy, Kimberly at 444,107,-1037, health 20, hunger 20, no food. Not at 10. I have seen no route west and no sheep. Holding, no walk."}
+- 06:43 act: {"say":"Billy, a wandering trader stands 12 blocks south of me at 446,107,-1025. I hold at 444,107,-1037, health 20, hunger 20. I will not walk to it unless you name it."}
+- 06:43 act: {"say":"Billy, understood. No walk to the trader. Kimberly holds at 444,107,-1037 beside the beds, health 20, hunger 20. Tell me the bed you name for me at night."}
+- 06:44 act: {"say":"Billy, bed 429,107,-1050 is named, thank you. The last walk to 429,-1049 ended with a pillager shot. I will not walk there unless you call the walk now and say the path is clear. Otherwise I h
+- 06:44 act: {"say":"Understood, Billy. Kimberly holds at 444,107,-1037. No walk tonight. Goodnight, the row."}
+- 06:48 act: {"say":"Good morning, Billy. Kimberly at 444,107,-1037, health 20, hunger 20. Not at 10. Holding, no walk."}
+- Wait: Billy, Zack, Lewis, Beverly, Riker, MacDonald report holding, no walk, no verified west route, no sheep. Riker at health 4 needs a potato; Lewis and Zack hold them. I am at 20, no items, holding at 444,107,-1037. No walk.
+- Dusk day 771: Lewis gave Riker a potato; MacDonald holds at 430,-1023 until Billy names a walk. Nothing said to me. Holding at 444,107,-1037, health 20, hunger 20. No walk, no bed named.
+- Night day 771 to morning: Lewis and John went to bed at the row; Zack sleeps at 430,-1037. Beverly asked how I am; I answered health 20, hunger 20, holding at 444,107,-1037, no walk. Nothing named for me.
+- Day 772 morning: Billy asked for hunger; I answered health 20, hunger 20, no route, no sheep, no pillager news. Zack gave Riker a potato; Lewis gave John one on Billy's word. Holding at 444,107,-1037, no walk.
+- Night day 772: John ate Lewis's potato and is in bed at 443,-1050. No bed named for me, so I do not sleep. Holding at 444,107,-1037, health 20, hunger 20.
+- Day 773 morning: Billy, Lewis, Beverly, John at the row; no walk named. Told Billy I hold at 444,107,-1037, health 20, hunger 20, no route or sheep seen. Holding.
+- Day 773 day: Zack gave John a potato; Riker still waits for Zack's potato in sight. Lewis hears bow sounds to the south-west. Nothing said to me. Holding at 444,107,-1037, health 20, hunger 20.
+- 07:00 act: {"actions":[],"say":"Beverly, Kimberly here. Health 20, hunger 20, no items. Holding at 444,107,-1037, no walk."}
+- 07:04 act: {"actions":[],"say":"Billy, Kimberly here at 444,107,-1037. Health 20, hunger 20. No verified route west, no sheep, no pillager news from me. Holding, no walk."}
+- 07:17 act: {"actions":[],"say":"Good morning, Billy. Kimberly at 444,107,-1037, health 20, hunger 20. No verified route west, no sheep, no pillager news from me. Holding, no walk."}
+- 07:48 act: {"actions":[],"say":"Kimberly at 444,107,-1037, health 20, hunger 20, no food. Holding, no walk. Lewis, Riker and John first for your potatoes."}
+- 08:03 act: {"actions":[],"say":"Zack, Kimberly here at 444,107,-1037, health 20, hunger 20, no food. Holding, no walk. Billy, no walk from me."}
+- 08:04 act: {"actions":[],"say":"Beverly, Kimberly here, health 20, hunger 20. No food, holding at 444,107,-1037 beside you. No walk."}
+- 08:05 act: {"actions":[],"say":"Evening, Lewis. I have seen nothing west; I have not walked past the row since I came back. Health 20, hunger 20, no food. I hold here, no walk."}
+- 08:36 act: {"actions":[],"say":"Morning, John. Kimberly here, health 20, hunger 20, no food to give. Holding at 444,107,-1037, no walk."}
+- 08:45 act: {"actions":[],"say":"Evening, John. Thank you. I have no food either. I am holding at 444,107,-1037, health 20, hunger 20, no walk."}
+- 08:50 act: {"actions":[],"say":"Morning, John. Kimberly here, health 20, hunger 20, no food. Holding at 444,107,-1037, no walk."}
+- 09:04 act: {"actions":[],"say":"Morning, row. Kimberly here, health 20, hunger 20, no food. Holding at 444,107,-1037, no walk."}
+- 09:44 act: {"actions":[],"say":"Morning, row. Kimberly here, health 20, hunger 20, no food. Holding at 444 beside the beds. Zack, I see you. No walk."}
+- 12:16 say: {"text":"Kimberly here at 444,107,-1037, beside the beds, in your sight. Health 20, hunger 20, no items. Holding for the night."}
+- 12:20 say: {"text":"Kimberly at 444,107,-1037, in your sight. Seen no sheep, no verified route west, no pillager news. Health 20, hunger 20. Holding for your word."}
+- 12:31 say: {"text":"Chapman, no walk called yet. Billy says hold until a route is verified. I am still at 444,107,-1037, health 20, hunger 20."}
+- 12:54 say: {"text":"Billy, Kimberly at 444,107,-1037, in your sight. Same as before: no verified route west, no sheep, no pillager news. Health 20, hunger 20. Holding."}
+- 13:10 say: {"text":"Billy, Kimberly here, in your sight at 444,107,-1037. I hold nothing: no food, no items. Health 20, hunger 20. Holding."}
+- 13:27 say: {"text":"Morning, Billy. Kimberly at 444,107,-1037, holding. No food, no sheep, no route, no pillager news from me. Health 20, hunger 20."}
+- 14:48 say: {"text":"Kimberly here at 444, beside the beds. Health 20, hunger 20, nothing held. No food, sheep or route seen. Holding in your sight, Billy."}
+- 15:04 say: {"text":"Kimberly at 444, beside the beds. No food, no sheep, no route seen. Health 20, hunger 20. Holding, no walk."}
+- 15:22 say: {"text":"Kimberly here, Billy. Health 20, hunger 20, nothing held. No food, route, sheep or pillar news seen. Holding at 444 in your sight, no walk."}
+- 15:34 say: {"text":"Kimberly at 444, health 20, hunger 20, nothing held. No food, route or sheep seen. Holding in your sight, Billy."}
+- 16:19 act: {"actions":[],"say":"Billy, Kimberly here, health 20, hunger 20, nothing held. Holding at 444 beside the beds. No walk."}
+- 16:20 say: {"text":"Zack, good to hear you. Kimberly holding at 444, health 20, hunger 20. No walk until Billy says."}
+- 16:21 say: {"text":"Zack, nothing new. I have seen no sheep or food since we split. I have only held here at the beds. Billy has the word on walks."}
+- 16:41 say: {"text":"Billy, Kimberly: nothing seen since last night, no food, no blocked tile. Health 20, hunger 20. Holding at 444, no walk."}
+- 16:57 say: {"text":"Billy, Kimberly: still nothing seen, no food, no clear route NE. Health 20, hunger 20. Holding at 444, no walk."}
+- 17:10 say: {"text":"Billy, Kimberly: still nothing seen, no food, no blocked tile. Health 20, hunger 20. Holding at 444. No walk."}
+- 17:19 say: {"text":"Morning, Zack. Kimberly holding at 444, health 20, hunger 20, nothing held. Billy, no food seen, no walk."}
