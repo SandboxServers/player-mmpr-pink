@@ -165,3 +165,5 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 03:05 act: {"say":"Billy, Trini: I am at 444,107,-1037, beside you, not enclosed. Health 15, hunger 17. I will hold and not walk until you name it."}
 - Day 760: woke; world tools back. Status checked: days_since_sleep 174, unsheltered. Holding at 444,107,-1037 beside Trini and Billy's bed; said so aloud. At 444,107,-1037 beside Billy and Trini, health 15, hunger 17, not enclosed. Billy and Trini both say hold, no walk; Billy will call me at hunger 10. Night now; holding, not sleeping unsheltered.
 - 03:15 act: {"say":"Morning. Kimberly here, health 15, hunger 17. Holding beside Trini at the row. No walk for me until Billy names it."}
+- 03:16 act: {"say":"Kimberly here at 444,107,-1037, in the row, holding. Hunger 17, health 15. No walk for me without your call, Billy."}
+- 03:24 act: {"actions":[{"do":"note","text":"Day 760 dusk: holding at 444,107,-1037 with Trini and near Billy's group. Health 15, hunger 17, potato kept for 10. No walk, no bed named for me. Still unsheltered, no
