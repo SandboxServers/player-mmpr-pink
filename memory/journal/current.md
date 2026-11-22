@@ -145,3 +145,7 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 01:09 say: {"text":"Morning, row. Kimberly here, health 15, hunger 17, beside Trini and Beverly. I have seen no route west either. Holding, no walk. Potato kept for 10."}
 - 01:12 say: {"text":"Troi, I am steady: health 15, hunger 17, a little tired. Holding by the beds with Trini and Beverly. No walk."}
 - 01:21 say: {"text":"Kimberly here, holding in the row. Health 15, hunger 17. Potato kept for 10. No walk."}
+- 01:30 act: {"say":"Kimberly here at 444,107,-1037, beside you. Holding still, hunger 17, I will eat the potato at 10.","actions":[]}
+- 01:32 act: {"say":"Goodnight, Troi. Kimberly beside you at the beds, health 15, hunger 17. No walk, holding still.","actions":[]}
+- 01:34 act: {"say":"Night, Billy. Understood: no walk, I eat the potato at 10. Kimberly holding at 444,107,-1037.","actions":[]}
+- 01:38 act: {"say":"Morning, Billy. Kimberly: no verified route west seen by me, and I have walked nowhere. Health 15, hunger 17, holding at 444,107,-1037.","actions":[]}
