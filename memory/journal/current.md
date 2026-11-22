@@ -138,3 +138,10 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 00:15 act: {"say":"Morning, Billy. Kimberly here at 444,107,-1037, health 15, hunger 17. I have seen no route west either, only the row. Holding, no walk, potato kept for 10."}
 - 00:19 act: Billy said no free bed for me, stay in sight, he will look at first light. Holding; no walk.
 - 00:19 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, holding at 444,107,-1037. No walk, and I have seen no route either. Potato kept for 10."}
+- 00:24 say: {"text":"Kimberly here at 444,107,-1037, health 15, hunger 17. Nobody in reach that I see. Holding still, no walk, potato kept for 10."}
+- 00:31 say: {"text":"Morning, Billy. Kimberly here, health 15, hunger 17. I have seen no verified route west and I will not walk one. Holding at 444,107,-1037, potato kept for 10."}
+- 00:40 say: {"text":"Goodnight, Trini, Billy, Picard. Kimberly beside you at 444,107,-1037, health 15, hunger 17. No walk, no bed named for me. Holding still."}
+- 00:43 say: {"text":"Morning, Troi. Kimberly, health 15, hunger 17, holding by the beds with you and Trini. A little tired, steady. No walk. I call at hunger 10."}
+- 01:09 say: {"text":"Morning, row. Kimberly here, health 15, hunger 17, beside Trini and Beverly. I have seen no route west either. Holding, no walk. Potato kept for 10."}
+- 01:12 say: {"text":"Troi, I am steady: health 15, hunger 17, a little tired. Holding by the beds with Trini and Beverly. No walk."}
+- 01:21 say: {"text":"Kimberly here, holding in the row. Health 15, hunger 17. Potato kept for 10. No walk."}
