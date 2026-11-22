@@ -91,3 +91,5 @@
 - 19:02 say: {"text":"Troi, I'm here at the row, holding still. It's dusk and I won't walk in the dark. Billy, I'm waiting on your word."}
 - 19:02 say: {"text":"Billy, understood. Kimberly holds here at 444,107,-1037, health 20, hunger 20. No walk in the dark."}
 - 19:10 say: {"text":"Billy, Kimberly here at 444,107,-1037, health 20, hunger 20. I have not seen Worf, and I heard no bow to the southwest. No walk from me."}
+- 19:19 act: {"actions":[{"do":"note","text":"Morning day 808: at 444,107,-1037, health 20, hunger 20. Pack is empty; no potato, no sword in hand."}],"say":"Good morning, row. Kimberly here at 444,107,-1037, healt
+- 19:28 act: {"actions":[{"do":"note","text":"Dusk day 809: holding at 444,107,-1037, health 20, hunger 20, no items. No bed named for me, no walk. Not sleeping."}]}
