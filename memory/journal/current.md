@@ -88,3 +88,6 @@
 - 16:57 say: {"text":"Billy, Kimberly: still nothing seen, no food, no clear route NE. Health 20, hunger 20. Holding at 444, no walk."}
 - 17:10 say: {"text":"Billy, Kimberly: still nothing seen, no food, no blocked tile. Health 20, hunger 20. Holding at 444. No walk."}
 - 17:19 say: {"text":"Morning, Zack. Kimberly holding at 444, health 20, hunger 20, nothing held. Billy, no food seen, no walk."}
+- 19:02 say: {"text":"Troi, I'm here at the row, holding still. It's dusk and I won't walk in the dark. Billy, I'm waiting on your word."}
+- 19:02 say: {"text":"Billy, understood. Kimberly holds here at 444,107,-1037, health 20, hunger 20. No walk in the dark."}
+- 19:10 say: {"text":"Billy, Kimberly here at 444,107,-1037, health 20, hunger 20. I have not seen Worf, and I heard no bow to the southwest. No walk from me."}
