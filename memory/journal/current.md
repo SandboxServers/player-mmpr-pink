@@ -170,3 +170,7 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 03:34 act: {"actions":[{"do":"note","text":"Night, day 761. Holding at 444,107,-1037 beside Trini. Waiting for Billy to name a bed."}],"say":"Troi, I am here at the row with Trini, not enclosed and not sleeping 
 - 03:35 act: {"actions":[{"do":"note","text":"Night 761: Billy at his bed 429,107,-1037, named no bed for me. Holding at 444,107,-1037 beside Trini, no walk, potato kept for hunger 10."}],"say":"Goodnight, Billy. 
 - 03:35 act: {"actions":[{"do":"note","text":"Day 762 morning: at 444,107,-1037 beside Trini. Health 15, hunger 17. No verified route west, no sheep seen by me. No walk named. Potato kept for 10."}],"say":"Good mo
+- 03:41 act: {"say":"Still here at the row, Trini and Billy close. Hunger 17, so I keep the potato until 10.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","preco
+- 03:48 act: {"say":"Good morning, Billy. Kimberly here at 444,107,-1037, health 15, hunger 17. Holding, no walk. I eat the potato at 10 and tell you."}
+- 04:00 act: {"say":"Dusk, the row. Kimberly at 444,107,-1037, health 15, hunger 17. No bed named for me, so I hold in sight and do not walk."}
+- 04:02 act: {"say":"Good day, Billy. Kimberly here, health 15, hunger 17, at 444,107,-1037 in sight. No route or sheep seen by me. Holding, no walk. Troi, I am steady."}
