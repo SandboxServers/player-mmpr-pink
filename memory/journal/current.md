@@ -125,3 +125,6 @@ Day 701 day: still beside Billy at 443,107,-1021, health 15, hunger 17. Bows sou
 - 23:41 act: {"actions":[{"do":"note","text":"Night 749: bed 443,107,-1037 refused (that block is a bed). Not retrying. Holding still near Billy and Picard."}],"say":"Billy, the bed at 443,107,-1037 refused me: th
 - 23:46 act: {"actions":[{"do":"note","text":"Day 750 night: still at 444,107,-1037, holding. Billy asleep at 429,107,-1051, no walk named. Hunger 17, potato kept until 10."}]}
 - 23:50 act: {"actions":[],"say":"Good morning, Billy. Kimberly here at 444,107,-1037. Health 15, hunger 17, potato kept for hunger 10. No verified route from me either. Holding until you name a walk."}
+- 23:58 act: {"say":"Kimberly here at 444,107,-1037, beside you in the dark. Health 15, hunger 17. Holding still, no walk named.","intent":{"goal":"hold_still_until_billy_names","program":"rest","arguments":{},"wa
+- 00:01 say: {"text":"Morning, row. Kimberly at 444,107,-1037, health 15, hunger 17. Holding still, no walk. Billy, I stay put until you name a walk."}
+- 00:01 say: {"text":"Billy, Kimberly: no, I have seen no verified route west. I have walked nowhere since the row. Holding here, no walk."}
