@@ -100,3 +100,6 @@
 - Day 809 morning: Billy and Clark report holding at the row; no walk named. I am at 444,107,-1037, health 20, hunger 20, pack empty. Holding.
 - 19:43 act: {"actions":[],"say":"Night, row. Kimberly beside you, Deanna, health 20, hunger 20, no food. Holding, no walk."}
 - 19:44 act: {"actions":[],"say":"Troi, thank you for asking. I am well: health 20, hunger 20, though I have no food. I have not seen Worf or the bow. Holding, no walk."}
+- 19:59 act: {"say":"Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty. Troi, I am right beside you. Billy, I hold still until you name a walk."}
+- 20:10 act: {"say":"Night, row. Kimberly holding at 444,107,-1037 beside Troi. No walk, no bed unless Billy names it."}
+- 20:14 act: {"say":"Good morning, Billy. Kimberly still at 444,107,-1037 with Troi, health 20, hunger 20, pack empty. I have not seen Worf since last night. Holding for your named call."}
