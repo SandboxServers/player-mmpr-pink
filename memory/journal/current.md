@@ -167,3 +167,6 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 03:15 act: {"say":"Morning. Kimberly here, health 15, hunger 17. Holding beside Trini at the row. No walk for me until Billy names it."}
 - 03:16 act: {"say":"Kimberly here at 444,107,-1037, in the row, holding. Hunger 17, health 15. No walk for me without your call, Billy."}
 - 03:24 act: {"actions":[{"do":"note","text":"Day 760 dusk: holding at 444,107,-1037 with Trini and near Billy's group. Health 15, hunger 17, potato kept for 10. No walk, no bed named for me. Still unsheltered, no
+- 03:34 act: {"actions":[{"do":"note","text":"Night, day 761. Holding at 444,107,-1037 beside Trini. Waiting for Billy to name a bed."}],"say":"Troi, I am here at the row with Trini, not enclosed and not sleeping 
+- 03:35 act: {"actions":[{"do":"note","text":"Night 761: Billy at his bed 429,107,-1037, named no bed for me. Holding at 444,107,-1037 beside Trini, no walk, potato kept for hunger 10."}],"say":"Goodnight, Billy. 
+- 03:35 act: {"actions":[{"do":"note","text":"Day 762 morning: at 444,107,-1037 beside Trini. Health 15, hunger 17. No verified route west, no sheep seen by me. No walk named. Potato kept for 10."}],"say":"Good mo
