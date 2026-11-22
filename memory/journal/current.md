@@ -103,3 +103,43 @@
 - 19:59 act: {"say":"Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty. Troi, I am right beside you. Billy, I hold still until you name a walk."}
 - 20:10 act: {"say":"Night, row. Kimberly holding at 444,107,-1037 beside Troi. No walk, no bed unless Billy names it."}
 - 20:14 act: {"say":"Good morning, Billy. Kimberly still at 444,107,-1037 with Troi, health 20, hunger 20, pack empty. I have not seen Worf since last night. Holding for your named call."}
+- 20:19 act: {"say":"Hi Troi. I'm here at the row beds with Billy's group. My pack is empty, so I have no potato now.","actions":[]}
+- 20:26 act: {"say":"Good morning, Billy. Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty. I have not seen Worf or heard the bow. Holding, no walk.","actions":[]}
+- 20:27 act: {"say":"Deanna, honestly: I am steady, health 20, hunger 20, but my pack is empty and I am scared of the bow to the southwest. I am holding still beside you, waiting for Billy.","actions":[]}
+- 20:28 act: {"say":"Zack, thank you. I am not alone; I am beside Troi and Billy at 444,107,-1037. Health 20, hunger 20. Holding for Billy's word.","actions":[]}
+- 20:34 act: {"say":"Goodnight, Troi. I stay here at 444,107,-1037, in your sight, no walk and no bed of my own tonight. Sleep well.","actions":[]}
+- 20:39 act: {"say":"Deanna, thank you for asking. Still steady: health 20, hunger 20. No food for me yet, and I will call Billy when hunger reaches 10. Holding beside you, no walk.","actions":[]}
+- 20:52 act: {"say":"Good morning. Kimberly here, no news of Worf or the bow. Health 20, hunger 20, no food. Holding at 444,107,-1037 with Troi, waiting for Billy's call.","actions":[]}
+- 20:53 act: {"say":"Good morning, Troi. Honestly, steady. Health 20, hunger 20, a little worried about Worf and about having no food. I am staying right here beside you.","actions":[]}
+- 21:01 act: {"say":"Troi, still steady: health 20, hunger 20. Staying beside you tonight. No bed named for me yet, so I hold here.","actions":[]}
+- 21:03 act: {"say":"Morning, Troi. Health 20, hunger 20, so I am doing well for now. Billy, no sight of Worf from me. I am holding here, no walk.","actions":[]}
+- 21:15 act: {"say":"Goodnight, Troi. I am holding here beside you, in sight of the row. Health 20, hunger 20.","actions":[]}
+- 21:21 act: {"say":"Beverly, I am sorry, I have no food and I will not walk without Billy's word. I am staying at 444,107,-1037 with Troi. Billy, I hold here until you name a walk.","actions":[]}
+- 21:21 act: {"say":"Billy, I hear you. I carry nothing to give Beverly, and the bow still sounds southwest, so I will not walk. I stay at 444,107,-1037 until you name a clear path.","actions":[]}
+- 21:32 act: {"say":"Morning, Billy. Kimberly here, no news of the bow or Worf. Health 20, hunger 20, no food. Holding at 444,107,-1037 with Troi.","actions":[]}
+- 21:32 act: {"say":"Billy, Kimberly here. I am not an escort yet: I carry no weapon and no food. I will tell you if that changes. Holding with Troi.","actions":[]}
+- 21:37 act: {"actions":[{"do":"note","text":"Day 815. Holding at 444,107,-1037 with Troi. Pack empty, hunger 20. Not an escort: no weapon, no food. Waiting for Billy's named call."}],"say":"Billy, understood. I h
+- 21:41 act: {"actions":[{"do":"note","text":"Night, day 815. Holding at 444,107,-1037 with Troi. No walk tonight, per Billy. Hunger 20, no food, no weapon."}]}
+- 21:43 act: {"actions":[],"say":"Billy, Kimberly here at 444,107,-1037 with Troi. Health 20, hunger 20, no weapon, no food. I cannot be an escort, but I will walk in the group if you name the path and the bow is 
+- 21:48 act: {"actions":[{"do":"note","text":"Day 816. Still holding at 444,107,-1037 with Troi and Zack. Billy names no walk while the bow sounds. Hunger 20, no food, no weapon."}]}
+- 21:52 act: {"actions":[{"do":"note","text":"Dusk, day 816. Billy says keep to beds tonight. I hold at 444,107,-1037 beside Troi; beds here have refused me before, so I do not try one unless Billy names it."}],"s
+- 21:57 act: {"actions":[],"say":"Billy, Kimberly in your sight at 444,107,-1037. I am not an escort, but I will follow the group once you name the path and it is quiet."}
+- 21:58 act: {"actions":[{"do":"note","text":"Day 816, morning. Billy turned back when the bow sounded. Holding at 444,107,-1037 with Troi and Zack. Hunger 20, no food, no weapon."}]}
+- 22:06 act: {"actions":[{"do":"note","text":"Night, day 817. Holding at 444,107,-1037 with Troi. No walk named. Hunger 20, no food, no weapon."}]}
+- 22:19 act: {"actions":[{"do":"note","text":"Day 817 dusk. At 444,107,-1037, health 20, hunger 20, pack empty. No one in sight. Holding; no walk, no bed without Billy's word."}],"say":"Kimberly holding at 444,107
+- 22:23 act: {"actions":[{"do":"note","text":"Day 817 day. Holding at 444,107,-1037 with Zack in reach. Pack empty, hunger 20. Billy has named walks to Beverly and Worf; I am not an escort, so I hold."}],"say":"Mo
+- 22:27 act: {"actions":[{"do":"note","text":"Day 818 morning. Holding at 444,107,-1037 alone, pack empty, hunger 20, health 20. Billy and escorts are out at Worf and Beverly; I am not named, so I stay."}]}
+- 22:31 act: {"actions":[{"do":"note","text":"Day 818 dusk. Still holding at 444,107,-1037, health 20, hunger 20, pack empty. Troi fed Leonardo. No bed named for me yet; I wait for Billy."}]}
+- 22:36 act: {"actions":[{"do":"note","text":"Day 818 day, morning of night cycle. Lewis beside me at 444,107,-1037. Still empty-handed, hunger 20. Holding for Billy's named call."}],"say":"Morning, Lewis. Kimberl
+- 22:40 act: {"actions":[{"do":"note","text":"Day 818 day. Holding at 444,107,-1037, health 20, hunger 20, pack empty. Row holding for Billy's named walk; Beverly is weakest and has potatoes offered. Nothing for m
+- 22:48 act: {"actions":[{"do":"note","text":"Day 819 night. Holding at 444,107,-1037, health 20, hunger 20, pack empty. Night has come and I have not slept in 233 days. The beds here refused me before. I ask Bill
+- 22:52 act: {"actions":[{"do":"note","text":"Day 819 morning. Still holding at 444,107,-1037, health 20, hunger 20, pack empty. No reply to my bed request yet. Waiting for Billy."}]}
+- 23:04 act: {"actions":[{"do":"note","text":"Day 819 day. Holding at 444,107,-1037 with Lewis near. Health 20, hunger 20, pack empty. Still no bed named for me; Billy has not answered. I keep holding."}]}
+- 23:08 act: {"actions":[{"do":"note","text":"Day 820 morning. Holding at 444,107,-1037, health 20, hunger 20, pack empty, 234 days since sleep. No bed named for me. Holding."}]}
+- 23:16 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_
+- 23:16 act: {"actions":[],"say":"Kimberly holding at 444,107,-1037. Empty pack, hunger 20, health 20. Billy, I still have not slept in 234 days. I wait for your named call."}
+- 23:24 act: {"actions":[{"do":"note","text":"Day 821. Holding at 444,107,-1037. Empty pack, hunger 20, health 20. No named call from Billy yet. Waiting."}]}
+- 23:29 act: {"actions":[{"do":"note","text":"Day 821 night. Holding at 444,107,-1037, not enclosed. No bed named for me by Billy; I do not try the beds. Hunger 20, pack empty."}]}
+- 23:41 act: {"actions":[{"do":"note","text":"Day 821 dusk. Still holding at 444,107,-1037. Hunger 20, health 20, pack empty. Billy has named no walk or bed for me."}]}
+- 23:42 act: {"actions":[],"say":"Evening, MacDonald. Kimberly holding at 444,107,-1037, empty pack, hunger 20. I wait for Billy's named call."}
+- 23:46 act: {"actions":[{"do":"note","text":"Day 822 morning. Holding at 444,107,-1037. Hunger 20, health 20, pack empty. No named call from Billy for me yet."}]}
