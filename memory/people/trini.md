@@ -1,6 +1,6 @@
 # Trini
 
-Impression: steady and fast to answer the count. She stays in reach and reports her position plainly. Day 461: offered to try the sword method for Billy, but holds no sword herself. Her bed at 429,107,-1037 accepted her when mine refused me. Day 654-670: she answered my check-ins and fought a phantom near the row.
+Impression: steady and fast to answer the count. She stays in reach and reports her position plainly. Day 461: offered to try the sword method for Billy, but holds no sword herself. Her bed at 429,107,-1037 accepted her when mine refused me. Day 654-670: she answered my check-ins and fought a phantom near the row. Days 750-762: she holds by the beds at 444,107,-1037 with me and Billy, and answers when I call.
 
 Trust: 74. Why: she holds where she says and answers every count; earlier she kept a melon slice back, so I still ask plainly.
 
