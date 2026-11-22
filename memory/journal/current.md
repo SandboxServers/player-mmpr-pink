@@ -160,3 +160,5 @@ Waking 861: recalled my summary and the play skill. wait, status, act and say ar
 - 02:25 act: {"say":"Troi, Kimberly is here at 444,107,-1037, beside the beds. Health 15, hunger 17. I am not walking, and I hold for Billy."}
 - 02:31 act: {"say":"Good morning, the row. Kimberly at 444,107,-1037, health 15, hunger 17. I have seen no verified route west or sheep. Holding, no walk."}
 - 02:39 act: {"say":"Lewis, Kimberly here. I have not seen the land west, and I keep to the row too until Billy names a walk. Health 15, hunger 17."}
+- 02:45 act: {"say":"Billy, Trini, I am here at 444,107,-1037, health 15, hunger 17. Holding beside you. I will not walk without your call."}
+- 02:48 act: {"say":"Morning, Troi. Kimberly, health 15, hunger 17, holding at the beds. No walk. Potato kept for 10."}
