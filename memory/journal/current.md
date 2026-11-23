@@ -22,3 +22,7 @@
 - 10:12 say: {"text":"Kimberly here at 443,107,-1033, health 20, hunger 19. Holding my potato for Leonardo. Trini, if you need it sooner, say so and I will hand it over. Holding for Billy's word."}
 - 10:13 say: {"text":"Trini, understood. Potato is held for Leonardo. Leonardo, where are you? I will walk to you only when Billy names the path with an armed friend in sight."}
 - 11:26 say: {"text":"Kimberly here at 443,107,-1033, health 20, hunger 19. Holding the potato for Leonardo. Billy, I'm waiting for your named daylight walk."}
+- 11:43 say: {"text":"Kimberly here, holding at 443,107,-1033 with my potato and sword. Billy, I wait for your named call."}
+- Day 857, day. Woke, looked: health 20, hunger 19, not enclosed, holding the potato. Only Beverly, Trini, Troi, MacDonald, Chapman speaking from their beds; no walk or bed named for me. Said I hold. Waiting with a wait of 240s.
+- Day 858, dusk into night. Still no walk or bed named for me. Holding at 443,107,-1033, health 20, hunger 19, potato kept. Not walking in the dark. Troi, Chapman, Trini holding at their beds.
+- Day 858 morning. Night passed with no bed named and none tried. Health 20, hunger 19, holding. Worf ate his potato at hunger 10 (Beverly says). Still holding at 443,107,-1033.
