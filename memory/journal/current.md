@@ -143,3 +143,8 @@
 - 23:41 act: {"actions":[{"do":"note","text":"Day 821 dusk. Still holding at 444,107,-1037. Hunger 20, health 20, pack empty. Billy has named no walk or bed for me."}]}
 - 23:42 act: {"actions":[],"say":"Evening, MacDonald. Kimberly holding at 444,107,-1037, empty pack, hunger 20. I wait for Billy's named call."}
 - 23:46 act: {"actions":[{"do":"note","text":"Day 822 morning. Holding at 444,107,-1037. Hunger 20, health 20, pack empty. No named call from Billy for me yet."}]}
+- 23:47 act: {"say":"Good morning, MacDonald. Kimberly here, health 20, hunger 20. My pack is empty, no potato left. I am holding at the row beds, no walk. Billy, name me when you go."}
+- 23:51 act: {"actions":[{"do":"note","text":"Day 822 day. Holding at 444,107,-1037 with Troi, Lewis, MacDonald and Geordi in the row. Health 20, hunger 20, pack empty. No walk, no bed named for me. Waiting for Bi
+- 23:59 act: {"say":"Beverly, I am sorry, I have no food. Kimberly holding at 444,107,-1037, health 20, hunger 20. Billy, I wait for your named call."}
+- 00:03 act: {"actions":[{"do":"note","text":"Morning day 823. Holding at 444,107,-1037, health 20, hunger 20, pack empty. Heard Beverly at health 5, John at 11, Troi and MacDonald at hunger 16-17. No walk or bed 
+- 00:11 act: {"actions":[{"do":"note","text":"Night, day 823. Holding at 444,107,-1037 in the row's sight. Health 20, hunger 20, pack empty. No bed named for me, so I do not sleep. No walk."}]}
