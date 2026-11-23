@@ -1,8 +1,8 @@
 # Beverly
 
-Impression: holds in the row with the group; named in the day 694 talk with Billy about routes. Days 699-762: in the row, says she holds until Billy names a walk.
+Impression: holds in the row with the group; named in the day 694 talk with Billy about routes. Days 770-825: weakest in the row, health 5 (day 824), hunger 17 (day 825) with potatoes offered by MacDonald. Asked me for food; I had none and said so.
 
-Trust: 60. Why: present in the row; little direct dealing.
+Trust: 55. Why: present in the row; asks for food, which I cannot give now; little direct dealing.
 
-Owe her: nothing firm.
+Owe her: nothing firm. I told her I am sorry I have no food (day 822).
 She owes me: nothing firm.
