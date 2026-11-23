@@ -170,3 +170,8 @@
 - 02:27 say: {"text":"Morning, Troi. Kimberly here, health 20, hunger 19, holding at the row. Still no walk named."}
 - 02:45 say: {"text":"Kimberly here at 443,-1033, health 20, hunger 19, one potato in hand. Trini, you have no food and hunger 16: say if you want it and I'll hand it over. Holding for Billy's walk."}
 - 02:45 say: {"text":"Trini, understood. Leonardo is not in my sight, so I cannot hand it to him yet. I hold the potato and will give it to whoever is weakest and in reach, Leonardo first if he comes near. Holding
+- 02:58 say: {"text":"Kimberly here at 443,107,-1033, health 20, hunger 19. Holding the potato for hunger 10. No walk, no east, no dark. Billy, name me for anything."}
+- 03:08 say: {"text":"Dusk, Kimberly at 443,107,-1033, health 20, hunger 19, potato in hand. No bed named for me, so I hold here and do not walk in the dark."}
+- 03:20 say: {"text":"Leonardo, Kimberly here at 443,107,-1033 with one potato. If you are in reach, come to me and I will hand it to you. Billy, I will not walk to him."}
+- 03:32 say: {"text":"Trini, Kimberly here at 443,107,-1033 with one potato. Hunger 16 is weakest in reach, so if you can come to me safely I will hand it to you, Leonardo second. I will not walk to you without Bi
+- 03:52 say: {"text":"Troi, Trini: Kimberly still holds one potato for Leonardo, who is weakest at health 10. Billy, if you name a path to Leonardo, I will walk with the group and hand it to him."}
