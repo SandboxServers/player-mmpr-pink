@@ -6,3 +6,7 @@
 - Day 836, dusk to dawn. No call from Billy. Riker, Troi, Chapman at their beds. I held still at 443,107,-1033; health 20, hunger 19. Potato kept.
 - 04:35 act: {"say":"Kimberly here, still at 443,107,-1033. My one potato is for Leonardo or Trini, the weakest first, once Billy names the path. I will not walk until he does."}
 - Trini replied: Leonardo is weaker, so the potato goes to him first; she holds at her bed for Billy's walk. I still hold at 443,107,-1033, health 20, hunger 19.
+- Day 836 night into day 837: no bed named, none tried. Trini at health 12, hunger 16, still waiting at her bed for Billy's walk. I hold; health 20, hunger 19.
+- Day 837, day into dusk. Lewis and Riker say they can walk when Billy names them. Still no call for me. I hold at 443,107,-1033; health 20, hunger 19.
+- Day 838 morning. Leonardo and Trini need food; Trini says she has only seeds. Billy has named no path, so the potato stays in my pack. I hold; health 20, hunger 19.
+- Day 838, night into morning. Still no call from Billy. Troi, Riker, Lewis, Trini, John, MacDonald all hold at their beds. I hold at 443,107,-1033; health 20, hunger 19.
