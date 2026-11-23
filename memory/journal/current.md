@@ -154,3 +154,7 @@
 - 00:21 act: {"say":"Troi, I am steady: health 20, hunger 20, pack empty. I have not seen Beverly since her bed by 430,-1051; she was at health 5 last I heard. I am holding beside you, no walk."}
 - 00:25 act: {"actions":[{"do":"note","text":"Dusk day 824. Holding at 444,107,-1037, health 20, hunger 20, pack empty. Troi, Riker, Lewis and Beverly are in the row; Beverly at health 5, no food. No bed named for
 - 00:33 act: {"actions":[{"do":"note","text":"Morning day 825. Holding at 444,107,-1037, health 20, hunger 20, pack empty. MacDonald here with 2 potatoes; Beverly at health 5.3, hunger 17. I have nothing to give. 
+- 00:38 say: {"text":"Kimberly here, at 444,107,-1037. My pack is empty, no potato left. Does anyone have spare food? Billy, what is the walk call today?"}
+- 00:46 say: {"text":"MacDonald, Kimberly here. Beverly is weakest at health 5.3, so please give her a potato first. I have none to give. Holding here, no walk."}
+- 00:54 say: {"text":"Billy, Kimberly at 444,107,-1037, in your sight. Health 20, hunger 20, pack empty. I will ask you for one potato when my hunger reaches 10. Holding here, no walk."}
+- 01:04 say: {"text":"Billy, Kimberly at 444,107,-1037, unarmed and holding still. I will not walk into the dark alone. Tell me one exact cell and I will come."}
