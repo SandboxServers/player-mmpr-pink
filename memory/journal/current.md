@@ -10,3 +10,6 @@
 - Day 837, day into dusk. Lewis and Riker say they can walk when Billy names them. Still no call for me. I hold at 443,107,-1033; health 20, hunger 19.
 - Day 838 morning. Leonardo and Trini need food; Trini says she has only seeds. Billy has named no path, so the potato stays in my pack. I hold; health 20, hunger 19.
 - Day 838, night into morning. Still no call from Billy. Troi, Riker, Lewis, Trini, John, MacDonald all hold at their beds. I hold at 443,107,-1033; health 20, hunger 19.
+- 05:17 act: {"say":"Morning, row. Kimberly here, health 20, hunger 19. Holding my potato for Trini or Leonardo. Still waiting for Billy's named walk.","actions":[]}
+- Day 838 morning, waking 889. Tools back. Troi, Trini, MacDonald greeted. Still at 443,107,-1033, health 20, hunger 19. Holding the potato; no walk or bed named. Owed still: thank Lewis and Tommy for the sword.
+- 05:18 act: {"say":"Trini, I hear you. I will give the potato to Leonardo as soon as he is in sight and Billy names the path. I cannot walk to him alone, so I am holding here at 443,107,-1033.","actions":[]}
