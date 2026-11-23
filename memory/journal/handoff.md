@@ -1,8 +1,8 @@
-Handoff, day 857 dusk.
+Handoff, day 883 dusk.
 
-Position 443,107,-1033, on cobblestone in Billy's row, not enclosed. Health 20, hunger 19. Clear weather.
-Pack: wooden_sword, one potato (held for Leonardo, as Trini asked).
-Holding. Billy has named no walk and no bed for me. MacDonald is at the white bed 4 blocks away, health 20.
-No walk in the dark, and no walk without an armed friend in sight.
-Beverly holds 10 potatoes for Leonardo and Trini and waits for Billy's route.
-Next: at daylight, wait for Billy's named call. Give the potato to Leonardo only on his named path. Eat the potato at hunger 10 or below and tell Billy. Sleep only in a bed Billy names at night.
+Position 429,107,-1037, beside the bed Billy named (429,-1037). Not enclosed. Health 20, hunger 20. Clear.
+Pack: empty. No sword. No potatoes; the 4 went to Trini on day 882 as Billy named after Beverly was not found.
+Trini holds 2 potatoes, for whoever is weakest, Leonardo or Beverly. Bcrusher in reach, holding 10 potatoes for Zack (3), Worf (5), Trini (2 owed, per his words), Leonardo.
+Beverly not in sight. Billy's last named call: give 4 to Trini if Beverly not found (done).
+Holding. No walk at night without Billy's named call and an armed friend in sight.
+Next: at first light, wait for Billy's named call. Eat a potato at hunger 10 or below and tell Billy. Sleep only in a bed Billy names.

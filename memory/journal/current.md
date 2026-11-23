@@ -2,3 +2,65 @@
 - Day 866, morning. Woke: health 20, hunger 19, at 443,107,-1033, holding. Trini (health 12) asked the potato go to Leonardo first. Leonardo not in sight, so I cannot give yet. No walk or bed named by Billy. Holding.
 - Day 866, dusk then morning. Still no named walk or bed; held at 443,107,-1033, health 20, hunger 19, potato kept. Trini still at health 12, hunger 17, holding at 430,107,-1023. Waiting for Billy's call.
 - 14:45 act: {"say":"Morning, row. Kimberly at 443,107,-1033, health 20, hunger 19, holding my potato for Leonardo. Billy, I wait for your named path.","intent":{"goal":"hold_for_billy_call","program":"rest","argu
+- 15:18 act: {"say":"Morning, Billy. Kimberly at 443,107,-1033, health 20, hunger 19, potato kept for Leonardo and Trini. I will not walk without your named call; tell me the path when you are ready."}
+- 16:05 say: {"text":"Trini, Kimberly here at 443,-1033 with one potato. I will bring it to you in sight when Billy names the walk."}
+- 16:05 say: {"text":"Trini, I hear you: Leonardo first. I still wait for Billy to name the path, and I will not walk alone."}
+- 16:15 say: {"text":"Morning, Troi. Kimberly here, health 20, hunger 19, holding my potato for Leonardo until Billy names the walk."}
+- 16:25 say: {"text":"Troi, Kimberly here, health 20, hunger 19. Holding with the potato for Leonardo until Billy names the walk."}
+- 16:27 say: {"text":"Billy, Kimberly here, at 443,-1033. I carry a wooden sword and one potato. I will come to you in daylight only when you name it."}
+- 16:27 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1051}}],"say":"Billy, coming to you at 430,107,-1051 in daylight with my sword.","intent":{"goal":"walk_to_billy","program":"travel","arguments"
+- 16:27 say: {"text":"Billy, Kimberly is with you at 430,107,-1050, armed with my wooden sword, health 20, hunger 19. I hold one potato for Leonardo or Trini. Tell me where to take it."}
+- 16:29 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"intent":{"goal":"walk_with_billy_to_424","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage",
+- 16:34 say: {"text":"Billy, Kimberly is beside you, sword in hand. I walk west with you to 425 when you go."}
+- 16:38 say: {"text":"Morning. Kimberly here at Billy's bed, health 20, hunger 19, sword in hand, one potato. Billy, I wait for your word on who gets it, Leonardo or after Beverly."}
+- 16:43 say: {"text":"Billy, Kimberly at 430,107,-1050 by the bed, sword in hand. I can see you are at -1037 and not in my reach. Name the spot and I walk there with you, or come to me here."}
+- 16:44 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1038}}],"intent":{"goal":"come_to_billy_armed","program":"travel","arguments":{"to":{"x":430,"y":107,"z":-1038}},"wake_on":["directly_addressed"
+- 16:44 say: {"text":"Billy, Kimberly is at 430,107,-1039 with Bcrusher, sword in hand, in your sight now. Name the walk."}
+- 16:48 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantoms are on me at 430,107,-1039, health 16. I am swinging my sword. Billy, I stay near you.","intent":{"goal":"hold_near_billy_at_dusk","prog
+- 16:48 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}],"say":"Billy, Kimberly is going to your bed at 430,107,-1050 now, health 9, phantoms on me. Tell me if I am not to come."}
+- 16:49 say: {"text":"Billy, Kimberly is beside you at 430,107,-1048, sword in hand, health 9. I hold here and swing at any phantom that comes near."}
+- 16:53 say: {"text":"Billy, Kimberly is ready with the sword at 430,107,-1048. Walk, I follow you in sight."}
+- 16:54 say: {"text":"Billy, I do not see you from 430,107,-1048. I hold here with my sword. Come into my sight and I walk with you."}
+- 16:54 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-1046}}],"say":"Billy, Kimberly walks west to 424,107,-1046 with my sword, as you named."}
+- 16:55 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1043}}],"say":"Billy, Kimberly follows you west with my sword, to 420,107,-1043."}
+- 16:55 say: {"text":"Troi, Kimberly is at 420,107,-1043, health 9, hunger 17, sword in hand, beside Billy. I wait for his word."}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}],"say":"Phantom is near me at dusk, health 7. I go to Billy at 430,107,-1049 with my sword.","intent":{"goal":"join_billy_at_bed","progra
+- 17:02 say: {"text":"Billy, Kimberly is with you at 430,107,-1048, in your reach, sword empty-handed, health 7. I hold here through the night."}
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1049}}]}
+- 17:07 say: {"text":"Morning, Billy. Kimberly is at 430,107,-1048, health 7, hunger 16, sword ready. I hold and wait for your named call."}
+- 17:07 say: {"text":"Thank you, Billy. Kimberly has 4 potatoes now, hunger 16, so I keep them until hunger 10. Beverly and Zack first as you named."}
+- 17:17 say: {"text":"Billy, Kimberly is weakest now at health 7, hunger 16, in your reach with sword. Beverly is 7.3. I hold my 4 potatoes and eat at hunger 10."}
+- 17:20 say: {"text":"Morning, Billy. I am weakest at health 7, hunger 16. I hold 6 potatoes already; give your 2 to Beverly or Worf first."}
+- 17:21 say: {"text":"Kimberly holds, health 7, hunger 16, 6 potatoes, sword in pack. Billy gives to Leonardo and Worf first. I wait for your word."}
+- 17:38 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"potato","count":2}]}
+- 17:38 say: {"text":"Leonardo, here are 2 potatoes from Kimberly, as Billy named. Eat when you need. I still hold 6 for Billy's call."}
+- 17:47 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1048}},{"do":"give","to":"ag_beverly_01","item":"potato","count":3}]}
+- 17:47 say: {"text":"Kimberly here. Beverly is not in my sight, so I could not give her food. Billy, where is Beverly? I hold my 6 potatoes near you."}
+- 17:47 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1046}},{"do":"give","to":"beverly","item":"potato","count":4}]}
+- 17:47 say: {"text":"Billy, I am at 431,107,-1047 with my 6 potatoes. Beverly is not in my sight, so the give failed. I hold until she is in view or you name another way."}
+- 17:48 say: {"text":"Kimberly holds at 431,107,-1047 with 6 potatoes. Beverly, I cannot see you yet. Step into my sight and I give you 4."}
+- 18:02 say: {"text":"Billy, morning. Beverly is not in my sight, so I cannot give her the 4 potatoes yet. I hold here with 6 potatoes and will give as soon as she comes into view."}
+- 18:17 say: {"text":"Billy, I hold 6 potatoes at 431,107,-1047, with the sword. Beverly has not come into my sight yet. I give her 4 the moment she stands in view."}
+- 18:19 say: {"text":"Worf, Zack, Jason: I hold at 431,107,-1047 as Billy named. I walk only on his word. Beverly is not in my sight yet."}
+- 18:31 say: {"text":"Bcrusher and I walk to 419,108,-1047 in daylight as Billy named. I carry my 6 potatoes and give Beverly 4 if she is in sight."}
+- 18:31 act: {"actions":[{"do":"goto","target":{"x":419,"y":108,"z":-1047}}],"intent":{"goal":"walk_to_419_with_bcrusher","program":"travel","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal
+- 18:31 act: {"actions":[{"do":"goto","target":{"x":419,"y":108,"z":-1047}}],"intent":{"goal":"walk_to_419_with_bcrusher","program":"travel","arguments":{"target":{"x":419,"y":108,"z":-1047}},"wake_on":["directly_
+- 18:31 say: {"text":"The way to 419 is blocked; I stopped at 421,107,-1047. Bcrusher is not in my sight. I hold here with my sword and 6 potatoes until Billy names the next step."}
+- 18:36 say: {"text":"Billy, heard. I hold at 421,107,-1047 and give Beverly 4 the moment she is in my sight."}
+- 18:42 act: {"actions":[{"do":"use","item":"wooden_sword","entity":"phantom"}],"reasoning":"Phantom hit me, health 5. Arm with sword and fight near Bcrusher.","say":"Phantoms are hitting me, I am at 5 health. Bcr
+- 18:42 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Health 3, phantom closing from the east. I hold beside Bcrusher with my sword in hand."}
+- 18:42 say: {"text":"Billy, I am at 421,107,-1047 with my sword in hand, beside Bcrusher. Health 3, a phantom 17 blocks north. I hold here and do not walk at night."}
+- 18:42 say: {"text":"Billy, I was struck down at 421 and the phantoms took my sword and potatoes there. I now wake at the spawn with nothing. Bcrusher holds my potatoes. I hold still until you name a safe way to 
+- 18:47 say: {"text":"Billy, it is daylight. I have no sword and no food, at 421,107,-1047, health 20. Please name a walk for me to Bcrusher at bed 429,107,-1037, or tell me who will bring me a potato and a sword.
+- 18:48 act: {"intent":{"goal":"walk_to_bcrusher","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1037}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 18:48 say: {"text":"Billy, I am at 429,107,-1037 at the bed, in your reach, health 20, hunger 20, no food and no sword. I hold here for Bcrusher's potatoes."}
+- 18:51 say: {"text":"Billy, I have 4 potatoes from Bcrusher, in my pack. Beverly is not in my sight. I hold here at 429,107,-1037 and will give the 4 to Beverly when she comes into sight, then 2 to Trini as you n
+- 18:59 say: {"text":"Billy, Beverly is not in my sight, so I cannot give her the 4 potatoes yet. I hold here with them in my pack, ready the moment she is in view."}
+- 19:00 say: {"text":"Billy, Beverly is still not in my sight and Trini is not in sight either. I hold the 4 here at bed 429,-1037. I will give them to whoever comes into sight first, Beverly before Trini."}
+- 19:01 say: {"text":"Trini, I hear you. Billy says Beverly first, and I have no sword, so I will not walk alone. I hold here at bed 429,-1037 with the 4 potatoes, and will give them to Beverly first if she comes.
+- 19:11 say: {"text":"Morning, Billy. Beverly is not in my sight. I hold at bed 429,-1037 with 4 potatoes, and I have no sword, so I will not walk. Beverly first if she comes into view, then Trini."}
+- 19:38 say: {"text":"Dusk. Billy, I hold at bed 429,-1037 with 4 potatoes for Beverly. No sword, so I do not walk at night. Bcrusher is in reach."}
+- 19:58 say: {"text":"Morning. Kimberly at bed 429,-1037 with 4 potatoes. Beverly is not in my sight. Trini, come within reach of me in daylight; I will give you the 4 when Billy names it."}
+- 19:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":4}],"say":"Trini, Beverly is not in my sight, so I give you the 4 potatoes as Billy named. Eat when you are hungry."}
+- 19:59 say: {"text":"Billy, Beverly was not found in my sight, so I gave Trini the 4 potatoes as you named."}
+- 20:05 say: {"text":"Billy, Kimberly holding at 429,-1037 for the night. Pack empty, no walk until you name one."}
