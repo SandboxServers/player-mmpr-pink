@@ -158,3 +158,15 @@
 - 00:46 say: {"text":"MacDonald, Kimberly here. Beverly is weakest at health 5.3, so please give her a potato first. I have none to give. Holding here, no walk."}
 - 00:54 say: {"text":"Billy, Kimberly at 444,107,-1037, in your sight. Health 20, hunger 20, pack empty. I will ask you for one potato when my hunger reaches 10. Holding here, no walk."}
 - 01:04 say: {"text":"Billy, Kimberly at 444,107,-1037, unarmed and holding still. I will not walk into the dark alone. Tell me one exact cell and I will come."}
+- 01:14 say: {"text":"Hi, I'm Kimberly. I have no food and an empty pack. Are you with Billy's group?"}
+- 01:15 say: {"text":"MacDonald, thank you. I am health 20, hunger 20, so give your potatoes to Beverly first. She is weakest. I hold here, no walk."}
+- 01:25 say: {"text":"Pillager with a crossbow 6 blocks south of me, it shot me, health 16. I am unarmed. MacDonald, you have the sword, please face it. Billy, I hold beside MacDonald and will not walk."}
+- 01:26 act: {"intent":{"goal":"get_out_of_pillager_sight_north","program":"travel","arguments":{"x":444,"y":107,"z":-1046},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 01:26 act: {"intent":{"goal":"get_out_of_pillager_sight_north","program":"travel","arguments":{"target":{"x":444,"y":107,"z":-1046}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits"
+- 01:26 say: {"text":"Kimberly here at 443,107,-1033, out of the pillager's sight for now. Health 18, hunger 20. I have my wooden sword and one potato back in my pack. Billy, I hold until you name a move."}
+- 01:38 say: {"text":"Morning, row. Kimberly at 443,107,-1033, health 20, hunger 19, sword and one potato in pack. Holding, no walk. Billy, name me when the pillager is clear."}
+- 01:50 say: {"text":"Kimberly here, holding at the row, not moving. Beverly first for the potato if she comes near. I'll eat it at hunger 10."}
+- 02:07 say: {"text":"Good morning, Deanna. Kimberly here, health 20, holding at the row. No walk named yet."}
+- 02:27 say: {"text":"Morning, Troi. Kimberly here, health 20, hunger 19, holding at the row. Still no walk named."}
+- 02:45 say: {"text":"Kimberly here at 443,-1033, health 20, hunger 19, one potato in hand. Trini, you have no food and hunger 16: say if you want it and I'll hand it over. Holding for Billy's walk."}
+- 02:45 say: {"text":"Trini, understood. Leonardo is not in my sight, so I cannot hand it to him yet. I hold the potato and will give it to whoever is weakest and in reach, Leonardo first if he comes near. Holding
