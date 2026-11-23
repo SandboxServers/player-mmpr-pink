@@ -15,3 +15,10 @@
 - 05:18 act: {"say":"Trini, I hear you. I will give the potato to Leonardo as soon as he is in sight and Billy names the path. I cannot walk to him alone, so I am holding here at 443,107,-1033.","actions":[]}
 - 05:20 act: {"say":"Kimberly here, at 443,107,-1033, health 20, hunger 19. I have one potato and I'm holding it for Leonardo, who is weakest. Billy, I'll move only on your named call.","intent":{"goal":"hold_for_
 - 05:30 act: {"say":"Kimberly here at 443,107,-1033, health 20, hunger 19. Leonardo, the potato is yours. I'll walk to you only when Billy names the path with the group in sight."}
+- 06:16 act: {"say":"Billy, Kimberly at 443,107,-1033, health 20, hunger 19, with my potato. I'm not walking until you name a path with the group in sight. Leonardo gets it first."}
+- 06:25 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}
+- 06:53 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}
+- 07:54 say: {"text":"Kimberly here at 443,107,-1033, health 20, hunger 19. I hold one potato for Leonardo. Leonardo, say where you stand and I will bring it, or Billy names the walk."}
+- 10:12 say: {"text":"Kimberly here at 443,107,-1033, health 20, hunger 19. Holding my potato for Leonardo. Trini, if you need it sooner, say so and I will hand it over. Holding for Billy's word."}
+- 10:13 say: {"text":"Trini, understood. Potato is held for Leonardo. Leonardo, where are you? I will walk to you only when Billy names the path with an armed friend in sight."}
+- 11:26 say: {"text":"Kimberly here at 443,107,-1033, health 20, hunger 19. Holding the potato for Leonardo. Billy, I'm waiting for your named daylight walk."}
