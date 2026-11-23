@@ -35,3 +35,4 @@
 - 12:30 say: {"text":"Kimberly at 443,107,-1033, health 20, hunger 19, holding my potato for Leonardo. Dusk now, so I will not walk in the dark. Billy, name my path at daylight."}
 - 12:55 say: {"text":"Leonardo, Kimberly here at 443,107,-1033 with my one potato, still for you. Tell me where you stand and an armed friend in sight, and I will come. Until Billy names it, I hold."}
 - 13:32 say: {"text":"Trini, Kimberly here at 443,107,-1033 with my one potato. I can't reach you alone without Billy's named path, so I'm holding. Say the word if Leonardo is out of reach and you're closer to an 
+- 13:44 act: {"say":"Morning, row. Kimberly at 443,107,-1033, health 20, hunger 19, holding my potato. Billy, I wait for your named walk and bed.","intent":{"goal":"hold_for_billys_call","program":"rest","argument
