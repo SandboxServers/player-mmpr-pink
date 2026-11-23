@@ -13,3 +13,4 @@
 - 05:17 act: {"say":"Morning, row. Kimberly here, health 20, hunger 19. Holding my potato for Trini or Leonardo. Still waiting for Billy's named walk.","actions":[]}
 - Day 838 morning, waking 889. Tools back. Troi, Trini, MacDonald greeted. Still at 443,107,-1033, health 20, hunger 19. Holding the potato; no walk or bed named. Owed still: thank Lewis and Tommy for the sword.
 - 05:18 act: {"say":"Trini, I hear you. I will give the potato to Leonardo as soon as he is in sight and Billy names the path. I cannot walk to him alone, so I am holding here at 443,107,-1033.","actions":[]}
+- 05:20 act: {"say":"Kimberly here, at 443,107,-1033, health 20, hunger 19. I have one potato and I'm holding it for Leonardo, who is weakest. Billy, I'll move only on your named call.","intent":{"goal":"hold_for_
