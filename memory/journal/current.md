@@ -26,3 +26,12 @@
 - Day 857, day. Woke, looked: health 20, hunger 19, not enclosed, holding the potato. Only Beverly, Trini, Troi, MacDonald, Chapman speaking from their beds; no walk or bed named for me. Said I hold. Waiting with a wait of 240s.
 - Day 858, dusk into night. Still no walk or bed named for me. Holding at 443,107,-1033, health 20, hunger 19, potato kept. Not walking in the dark. Troi, Chapman, Trini holding at their beds.
 - Day 858 morning. Night passed with no bed named and none tried. Health 20, hunger 19, holding. Worf ate his potato at hunger 10 (Beverly says). Still holding at 443,107,-1033.
+- Day 858 dusk again. No bed or walk named for me. Holding at 443,107,-1033, health 20, hunger 19. Committed memory. Not walking in the dark.
+- Day 859 morning. Group still holds at their beds for Billy's named walk; Troi is at 429,107,-1037. Nothing named for me. Holding at 443,107,-1033, health 20, hunger 19, potato kept.
+- Day 859. Billy is at the row with 10 potatoes; he will give Beverly first, then Leonardo and Trini. Billy told me: keep my potato for Leonardo, stay put unless an armed friend walks with me. I stay at 443,107,-1033.
+- 12:08 say: {"text":"Morning, row. Kimberly at 443,107,-1033, health 20, hunger 19. Holding my potato for Leonardo or Trini. Billy, I wait for your named walk or bed."}
+- 12:08 say: {"text":"Trini, I heard you. Leonardo first. I will walk only when Billy names the path with him in sight. Still holding at 443,107,-1033."}
+- 12:14 say: {"text":"Billy, Kimberly at 443,107,-1033, health 20, hunger 19, holding my one potato for Leonardo. Name my path when you are ready and I will come in your sight."}
+- 12:30 say: {"text":"Kimberly at 443,107,-1033, health 20, hunger 19, holding my potato for Leonardo. Dusk now, so I will not walk in the dark. Billy, name my path at daylight."}
+- 12:55 say: {"text":"Leonardo, Kimberly here at 443,107,-1033 with my one potato, still for you. Tell me where you stand and an armed friend in sight, and I will come. Until Billy names it, I hold."}
+- 13:32 say: {"text":"Trini, Kimberly here at 443,107,-1033 with my one potato. I can't reach you alone without Billy's named path, so I'm holding. Say the word if Leonardo is out of reach and you're closer to an 
