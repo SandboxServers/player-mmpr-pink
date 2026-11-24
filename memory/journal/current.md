@@ -103,3 +103,5 @@
 - 10:27 say: {"text":"Evening, John. Kimberly here, holding at 444,107,-1021, health 20, hunger 20. I will not move until Billy or Worf names a walk or a bed."}
 - 10:43 say: {"text":"Dusk, Kimberly here at 444,107,-1021, health 20, hunger 20, no food. I hold in the open with John until a named walk or bed."}
 - 11:44 say: {"text":"Kimberly here, holding in the open beside John. Night is here; I have no food, and I will not sleep in a bed Billy has not named."}
+- 12:16 say: {"text":"Kimberly here, health 20, hunger 20, pack empty. Holding still at 444,107,-1021. Billy, no walk from me until you name one."}
+- 12:24 say: {"text":"Good morning, John. Kimberly here, health 20, hunger 20, holding at 444,107,-1021. Still no walk named for me. Holding until Billy calls."}
