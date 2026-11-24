@@ -96,3 +96,5 @@
 - Day 920, dusk. Still at 444,107,-1021, health 20, hunger 20, unarmed, no food. Chapman (name confirmed) in reach. Troi and Bcrusher holding at their beds. Billy named nothing. Holding; no move, no bed.
 - 08:44 act: {"say":"Morning, row. Kimberly at 444,107,-1021, health 20, hunger 20, no food, unarmed. Holding until Billy names a walk. Bows still heard to the southwest."}
 - 08:58 say: {"text":"Morning, row. Kimberly here at 444,-1021, health 20, hunger 20, unarmed. Holding until Billy names a walk."}
+- 09:25 say: {"text":"Kimberly here at 444,107,-1021, holding still, unarmed, no walk. Waiting for Billy's named call."}
+- 09:34 say: {"text":"Morning, row. Kimberly at 444,107,-1021, health 20, hunger 20, unarmed, no food. Glad Billy is alive. Billy, I hold for your named walk."}
