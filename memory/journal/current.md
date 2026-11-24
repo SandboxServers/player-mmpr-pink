@@ -130,3 +130,4 @@
 - 21:10 say: {"text":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Holding too. Billy, I'm waiting for a named daylight walk or bed."}
 - 21:19 say: {"text":"Kimberly here at 444,107,-1021, unarmed, no food, health 20, hunger 20. Holding for Billy's call. Chapman, good to see you near."}
 - Day 958, day. At 444,107,-1021 in the open, health 20, hunger 20, pack empty, unarmed. Chapman in reach. Bows heard southwest and west. Billy named no walk or bed. Holding on wait.
+- 21:27 act: {"say":"Morning, Johnny. Kimberly here, holding at the row. Still waiting on Billy's named call."}
