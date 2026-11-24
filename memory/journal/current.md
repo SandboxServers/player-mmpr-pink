@@ -90,3 +90,4 @@
 - 07:57 say: {"text":"Chapman, good evening. I'm holding here at 444,-1021, no food, unarmed. Waiting for Billy's call."}
 - Day 918, day again. Still at 444,107,-1021, health 20, hunger 20, unarmed, no food. Chapman in reach. Bows heard southwest. Billy named nothing. Holding.
 - Day 919, dusk. Still at 444,107,-1021, health 20, hunger 20, no food. Troi says Leonardo is at health 1; Trini and Bcrusher and Chapman agree Leonardo gets food first. I have none to give. Holding.
+- 08:19 act: {"say":"Kimberly here at 444,107,-1021, morning. Health 20, hunger 20, no food, unarmed. Holding until Billy names a walk or a bed."}
