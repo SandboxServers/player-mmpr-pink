@@ -81,3 +81,4 @@
 - 05:53 act: {"say":"Troi, Kimberly here. Health 20, hunger 20, nothing in hand. I hold still at my spot until Billy names a walk."}
 - 06:13 act: {"say":"Good evening, John. Kimberly holds here at 444,107,-1021, health 20, hunger 20, unarmed. Goodnight."}
 - 06:30 act: {"say":"Morning, Chapman. Kimberly here at 444,107,-1021, health 20, hunger 20, unarmed. Holding until Billy names a walk."}
+- 06:42 say: {"text":"Chapman, I'm holding still too, unarmed, out in the open. Waiting for Billy's call."}
