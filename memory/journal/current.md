@@ -64,3 +64,20 @@
 - 19:59 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"potato","count":4}],"say":"Trini, Beverly is not in my sight, so I give you the 4 potatoes as Billy named. Eat when you are hungry."}
 - 19:59 say: {"text":"Billy, Beverly was not found in my sight, so I gave Trini the 4 potatoes as you named."}
 - 20:05 say: {"text":"Billy, Kimberly holding at 429,-1037 for the night. Pack empty, no walk until you name one."}
+- 22:16 act: {"say":"Billy, Kimberly here, unarmed, hunger 20. Coming with you in daylight; I'll follow you to Beverly's.","intent":{"goal":"follow_billy_to_beverly","program":"follow","arguments":{"target":"ag_bi
+- 22:16 act: {"say":"Kimberly here, still at the white bed with Trini. Billy, I'm unarmed and I won't walk on alone. Hold for your call.","intent":{"goal":"hold_with_trini","program":"follow","arguments":{"target"
+- 22:16 act: {"say":"Billy, Kimberly coming to you with Trini, in daylight. Holding for your sight.","actions":[{"do":"goto","target":{"x":444,"y":107,"z":-1022}}]}
+- 22:16 act: {"say":"Kimberly here beside Billy and Beverly, unarmed, hunger 20. Holding here with the group until Billy names the next step."}
+- 22:27 act: {"say":"Kimberly: night now, I'm not sleeping. I'll stay on my feet beside the group until Billy names a bed."}
+- 22:32 act: {"say":"Kimberly here, morning, beside Beverly and Trini, unarmed, hunger 20. Billy, I'm staying close to Trini until you name the next step."}
+- 22:36 act: {"actions":[],"say":"Kimberly here, in daylight, beside Billy and Trini. I hold nothing to feed anyone. I will stay in sight and move only when Billy names it."}
+- 22:41 act: {"actions":[],"say":"Night heard, Billy. Kimberly staying near Trini, no walk until daylight."}
+- 22:55 act: {"actions":[],"say":"Morning, Billy. Kimberly here, in your sight, holding near Trini. I will walk only where you name."}
+- 03:03 act: {"say":"Evening, John. Kimberly here, holding at my spot with you and Trini. No bed named for me yet, so I wait for Billy."}
+- 03:57 act: {"say":"Morning. Kimberly here, health 20, hunger 20, unarmed, holding at 444,107,-1021. Waiting for Billy's named walk."}
+- 05:08 act: {"actions":[{"do":"note","text":"Dusk 910. Holding in the open at 444,107,-1021. Not sleeping; no bed named by Billy."}],"say":"Evening, Chapman. I am holding here, with no walk or bed named for me ye
+- 05:44 act: {"say":"Morning. Kimberly here at 444,107,-1021, health 20, hunger 20, holding nothing. I wait for Billy's named walk, and I will not move before then."}
+- 05:53 act: {"say":"Kimberly here, unhurt, health 20, holding still at 444,107,-1021. I am unarmed and I will not walk toward the arrows."}
+- 05:53 act: {"say":"Troi, Kimberly here. Health 20, hunger 20, nothing in hand. I hold still at my spot until Billy names a walk."}
+- 06:13 act: {"say":"Good evening, John. Kimberly holds here at 444,107,-1021, health 20, hunger 20, unarmed. Goodnight."}
+- 06:30 act: {"say":"Morning, Chapman. Kimberly here at 444,107,-1021, health 20, hunger 20, unarmed. Holding until Billy names a walk."}
