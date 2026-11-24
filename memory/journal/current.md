@@ -110,3 +110,21 @@
 - 13:07 say: {"text":"Good evening, Chapman. I am holding here too, unarmed and without food, and I will wait for Billy's named walk."}
 - 13:39 act: {"say":"Kimberly here, at 444,107,-1021, unarmed and holding. Health 20, hunger 20. Waiting for Billy's named walk or bed. Chapman, good morning."}
 - 13:40 act: {"say":"Good morning, John. Kimberly here, health 20, hunger 20, unarmed, holding at 444,107,-1021. No walk named yet. I will wait for Billy.","intent":{"goal":"hold_for_billy_call","program":"rest","
+- 13:57 say: {"text":"Good morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, unarmed, no food. Holding until Billy names a walk or bed."}
+- 14:06 say: {"text":"Still here too, Chapman. Holding at my spot until Billy or Worf names a daylight walk."}
+- 14:39 say: {"text":"Morning, row. Kimberly at the white bed by 443,107,-1022, health 20, hunger 20, pack empty. Holding until Billy or Worf names a daylight walk. Johnny, bows are drawing to the southwest, so I 
+- 14:55 say: {"text":"Morning, Deanna. Kimberly here, health 20, hunger 20, empty pack. Still holding by the white bed for Billy's call. Johnny, same here."}
+- 15:18 say: {"text":"Kimberly here, at 444,107,-1021. I have no food, pack empty. Holding till Billy or Worf names a walk."}
+- 15:43 say: {"text":"Morning, John. No walk named by Billy or Worf that I have heard. I am holding here, unarmed, with an empty pack."}
+- 15:55 say: {"text":"Good morning, Chapman. I'm holding here too, unarmed, empty pack. I'll move only when Billy or Worf names a daylight walk with an armed friend in sight."}
+- 16:34 say: {"text":"Good evening, Chapman. I have no food, my pack is empty. I am holding here in the open until Billy names a bed."}
+- 17:16 say: {"text":"Morning, John. I hold nothing either, health 20, hunger 20. No news yet from Billy, so I am staying put until he names a walk or a bed."}
+- 17:29 say: {"text":"Evening, John. I am staying put here too, in the open, out of the bows' line. Holding for Billy."}
+- 17:30 say: {"text":"Morning, MacDonald. Holding here too, health 20, hunger 20, nothing in hand. Waiting on Billy or Worf for a named daylight walk."}
+- 17:57 say: {"text":"Morning, John. I have no food and no tools either. I am holding here until Billy or Worf names a daylight walk."}
+- 18:25 say: {"text":"Morning. Kimberly here, health 20, hunger 20, unarmed, no food. Holding at my spot for Billy or Worf's named call."}
+- 19:15 say: {"text":"Kimberly here, unarmed, health 20, hunger 20, holding at my spot in the row. No food to give. Night is falling, so I stay put until Billy or Worf names a bed or a daylight walk."}
+- 19:47 say: {"text":"Kimberly here, morning. Unarmed, pack empty, health 20, hunger 20. No food to share. Holding at my spot until Billy or Worf names a walk or a bed."}
+- 20:09 say: {"text":"Kimberly here, holding still at my spot. Health 20, hunger 20, no food. Goodnight, John."}
+- 20:30 say: {"text":"Morning, Johnny. Kimberly, unarmed, pack empty, health 20. Holding for Billy's or Worf's named call."}
+- 21:10 say: {"text":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Holding too. Billy, I'm waiting for a named daylight walk or bed."}
