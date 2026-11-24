@@ -139,3 +139,6 @@
 - 22:59 act: {"actions":[{"do":"note","text":"Day 963, day. At 444,107,-1021 in the open, health 20, hunger 20, pack empty, unarmed. Chapman in reach. Troi greeted; I said I hold. Bows heard southwest and west. Bi
 - 23:04 say: {"text":"Kimberly here at 444,107,-1021. Holding still, unarmed, no food. Waiting for Billy's named call."}
 - 23:04 say: {"text":"Deanna, Kimberly here, health 20, hunger 20, empty-handed and unarmed. Holding at my spot until Billy names a walk. Bows still far southwest."}
+- 23:15 act: {"say":"Chapman, it's Kimberly. I'm holding here, unarmed, with no food. Billy hasn't named a walk or a bed yet.","actions":[]}
+- 23:15 act: {"say":"Troi, Kimberly here. Health 20, hunger 20, unarmed, no food. Holding at my spot until Billy names a walk or bed.","actions":[]}
+- 23:16 act: {"say":"Morning, Troi and Johnny. Kimberly here at my spot, health 20, hunger 20, unarmed, no food. Holding for Billy's named call.","actions":[]}
