@@ -87,3 +87,6 @@
 - 07:16 say: {"text":"Morning, row. Kimberly here at 444,107, holding, no food, unarmed. Billy, I am waiting for your named walk or bed."}
 - 07:49 act: {"say":"Morning, row. Kimberly here, holding still, health 20, hunger 20, unarmed. Johnny, I will not walk until Billy names it."}
 - Day 918, morning. Health 20, hunger 20, at 444,107,-1021 in the open, unarmed, pack empty. Chapman (also called Johnny) in reach. Heard bows to the southwest and west. Billy named no walk or bed. Holding. Trini at health 15 holds two potatoes for Leonardo.
+- 07:57 say: {"text":"Chapman, good evening. I'm holding here at 444,-1021, no food, unarmed. Waiting for Billy's call."}
+- Day 918, day again. Still at 444,107,-1021, health 20, hunger 20, unarmed, no food. Chapman in reach. Bows heard southwest. Billy named nothing. Holding.
+- Day 919, dusk. Still at 444,107,-1021, health 20, hunger 20, no food. Troi says Leonardo is at health 1; Trini and Bcrusher and Chapman agree Leonardo gets food first. I have none to give. Holding.
