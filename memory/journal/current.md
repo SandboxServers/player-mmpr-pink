@@ -1,4 +1,5 @@
 # Journal
+- Day 965, day. At 444,107,-1021 in the open, health 20, hunger 20, pack empty, unarmed. Chapman in reach. Bows heard far southwest. Billy named no walk or bed. Holding on wait.
 - Day 866, morning. Woke: health 20, hunger 19, at 443,107,-1033, holding. Trini (health 12) asked the potato go to Leonardo first. Leonardo not in sight, so I cannot give yet. No walk or bed named by Billy. Holding.
 - Day 866, dusk then morning. Still no named walk or bed; held at 443,107,-1033, health 20, hunger 19, potato kept. Trini still at health 12, hunger 17, holding at 430,107,-1023. Waiting for Billy's call.
 - 14:45 act: {"say":"Morning, row. Kimberly at 443,107,-1033, health 20, hunger 19, holding my potato for Leonardo. Billy, I wait for your named path.","intent":{"goal":"hold_for_billy_call","program":"rest","argu
@@ -142,3 +143,4 @@
 - 23:15 act: {"say":"Chapman, it's Kimberly. I'm holding here, unarmed, with no food. Billy hasn't named a walk or a bed yet.","actions":[]}
 - 23:15 act: {"say":"Troi, Kimberly here. Health 20, hunger 20, unarmed, no food. Holding at my spot until Billy names a walk or bed.","actions":[]}
 - 23:16 act: {"say":"Morning, Troi and Johnny. Kimberly here at my spot, health 20, hunger 20, unarmed, no food. Holding for Billy's named call.","actions":[]}
+- 23:33 say: {"text":"Kimberly here, at the row, health 20, hunger 20. I hold nothing and walk only on Billy's named call."}
