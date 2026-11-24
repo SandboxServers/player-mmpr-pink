@@ -100,3 +100,5 @@
 - 09:34 say: {"text":"Morning, row. Kimberly at 444,107,-1021, health 20, hunger 20, unarmed, no food. Glad Billy is alive. Billy, I hold for your named walk."}
 - 09:48 say: {"text":"Morning, Chapman. I'm holding here too, unarmed and empty-handed. I'll wait for Billy's named walk."}
 - 10:01 say: {"text":"Kimberly here, holding in the open at 444,107,-1021 with Chapman, unarmed, health 20. I will not move without Billy's named call. Trini, stay out of the phantom's reach."}
+- 10:27 say: {"text":"Evening, John. Kimberly here, holding at 444,107,-1021, health 20, hunger 20. I will not move until Billy or Worf names a walk or a bed."}
+- 10:43 say: {"text":"Dusk, Kimberly here at 444,107,-1021, health 20, hunger 20, no food. I hold in the open with John until a named walk or bed."}
