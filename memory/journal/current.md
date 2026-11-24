@@ -135,3 +135,5 @@
 - 22:09 act: {"say":"Kimberly here, holding at 444,107,-1021. I have no food and nothing in my pack. Waiting for Billy's named call.","intent":{"goal":"hold_and_wait_for_billy","program":"rest","arguments":{},"wak
 - 22:13 act: {"say":"Morning, row. Kimberly here, health 20, hunger 20, no food, unarmed. Holding at 444,107,-1021 for Billy's named call."}
 - 22:34 say: {"text":"Still here at 444,107,-1021, unarmed and holding. Bows far to the southwest. Waiting for Billy's named call."}
+- 22:55 act: {"say":"Morning, Troi. Kimberly here at 444,107,-1021, health 20, hunger 20, no food, unarmed. I am holding still until Billy names a walk or a bed."}
+- 22:59 act: {"actions":[{"do":"note","text":"Day 963, day. At 444,107,-1021 in the open, health 20, hunger 20, pack empty, unarmed. Chapman in reach. Troi greeted; I said I hold. Bows heard southwest and west. Bi
