@@ -91,3 +91,7 @@
 - Day 918, day again. Still at 444,107,-1021, health 20, hunger 20, unarmed, no food. Chapman in reach. Bows heard southwest. Billy named nothing. Holding.
 - Day 919, dusk. Still at 444,107,-1021, health 20, hunger 20, no food. Troi says Leonardo is at health 1; Trini and Bcrusher and Chapman agree Leonardo gets food first. I have none to give. Holding.
 - 08:19 act: {"say":"Kimberly here at 444,107,-1021, morning. Health 20, hunger 20, no food, unarmed. Holding until Billy names a walk or a bed."}
+- 08:40 act: {"say":"Evening, Chapman. Holding here at 444,107,-1021 until Billy names a walk or a bed. I have no food and nothing in my hands."}
+- Day 921, morning. Still at 444,107,-1021, health 20, hunger 20, unarmed. Bows heard southwest. Billy named nothing. Holding.
+- Day 920, dusk. Still at 444,107,-1021, health 20, hunger 20, unarmed, no food. Chapman (name confirmed) in reach. Troi and Bcrusher holding at their beds. Billy named nothing. Holding; no move, no bed.
+- 08:44 act: {"say":"Morning, row. Kimberly at 444,107,-1021, health 20, hunger 20, no food, unarmed. Holding until Billy names a walk. Bows still heard to the southwest."}
