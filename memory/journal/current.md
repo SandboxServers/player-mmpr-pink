@@ -3,6 +3,7 @@
 - Day 866, dusk then morning. Still no named walk or bed; held at 443,107,-1033, health 20, hunger 19, potato kept. Trini still at health 12, hunger 17, holding at 430,107,-1023. Waiting for Billy's call.
 - 14:45 act: {"say":"Morning, row. Kimberly at 443,107,-1033, health 20, hunger 19, holding my potato for Leonardo. Billy, I wait for your named path.","intent":{"goal":"hold_for_billy_call","program":"rest","argu
 - 15:18 act: {"say":"Morning, Billy. Kimberly at 443,107,-1033, health 20, hunger 19, potato kept for Leonardo and Trini. I will not walk without your named call; tell me the path when you are ready."}
+- Day 935, day. Woke at 444,107,-1021 in the open: health 20, hunger 20, unarmed, pack empty. Chapman (John) in reach, greeted him. No walk or bed named by Billy. Holding still on a rest intent, to wake on a call.
 - 16:05 say: {"text":"Trini, Kimberly here at 443,-1033 with one potato. I will bring it to you in sight when Billy names the walk."}
 - 16:05 say: {"text":"Trini, I hear you: Leonardo first. I still wait for Billy to name the path, and I will not walk alone."}
 - 16:15 say: {"text":"Morning, Troi. Kimberly here, health 20, hunger 19, holding my potato for Leonardo until Billy names the walk."}
@@ -108,3 +109,4 @@
 - 12:45 say: {"text":"Morning. Kimberly here, health 20, hunger 20, empty-handed. I hold at 444,107,-1021 until Billy names a walk or a bed."}
 - 13:07 say: {"text":"Good evening, Chapman. I am holding here too, unarmed and without food, and I will wait for Billy's named walk."}
 - 13:39 act: {"say":"Kimberly here, at 444,107,-1021, unarmed and holding. Health 20, hunger 20. Waiting for Billy's named walk or bed. Chapman, good morning."}
+- 13:40 act: {"say":"Good morning, John. Kimberly here, health 20, hunger 20, unarmed, holding at 444,107,-1021. No walk named yet. I will wait for Billy.","intent":{"goal":"hold_for_billy_call","program":"rest","
