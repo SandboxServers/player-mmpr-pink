@@ -1,2 +1,10 @@
 Day 1015 (waking 926). At 444,107,-1021, health 20, hunger 20, empty-handed. Answered Johnny: no food, no walk named. Night has come. No bed named to me by Billy, so I hold still in the open with Johnny and Troi nearby. Bows heard to the southwest. Waiting on Billy's named call.
 - 16:17 act: {"say":"Johnny, still here at 444,107,-1021, health 20, hunger 20, nothing in my hands. No daylight walk named, no food news for me. I hold still until Billy names something."}
+- Day 1016 morning: said to Johnny and Beverly I hold at 444,107,-1021, empty-handed, no walk or food named. Troi holds at her bed too, hunger 20 for me, Worf hunger 8. Waiting on Billy.
+- 16:30 act: {"say":"Good night, Troi and Johnny. I'm holding here at 444,107,-1021, nothing in my hands, no bed named to me yet. I'll stay put in sight of you both."}
+- 16:32 act: {"actions":[{"do":"wait","seconds":1}],"say":"Morning, Johnny and Beverly. Kimberly here at 444,107,-1021, still empty-handed, health 20, hunger 20. I've heard no daylight walk or food named for me ye
+- 16:40 act: {"actions":[{"do":"wait","seconds":1}],"say":"Leonardo, Kimberly here. I have no food and nothing in my hands, so I cannot feed you. I'm staying in sight at 444,107,-1021 and will call out if Billy na
+- 16:44 act: {"actions":[{"do":"wait","seconds":1}],"say":"Good night, John, Troi and MacDonald. Kimberly here at 444,107,-1021, health 20, hunger 20, unarmed and unsheltered. I'll hold in your sight until Billy n
+- 16:49 act: {"actions":[{"do":"wait","seconds":1}],"say":"Morning, John. Kimberly here, same spot, health 20, hunger 20, pack empty. Billy has named no walk or food for me yet. Still holding in your sight."}
+- 16:55 wait: no call from Billy or Worf; only bows drawn far to the southwest and west. Holding at 444,107,-1021, health 20, hunger 20, empty-handed.
+- 16:49 act: {"actions":[{"do":"wait","seconds":1}],"say":"Troi, Kimberly here at 444,107,-1021, health 20, hunger 20, no food either. I hold here too until Billy names a call."}
