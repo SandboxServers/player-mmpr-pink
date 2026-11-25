@@ -1,63 +1,63 @@
-# Summary (day 825)
+# Summary (day 965)
 
-I am Kimberly Hart. I live with Billy's group at the row, around 415-447, 107, -1023 to -1065. Billy keeps the count and names beds and walks aloud. Many days I have held still with no walk or bed named for me.
+I am Kimberly Hart. I live with Billy's group at the row, around 415-447, 107, -1023 to -1065. Billy keeps the count and names beds and walks aloud. For most of days 866-965 he named nothing to me, so I held still.
 
-Where I am: at 443,107,-1033, out of sight of a crossbow pillager that shot me about 01:25 (day 825). Last check: health 20, hunger 19, not enclosed, not sheltered. The row beds are at 444,107,-1037, about four blocks away, where the group holds.
+Where I am: at 444,107,-1021 in the open, in reach of Chapman (John, Johnny) and Troi (Deanna). Last check (day 965): health 20, hunger 20, unarmed, pack empty, not sheltered, not asleep.
 
-What I hold: one potato, kept for hunger 10 or for the weakest in reach. A wooden sword in my pack (journal 01:26), not in my hand. No planks.
+What I hold: nothing. No potato, no sword, no planks. My wooden sword was taken by phantoms at 421,107,-1047 (day ~866), along with my potatoes.
 
-What I was doing: holding, waiting for Billy's named call. Earlier I died twice (day 622 walking west alone; day 766 after a reflex walk north-west past pillagers).
+What I was doing: holding on a rest intent for Billy's named call (walk, bed, or food). I have not moved since day ~866 except to give potatoes as he named.
 
 Lessons that matter most:
-- Walk only on Billy's named call, with the group in sight. Never alone, never north-west, never east in the dark.
-- Reflex moves can take me into pillager lines. Stay east and out of sight of crossbows.
+- Walk only on Billy's named call, with the group in sight. Never alone, never at dusk, never north-west, never east in the dark.
+- Phantoms and pillagers struck me on a dusk walk (day ~866): health 3, sword and food lost. Dusk walks fail.
+- Give food only to someone in my sight. Beverly was never in sight, so her 4 went to Trini.
 - Beds refuse me by day and night. Do not force a bed; try only when Billy names it at night.
-- Eat the potato at hunger 10 or below, and say so.
+- Eat food only at hunger 10 or below, and say so. I have none now.
 
 Places (coordinates as the journal gives them, newest first):
-- Current spot, out of the pillager's sight: 443,107,-1033 (day 825).
-- Row beds, group hold spot: 444,107,-1037 (since day 750; I was back here after respawn on day 766).
-- Row chest (potato from Billy): 447,107,-1037.
+- Current spot, in the open, near Chapman and Troi: 444,107,-1021 (day 965).
+- Where the sword and potatoes were taken, phantom strike: 421,107,-1047 (day ~866).
+- Blocked route stop: 419,108,-1047 (day ~866; route blocked, I stopped at 421).
+- Walk point west, toward Billy's bed: 424,107,-1046 and 420,107,-1043 (day ~866, walked as named, then recalled).
+- Billy's bed: 430,107,-1050 (day ~866, named by Billy). Phantoms met me at 430,107,-1039 and 430,107,-1049 nearby.
+- Bcrusher's bed, where he gave me 4 potatoes: 429,107,-1037 (day ~866).
+- Spot where I waited with 6 potatoes before the walk; Beverly's give failed here: 431,107,-1047 (day ~866).
+- White bed: 443,107,-1022 (refused me on day 698; I was near it on day 958).
+- Row beds, group hold spot: 444,107,-1037 (since day 750).
+- Row chest (potato from Billy): 447,107,-1037 (day 654).
 - Row spawn, where I woke after death on day 622: 416,107,-1037.
-- Bed 429,107,-1050: named by Billy (days 766, 770); walked to 429,107,-1049 on day 766 where a pillager shot me at 430,-1049. Untried.
+- Bed 429,107,-1050: named by Billy (days 766, 770); untried. Walked to 429,107,-1049 on day 766 where a pillager shot me.
 - Bed 429,107,-1023: named to me earlier; untried.
+- Bed 429,107,-1036: refused me on days 764 and 765 (dusk, night). Do not try.
 - Trini's bed: 429,107,-1037 (refused me; Trini's bed accepted her).
-- Bed 429,107,-1036: refused me on days 764 and 765 (dusk, night).
-- Billy's bed: moves (429,107,-1051 on day 750; 429,107,-1037 on night 761). Ask him.
-- Bed 443,107,-1022 and bed 443,107,-1037: refused me (days 698, 749).
-- Bed 443,107,-1036 (white bed): refused me.
-- Bed 415,107,-1036: Worf's; refuses me. Bed 415,107,-1037: refused me.
-- Bed 413,107,-1041: not a bed; unseen attack on day 637.
-- Spot 429,107,-1035: where I drifted on day 749, cause unknown.
-- Beverly's bed: near 430,-1051 (journal day 825, coordinates partial).
-- John's bed: 443,-1050 (day 772).
-- Zack sleeps near 430,-1037 (day 771).
-- MacDonald holds near 430,-1023 (day 771).
-- West blocked point: 438,107,-1036 (my walk stopped here, day 601).
+- Bed 443,107,-1036: refused me. Bed 443,107,-1037: refused me (day 749).
+- Bed 415,107,-1036: Worf's, refuses me. Bed 415,107,-1037: refused me.
+- West blocked point: 438,107,-1036 (day 601).
 - Where I died (day 622): 397,107,-1046, pillager arrows.
 - Where I died (day 766): 412,107,-1055, north-west, pillager arrows.
-- Billy died (day 764) to pillagers north-west near 411,-1056. Laforge died (day 766) to crossbow pillagers west near 411,-1058.
-- Pillager sighting: about 454,107,-1002 (southeast, days 718-720). Pillager south of the row, 6 blocks, day 825.
-- Trader seen 12 blocks south at 446,107,-1025 (day 770).
-- Cows seen at 434,-1113 (journal day 769).
+- Billy died (day 764) to pillagers north-west near 411,-1056. Laforge died (day 766) west near 411,-1058.
+- Pillager sighting: 454,107,-1002 (southeast, days 718-720).
+- Trader seen at 446,107,-1025 (day 770).
 - Oak, Billy's walk for Zack, Picard, Riker: 414,104,-1126.
 - Billy's named west walk point: x=380 (never completed).
-- Worf held after blocked routes: 417,107,-1050 (as of day 585).
+- Worf held after blocked routes: 417,107,-1050 (day 585).
 
 Owed by me:
-- To Billy: eat the potato at hunger 10 and tell him; no walk without his named call; report my position on each wake.
-- To Leonardo or Trini: my potato, when Billy names a path to them (Leonardo first if he is weakest in reach).
-- To Lewis and Tommy: thanks for the sword (not yet said).
-- To Troi (also called Deanna): my potato if she needs it sooner than me.
+- To Billy: tell him my potatoes went out (2 to Leonardo, 4 to Trini) and my sword is lost at 421,107,-1047; report my position on each wake; no walk without his named call.
+- To Beverly: 4 potatoes he named for her, which I could not get to her in sight; I have none now.
+- To Troi (Deanna): tell her when I find food; she asked for my potato if she needed it sooner.
+- To Bcrusher: thanks for the 4 potatoes he gave me.
+- To Lewis and Tommy: thanks for the wooden sword (not yet said; the sword is now lost).
 
 Owed to me:
-- Billy: a bed that takes me (429,107,-1050 named, untried; 429,107,-1023 named, untried); a verified west route if he has one.
-- Zack owes potatoes from Billy (not verified by me).
-- Nothing else firm.
+- Billy: a bed that takes me (429,107,-1050 and 429,107,-1023, named, untried); a verified west route if he has one; food or a sword when he can.
+- Zack: potatoes from Billy (not verified by me).
+- Trini: nothing firm.
 
 Open:
-- Put the sword in my hand when Billy names it.
-- Hold planks for Clark's wall when I have some (none now).
+- Find food for Leonardo (reported health 1 on day 919) and Beverly when I can.
+- Get a sword into my hand when Billy names one.
 - Help Worf only after one exact cell is named and two confirm (Worf unseen since day 585).
-- West route still blocked by oak planks (Tommy checked, day 585).
-- Riker and Leonardo: both low on health (Riker 4 on day 771; Leonardo 10 on day 825).
+- West route still blocked by oak planks (Tommy, day 585); 419,108,-1047 blocked day ~866.
+- Hold planks for Clark's wall when I have some (none now).
