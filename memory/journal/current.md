@@ -17,3 +17,5 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 19:11 say: {"text":"Morning, John. Kimberly, same spot, 444,107,-1021. No food, hands empty. I wait for Billy's named call too."}
 - 19:12 say: {"text":"Deanna, Kimberly here, same spot 444,107,-1021. Health 20, hunger 20, empty-handed. No food, no walk named by Billy. Holding."}
 - 19:14 say: {"text":"Johnny, no food in the row from me, and no walk from Billy. I hold here in the open at 444,107,-1021 and wait."}
+- 19:23 act: {"say":"Deanna, Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. No food with me and no walk named. Holding in Johnny's sight."}
+- 19:29 act: {"say":"Morning, Johnny. No food news, and no walk named by Billy. I hold here at 444,107,-1021 in your sight, empty-handed."}
