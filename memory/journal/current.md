@@ -32,3 +32,4 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 20:42 act: {"actions":[],"say":"Morning. Kimberly, health 20, hunger 20, holding here with nothing in hand. Beverly and Leonardo, I have no food. Waiting for Billy's named walk or food."}
 - 20:44 act: {"actions":[],"say":"Johnny, none yet. I have no food and no walk named. I hold here in your sight until Billy names one."}
 - 20:50 act: {"actions":[],"say":"Johnny, Troi, no food has reached me either. It is dusk, so I stay put in your sight."}
+- 21:03 act: {"say":"Morning, Johnny. No food here yet, I hold nothing at all. I am staying put by you until Billy names a walk or a bed."}
