@@ -1,3 +1,13 @@
 # Journal
 - 12:36 act: {"say":"Good morning, row. Kimberly here, at 444,107,-1021, health 20, hunger 20. Pack empty, unarmed. I hold no bread or potato, Leonardo, Trini or Beverly. I will hold here until Billy names a walk (day 1004, morning). Heard bows to the southwest; no food, no walk, no bed named. Holding at 444,107,-1021. 
 - 12:49 act: {"actions":[{"do":"note","text":"Day 1005 morning: holding at 444,107,-1021 with Johnny. Health 20, hunger 20, pack empty. No walk, bed or food named by Billy. Bows heard southwest and west overnight.
+- 12:54 say: {"text":"Kimberly here at 444,107,-1021. I hold nothing, no food, no sword. I stay put until Billy names a call."}
+- 13:01 say: {"text":"Good evening, Johnny. I hold too, unarmed and empty. I will not walk tonight. Nobody has named me a bed."}
+- 13:05 say: {"text":"Good morning. Kimberly, at 444,107,-1021, health 20, hunger 20, empty-handed. I hold until Billy names a call."}
+- 13:14 say: {"text":"Staying put, Johnny. Still empty-handed at 444,107,-1021. Waiting for Billy."}
+- 13:27 say: {"text":"Good night, Johnny. I'm holding here at 444,107,-1021, health 20, hunger 20, empty-handed. Waiting for Billy's call."}
+- 13:28 say: {"text":"Good morning, all. Kimberly here, health 20, hunger 20, empty-handed. I have no food to spare. I'm holding here until Billy names a walk or a bed."}
+- 13:40 say: {"text":"Evening, Johnny. No walk or food has been named to me yet. I'm still holding here, empty-handed, health 20, hunger 20."}
+- 13:53 say: {"text":"Good evening, Johnny. I'm holding here in the open with nothing in hand. I'll wait for Billy or Worf to name a bed or a walk."}
+- 14:30 say: {"text":"Morning. Kimberly here, holding at the row, empty-handed. Billy, Worf: I wait for your call."}
+- 14:37 say: {"text":"Johnny, no food news and no walk named. It is dusk now, so I stay here by you and hold."}
