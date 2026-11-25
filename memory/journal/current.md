@@ -19,3 +19,16 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 19:14 say: {"text":"Johnny, no food in the row from me, and no walk from Billy. I hold here in the open at 444,107,-1021 and wait."}
 - 19:23 act: {"say":"Deanna, Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. No food with me and no walk named. Holding in Johnny's sight."}
 - 19:29 act: {"say":"Morning, Johnny. No food news, and no walk named by Billy. I hold here at 444,107,-1021 in your sight, empty-handed."}
+- 19:38 say: {"text":"Johnny, I'm still here at 444,-1021, unarmed and holding. Bows sound to the southwest. I'll wait for Billy's named call."}
+- 19:39 say: {"text":"Evening, Johnny. No food news from me, and no walk or bed named by Billy. I hold here at 444,107,-1021 in your sight."}
+- 19:40 say: {"text":"Johnny, still no food and no daylight walk named. I hold here at 444,107,-1021 until Billy calls."}
+- 19:54 say: {"text":"Johnny, none that I have seen. I hold nothing and no walk or bed is named for me. I stay here in your sight."}
+- 20:10 say: {"text":"Kimberly here, health 20, hunger 20, empty-handed. I hold at my cell in Johnny's sight and will not walk at dusk. No bed named for me yet."}
+- 20:11 say: {"text":"Johnny, none heard. No walk or potatoes named for me either. I hold here until Billy calls."}
+- 20:22 say: {"text":"Johnny, no food news and no daylight walk named. It is dusk now, so I stay put in your sight."}
+- 20:23 say: {"text":"Johnny, good night. I hold here, unarmed, in your sight, and will not walk the dark. Beverly, I have nothing to give you."}
+- 20:32 say: {"text":"Morning, Johnny. Kimberly, health 20, hunger 20, still holding here with nothing in my hands. No food and no walk named for me yet."}
+- 20:37 act: {"actions":[],"say":"Johnny, no food and no walk named for me yet. It is night, so I stay here in your sight."}
+- 20:42 act: {"actions":[],"say":"Morning. Kimberly, health 20, hunger 20, holding here with nothing in hand. Beverly and Leonardo, I have no food. Waiting for Billy's named walk or food."}
+- 20:44 act: {"actions":[],"say":"Johnny, none yet. I have no food and no walk named. I hold here in your sight until Billy names one."}
+- 20:50 act: {"actions":[],"say":"Johnny, Troi, no food has reached me either. It is dusk, so I stay put in your sight."}
