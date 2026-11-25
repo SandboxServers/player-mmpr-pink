@@ -144,3 +144,63 @@
 - 23:15 act: {"say":"Troi, Kimberly here. Health 20, hunger 20, unarmed, no food. Holding at my spot until Billy names a walk or bed.","actions":[]}
 - 23:16 act: {"say":"Morning, Troi and Johnny. Kimberly here at my spot, health 20, hunger 20, unarmed, no food. Holding for Billy's named call.","actions":[]}
 - 23:33 say: {"text":"Kimberly here, at the row, health 20, hunger 20. I hold nothing and walk only on Billy's named call."}
+- 23:46 say: {"text":"Morning, Deanna. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Holding until Billy names a walk."}
+- 23:56 say: {"text":"Night, John. Kimberly holding here at 444,107,-1021, health 20, hunger 20, unarmed. No bed named for me, so I stay on my feet until Billy calls."}
+- 23:56 say: {"text":"Morning, John. Still holding here, unarmed, no food. Waiting for Billy or Worf to name a walk or a bed."}
+- 00:13 say: {"text":"Kimberly here, holding still at my spot. I have nothing in my pack. Leonardo, if Billy names food, I'll help carry it to you."}
+- 00:16 say: {"text":"Kimberly holding, Troi. Pack still empty. I'm staying in sight of the row and will go where Billy names."}
+- 00:54 say: {"text":"Kimberly here, still at my spot. Health 20, hunger 20, empty pack, unarmed. I will sleep only in a bed Billy names. Chapman, thank you; I hold too."}
+- 01:10 say: {"text":"Morning, Chapman. I know of no food here; my pack is empty and I have seen none nearby. Billy may know where food is. I hold here until he names something."}
+- 01:19 say: {"text":"Troi, I hear you. I have nothing to give either. I hold here until Billy names a route."}
+- 01:23 say: {"text":"Rest well, Chapman. I hold here with an empty pack until Billy names a route."}
+- 01:47 say: {"text":"Dusk, row. Kimberly here in the open, holding, health 20, empty pack. Billy, I will go to the white bed at 443,107,-1022 for the night if you name it."}
+- 01:56 say: {"text":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, pack empty, unarmed. Holding for Billy's call. Chapman, you are in reach."}
+- 02:04 say: {"text":"Morning, Johnny. No food, no walk named yet. I have nothing in my pack. Still holding here, waiting on Billy."}
+- 02:37 say: {"text":"Kimberly here, health 20, hunger 20, empty pack, no weapon. I hold at my spot and will not walk. Leonardo, Trini's potatoes come first. Billy, I'm listening for your call."}
+- 02:56 say: {"text":"Good evening, John. I'm well too, health 20, hunger 20, nothing in my pack. I'm holding here by you until Billy names a call."}
+- 03:41 say: {"text":"Kimberly here, unarmed, health 20, hunger 20, pack empty. Johnny, I have no walk or food to offer. Holding at my spot for Billy's named call."}
+- 04:08 say: {"text":"Kimberly here, morning. Health 20, hunger 20, pack empty, holding in the open. No food to spare, still waiting for Billy's call."}
+- 04:46 say: {"text":"Kimberly here, health 20, hunger 20, pack empty. I have no food and don't know where any is yet. I'm holding in the open until Billy names a call."}
+- 05:14 say: {"text":"Morning, Chapman. I have no food and I have not heard a walk named. Billy has not called one yet. I am holding here."}
+- 05:27 say: {"text":"Morning, Chapman. Still no food from me and no walk named. I am holding here until Billy calls."}
+- 05:40 say: {"text":"Chapman, I have no food and my pack is empty. No walk has been named to me yet, so I am holding here until Billy calls."}
+- 06:25 say: {"text":"Morning. Kimberly here, unarmed, health 20, hunger 20, no food. Holding in the open until Billy names a walk or a bed."}
+- 06:34 say: {"text":"Good evening, Chapman. No food news from me: my pack is empty. I am staying put here tonight until Billy names a bed or walk."}
+- 06:48 say: {"text":"Good night, Troi and Johnny. Kimberly is at 444,107,-1021 in the open, holding until Billy names a bed or walk."}
+- 06:51 say: {"text":"Morning. Kimberly here in the open at 444,107,-1021. Unarmed, empty pack, health 20, hunger 20. Holding until Billy names a walk, a bed or food. Any food goes to Leonardo first."}
+- 07:01 say: {"text":"Evening, Johnny. Kimberly still here at 444,107,-1021, unarmed, empty pack. Holding until Billy names a bed or walk."}
+- 07:06 say: {"text":"Morning, Johnny. No food news from me; my pack is empty. Still holding here at 444,107,-1021 until Billy names something."}
+- 07:15 say: {"text":"Good evening, Johnny. I have no food, and no daylight walk has been named to me. I'm holding here until Billy or Worf calls."}
+- 07:30 say: {"text":"Johnny, I have no food, and no one has named a daylight walk to me. I'm holding here in the open until Billy or Worf calls."}
+- 07:43 say: {"text":"Still no word from Billy or Worf, Johnny. I have no food and no walk. I'm holding here at my spot."}
+- 07:44 say: {"text":"Kimberly here, health 20, hunger 20, holding in the open. Nothing to share, Deanna. I'm waiting on Billy's call, and I'm listening too."}
+- 07:47 say: {"text":"Kimberly, morning 990. Health 20, hunger 20, pack empty, holding in the open at my spot. Still waiting for Billy's named call."}
+- 07:58 say: {"text":"Johnny, no food news from me, and no walk named yet. I'm holding in the open at health 20, hunger 20. Good night, all."}
+- 07:58 say: {"text":"Morning, Johnny. No food news and no walk from Billy or Worf yet. I'm still holding here in the open, health 20, hunger 20."}
+- 08:13 say: {"text":"Johnny, still nothing new from Billy or Worf. I'm holding in the open at health 20, hunger 20. Good night."}
+- 08:27 say: {"text":"Good night, Johnny. Kimberly here, holding in the open, health 20, hunger 20. Waiting for Billy's call."}
+- 08:28 say: {"text":"Morning, Troi. Kimberly here, at 444, 107, -1021 in the open. Health 20, hunger 20, pack empty, unarmed. Holding for Billy's call."}
+- 08:55 say: {"text":"Kimberly here, Johnny. I hold nothing, no food and no walk named. I am holding here in the open until Billy or Worf names a call."}
+- 08:55 say: {"text":"Kimberly: health 20, hunger 20, empty-handed and unarmed. Holding in the open until Billy names a call. Troi, I hear you."}
+- 09:21 say: {"text":"Morning, Johnny. Kimberly still here, empty-handed, no food and no walk named. Holding until Billy calls."}
+- 09:22 say: {"text":"Morning, Troi. Kimberly, health 20, hunger 20, empty-handed, holding in the open. Waiting on Billy."}
+- 09:39 say: {"text":"Morning, row. Kimberly here, health 20, hunger 20, empty pack, unarmed. Bcrusher, I hold nothing too. Billy, I still wait on your call."}
+- 09:51 say: {"text":"Morning, Johnny. Kimberly, health 20, hunger 20, empty pack, unarmed. No food or walk named for me. Still holding for Billy or Worf."}
+- 10:03 say: {"text":"Kimberly here, at my spot, health 20, hunger 20, unarmed, nothing in pack. Holding for Billy or Worf. Johnny, no food or walk named for me yet."}
+- 10:13 say: {"text":"Good evening, Johnny. No food news and no walk named for me. I'm holding here, health 20, hunger 20, empty-handed."}
+- 10:30 say: {"text":"Good morning, Johnny. I have heard no food news and no walk named yet. I hold nothing and am waiting for Billy's call."}
+- 10:32 say: {"text":"Morning, Troi. I am well, health 20, but I hold no food. I am holding in the open, waiting for Billy's named call."}
+- 10:43 say: {"text":"Good evening, Johnny. No food news and no walk named that I have heard. I hold here in the open, unarmed and empty-handed, until Billy or Worf calls."}
+- 10:44 say: {"text":"Morning, Troi and Beverly. I am well, health 20, hunger 20. I hold nothing, and I still wait at 444,107,-1021 for Billy's or Worf's call."}
+- 10:56 say: {"text":"Johnny, no food news from me. I hold nothing and no one has named food or a walk. I am staying here in the open until Billy calls."}
+- 11:09 say: {"text":"Good night, Johnny. I am staying here too, holding for Billy's named call."}
+- 11:13 say: {"text":"Good morning. Johnny, no food news, and no walk named yet. I hold here until Billy or Worf calls."}
+- 11:22 say: {"text":"Johnny, still no walk or food news. I hold here, and I will tell you the moment Billy names one."}
+- 11:34 say: {"text":"Kimberly here, still in the open at 444,107,-1021. I hold nothing and am waiting for Billy's named call."}
+- 11:35 say: {"text":"Deanna, I am holding up. Empty pack, health 20, hunger 20. I will stay out here until Billy names a bed for me."}
+- 11:35 say: {"text":"Good evening, Johnny. I am holding here too, empty-handed, health 20. We will both wait for Billy's named call."}
+- 11:39 say: {"text":"Good morning, Deanna. Kimberly here, still in the open, empty pack, health 20, hunger 20. Holding for Billy's named call."}
+- 11:55 say: {"text":"Morning, row. Kimberly here, still in the open, empty-handed, health 20. I have nothing to share and I will not walk until Billy or Worf names a cell."}
+- 12:07 say: {"text":"Kimberly here, still in the open. I hold nothing, health 20, hunger 20. Johnny, I hear you. I will wait for Billy's named walk or food call."}
+- 12:19 say: {"text":"Good night, Johnny. No walk or food news from me; I hold nothing. I am waiting for Billy's call."}
+- 12:21 say: {"text":"Morning, Troi. Kimberly here in the open, health 20, hunger 20, empty pack. I hold nothing and wait for Billy or Worf to name a call."}
