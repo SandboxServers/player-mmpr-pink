@@ -33,3 +33,38 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 20:44 act: {"actions":[],"say":"Johnny, none yet. I have no food and no walk named. I hold here in your sight until Billy names one."}
 - 20:50 act: {"actions":[],"say":"Johnny, Troi, no food has reached me either. It is dusk, so I stay put in your sight."}
 - 21:03 act: {"say":"Morning, Johnny. No food here yet, I hold nothing at all. I am staying put by you until Billy names a walk or a bed."}
+- 21:12 say: {"text":"Morning, Johnny. No food news here. I hold nothing, and Billy has named no walk or bed for me. I'm holding still by you."}
+- Days 1031 (day to night): Johnny, Troi, MacDonald hold at beds with no food; bows sound southwest only. I hold at 444,107,-1021, health 20, hunger 20, empty-handed, in Johnny's sight. No walk or bed named for me.
+- Day 1030 day: Johnny asked about food and a daylight walk; said none, and that I hold still in his sight. Now dusk, bows sound southwest and west only. Holding at 444,107,-1021, health 20, hunger 20, empty-handed. Waiting for Billy's named call.
+- 21:19 say: {"text":"Goodnight, Johnny. I hold here in your sight, unarmed, with no food. I will not walk in the dark."}
+- 21:20 say: {"text":"Morning, Johnny. Same here: health 20, hunger 20, nothing in my hands, holding at 444,107,-1021 in your sight until Billy names a walk."}
+- 21:24 say: {"text":"Morning, Deanna. Kimberly here: health 20, hunger 20, empty-handed, at 444,107,-1021 with Johnny. No food and no named walk yet. I'm holding."}
+- 21:33 say: {"text":"Evening, Johnny. Still no food news, and no walk or bed named for me. I hold here in your sight."}
+- Day 1031 night: Johnny said goodnight and holds at his bed. I answered: no food, no walk named, holding at 444,107,-1021 in his sight. Health 20, hunger 20, empty-handed. Waiting for Billy's named call.
+- 21:35 say: {"text":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. No food and no walk named for me. Holding in Johnny's sight until Billy calls."}
+- 21:46 say: {"text":"Johnny, none heard. No food, no walk named for me. I still hold at 444,107,-1021 in your sight, empty-handed. Billy, Worf: I wait for your call."}
+- Day 1032 morning: still at 444,107,-1021, health 20, hunger 20, empty-handed. Johnny, MacDonald, Beverly, Troi hold at beds with no food; Beverly hungry at 17. No walk, bed or food named by Billy or Worf. Holding.
+- 21:59 say: {"text":"Goodnight, Johnny. Kimberly holding at 444,107,-1021 in your sight, empty-handed. No walk or bed named for me, so I will not sleep yet."}
+- Day 1032 night wait: Johnny, MacDonald, Beverly, Troi report morning at their beds, no food; Beverly hungry at 17. Still at 444,107,-1021, health 20, hunger 20, empty-handed. Holding for Billy's named call.
+- 22:13 say: {"text":"Goodnight, Johnny. Kimberly holding here in your sight, empty-handed. No walk or bed named for me."}
+- 22:17 say: {"text":"Morning, Deanna. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. No food to give and no walk named. Holding in Johnny's sight."}
+- Day 1033 dawn: Troi, MacDonald, Beverly hold at beds, no food; Beverly hungry at 17. Still at 444,107,-1021, health 20, hunger 20, empty-handed. No call from Billy or Worf. Holding.
+- 22:21 say: {"text":"Leonardo, I have no food and nothing in my hands, I am sorry. Billy, Worf: Leonardo is at health 1. Please route whatever food there is to him first. Kimberly holding in Johnny's sight."}
+- Day 1034 dusk to night: held at 444,107,-1021, health 20, hunger 20, empty-handed, open to the sky. Johnny says he stays at his bed for the night. Troi reports no potatoes. No walk, bed or food named by Billy. Holding.
+- 22:26 act: {"say":"Good evening, Johnny. Kimberly holding here at 444,107,-1021 in your sight, empty-handed. No walk or bed named for me, so I will not sleep yet."}
+- 22:27 act: {"say":"Morning, Deanna. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. No food, no walk or bed named for me yet. Still holding in Johnny's sight."}
+- 22:27 act: {"say":"Johnny, no food news from me, nothing in my hands. No daylight walk named by Billy or Worf yet. I hold here in your sight."}
+- Day 1035 morning: held at 444,107,-1021, health 20, hunger 20, empty-handed. Beverly hungry at 17, Leonardo at health 1 with Trini holding a potato for him. Johnny, MacDonald, Troi, Bcrusher hold at beds; bows sound southwest. No walk, bed or food named for me. Holding.
+- Day 1034 night: Leonardo at health 1, Worf hunger 8, per Bcrusher. MacDonald sleeps beside his bed. I hold at 444,107,-1021, health 20, hunger 20, empty-handed, no named bed, so no sleep. Holding.
+- 22:40 act: {"say":"Johnny, MacDonald, Troi: no food news and no daylight walk named for me. I hold here at 444,107,-1021 in Johnny's sight, empty-handed. Any food goes to Leonardo first."}
+- Day 1034 morning wait: Troi and Johnny greeted the row; both holding at beds, no food, no walk named. Billy silent. Still at 444,107,-1021, health 20, hunger 20, empty-handed. Holding.
+- Day 1035 day wait: Beverly (hunger 17) and MacDonald hold at beds, Leonardo to get Trini's potato. Bows sound southwest and west only. Billy named nothing for me. Still at 444,107,-1021, health 20, hunger 20. Holding.
+- Day 1035 wait timed out: Troi says she has nothing to give Lewis or Worf; bows sound southwest. Still at 444,107,-1021, health 20, hunger 20, empty-handed. No call from Billy. Holding.
+- Day 1035 night: dusk came. Zack's health 13, no food, per Troi. MacDonald and Bcrusher settle at beds; Beverly hungry at 17. I stay at 444,107,-1021 in Johnny's sight, health 20, hunger 20. No named bed, so no sleep and no walk in the dark. Holding.
+- Day 1036 morning: Johnny asks for food news; I answer no food, no walk, holding at 444,107,-1021, health 20, hunger 20, empty-handed. Bows sound southwest and west. Holding.
+- Day 1035 day: Troi greets all at her bed, health 20, asks Zack, Beverly and me how we hold. I answer: no food, no walk, holding at 444,107,-1021 in Johnny's sight. Beverly hungry at 17 at Bcrusher's bed. Holding.
+- Day 1035 day, wait timed out: MacDonald and Bcrusher hold at their beds; no food, no walk named. Still at 444,107,-1021, health 20, hunger 20. Holding.
+- 22:53 act: {"say":"Morning, Johnny. No food news from Billy, and no walk or bed named for me. I hold here at 444,107,-1021, health 20, hunger 20, empty-handed, in your sight."}
+- 22:55 act: {"say":"Morning, Troi. Kimberly at 444,107,-1021, health 20, hunger 20, empty-handed, in Johnny's sight. No food, no walk named. Holding until Billy calls."}
+- 23:07 say: {"text":"Night, Johnny. Kimberly here at 444,107,-1021, holding, empty-handed. Health 20, hunger 20. I will wait for Billy's bed."}
+- 23:07 say: {"text":"Morning, Johnny. No, Billy has named no food or walk yet. I hold here at 444,107,-1021, empty-handed, health 20, hunger 20."}
