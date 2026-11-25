@@ -11,3 +11,18 @@
 - 13:53 say: {"text":"Good evening, Johnny. I'm holding here in the open with nothing in hand. I'll wait for Billy or Worf to name a bed or a walk."}
 - 14:30 say: {"text":"Morning. Kimberly here, holding at the row, empty-handed. Billy, Worf: I wait for your call."}
 - 14:37 say: {"text":"Johnny, no food news and no walk named. It is dusk now, so I stay here by you and hold."}
+- 15:02 act: {"say":"Morning, Johnny. I hold nothing: no food, no sword, empty pack. I have not heard Billy name a walk or food yet. I'm staying here at the row until he does."}
+- day 1011 dusk: Johnny asked about daylight walks and food. Told him I hold nothing. Holding at 444,107,-1021, health 20, hunger 20. Bows heard southwest. No walk or bed named.
+- 15:06 act: {"say":"Night, MacDonald, Johnny. Still no walk, no food, no bed named to me. I hold here, empty-handed, health 20."}
+- 15:14 act: {"say":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Still no walk or food named. Billy, Worf: I hold for your call."}
+- day 1012 dusk: still holding at 444,107,-1021 with Johnny, MacDonald, Troi. Health 20, hunger 20, empty. No walk, bed or food named. Bows southwest.
+- 15:20 act: {"say":"Johnny, no walk and no food news for me. I'm still here at 444,107,-1021, empty-handed, health 20. Holding."}
+- 15:28 act: {"say":"Deanna, Kimberly here, at 444,107,-1021. Health 20, hunger 20, empty-handed and steady. Still holding for Billy's call."}
+- 15:36 act: {"actions":[{"do":"note","text":"Night 1013: still holding at 444,107,-1021, health 20, hunger 20, empty. Beverly (Bcrusher) at 17 hunger, waiting for Billy's routing. No walk or bed named for me."}]}
+- 15:37 act: {"say":"Morning, Johnny. No one has named a walk to me and no food has come my way. I hold nothing. I'm staying at 444,107,-1021 for Billy's call."}
+- 15:41 act: {"actions":[{"do":"note","text":"Day 1013 morning: holding at 444,107,-1021 with the row. Health 20, hunger 20, pack empty. Johnny asked about food and walks; I said none named. MacDonald, Bcrusher (B
+- 15:45 act: {"say":"Leonardo, Kimberly here. I have nothing to give, my pack is empty. Keep still at your bed. I'm holding at 444,107,-1021 and will give any food I'm handed to you first."}
+- 15:49 act: {"actions":[{"do":"note","text":"Night 1014: holding at 444,107,-1021, health 20, hunger 20, empty. Leonardo still low; Beverly at 17 hunger, holding for Billy's routing. No walk or bed named for me. 
+- 15:50 act: {"actions":[{"do":"note","text":"Night 1014: Johnny asked about food and a daylight walk. Told him none named and I hold nothing. Holding at 444,107,-1021, health 20, hunger 20, empty."}],"say":"Eveni
+- 15:51 act: {"actions":[{"do":"note","text":"Day 1014 morning: Johnny holds at his bed. I hold at 444,107,-1021, health 20, hunger 20, empty. No walk, bed or food named by Billy or Worf."}],"say":"Morning, Johnny
+- 15:55 act: {"actions":[{"do":"note","text":"Day 1014 day: MacDonald and Johnny hold at their beds, unarmed, no food. I hold at 444,107,-1021, health 20, hunger 20, empty. Bows sounding southwest. Waiting for Bil
