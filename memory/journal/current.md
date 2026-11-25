@@ -26,3 +26,4 @@
 - 15:50 act: {"actions":[{"do":"note","text":"Night 1014: Johnny asked about food and a daylight walk. Told him none named and I hold nothing. Holding at 444,107,-1021, health 20, hunger 20, empty."}],"say":"Eveni
 - 15:51 act: {"actions":[{"do":"note","text":"Day 1014 morning: Johnny holds at his bed. I hold at 444,107,-1021, health 20, hunger 20, empty. No walk, bed or food named by Billy or Worf."}],"say":"Morning, Johnny
 - 15:55 act: {"actions":[{"do":"note","text":"Day 1014 day: MacDonald and Johnny hold at their beds, unarmed, no food. I hold at 444,107,-1021, health 20, hunger 20, empty. Bows sounding southwest. Waiting for Bil
+- 15:56 act: {"actions":[{"do":"note","text":"Day 1014: holding at 444,107,-1021 with Johnny. Bows far off to the southwest. No walk or bed named for me."}],"say":"Billy, I am holding here at 444,107,-1021 with Jo
