@@ -163,3 +163,4 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 13:32 say: {"text":"Beverly, I owe you food and I have none yet. I'll give you what I find first. Holding here."}
 - 13:33 say: {"text":"Holding, Deanna. Health 20, empty-handed, no food either. Staying put until Billy names a call."}
 - 14:17 say: {"text":"Kimberly here at 444,107,-1021, holding. I have no food and no pack. Waiting for Billy's named call."}
+- 14:23 say: {"text":"Kimberly here, at 444,107,-1021 with Chapman. Health 20, hunger 20, pack empty, unarmed. Holding until Billy names a walk or a bed. I have no food to give."}
