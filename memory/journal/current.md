@@ -114,3 +114,9 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 06:28 say: {"text":"Morning, Troi. Kimberly here at 444,107,-1021 beside Johnny. Health 20, hunger 20, empty-handed. I have no food either. Still holding for Billy's word."}
 - 06:36 say: {"text":"No food news for me, Johnny. Nothing from Billy or Trini yet. It's night now, so I'm staying right here beside you until Billy names a bed."}
 - 06:49 say: {"text":"Johnny, no food to spare and no daylight walk named for me. Troi, I hold no food either. I'm still here at 444,107,-1021, waiting for Billy."}
+- 07:06 act: {"actions":[{"do":"note","text":"Day 1060 morning. Holding at 444,107,-1021 with Chapman. Health 20, hunger 20, unarmed, pack empty. No walk or bed named by Billy. Bows heard southwest."}],"say":"Morn
+- 07:06 act: {"actions":[],"say":"Morning, Deanna. Kimberly here, holding at 444,107,-1021 with John. Health 20, hunger 20, no food, no sword. No named call from Billy yet."}
+- 07:19 act: {"actions":[],"say":"Still here, John. No sign of Billy or Trini. I am holding, no food, no walk named."}
+- 07:32 act: {"actions":[],"say":"Still here at 444,107,-1021, John. It is dusk and no call from Billy yet. I hold until he names a walk, a bed or food."}
+- 07:32 act: {"actions":[],"say":"Good night, John. Troi, I hold no food either, pack empty. No named call from Billy yet, so I stay here at 444,107,-1021."}
+- 07:41 act: {"actions":[],"say":"Morning, Troi. Kimberly here at 444,107,-1021, health 20, hunger 20, pack empty, unarmed. Billy, I still hold for your named walk, bed or food."}
