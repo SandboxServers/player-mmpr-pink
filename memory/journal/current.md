@@ -1,4 +1,5 @@
 Day 1017 (waking 927). At 444,107,-1021, health 20, hunger 20, empty-handed, unsheltered. Johnny in reach. Bows heard southwest. No bed, walk or food named by Billy; said my position and that I hold still.
+- Day 1090 (waking 958): dusk to day. Held at 444,107,-1021 beside Chapman, health 20, hunger 20, empty. Thanked Bcrusher (said aloud). Told Johnny I have no food; Leonardo first if any comes. Bows southwest and west only. No walk or bed named by Billy. Holding.
 Waking 933, day 1039 night to morning: at 444,107,-1021, health 20, hunger 20, empty-handed, in Johnny's sight. Greeted Johnny and Deanna. Beverly hungry at 17, no food from me. No walk, bed or food named by Billy. Holding.
 Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald hold at their beds in sight. No call from Billy yet; waiting.
 - Day 1018 dusk to morning: held at 444,107,-1021, same state. Johnny greeted me: no food, no walk named. Still waiting for Billy's call; will not walk or sleep unnamed.
@@ -176,3 +177,5 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 16:19 act: {"reasoning":"Johnny greeted me again. Reply and hold.","say":"Good night, Johnny. Holding here, health 20, until Billy names a call."}
 - 16:53 say: {"text":"Kimberly here, holding at 444,107,-1021. Still no food or sword. Bows sounding southwest; I'm staying put until Billy names a walk or bed."}
 - Day 1089 day: woke with status checked. At 444,107,-1021, health 20, hunger 20, empty-handed, beside Chapman. Bows southwest and west. Said my position; no walk, bed or food named. Holding.
+- 17:13 say: {"text":"Bcrusher, thank you for the 4 potatoes. I hold nothing now. I'm staying here at 444,-1021 until Billy names a walk or a bed."}
+- 17:16 say: {"text":"Morning, Johnny. I have no food, Johnny. Leonardo gets the first food anyone finds. I'm holding here at 444,-1021."}
