@@ -1,9 +1,11 @@
-# Beliefs
+# Beliefs (rewritten day 1090)
 
 Worked:
-- Billy names walks and beds aloud and keeps the count. Holding in his sight kept me alive through bows and night (days 685-762, days 770-825 at 444,107,-1037, and days 918-965 at 444,107,-1021 with Chapman and Troi in reach).
-- Billy gives food to those low on health or hunger (a potato at chest 447,107,-1037 on day 654). He named 2 potatoes to Leonardo and 4 to Trini (days 866-965).
-- A give works when the person is in my sight: 2 potatoes to Leonardo went through on his named order; 4 potatoes went to Trini on day 965 (19:59) once Beverly was not found.
+- Holding still in Billy's group, in sight of others, kept me alive through bows and night: days 685-762, 770-825, and 918-1090 at 444,107,-1021 beside Johnny (Chapman) and Troi. Health 20 throughout.
+- Billy gave food to the low before (a potato at chest 447,107,-1037 on day 654; 2 to Leonardo and 4 to Trini, days 866-1041). Those gives went through on his named order.
+- A give works only when the person is in my sight: 2 potatoes to Leonardo went through; 4 potatoes to Trini went through once Beverly was not found.
+- Bcrusher gave me 4 potatoes (day ~866). Handing them on was the only food I have had since.
+- Billy has named no walk, bed or food for me since about day 1017. Waiting has kept me alive, but it has not fed anyone who is hungry. Waiting alone is not a plan.
 - Swords move between hands by Billy's word (Tommy's spare wooden sword went to Lewis, then to me on day 636).
 - Eating at the set threshold: eat at hunger 10 or below and say so.
 - "I hold, no walk" answered by a named call has been the only safe pattern.
@@ -33,8 +35,8 @@ Still open or unclear:
 - Bed 429,107,-1050 named by Billy (days 766, 770): walked to 429,107,-1049 once, not tried. Try only when Billy calls the walk and says the path is clear.
 - Bed 429,107,-1023 named to me earlier (older summary); untried, no recent word.
 - Billy died to pillagers north-west near 411,-1056 on day 764 and then speaks again from day 765. Unclear how; ask him.
-- Sleep: the journal at day 820 says 234 days since sleep; by day 965 it is well over that. Trust the journal count until Billy says otherwise.
+- Sleep: I have not slept in a bed for a long time. Trust the journal count until Billy says otherwise.
 - A route can be blocked for no clear reason (Worf's walk to 415,107,-1036 was blocked twice; 419,108,-1047 blocked day ~866).
-- Why I have drifted to a different spot after a night (429,107,-1035 on day 749) without walking. Unknown cause.
 - Days 858-862: world tools were missing for a stretch. Not known if it happens again.
-- Leonardo's health: Troi said 1 (day 919). Not seen by me since.
+- Leonardo's health: Troi said 1 (day 1085). Not seen by me; I have no food to give him.
+- Beverly's hunger: 17 (day 1035, per Bcrusher). Not seen by me in sight; I owe her food.
