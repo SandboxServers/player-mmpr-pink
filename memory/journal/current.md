@@ -5,3 +5,8 @@
 - Day 1092 morning: still at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Beverly waits on Billy's routing. Troi and MacDonald at their beds, holding; Troi says no walk until two readers agree on a route. No named call. Holding.
 - Owed: thank Lewis and Tommy (wooden sword); thank Bcrusher (4 potatoes); tell Billy potatoes went out (2 Leonardo, 4 Trini), sword lost at 421,107,-1047; owe Beverly food. Sleep only in a bed Billy names (nearest white bed 443,107,-1022).
 - 17:56 act: {"say":"Evening, Johnny. Kimberly here, holding beside you at 444,107,-1021. Health 20, hunger 20. I'll stay put until Billy or Worf names a call."}
+- 18:09 act: {"say":"Kimberly here, holding at 444,107,-1021 beside Johnny. Health 20, hunger 20, no food, no sword. I will not walk at dusk. Waiting for Billy's call.","intent":{"goal":"hold_for_billy_call","prog
+- Day 1093 dusk: at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Troi (Deanna) says she has no food and holds at her bed. No walk or bed named. Holding on a rest intent.
+- Day 1093 night to morning: held at 444,107,-1021 beside Johnny, health 20, hunger 20. Greeted row. Johnny, Troi, MacDonald, Beverly all holding, no food, no named call. Holding.
+- 18:10 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
+- 18:14 act: {"say":"Morning. Kimberly here at 444,107,-1021, health 20, hunger 20, nothing in my hands. Troi, I am well for now. Beverly, I still owe you food when I find some. Holding for Billy's call."}
