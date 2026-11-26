@@ -88,3 +88,6 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 01:22 act: {"actions":[],"say":"Good morning, Johnny. No word from Billy yet on food or a walk. I have nothing either. I'm holding here in your sight until he names a call."}
 - 01:42 act: {"actions":[],"say":"Johnny, I don't know where the potatoes are named. Troi heard Trini and Billy name them, so ask her. I'm still holding here, empty-handed."}
 - 01:48 act: {"actions":[],"say":"Johnny, I hear you. I have no food either, and I'm holding here with an empty pack. I'll stay in reach until Billy names a walk or a bed."}
+- 02:13 act: {"say":"Kimberly here, at 444,107,-1021 with Johnny. Health 20, hunger 20, I hold nothing. No walk at dusk, so I stay put until Billy names a bed."}
+- 02:43 act: {"say":"Morning, Johnny. Kimberly here, health 20, hunger 20, nothing in my hands and no food. No walk named yet, so I hold at 444,107,-1021 until Billy calls one."}
+- 02:55 act: {"say":"Evening, Johnny. Still no food in my hands and no word from Billy. I am holding here with you, unarmed, until a call comes."}
