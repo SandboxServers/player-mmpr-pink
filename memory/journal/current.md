@@ -120,3 +120,12 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 07:32 act: {"actions":[],"say":"Still here at 444,107,-1021, John. It is dusk and no call from Billy yet. I hold until he names a walk, a bed or food."}
 - 07:32 act: {"actions":[],"say":"Good night, John. Troi, I hold no food either, pack empty. No named call from Billy yet, so I stay here at 444,107,-1021."}
 - 07:41 act: {"actions":[],"say":"Morning, Troi. Kimberly here at 444,107,-1021, health 20, hunger 20, pack empty, unarmed. Billy, I still hold for your named walk, bed or food."}
+- 07:54 say: {"text":"Still here at 444,107,-1021, unarmed and with nothing in my pack. Waiting for Billy's named call. Johnny, you're in reach if you need me."}
+- Day 1062 night to morning: held at 444,107,-1021 beside Chapman, health 20, hunger 20, empty-handed, in the open. Bows only to the southwest. No walk, bed or food named by Billy. Said my position and holding. Still waiting.
+- 08:07 say: {"text":"Good evening, Johnny. Kimberly here, health 20, hunger 20, empty-handed. Still holding at 444,107,-1021 until Billy names a call."}
+- 08:08 say: {"text":"Good, Johnny. I'll hold here beside you through the night too. Nothing in my hands. If Billy names food, I'll tell Leonardo and Beverly first."}
+- 08:08 say: {"text":"Morning, Johnny. Kimberly here, same spot, health 20, empty-handed. No food or daylight walk named for me yet. Leonardo and Beverly first, as you say."}
+- 08:21 say: {"text":"No word from Billy on food for me, Johnny. I hold nothing. I'm still here beside you, out in the open, and I won't move until Billy names a call."}
+- 08:33 say: {"text":"Dusk now, Johnny. I'm staying put here in your sight, no walk. Still nothing from Billy for me, and nothing in my hands."}
+- 09:03 act: {"say":"Night now. I'm staying put beside Johnny, no walk, no bed unless Billy names one. Still holding nothing."}
+- 09:04 act: {"say":"No food news for me yet, Johnny. Still holding here beside you, health 20, hunger 20, empty-handed."}
