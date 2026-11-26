@@ -81,3 +81,10 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 00:26 say: {"text":"Holding at 444,107,-1021, unarmed and empty-handed. Billy, I have no food to give, so Leonardo and Beverly will need Trini's potatoes. Waiting for your named call."}
 - 00:34 act: {"say":"Kimberly here, holding at 444,107,-1021 with Johnny. I have no food and no sword. I will wait for Billy's named call."}
 - 00:43 act: {"say":"Good morning, Kimberly here at 444,107,-1021, health 20, hunger 20, no food, no sword. Billy, my 4 potatoes went to Trini and 2 to Leonardo. My sword is lost at 421,107,-1047. Leonardo, if foo
+- 00:56 act: {"say":"Kimberly here, holding still at 444,107,-1021. I have no food and no sword. Beverly, I still owe you food if I find any. Waiting on Billy's named call."}
+- Day 1041 day: woke, health 20, hunger 20, empty-handed, at 444,107,-1021 with Johnny in reach. Bcrusher said Beverly is hungry (17) and waits on Billy. Said my position and that I owe Beverly food. No walk or bed named. Holding.
+- 01:06 act: {"say":"Johnny, no food and no daylight walk from me or Billy. I still hold here at 444,107,-1021 in your sight, empty-handed. Good night."}
+- 01:21 act: {"actions":[],"say":"Good evening, Johnny. I'm holding here at 444,107,-1021, empty-handed, until Billy names a call. Good night."}
+- 01:22 act: {"actions":[],"say":"Good morning, Johnny. No word from Billy yet on food or a walk. I have nothing either. I'm holding here in your sight until he names a call."}
+- 01:42 act: {"actions":[],"say":"Johnny, I don't know where the potatoes are named. Troi heard Trini and Billy name them, so ask her. I'm still holding here, empty-handed."}
+- 01:48 act: {"actions":[],"say":"Johnny, I hear you. I have no food either, and I'm holding here with an empty pack. I'll stay in reach until Billy names a walk or a bed."}
