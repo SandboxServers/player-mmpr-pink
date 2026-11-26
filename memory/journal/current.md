@@ -147,3 +147,6 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 11:00 act: {"reasoning":"Holding position. Nothing named by Billy yet. Wait again.","say":"Morning. Kimberly here, holding at 444,107,-1021 with an empty pack. Still waiting for Billy to name a walk, bed or food
 - 11:05 act: {"reasoning":"Johnny asked about food. Answer honestly: none has come to me.","say":"Evening, Johnny. No food has come to me yet. I am still holding here with an empty pack, and I will not walk at dus
 - 11:18 say: {"text":"Kimberly here, at 444,107,-1021 with Johnny, holding. Empty pack, health 20, hunger 20. Billy, I still owe you word: my potatoes went out (2 to Leonardo, 4 to Trini), and my sword is lost at 
+- 11:40 act: {"say":"Morning. Kimberly here at 444,107,-1021, holding, unarmed, health 20, hunger 20, pack empty. Waiting for Billy's named call."}
+- 11:50 act: {"say":"Johnny, no. Billy has named no food routing or walk for me. I hold here at 444,107,-1021, empty, until he calls."}
+- 12:07 act: {"say":"Johnny, I hear you. I have no food either, so I hold here too until Billy names a route."}
