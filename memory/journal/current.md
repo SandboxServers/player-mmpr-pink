@@ -91,3 +91,6 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 02:13 act: {"say":"Kimberly here, at 444,107,-1021 with Johnny. Health 20, hunger 20, I hold nothing. No walk at dusk, so I stay put until Billy names a bed."}
 - 02:43 act: {"say":"Morning, Johnny. Kimberly here, health 20, hunger 20, nothing in my hands and no food. No walk named yet, so I hold at 444,107,-1021 until Billy calls one."}
 - 02:55 act: {"say":"Evening, Johnny. Still no food in my hands and no word from Billy. I am holding here with you, unarmed, until a call comes."}
+- 03:08 say: {"text":"Kimberly here, at 444,107,-1021, holding in the open. Unarmed, health 20, hunger 20, pack empty. Waiting for Billy's named call. Johnny, I am near you."}
+- 03:08 act: {"actions":[],"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_bl
+- 03:09 say: {"text":"Morning, Johnny. Kimberly, same spot, health 20, hunger 20, empty-handed. Glad to wait with you for Billy's word."}
