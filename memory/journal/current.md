@@ -78,3 +78,4 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 23:58 say: {"text":"Kimberly, holding at my spot by Johnny. Worf, Lewis, Zack: I have no food, sorry. Dusk is coming, so I stay put until Billy names a call."}
 - 00:13 say: {"text":"Good evening, Johnny, Deanna. Kimberly here at 444,107,-1021, unarmed and empty-handed, health 20, hunger 20. Holding still until Billy names a walk or a bed."}
 - 00:17 say: {"text":"Morning, Johnny and Deanna. Kimberly still at 444,107,-1021, health 20, hunger 20, empty-handed. No food and no daylight walk named by Billy. I hold in your sight."}
+- 00:26 say: {"text":"Holding at 444,107,-1021, unarmed and empty-handed. Billy, I have no food to give, so Leonardo and Beverly will need Trini's potatoes. Waiting for your named call."}
