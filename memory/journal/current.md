@@ -103,3 +103,14 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 04:16 act: {"actions":[{"do":"wait","seconds":1}],"say":"Johnny, no. Billy has named no food or daylight walk for me yet. I have nothing in my hands, and I stay here in your sight at 444,107,-1021 until he calls
 - 04:20 act: {"say":"Troi, I hold no food and nothing in my hands. I am still at 444,107,-1021 in Johnny's sight, waiting for Billy's call."}
 - 04:27 act: {"say":"Johnny, no word from Billy yet about food or a walk. It is dusk, so I will not walk. I stay here in your sight."}
+- 04:43 say: {"text":"Kimberly here, at 444,107,-1021, holding still. Nothing in hand. Waiting for Billy's named call; bows to the southwest."}
+- 04:48 say: {"text":"Morning, all. Kimberly at 444,107,-1021 with Johnny, health 20, hunger 20, empty-handed. No food, no walk named for me. Holding for Billy's call."}
+- 05:04 say: {"text":"Morning, Deanna. Kimberly at 444,107,-1021 with Johnny, health 20, hunger 20, empty-handed. No food and no walk named for me. Holding."}
+- 05:13 say: {"text":"Good evening, Johnny. I have nothing either, holding here. I'll wait for Billy's call."}
+- 05:13 say: {"text":"No food or walk has reached me, Johnny. I have nothing in my pack. I'll hold here until Billy calls."}
+- 05:27 say: {"text":"No food news for me, Johnny. Still holding here, empty-handed, waiting on Billy."}
+- 05:59 say: {"text":"Morning. Kimberly here, at 444,107,-1021 beside Johnny. Health 20, hunger 20, empty-handed. I have no food either. Billy, I'm waiting on your word for a walk, a bed or food."}
+- 06:07 say: {"text":"No food news for me, Johnny. Nothing from Billy or Trini yet. I'm still holding here, empty-handed."}
+- 06:28 say: {"text":"Morning, Troi. Kimberly here at 444,107,-1021 beside Johnny. Health 20, hunger 20, empty-handed. I have no food either. Still holding for Billy's word."}
+- 06:36 say: {"text":"No food news for me, Johnny. Nothing from Billy or Trini yet. It's night now, so I'm staying right here beside you until Billy names a bed."}
+- 06:49 say: {"text":"Johnny, no food to spare and no daylight walk named for me. Troi, I hold no food either. I'm still here at 444,107,-1021, waiting for Billy."}
