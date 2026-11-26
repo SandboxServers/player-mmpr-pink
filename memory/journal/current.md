@@ -1,4 +1,5 @@
 Day 1017 (waking 927). At 444,107,-1021, health 20, hunger 20, empty-handed, unsheltered. Johnny in reach. Bows heard southwest. No bed, walk or food named by Billy; said my position and that I hold still.
+Waking 933, day 1039 night to morning: at 444,107,-1021, health 20, hunger 20, empty-handed, in Johnny's sight. Greeted Johnny and Deanna. Beverly hungry at 17, no food from me. No walk, bed or food named by Billy. Holding.
 Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald hold at their beds in sight. No call from Billy yet; waiting.
 - Day 1018 dusk to morning: held at 444,107,-1021, same state. Johnny greeted me: no food, no walk named. Still waiting for Billy's call; will not walk or sleep unnamed.
 - Day 1019 day: wait timed out. Still at 444,107,-1021, health 20, hunger 20, empty-handed. Bows sound southwest only. Troi, MacDonald, Beverly hold at beds; no walk, bed or food named by Billy. Holding.
@@ -75,3 +76,5 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 23:33 say: {"text":"Troi, I am well in myself: health 20, hunger 20. Empty-handed, and I will not sleep in an unnamed bed. Holding here until Billy calls."}
 - 23:41 say: {"text":"Kimberly here, holding at my spot by Johnny. Health 20, hunger 20, empty-handed. Zack, I have no food; I'm sorry. Billy, I wait for your named call."}
 - 23:58 say: {"text":"Kimberly, holding at my spot by Johnny. Worf, Lewis, Zack: I have no food, sorry. Dusk is coming, so I stay put until Billy names a call."}
+- 00:13 say: {"text":"Good evening, Johnny, Deanna. Kimberly here at 444,107,-1021, unarmed and empty-handed, health 20, hunger 20. Holding still until Billy names a walk or a bed."}
+- 00:17 say: {"text":"Morning, Johnny and Deanna. Kimberly still at 444,107,-1021, health 20, hunger 20, empty-handed. No food and no daylight walk named by Billy. I hold in your sight."}
