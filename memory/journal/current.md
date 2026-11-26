@@ -20,3 +20,5 @@
 - 19:06 act: {"say":"Kimberly here at 444,107,-1021, beside Johnny. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Night is here; I will not walk.","intent":{"goal":"hold_for_billy_call","prog
 - Day 1096 night: held at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Heard bows far to the southwest; no named bed, walk or food. Holding on a rest intent.
 - 19:10 act: {"actions":[],"say":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Beverly, I still owe you food when I find some. Holding for Billy's call."}
+- Day 1096 daylight: first intent attempt rejected (max_block_operations must be 1 or more); resent with 1. Still at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. No named call, bed or food. Holding.
+- 19:23 act: {"say":"Morning, row. Kimberly here at 444,107,-1021, beside Johnny. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Beverly, my food debt stands.","intent":{"goal":"hold_for_billy
