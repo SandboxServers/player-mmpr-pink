@@ -150,3 +150,4 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 11:40 act: {"say":"Morning. Kimberly here at 444,107,-1021, holding, unarmed, health 20, hunger 20, pack empty. Waiting for Billy's named call."}
 - 11:50 act: {"say":"Johnny, no. Billy has named no food routing or walk for me. I hold here at 444,107,-1021, empty, until he calls."}
 - 12:07 act: {"say":"Johnny, I hear you. I have no food either, so I hold here too until Billy names a route."}
+- 12:20 act: {"say":"Good evening, Johnny. No food has reached me and I hold none. Billy has named no walk or bed for me. I am holding here at 444,107,-1021 and will wait for his call."}
