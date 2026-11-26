@@ -100,3 +100,6 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - Day 1049 morning: Troi, Johnny, MacDonald, Beverly report at beds; no food; Beverly hungry at 17. No walk, bed or food named for me. Still at 444,107,-1021, health 20, hunger 20, empty-handed. Holding.
 - 03:35 act: {"say":"Johnny, I have no food and nothing in my hands. Leonardo and Worf have none from me. Any food should go to Leonardo first. I stay here in your sight."}
 - 03:56 act: {"say":"Kimberly here, morning, at 444,107,-1021 beside Johnny. Health 20, hunger 20, pack empty. I have no food and no walk. Holding until Billy names one."}
+- 04:16 act: {"actions":[{"do":"wait","seconds":1}],"say":"Johnny, no. Billy has named no food or daylight walk for me yet. I have nothing in my hands, and I stay here in your sight at 444,107,-1021 until he calls
+- 04:20 act: {"say":"Troi, I hold no food and nothing in my hands. I am still at 444,107,-1021 in Johnny's sight, waiting for Billy's call."}
+- 04:27 act: {"say":"Johnny, no word from Billy yet about food or a walk. It is dusk, so I will not walk. I stay here in your sight."}
