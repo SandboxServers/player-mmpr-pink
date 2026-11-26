@@ -167,3 +167,6 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 14:56 say: {"text":"Kimberly here at 444,107,-1021, beside Johnny. Health 20, hunger 20, pack empty, unarmed. Holding for Billy's named call. No walk, no bed."}
 - 15:05 act: {"say":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Holding until Billy names a walk or a bed. Beverly, I still owe you food when I find some.","intent":{"goal":"
 - 15:07 act: {"say":"Troi, I hear you. Kimberly holding at 444,107,-1021, health 20, empty-handed. I will not move until Billy names a call. Leonardo, stay put."}
+- 15:20 act: {"actions":[{"do":"note","text":"Holding at 444,107,-1021 with Chapman in reach. Bows drawn to the southwest. No food, no sword. Waiting for Billy's named call."}],"say":"Kimberly here, holding at the
+- 15:25 act: {"actions":[{"do":"note","text":"Day 1085 dusk. Holding at 444,107,-1021 beside Chapman, health 20, hunger 20, empty. Bows to the southwest and west. No walk or bed named. Staying put."}],"say":"Goodn
+- 15:33 act: {"actions":[{"do":"note","text":"Day 1085 morning. Still holding at 444,107,-1021 beside Chapman. Health 20, hunger 20, empty. Leonardo at health 1 per Troi; I have no food for him. No walk or bed nam
