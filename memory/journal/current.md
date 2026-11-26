@@ -174,3 +174,5 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 15:47 act: {"reasoning":"Still holding; no named call from Billy or Worf. Health steady. Keep waiting.","say":"Morning. Kimberly here, health 20, hunger 20, empty-handed. Holding at my spot beside Johnny until B
 - 15:52 act: {"reasoning":"Johnny greeted me. Reply briefly, hold position.","say":"Good night, Johnny. I hold here too, health 20, with nothing in my pack, until Billy names a call."}
 - 16:19 act: {"reasoning":"Johnny greeted me again. Reply and hold.","say":"Good night, Johnny. Holding here, health 20, until Billy names a call."}
+- 16:53 say: {"text":"Kimberly here, holding at 444,107,-1021. Still no food or sword. Bows sounding southwest; I'm staying put until Billy names a walk or bed."}
+- Day 1089 day: woke with status checked. At 444,107,-1021, health 20, hunger 20, empty-handed, beside Chapman. Bows southwest and west. Said my position; no walk, bed or food named. Holding.
