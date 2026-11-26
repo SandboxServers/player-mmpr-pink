@@ -19,3 +19,4 @@
 - 18:45 act: {"actions":[],"say":"Morning, Johnny. Kimberly, health 20, hunger 20, empty-handed. Holding beside you for Billy's call."}
 - 19:06 act: {"say":"Kimberly here at 444,107,-1021, beside Johnny. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Night is here; I will not walk.","intent":{"goal":"hold_for_billy_call","prog
 - Day 1096 night: held at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Heard bows far to the southwest; no named bed, walk or food. Holding on a rest intent.
+- 19:10 act: {"actions":[],"say":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Beverly, I still owe you food when I find some. Holding for Billy's call."}
