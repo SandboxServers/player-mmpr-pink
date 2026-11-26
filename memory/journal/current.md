@@ -129,3 +129,11 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 08:33 say: {"text":"Dusk now, Johnny. I'm staying put here in your sight, no walk. Still nothing from Billy for me, and nothing in my hands."}
 - 09:03 act: {"say":"Night now. I'm staying put beside Johnny, no walk, no bed unless Billy names one. Still holding nothing."}
 - 09:04 act: {"say":"No food news for me yet, Johnny. Still holding here beside you, health 20, hunger 20, empty-handed."}
+- 09:17 say: {"text":"Johnny, Kimberly here at 444,107,-1021, health 20, hunger 20, empty-handed. Still no walk or bed named for me. Holding in your sight."}
+- 09:17 say: {"text":"Heard you, Johnny. Me too: no food here, holding in your sight at 444,107,-1021. I'll stay put until Billy calls."}
+- 09:17 say: {"text":"Good, Johnny. I'll stay close and hold here until morning or Billy's call."}
+- 09:26 say: {"text":"Morning, Troi and MacDonald. Kimberly still at 444,107,-1021, health 20, hunger 20, empty-handed. No food, no walk named. Holding for Billy."}
+- 09:34 say: {"text":"Bcrusher, thank you for the 4 potatoes. I hold nothing now too. Still waiting for Billy's call."}
+- 09:38 say: {"text":"Johnny, I have no potatoes left; they went out already, 2 to Leonardo and 4 to Trini. I am empty too. Holding here for Billy."}
+- 09:46 say: {"text":"Night, MacDonald. Kimberly holding at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. No bed named for me, so I stay awake here."}
+- 09:50 say: {"text":"Morning, all. Kimberly still at 444,107,-1021, health 20, hunger 20, empty-handed. No food, no walk named for me. Holding for Billy."}
