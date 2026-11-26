@@ -68,3 +68,10 @@ Day 1018 morning: still holding at 444,107,-1021, same state. Troi and MacDonald
 - 22:55 act: {"say":"Morning, Troi. Kimberly at 444,107,-1021, health 20, hunger 20, empty-handed, in Johnny's sight. No food, no walk named. Holding until Billy calls."}
 - 23:07 say: {"text":"Night, Johnny. Kimberly here at 444,107,-1021, holding, empty-handed. Health 20, hunger 20. I will wait for Billy's bed."}
 - 23:07 say: {"text":"Morning, Johnny. No, Billy has named no food or walk yet. I hold here at 444,107,-1021, empty-handed, health 20, hunger 20."}
+- 23:18 say: {"text":"Johnny, I am holding here at the row with you. I have no food and no sword. Bows are sounding to the southwest, so I am staying still until Billy names a walk or a bed."}
+- 23:18 say: {"text":"Good evening, Johnny. Agreed, I hold here in your sight until Billy names a walk or a bed."}
+- 23:31 say: {"text":"Johnny, no food news, and no daylight walk named by Billy or Worf. I hold here in your sight, empty-handed."}
+- 23:32 say: {"text":"Good evening, Troi. I hold here in Johnny's sight, health 20, empty-handed. No walk or bed named for me yet."}
+- 23:33 say: {"text":"Troi, I am well in myself: health 20, hunger 20. Empty-handed, and I will not sleep in an unnamed bed. Holding here until Billy calls."}
+- 23:41 say: {"text":"Kimberly here, holding at my spot by Johnny. Health 20, hunger 20, empty-handed. Zack, I have no food; I'm sorry. Billy, I wait for your named call."}
+- 23:58 say: {"text":"Kimberly, holding at my spot by Johnny. Worf, Lewis, Zack: I have no food, sorry. Dusk is coming, so I stay put until Billy names a call."}
