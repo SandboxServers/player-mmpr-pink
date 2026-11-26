@@ -8,5 +8,12 @@
 - 18:09 act: {"say":"Kimberly here, holding at 444,107,-1021 beside Johnny. Health 20, hunger 20, no food, no sword. I will not walk at dusk. Waiting for Billy's call.","intent":{"goal":"hold_for_billy_call","prog
 - Day 1093 dusk: at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Troi (Deanna) says she has no food and holds at her bed. No walk or bed named. Holding on a rest intent.
 - Day 1093 night to morning: held at 444,107,-1021 beside Johnny, health 20, hunger 20. Greeted row. Johnny, Troi, MacDonald, Beverly all holding, no food, no named call. Holding.
+- Day 1094 morning: at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Leonardo at health 1 per Troi; I hold no food to give. No call named. Holding.
+- Day 1094 night: at 444,107,-1021 beside Johnny, health 20, hunger 20. Row says goodnight; Beverly hunger 17 at bed 443,107,-1037. No bed named by Billy, so I hold and do not sleep.
+- Day 1095: morning greetings with Johnny and Troi; no food, no named call. Night again on day 1095: holding at 444,107,-1021, health 20, hunger 20. Not sleeping without Billy's named bed.
 - 18:10 act: {"intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"ma
 - 18:14 act: {"say":"Morning. Kimberly here at 444,107,-1021, health 20, hunger 20, nothing in my hands. Troi, I am well for now. Beverly, I still owe you food when I find some. Holding for Billy's call."}
+- 18:23 act: {"say":"Good evening, Johnny. Nothing new for me: no food, no sword, no named call from Billy. I am holding here beside you and will not walk at dusk."}
+- 18:39 act: {"actions":[{"do":"note","text":"Night, day 1094. Holding at 444,107,-1021 beside Johnny, health 20, hunger 20. No named bed or call from Billy."}],"say":"Goodnight, row. Kimberly holding beside Johnn
+- 18:43 act: {"actions":[],"say":"Morning, row. Kimberly here at 444,107,-1021, health 20, hunger 20, nothing in my hands. Still holding for Billy's named call. Beverly, my food debt stands.","intent":{"goal":"hol
+- 18:45 act: {"actions":[],"say":"Morning, Johnny. Kimberly, health 20, hunger 20, empty-handed. Holding beside you for Billy's call."}
