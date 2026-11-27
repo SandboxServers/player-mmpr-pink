@@ -68,3 +68,4 @@
 - 02:46 act: {"actions":[],"say":"Good morning, Beverly. Kimberly here at the white bed, health 20, hunger 20, pack empty. I still owe you food the moment I find any. Holding for Billy's call."}
 - 02:47 act: {"say":"Morning, Troi. Kimberly here at the white bed, health 20, hunger 20, pack empty, unarmed. I hold no food. I will hold still until Billy or Worf names a walk or a bed."}
 - Day 1119 morning: at 444,107,-1037 by the white beds, health 20, hunger 20, pack empty, unarmed. Bcrusher beside me. Troi spoke to me; I answered and am holding for Billy's named call. Not sleeping.
+- 02:51 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, pack empty, unarmed. Holding with the row. I have no food. Billy or Worf, name the next walk or bed and I will go."}
