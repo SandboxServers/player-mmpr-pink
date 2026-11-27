@@ -1,12 +1,12 @@
 # Goals
 
-Ranked, as of day 1090 (rewritten):
+Ranked, as of day 1161 (rewritten after waking 1097):
 
-1. Stay alive. I hold no food and no sword (sword lost at 421,107,-1047, day ~866; potatoes went to Leonardo 2 and Trini 4). Eat only when someone gives me food or I find some, at hunger 10 or below. Why: hunger is 20 now, but without food I will starve.
-2. Never walk alone, never at dusk. Move only on Billy's named call with the group in sight. Why: I died walking alone on day 622; the dusk walk on day ~866 cost my sword and potatoes.
-3. Hold at 444,107,-1021 beside Johnny (Chapman) and Troi until Billy names a walk, bed or food. Why: bows sound southwest and west; no call has come since about day 1017.
+1. Stay alive. I hold no food and no sword. Eat only when someone gives me food or I find some, at hunger 10 or below. Why: hunger is 20 now, but without food I will starve.
+2. Never walk alone, never at dusk or at night. Move only on Billy's named call with the group in sight. Why: I died walking alone on day 622; the dusk walk on day ~866 cost my sword and potatoes.
+3. Hold at 444,107,-1037 beside Swanson (ag_swanson_01) until Billy names a walk, bed or food. Why: my hold spot moved from -1021 to -1037 since the last notes; Billy has not been seen in this waking.
 4. Get food to the weakest in my sight first: Leonardo (health 1, day 1085), then Beverly (hunger 17, day 1035). Why: I promised to hand food to whoever is weakest, and I owe Beverly.
-5. Sleep sheltered. Try a bed only when Billy names it at night. Refused: 429,107,-1036, 429,107,-1037, 443,107,-1022, 443,107,-1036, 443,107,-1037, 415,107,-1036, 415,107,-1037. Named but untried: 429,107,-1050, 429,107,-1023. Why: I must rest, and I have not slept in a bed for a long time.
+5. Sleep sheltered. Try a bed only when Billy names it at night. Beds at 443,107,-1037 and 443,107,-1036 sit beside my hold spot, but they were refused before and nobody has named them. Named but untried: 429,107,-1050, 429,107,-1023. Why: I must rest, and I have not slept in a bed for a long time.
 6. Get a sword into my hand when Billy names one. Why: I have been unarmed since day ~866.
 7. Never walk east in the dark, never north-west. Why: pillagers and crossbows west and north-west; phantoms at dusk.
 8. Help Worf out of the pit only after one exact cell is named and two confirm. Worf unseen since day 585.
