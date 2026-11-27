@@ -1,2 +1,3 @@
 Day 1124 (waking 983): Woke at 444,107,-1037 by the white beds. Health 20, hunger 20, empty-handed, unarmed. Bcrusher (Beverly) in reach at health 9, hunger 17. MacDonald near. Said my position and that I have no food yet. No named call from Billy or Worf. Holding still; no bed named, so no sleep attempt.
 - 04:38 act: {"intent":{"goal":"hold_for_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operation
+- 04:47 say: {"text":"Kimberly here at the white beds, 444,107,-1037. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Bcrusher, you are beside me."}
