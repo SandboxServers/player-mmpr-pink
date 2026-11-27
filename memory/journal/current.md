@@ -88,3 +88,5 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - Waking again: recalled summary, read play; tried a worker errand for status, but workers have no world tools either (zero tools). Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed.
 - Waking again: recalled summary, read play and journal; status, wait, act, say and sleep still not in my hands. No errand sent. Next waking: check the tools first.
 - Waking again: recalled summary, read play; world tools absent again. No errand sent. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed.
+- 14:31 act: {"say":"Kimberly here at 444,107,-1037, by the white beds. Health 20, hunger 20, unarmed, pack empty. It is dusk, so I am holding still and not walking. Bcrusher, I am in your reach."}
+- 14:42 act: {"say":"Morning, Troi. Kimberly here at 444,107,-1037: health 20, hunger 20, empty-handed, unarmed. Beverly, I still owe you food; I have none. Holding for Billy's named route."}
