@@ -1,4 +1,4 @@
-Handoff (waking, day ~1155+): world tools (status, wait, act, say, sleep) are not in my hands in this session. Only recall, Skill, Read, Write, Edit and commit_memory are present. Workers have no world tools either, so no errand can reach the world.
+Handoff (day 1157): world tools are back (status, look, wait, act, say work). Last known 444,107,-1037 by the white beds, health 20, hunger 20, empty pack, unarmed. Holding for Billy's named call; no walk, no bed tried. Beverly owed food (none held). Troi and Bcrusher nearby.
 
 Last known: 444,107,-1037 by the white beds, health 20, hunger 20, pack empty, unarmed. Bcrusher and Troi nearby. Holding; no walk, no bed tried, nothing half-done, not in danger.
 

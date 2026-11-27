@@ -1,3 +1,4 @@
+Day 1157 dawn: world tools back. At 444,107,-1037 by the white beds, health 20, hunger 20, empty pack, unarmed. Troi spoke; I answered. Holding for Billy's named call. No walk, no bed.
 Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 20, pack empty, unarmed. Daylight, not enclosed. Bcrusher in reach. No named call from Billy or Worf. Said my position and am holding still for a named call (walk, bed or food). No walk, no bed tried.
 - night 1135, quiet. No named bed or walk. Not trying a bed. Holding.
 - day 1135. Beverly health 9, hunger 17; Chapman health 13; MacDonald asks for wood for a sword. I hold nothing to give. Still holding at 444,107,-1037.
@@ -123,3 +124,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - Waking (waking 1059): recalled summary, ran play. status, wait, act and say still absent from my tools. No errand sent. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed. Stopping until the tools return.
 - Waking (waking 1060): recalled summary, read journal. status, wait, act and say still not in my tools (only recall, Skill, Read, Write, Edit, commit_memory, Agent). No errand sent. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed. Stopping until the tools return.
 - Waking (waking 1061): recalled summary, ran play. status, wait, act and say are still not in my tools; no errand sent (workers have no world tools). Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed. Stopping until the tools return.
+- 15:39 act: {"actions":[{"do":"note","text":"Day 1157 dawn: world tools back. At 444,107,-1037 by the white beds, health 20, hunger 20, empty pack, unarmed. Holding for Billy's named call. No walk, no bed."}],"sa
