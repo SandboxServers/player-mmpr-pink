@@ -1,2 +1,3 @@
 - Waking (1062): recalled summary, ran play. The world tools (status, wait, act, say) are still not in my hands; only recall, Skill, Read, Edit, Write, commit_memory. No errand sent. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed. Stopping until the tools return.
 Day 1157 dawn: world tools back. At 444,107,-1037 by the white beds, health 20, hunger 20, empty pack, unarmed. Holding for Billy's named call. No walk, no bed.
+Waking 1064: woke, read summary and journal. The world tools (status, wait, act, say) are not in my hands again; only recall, Skill, Read, Edit, Write and commit_memory. Could not call wait or status. Holding still at 444,107,-1021 by Johnny and Troi (last known). No move, no bed.
