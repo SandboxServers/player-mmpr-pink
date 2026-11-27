@@ -35,3 +35,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - Day 1142 cycle: status health 20, hunger 20, pack empty, unarmed, 556 days since sleep. Bcrusher in reach. Wait quiet, no named call. Said my position. Holding at 444,107,-1037. No walk, no bed tried.
 - 10:30 act: {"say":"Morning, row. Kimberly at 444,107,-1037 by the white beds. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Bcrusher is beside me.","intent":{"goal":"hold_for_named_call","p
 - 10:31 act: {"say":"Tommy, welcome to the row. Kimberly here at 444,107,-1037, health 20, hunger 20, no food. Thank you for the wooden sword, Lewis and Tommy. Troi, I am holding with you. No walk at dusk."}
+- 10:40 act: {"say":"Kimberly here at the white beds, 444,107,-1037. Empty pack, health 20, hunger 20. Holding still until someone names a walk, bed or food."}
