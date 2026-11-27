@@ -29,3 +29,5 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 09:51 act: {"say":"Kimberly holding at 444,107,-1037, health 20, hunger 20, no food, unarmed. John, I have nothing to carry. Worf at hunger 3 is urgent: Billy, if you name exact cells in daylight, I will come on
 - 09:59 act: {"say":"Good morning, row. Kimberly at 444,107,-1037, health 20, hunger 20, no food, unarmed. Beverly, I still owe you food when I find some. Holding until Billy or Worf names a daylight route."}
 - 10:11 act: {"say":"Morning, row. Kimberly at 444,107,-1037, health 20, hunger 20, no food, unarmed. Holding at the beds. Billy or Worf, a named route or food when you can."}
+- 10:21 act: {"actions":[{"do":"note","text":"Night, day 1141. At 444,107,-1037 by the white beds with Bcrusher beside me. Health 20, hunger 20, unarmed, pack empty. No named call from Billy yet, so I hold still."
+- 10:25 act: {"actions":[{"do":"note","text":"Day 1142, morning. At 444,107,-1037, health 20, hunger 20, no food, unarmed. Row still holding; no named route or bed from Billy or Worf. No walk, no bed tried."}],"sa
