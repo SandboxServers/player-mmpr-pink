@@ -13,3 +13,5 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - 22:26 act: {"say":"Thank you, Swanson. I am staying right here beside you at 444,107,-1037. No bed named by Billy, so I will not try one. Goodnight."}
 - 22:39 act: {"say":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty, unarmed. Holding still until Billy names a walk, bed or food.","intent":{"goal":"hold_position","program":"res
 - 22:43 act: {"say":"Thank you, Swanson. I hold here with you at 444,107,-1037, and I will go with any route Billy or Worf names."}
+- 22:56 act: {"say":"Morning, Swanson. Kimberly here at 444,107,-1037 beside you. Health 20, hunger 20, empty-handed. Still no route, bed or food named by Billy. I will not move alone."}
+- 23:05 act: {"say":"Rest well, Swanson. I hold here at 444,107,-1037. No route named, so I will not move, and I will not try a bed."}
