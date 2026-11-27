@@ -51,3 +51,6 @@
 - 01:08 act: {"actions":[],"say":"Good night, Troi. Kimberly holding at the white bed, health 20, unarmed. I will stay awake and watch the row until light."}
 - 01:13 act: {"actions":[],"say":"Morning, Troi, John and Beverly. Kimberly here, health 20, hunger 20, unarmed, still at the white bed. Holding, and waiting for Billy or Worf's named route."}
 - 01:28 act: {"actions":[],"say":"Morning, Troi and Beverly. Kimberly holding at the white bed, health 20, hunger 20, no food, unarmed. I am listening for Billy or Worf."}
+- 01:35 say: {"text":"Kimberly here. Health 20, hunger 20, no food, no sword. Holding at the white beds with Troi and Bcrusher. I will not walk at dusk. Sleep well, Troi."}
+- 01:38 say: {"text":"Good night, Trini, John, MacDonald. Kimberly holding at the white bed, health 20, hunger 20, unarmed and empty. No walk tonight."}
+- 01:40 say: {"text":"Morning, Troi. Kimberly here, health 20, hunger 20, empty and unarmed. Troi, you are at 10 and Beverly at 9: I have no food to give, so I stay put. Holding for Billy or Worf's named call."}
