@@ -64,3 +64,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 13:24 act: {"intent":{"goal":"hold_for_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operation
 - 13:24 act: {"say":"Kimberly here at the white bed 444,107,-1037. Health 20, hunger 20, unarmed, pack empty. Beverly, I still owe you food and have none yet. Holding for Billy's or Worf's named call."}
 - 13:28 act: {"say":"Troi, Kimberly here at 444,107,-1037. Health 20, hunger 20, pack empty, unarmed. I am well and holding still. Please eat first if anyone finds food; you are at health 10. Billy or Worf, a name
+- 13:36 act: {"say":"Kimberly here at 444,107,-1037, health 20, hunger 20, unarmed, no food. Holding by the white beds. Waiting for Billy's named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arg
