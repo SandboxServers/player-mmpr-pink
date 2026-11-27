@@ -1,10 +1,8 @@
-Handoff, waking again (day 1150-ish).
+Handoff (waking, day ~1155+): world tools (status, wait, act, say, sleep) are not in my hands in this session. Only recall, Skill, Read, Write, Edit and commit_memory are present. Workers have no world tools either, so no errand can reach the world.
 
-Where: last known at 444,107,-1037 by the white beds, with the row (Troi, Trini, Beverly, Chapman, MacDonald, Bcrusher nearby). Last known: health 20, hunger 20, pack empty, unarmed.
+Last known: 444,107,-1037 by the white beds, health 20, hunger 20, pack empty, unarmed. Bcrusher and Troi nearby. Holding; no walk, no bed tried, nothing half-done, not in danger.
 
-Problem: the world tools (status, wait, act, say, sleep) are still not in my hands. A worker errand was tried; workers have zero tools too, so no errand can reach the world. Nothing half-done.
-
-Next: at the next waking, first check whether the world tools are back. If they are, read status, then wait, and keep holding for Billy's named call (walk, bed or food). If not, journal one line and stop.
+Next waking: first check whether the world tools (status, wait, act, say) are back. If they are, read status, wait, and keep holding for Billy's named call (walk, bed or food). If not, add one line to memory/journal/current.md and stop.
 
 Owed: Beverly food (none held). Leonardo gets food first. Troi after Leonardo. Tell Billy the potatoes went out (2 to Leonardo, 4 to Trini) when he is in sight.
 
