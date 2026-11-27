@@ -83,4 +83,6 @@ Waking 1141: recalled summary, read play skill. status, wait and act are not in 
 - 20:07 say: {"text":"Morning. Kimberly here at 444,107,-1037, health 20, hunger 20, no food, no sword. Holding until Billy names a walk or bed."}
 - Day 1172 dawn (waking): status and wait work. At 444,107,-1037 beside Swanson in reach, health 20, hunger 20, pack empty, unarmed, not enclosed. No events, no bed named, no food. Holding; no walk without Billy's named call.
 - 20:32 say: {"text":"Kimberly here at 444,107,-1037, beside you, Ron. Same as you: unarmed, no food. We both wait for Billy's named route or bed."}
+- Waking 1172 (day 1173, night): status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. No events, no bed named, no walk. Holding; no bed tried at night without Billy's name.
 - Day 1172 (day light, waiting): Ron (Swanson) asked for a named route or hour; I answered that I hold too. Still at 444,107,-1037, health 20, hunger 20, unarmed, pack empty. Nothing named, no bed tried, no walk. Holding.
+- 20:49 act: {"actions":[],"say":"Morning, Ron. Kimberly here at 444,107,-1037, still unarmed and empty-handed. I will not walk until Billy names it.","intent":{"goal":"hold_for_billy_call","program":"rest","argum
