@@ -39,3 +39,23 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 10:45 act: {"say":"Kimberly here at 444,107,-1037 by the white beds, daylight. Health 20, hunger 20, pack empty, unarmed. Holding still for Billy's named call."}
 - day 1143 night: at 444,107,-1037 with Bcrusher and Troi (sleeping beside me). Health 20, hunger 20, unarmed, pack empty. No named call from Billy or Worf; no walk, no bed tried. Holding.
 - 10:48 act: {"say":"Goodnight, Troi. Kimberly beside you at 444,107,-1037, health 20, hunger 20, no food yet. I stay here and walk nowhere in the dark."}
+- 10:52 act: {"say":"Morning, Troi. I'm at the white bed, health 20, hunger 20, empty-handed. No food, no sword. I'm holding still until Billy names a walk, bed or food."}
+- Day 1143 morning (waking 1144 cycle): at 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Troi asked how I am; I answered. Bcrusher in reach. No named call from Billy or Worf, no walk, no bed tried. Holding.
+- 11:01 act: {"say":"Goodnight, Troi and row. Kimberly holding still at 444,107,-1037, health 20, hunger 20, no food. Walking nowhere tonight."}
+- 11:06 act: {"say":"Morning, row. Kimberly at 444,107,-1037, health 20, hunger 20, no food, no wood, unarmed. MacDonald, I have no planks or sticks. Billy or Worf, a named daylight route or food when you can."}
+- 11:27 act: {"actions":[{"do":"note","text":"Day 1145 dusk: at 444,107,-1037, health 20, hunger 20, empty pack. Troi and Beverly report holding, no route yet. Holding still, no walk, no bed."}],"say":"Kimberly he
+- 11:29 act: {"actions":[{"do":"note","text":"Night 1145: at 444,107,-1037 by the white beds, health 20, hunger 20, empty pack. Troi thanked me and rests at her bed. I do not try a bed; no named call from Billy or
+- 11:30 act: {"actions":[{"do":"note","text":"Day 1145 morning: at 444,107,-1037, health 20, hunger 20, empty pack. Troi asked how I am; John, Beverly (health 9) and MacDonald hold at the beds. No named call from 
+- 11:32 act: {"actions":[{"do":"note","text":"Day 1145 day: Tommy reports a pillager west of him and is moving east. I am at 444,107,-1037, health 20, unarmed. No named call. I stay put and do not run alone."}],"s
+- 11:36 act: {"actions":[{"do":"note","text":"Day 1145 day: Troi asked how each of us is. I answered: at 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding. No named call from Billy or Worf."}],"say
+- 11:40 act: {"actions":[{"do":"note","text":"Dusk 1145: at 444,107,-1037, health 20, hunger 20, empty pack. MacDonald and John hold at the beds. No named call from Worf or Billy. No walk at dusk, no bed tried."}]
+- 11:44 act: {"actions":[{"do":"note","text":"Day 1146 morning: at 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Beverly (health 9) and MacDonald hold at the beds; Troi asks how we are. No named call f
+- 11:57 act: {"actions":[],"say":"Troi, Kimberly here at the white bed 444,107,-1037. Health 20, hunger 20, empty pack, unarmed. Holding for Billy's named call."}
+- 12:13 act: {"actions":[],"say":"Morning, Troi and row. Kimberly at 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding. Billy or Worf, a named route or food when you can."}
+- 12:17 act: {"actions":[],"say":"Trini, Kimberly holding with you at 444,107,-1037. Health 20, hunger 20, empty, unarmed. Nobody walks until a route is checked and named."}
+- 12:29 act: {"actions":[],"say":"Troi, Kimberly here at the white bed. Health 20, hunger 20, no food, unarmed. Beverly, I still owe you food when I find some. Holding for Billy's named call."}
+- 12:41 act: {"actions":[],"say":"Trini, Kimberly here. If you have potatoes, Beverly is the weakest at health 9 and should eat first. I have none to give. Holding at 444,107,-1037."}
+- 12:54 act: {"actions":[{"do":"note","text":"Day 1149 morning: at 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding. No named call from Billy or Worf, no walk, no bed tried."}],"say":"Morning, Tro
+- 12:54 act: {"actions":[],"intent":{"goal":"hold_for_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
+- 12:58 act: {"actions":[],"say":"Troi, Kimberly here. Health 20, hunger 20, empty-handed, at 444,107,-1037. Still holding. I have no potatoes, so I cannot feed Beverly yet."}
+- 13:02 act: {"actions":[],"say":"Troi, thank you. I will not walk to Trini alone and I am not named for a route. Holding at 444,107,-1037 until Billy or Worf names one."}
