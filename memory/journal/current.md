@@ -72,3 +72,5 @@ Waking 1141: recalled summary, read play skill. status, wait and act are not in 
 - 17:49 say: {"text":"Kimberly here at 444,107,-1037, health 20, hunger 20, holding still beside Swanson until Billy names a walk, bed or food."}
 - 18:01 say: {"text":"Morning. Kimberly here at 444,107,-1037, holding beside Swanson. Health 20, hunger 20, no food, no sword. I wait for Billy's named call."}
 - Waking 1144 (day 1165, night): wait worked once: at 444,107,-1037 beside Swanson in reach, health 20, hunger 20, pack empty, unarmed, not enclosed, no bed named, no food, no events. Then the next wait, look and journal calls all failed with "Error POSTing to endpoint". No move, no bed, no give, no say. Holding still; no walk without Billy's named call.
+- 18:39 act: {"say":"Morning. Kimberly here at 444,107,-1037, health 20, hunger 20, unarmed, pack empty. Holding beside Swanson until Billy names a walk, bed or food.","intent":{"goal":"hold_for_billy_call","progr
+- 18:51 act: {"say":"Keeping watch, Swanson. I will not walk at dusk. Staying right here at 444,107,-1037.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addressed","p
