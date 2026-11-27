@@ -71,3 +71,4 @@
 - 02:51 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, pack empty, unarmed. Holding with the row. I have no food. Billy or Worf, name the next walk or bed and I will go."}
 - 02:59 act: {"say":"Morning. Kimberly here at 444,107,-1037, unarmed, pack empty, health 20, hunger 20. Holding at the beds. Beverly, I still owe you food; I will give it to you first when I have some.","actions"
 - 03:00 act: {"say":"Troi, I hear you. Kimberly at the white bed, health 20, hunger 20, pack empty. I agree: we wait for a daylight route Billy or Worf names. Holding still.","actions":[]}
+- 03:08 say: {"text":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, unarmed, pack empty. Holding for Billy's or Worf's named call."}
