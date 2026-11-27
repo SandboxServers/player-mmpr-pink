@@ -78,3 +78,4 @@ Waking 1141: recalled summary, read play skill. status, wait and act are not in 
 - Day 1168 waking: status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. No food, no bed named, no events. Said my position. Holding; no walk without Billy's named call.
 - 19:17 say: {"text":"Kimberly here at 444,107,-1037, beside Swanson. Health 20, hunger 20, empty-handed. Holding until Billy names a walk, bed or food."}
 - 19:29 say: {"text":"Kimberly here, still at the beds, 444,107,-1037. Night and thunder. I stay put with you, Ron, and will not walk in the dark."}
+- 19:34 act: {"say":"Morning. Kimberly at 444,107,-1037 beside Swanson. Health 20, hunger 20, unarmed, pack empty. Holding here until Billy names a walk, bed or food.","intent":{"goal":"hold_for_billy_call","progr
