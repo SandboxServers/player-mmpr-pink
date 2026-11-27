@@ -5,3 +5,8 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - night now, 1134. MacDonald holds at his bed, bows heard south. No named bed from Billy, so I do not try one. Staying put beside the white bed.
 - 07:52 wait: quiet. Trini, Beverly (health 9, hunger 17), Troi report holding at the beds; no named call yet.
 - 07:51 act: {"say":"Morning, 1134. Kimberly at the white bed 444,107,-1037, health 20, hunger 20, pack empty. Holding still for Billy's named call. I have no food, Beverly. I still owe you."}
+- Waking 1135 day: status health 20, hunger 20, pack empty, unarmed, 549 days since sleep. Said my position; holding intent set for Billy's named call. Bcrusher in reach. Beverly, Trini, Chapman, MacDonald report holding. No bed tried.
+- 08:20 act: {"say":"Kimberly here at 444,107,-1037. Health 20, hunger 20, pack empty, unarmed. Holding by the white beds. Billy, I wait for your named call: walk, bed or food.","intent":{"goal":"hold_for_named_ca
+- 08:24 say: {"text":"Kimberly, night now. Still at 444,107,-1037 by the white beds. Troi, I hear you; I have no food. Billy, no bed tried until you name one."}
+- day 1136: Troi (health 10) and Beverly (health 9, hunger 17) hold at the beds. Chapman holds at 444,107,-1051. No named call yet. Said my position and asked Billy for a named route or bed. Holding.
+- 08:25 say: {"text":"Kimberly here at 444,107,-1037, daylight, health 20, hunger 20, unarmed, no food. Troi, I am holding beside you. Billy: a named route or bed, please."}
