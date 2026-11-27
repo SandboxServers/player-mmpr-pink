@@ -70,3 +70,4 @@ Waking 1135: recalled summary, read play skill. This time mcp__geldar__wait, loo
 Waking 1141: recalled summary, read play skill. status, wait and act are not in my tools (only recall, Skill, Read, Edit, Write, commit_memory, Agent). No errand sent, no move, no bed, no give, no say. Last known 444,107,-1037, health 20, hunger 20, pack empty, unarmed. Holding still; no walk without Billy's named call.
 - 17:32 act: {"actions":[],"say":"Kimberly here, at the beds, 444,107,-1037. Still holding, no food, no sword. Ron, I see you. I will wait for Billy's named route or bed."}
 - 17:49 say: {"text":"Kimberly here at 444,107,-1037, health 20, hunger 20, holding still beside Swanson until Billy names a walk, bed or food."}
+- 18:01 say: {"text":"Morning. Kimberly here at 444,107,-1037, holding beside Swanson. Health 20, hunger 20, no food, no sword. I wait for Billy's named call."}
