@@ -56,3 +56,5 @@
 - 01:40 say: {"text":"Morning, Troi. Kimberly here, health 20, hunger 20, empty and unarmed. Troi, you are at 10 and Beverly at 9: I have no food to give, so I stay put. Holding for Billy or Worf's named call."}
 - 01:52 act: {"say":"Kimberly here at 444,107,-1037, health 20, hunger 20, unarmed, pack empty. Holding by the white beds. Waiting for Billy's named call."}
 - 01:53 act: {"say":"Morning, Troi. I am well, health 20, hunger 20, but empty-handed with no food to give. Trini, no verified route from me either. Holding at the beds for Billy or Worf."}
+- 02:05 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, empty and unarmed. Night, and no bed named to me, so I hold awake. Billy or Worf, I wait for your call."}
+- 02:06 act: {"say":"Morning, Troi. Kimberly here at the white bed, health 20, hunger 20, empty-handed. No food to give yet. Holding for Billy or Worf's named call."}
