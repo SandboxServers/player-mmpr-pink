@@ -5,3 +5,7 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - 21:51 say: {"text":"Morning, Swanson. No word yet from Billy on a route, a bed or a weapon. I am still holding here at 444,107,-1037."}
 - 22:04 act: {"say":"Morning. Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, I hold nothing. I will hold still until Billy names a walk, bed or food."}
 - Waking 1176 (day 1176, day light). Status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. No walk, bed or food named. Said my position aloud. Holding still.
+- Waking 1162 (day 1177, dark). Wait works. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. Nothing new, no events. Holding still; no walk, bed or food named by Billy.
+- Night held at 444,107,-1037 beside Swanson. Swanson slept in the bed beside me; I stayed put and did not sleep. Morning (day 1177): health 20, hunger 20, still empty-handed, no walk, bed or food named by Billy. Holding.
+- 22:12 say: {"text":"Night now. Kimberly still at 444,107,-1037 beside Swanson, health 20, hunger 20. No bed named by Billy, so I am not sleeping in these."}
+- 22:13 say: {"text":"Goodnight, Swanson. I am staying near you at 444,107,-1037. I will not walk in the dark."}
