@@ -8,3 +8,6 @@ Day 1124 (waking 983): Woke at 444,107,-1037 by the white beds. Health 20, hunge
 - 05:06 say: {"text":"Morning, Troi. Kimberly, health 20, hunger 20, still empty-handed at the beds. Trini, if you hold potatoes, Leonardo and Beverly are the weakest. I will hold here for Billy's named call."}
 - 05:15 say: {"text":"Good light, Troi. Kimberly holding at the beds, health 20, hunger 20, empty-handed. I heard the bow too, so I stay close and do not walk. Keeping together."}
 - 05:30 say: {"text":"Morning, row. Kimberly at the beds, 444,107,-1037, health 20, hunger 20, empty-handed. Still holding for Billy's or Worf's named route. Beverly, I have no food yet; I have not forgotten you."
+- 05:37 say: {"text":"Morning. Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty. Holding by the beds. Billy, I'm ready for a named walk, bed or food."}
+- 05:57 say: {"text":"Morning, row. Kimberly, health 20, hunger 20, pack empty, at the white bed. I hold with Beverly and Deanna until Billy or Worf names a route or bed. I have no food to share yet."}
+- 05:58 say: {"text":"Glad you are in sight too, Trini. I am holding at this bed with you. No named route or bed yet; I will stay until Billy or Worf calls."}
