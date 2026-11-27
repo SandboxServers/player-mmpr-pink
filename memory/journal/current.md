@@ -18,3 +18,5 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - 23:23 say: {"text":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, no food, no sword. Holding still until Billy names a walk, bed or food."}
 - 23:39 act: {"actions":[{"do":"note","text":"Dusk, day 1181. Holding at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty, unarmed. Swanson says we bed down here; I do not try a bed unless Billy name
 - Waking 1181 (day 1181, dusk). Status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. Swanson said we bed down here tonight; I will not try a bed unless Billy names it. Said my position aloud. Holding still; no walk, food or sword named. An intent with a rest program was rejected by the schema, so I held by say only.
+- 23:40 say: {"text":"Kimberly here at 444,107,-1037, with Swanson. Holding still. Dusk, no food, no sword. I will wait for Billy's named call."}
+- Day 1182 (day). Status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, empty-handed. No walk, bed or food named by Billy. Holding still; said my position aloud.
