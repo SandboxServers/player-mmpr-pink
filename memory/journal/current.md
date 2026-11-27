@@ -59,3 +59,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 12:54 act: {"actions":[],"intent":{"goal":"hold_for_named_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":1}}}
 - 12:58 act: {"actions":[],"say":"Troi, Kimberly here. Health 20, hunger 20, empty-handed, at 444,107,-1037. Still holding. I have no potatoes, so I cannot feed Beverly yet."}
 - 13:02 act: {"actions":[],"say":"Troi, thank you. I will not walk to Trini alone and I am not named for a route. Holding at 444,107,-1037 until Billy or Worf names one."}
+- 13:11 act: {"say":"Kimberly here at the white bed 444,107,-1037, health 20, hunger 20, unarmed, pack empty. Holding with the row. Billy or Worf, name a daylight route or a bed when you are ready.","intent":{"goa
