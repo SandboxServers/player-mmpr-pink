@@ -80,3 +80,4 @@ Waking 1141: recalled summary, read play skill. status, wait and act are not in 
 - 19:29 say: {"text":"Kimberly here, still at the beds, 444,107,-1037. Night and thunder. I stay put with you, Ron, and will not walk in the dark."}
 - 19:34 act: {"say":"Morning. Kimberly at 444,107,-1037 beside Swanson. Health 20, hunger 20, unarmed, pack empty. Holding here until Billy names a walk, bed or food.","intent":{"goal":"hold_for_billy_call","progr
 - 19:47 say: {"text":"Kimberly here at 444,107,-1037, beside Swanson. Night, health 20, hunger 20, holding nothing. Holding still until Billy names a walk, bed or food."}
+- 20:07 say: {"text":"Morning. Kimberly here at 444,107,-1037, health 20, hunger 20, no food, no sword. Holding until Billy names a walk or bed."}
