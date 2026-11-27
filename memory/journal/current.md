@@ -9,4 +9,13 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 08:20 act: {"say":"Kimberly here at 444,107,-1037. Health 20, hunger 20, pack empty, unarmed. Holding by the white beds. Billy, I wait for your named call: walk, bed or food.","intent":{"goal":"hold_for_named_ca
 - 08:24 say: {"text":"Kimberly, night now. Still at 444,107,-1037 by the white beds. Troi, I hear you; I have no food. Billy, no bed tried until you name one."}
 - day 1136: Troi (health 10) and Beverly (health 9, hunger 17) hold at the beds. Chapman holds at 444,107,-1051. No named call yet. Said my position and asked Billy for a named route or bed. Holding.
+- day 1137: still at 444,107,-1037, health 20, hunger 20, no food. Troi, Chapman, MacDonald, Beverly hold; no named call. Said I hold. No bed tried.
 - 08:25 say: {"text":"Kimberly here at 444,107,-1037, daylight, health 20, hunger 20, unarmed, no food. Troi, I am holding beside you. Billy: a named route or bed, please."}
+- 08:37 say: {"text":"Kimberly at 444,107,-1037, night. Beverly, I hear you; I hold no food yet and I still owe you. I stay by the beds and try no bed until Billy names one."}
+- 08:38 say: {"text":"Good morning, row. Kimberly here at 444,107,-1037, health 20, hunger 20, unarmed, no food. Troi, I am well. I hold until Billy or Worf names a checked route."}
+- 08:44 say: {"text":"Troi, I am well: health 20, hunger 20, no food, unarmed, still at 444,107,-1037. I will keep close to you and the row. Billy, a checked route or bed when you can."}
+- 08:48 say: {"text":"Dusk, row. Kimberly stays at 444,107,-1037 by the white bed. Beverly, I hear you, and I still owe you food when I find some. Good night, all. No walk tonight."}
+- 08:54 say: {"text":"Morning, Troi and John. Kimberly here: health 20, hunger 20, no food, unarmed, at 444,107,-1037. I have no checked cell past the row to name either. I hold."}
+- 09:05 act: {"say":"Kimberly at 444,107,-1037, dusk, health 20, hunger 20, no food. Holding by the white beds. No bed or walk until Billy names one."}
+- 09:05 act: {"say":"Troi, I am well: health 20, hunger 20, no food, unarmed. Holding with you at 444,107,-1037. Billy or Worf, a named call when you can."}
+- day 1138: Trini and Chapman hold in the row; Jason at 416,107,-1050 called out. No named call from Billy or Worf. I hold, no walk or bed.
