@@ -32,3 +32,4 @@ Waking 1068: recalled summary, read play skill. World tools (status, wait, act, 
 - Waking (play, newest): recalled summary, read play skill. status is not a tool in my hand (no mcp__geldar__ tools at all); wait and act are not here either. No move, no bed, no give, no say. Holding at 444,107,-1037 (last known), health 20, hunger 20, pack empty, unarmed.
 - 16:38 say: {"text":"Kimberly here. I hear you, Ron. I have no food and no sword either. I will hold still until Billy names a walk or a bed."}
 - 16:51 act: {"say":"Kimberly here. I'm unarmed and carry nothing. Holding still until someone names a walk or bed."}
+- Waking (play, newest, day 1098 record): recalled summary, read play skill. status, wait, act and say are still not in my hands (only recall, Skill, Read, Edit, Write, commit_memory, Agent). No errand, no move, no bed, no give, no say. Last known 444,107,-1037, health 20, hunger 20, pack empty, unarmed. Holding; no walk without Billy's named call.
