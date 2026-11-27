@@ -59,3 +59,5 @@
 - 02:05 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, empty and unarmed. Night, and no bed named to me, so I hold awake. Billy or Worf, I wait for your call."}
 - 02:06 act: {"say":"Morning, Troi. Kimberly here at the white bed, health 20, hunger 20, empty-handed. No food to give yet. Holding for Billy or Worf's named call."}
 - 02:11 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, empty-handed, unarmed. Holding with the row. Billy or Worf, I wait for your named walk, bed or food."}
+- 02:20 act: {"say":"Kimberly here at 444,107,-1037. Health 20, hunger 20, pack empty. Holding still. Billy, I'm waiting for your named call for food, a bed or a walk."}
+- Waking 971 (day 1117): at 444,107,-1037 by the white beds, beside Bcrusher. Health 20, hunger 20, empty-handed, unarmed. Daylight, clear, nothing named. Said hello to the row and held still.
