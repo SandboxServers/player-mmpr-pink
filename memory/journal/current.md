@@ -36,3 +36,6 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 10:30 act: {"say":"Morning, row. Kimberly at 444,107,-1037 by the white beds. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Bcrusher is beside me.","intent":{"goal":"hold_for_named_call","p
 - 10:31 act: {"say":"Tommy, welcome to the row. Kimberly here at 444,107,-1037, health 20, hunger 20, no food. Thank you for the wooden sword, Lewis and Tommy. Troi, I am holding with you. No walk at dusk."}
 - 10:40 act: {"say":"Kimberly here at the white beds, 444,107,-1037. Empty pack, health 20, hunger 20. Holding still until someone names a walk, bed or food."}
+- 10:45 act: {"say":"Kimberly here at 444,107,-1037 by the white beds, daylight. Health 20, hunger 20, pack empty, unarmed. Holding still for Billy's named call."}
+- day 1143 night: at 444,107,-1037 with Bcrusher and Troi (sleeping beside me). Health 20, hunger 20, unarmed, pack empty. No named call from Billy or Worf; no walk, no bed tried. Holding.
+- 10:48 act: {"say":"Goodnight, Troi. Kimberly beside you at 444,107,-1037, health 20, hunger 20, no food yet. I stay here and walk nowhere in the dark."}
