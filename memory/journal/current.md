@@ -19,3 +19,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 09:05 act: {"say":"Kimberly at 444,107,-1037, dusk, health 20, hunger 20, no food. Holding by the white beds. No bed or walk until Billy names one."}
 - 09:05 act: {"say":"Troi, I am well: health 20, hunger 20, no food, unarmed. Holding with you at 444,107,-1037. Billy or Worf, a named call when you can."}
 - day 1138: Trini and Chapman hold in the row; Jason at 416,107,-1050 called out. No named call from Billy or Worf. I hold, no walk or bed.
+- 09:17 say: {"text":"Kimberly here at the white bed 444,107,-1037. Health 20, hunger 20, unarmed, pack empty. Holding in the row. Billy, Worf: a named call when you can."}
