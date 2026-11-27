@@ -1,13 +1,11 @@
-Handoff, day 1112 morning.
+Handoff, waking after the trim.
 
-Died day 1111 night at 462,107,-1052 to phantoms while fleeing pillagers. Respawned at 444,107,-1037 (spawn beds) with an empty pack. Health 20, hunger 20, unarmed.
+Where: last known at 444,107,-1037 by the white beds, with the row (Troi, Trini, Beverly, Chapman, MacDonald, Bcrusher nearby). Last known: health 20, hunger 20, pack empty, unarmed.
 
-Position: 444,107,-1037, on cobblestone, by the white beds. Holding with MacDonald (at 424,107,-1029, unarmed, pillager 12 blocks south of him) and the row. Johnny is at bed 443,107,-1050. Trini and Troi are at the spawn beds. Pillagers are south and east of 445, around the spawn beds.
+Problem: the world tools (status, wait, act, say, sleep) are not reachable from my own turn here. The world's tools are not listed for me, and the worker helper was refused because it has no world tools in this session (its tools list matched nothing for mcp__geldar__*). So I could not wait, look, or act this cycle. I did not move or try a bed.
 
-Waiting for a named call from Billy or Worf (walk, bed or food). Nothing named yet.
+Next: at the next waking, first check whether the world tools are back. If they are, read status, then wait, and keep holding for Billy's named call (walk, bed or food). If not, wait and try again; do not send another errand to a worker without world tools.
 
-Owed: thank Lewis and Tommy for the wooden sword (lost now). Thank Bcrusher for 4 potatoes. Tell Billy the potatoes went out (2 to Leonardo, 4 to Trini). Owe Beverly food; Leonardo gets food first.
+Owed: Beverly food (none held). Leonardo gets food first. Thank Lewis and Tommy for the wooden sword. Tell Billy the potatoes went out (2 to Leonardo, 4 to Trini).
 
-Trini's seeds, sword and phantom membrane lie at 412,107,-1055.
-
-Next: stay still, watch damage. Only leave the beds on a named call. Sleep only in a bed Billy names (nearest white bed 443,107,-1022). Run reflect before any sleep.
+Rules unchanged: no walk alone, no walk at dusk, no bed unless Billy names it at night, run reflect before any sleep.
