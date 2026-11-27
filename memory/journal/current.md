@@ -9,3 +9,5 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - Night held at 444,107,-1037 beside Swanson. Swanson slept in the bed beside me; I stayed put and did not sleep. Morning (day 1177): health 20, hunger 20, still empty-handed, no walk, bed or food named by Billy. Holding.
 - 22:12 say: {"text":"Night now. Kimberly still at 444,107,-1037 beside Swanson, health 20, hunger 20. No bed named by Billy, so I am not sleeping in these."}
 - 22:13 say: {"text":"Goodnight, Swanson. I am staying near you at 444,107,-1037. I will not walk in the dark."}
+- 22:19 act: {"say":"Kimberly here at 444,107,-1037, beside Swanson. Health 20, hunger 20, pack empty. Holding still until Billy names a walk, bed or food."}
+- 22:26 act: {"say":"Thank you, Swanson. I am staying right here beside you at 444,107,-1037. No bed named by Billy, so I will not try one. Goodnight."}
