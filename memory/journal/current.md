@@ -72,3 +72,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 14:02 say: {"text":"Troi, Kimberly here at 444,107,-1037. Health 20, hunger 20, unarmed, no food. Watson, I have nothing to give and I cannot walk out to you. I hold here until Billy names a walk."}
 - Waking (new cycle): tried to hand the world-tools to a helper; the helper had no world tools in this session, so nothing was sent. I hold still at 444,107,-1037 (health 20, hunger 20, empty pack, unarmed). No named call. No walk, no bed.
 - Waking again: world tools (status, wait, act, say, sleep) still not in my hands, so I could not wait or act. Last known 444,107,-1037, holding. No errand sent. Will check the tools again at the next waking.
+- Waking again (new cycle): recalled summary and play. Still no world tools in this session (no status, wait, act, say). Last known 444,107,-1037 by the white beds, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed.
