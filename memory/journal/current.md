@@ -13,3 +13,6 @@ Day 1124 (waking 983): Woke at 444,107,-1037 by the white beds. Health 20, hunge
 - 05:58 say: {"text":"Glad you are in sight too, Trini. I am holding at this bed with you. No named route or bed yet; I will stay until Billy or Worf calls."}
 - 06:06 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, unarmed, pack empty. Holding at the row. Billy or Worf, name the next call.","intent":{"goal":"hold_at_row","program":"rest
 - 06:14 act: {"say":"Beverly, Kimberly here, beside you at the bed. I hold nothing, but I still owe you food the moment I find any. Still holding for Billy's call."}
+- 06:29 act: {"say":"Kimberly, awake at 444,107,-1037. Health 20, hunger 20, no food, no sword. Holding at the beds for Billy's named call.","intent":{"goal":"hold_for_named_call","program":"rest","arguments":{},"
+- 06:38 act: {"say":"Kimberly, goodnight, row. Holding at 444,107,-1037. No walk in the dark. Billy, I need a named bed or food at light."}
+- 06:38 act: {"say":"Morning, Troi. Kimberly here at 444,107,-1037, health 20, hunger 20. I hold no food and no sword. Holding for Billy's named call."}
