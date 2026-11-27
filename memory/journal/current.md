@@ -31,3 +31,5 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 10:11 act: {"say":"Morning, row. Kimberly at 444,107,-1037, health 20, hunger 20, no food, unarmed. Holding at the beds. Billy or Worf, a named route or food when you can."}
 - 10:21 act: {"actions":[{"do":"note","text":"Night, day 1141. At 444,107,-1037 by the white beds with Bcrusher beside me. Health 20, hunger 20, unarmed, pack empty. No named call from Billy yet, so I hold still."
 - 10:25 act: {"actions":[{"do":"note","text":"Day 1142, morning. At 444,107,-1037, health 20, hunger 20, no food, unarmed. Row still holding; no named route or bed from Billy or Worf. No walk, no bed tried."}],"sa
+- 10:26 say: {"text":"Kimberly here, at the white beds 444,107,-1037. Health 20, hunger 20, empty-handed. Holding still until Billy names a walk, bed or food."}
+- Day 1142 cycle: status health 20, hunger 20, pack empty, unarmed, 556 days since sleep. Bcrusher in reach. Wait quiet, no named call. Said my position. Holding at 444,107,-1037. No walk, no bed tried.
