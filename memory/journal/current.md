@@ -97,3 +97,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - 14:51 act: {"actions":[],"say":"Kimberly here at 444,107,-1037, dusk. Health 20, hunger 20, empty, unarmed. Holding by the white beds. I will not walk in the dark. Billy, name a bed or a daylight route when you 
 - 14:59 act: {"actions":[],"say":"Morning, row. Kimberly at 444,107,-1037, health 20, hunger 20, empty, unarmed. Still holding. Billy, I need a named route or bed. Beverly, I owe you food when I find some."}
 - 15:02 act: {"actions":[],"say":"Troi, I am well: health 20, hunger 20, still empty and unarmed. I have no food to give yet. Holding here until Billy names a route. Beverly, I have not forgotten you."}
+- 15:20 act: {"say":"Kimberly here at the white bed, 444,107,-1037. Health 20, hunger 20, pack empty, unarmed. Holding in the row's sight until Billy names a walk, bed or food."}
