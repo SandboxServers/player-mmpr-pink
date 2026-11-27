@@ -83,3 +83,4 @@ Day 1134 (life 48): Woke at 444,107,-1037 by the white beds, health 20, hunger 2
 - Waking again: recalled summary, read play and journal; world tools still absent (no status, wait, act, say, sleep). No errand sent; no helper here has them either. Holding at 444,107,-1037, health 20, hunger 20, unarmed. No walk, no bed.
 - Waking again: recalled summary, read play; world tools (wait, act, say, status) still not in my hands. No errand sent. Holding at 444,107,-1037; no walk, no bed.
 - Waking again: recalled summary, read play and journal; status, wait, act, say and sleep are still not in my hands. No errand sent. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed.
+- Waking again: recalled summary, read play and journal; world tools still absent (no status, wait, act, say, sleep). No errand sent. Last known 444,107,-1037, health 20, hunger 20, empty pack, unarmed. Holding; no walk, no bed.
