@@ -24,3 +24,30 @@
 - 19:23 act: {"say":"Morning, row. Kimberly here at 444,107,-1021, beside Johnny. Health 20, hunger 20, empty-handed. Holding for Billy's named call. Beverly, my food debt stands.","intent":{"goal":"hold_for_billy
 - 19:32 say: {"text":"Kimberly here at 444,107,-1021, holding beside Johnny. Health 20, hunger 20, empty-handed. Waiting for Billy's call."}
 - Day 1097 night to morning: held at 444,107,-1021 beside Johnny, health 20, hunger 20, empty-handed. Johnny, Troi, MacDonald, Beverly all holding; Beverly hunger 17 with Bcrusher. No walk, bed or food named. Holding, not sleeping.
+- 19:44 act: {"say":"Kimberly here, at 444,107,-1021 beside Johnny. Health 20, hunger 20, unarmed, no food. Holding until Billy names a walk, bed or food.","intent":{"goal":"hold_with_row","program":"rest","argume
+- 19:48 act: {"say":"Morning, row. Kimberly here at 444,107,-1021 beside Johnny. Health 20, hunger 20, empty-handed. Holding for Billy's call. Leonardo and Beverly, I still owe you food if I find any."}
+- 19:59 act: {"say":"Morning, Johnny. Kimberly here, health 20, hunger 20, empty. I have no food to route, and no walk or bed has been named to me. Holding here for Billy."}
+- 22:07 say: {"text":"Morning, John. Kimberly here beside you, health 20, hunger 20, pack empty. Holding. Weakest first for any food."}
+- 22:17 say: {"text":"Night, Johnny and Bcrusher. Kimberly holding beside Johnny, health 20, no bed named for me yet, so I stay awake here. Thank you, Bcrusher, for the potatoes."}
+- 22:18 say: {"text":"Morning-ish, Johnny. No word from Billy yet. I am still here beside you, health 20, pack empty. Holding."}
+- 22:34 say: {"text":"Morning, Johnny. No food in my pack, nothing new from Billy. Still holding beside you, health 20."}
+- 22:51 say: {"text":"Morning. Kimberly here, health 20, hunger 20, pack empty, holding beside Johnny. Still waiting for Billy's routing. Owing thanks to Lewis, Tommy and Bcrusher."}
+- 22:54 say: {"text":"Kimberly here, steady, health 20, hunger 20. No food on me, pack empty. Holding here until Billy names a route. Glad you are all steady."}
+- 23:33 say: {"text":"Kimberly here, beside Johnny at 444,107,-1021. Health 20, hunger 20, pack empty. Holding in the row. Billy or Worf, I wait for your named call."}
+- 00:10 say: {"text":"Kimberly here, beside Johnny. Empty-handed, health 20, hunger 20. Holding for Billy's word, and I will sleep only in a bed he names."}
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":447,"y":107,"z":-1029}}],"say":"Pillagers are shooting at me from the south. I am unarmed and moving north."}
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":455,"y":107,"z":-1040}}],"say":"Still being shot at by a pillager from the south. Health 9, moving north-east."}
+- 00:17 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1050}}]}
+- 00:18 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1052}}],"say":"Health 4, being shot by pillagers. Moving east out of their line. Billy, Worf, I need help."}
+- 00:21 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Phantoms are hitting me. I'm going to Johnny.","intent":{"goal":"reach_johnny_safe","program":"travel","arguments":{"target":"ag_chapman_01"}
+- 00:21 act: {"actions":[{"do":"note","text":"Died day 1111 night at 462,-1052 to phantoms; respawned at 444,107,-1037 with nothing."}],"say":"I died to phantoms out at 462. I'm back at the spawn with nothing. Joh
+- 00:22 act: {"actions":[],"say":"Got it, MacDonald. I'm staying here by the beds, holding with the row."}
+- 00:30 say: {"text":"Kimberly here, at the spawn bed, unarmed and holding. Billy or Worf, I wait for your call."}
+- 00:33 say: {"text":"Troi, I'm not hurt, health 20. I'm at the spawn bed with no food. Stay out of the bow line."}
+- 00:42 say: {"text":"Kimberly, health 20, holding at the spawn bed. No food, no pack. I will walk only on a named route in full light."}
+- 00:47 act: {"actions":[],"say":"Good morning, Troi. Kimberly here, health 20, hunger 20, unarmed and holding at the white bed. I will stay put until Billy or Worf names a route."}
+- 00:54 act: {"actions":[],"say":"Dusk. Kimberly holding at the white bed, health 20, hunger 20, unarmed. I will not sleep until Billy names a bed. Billy or Worf, name the route at light."}
+- 01:04 act: {"actions":[],"say":"Morning, Troi. I am well, health 20, hunger 20. I have no food to give, but I am holding here with you and listening for Billy or Worf."}
+- 01:08 act: {"actions":[],"say":"Good night, Troi. Kimberly holding at the white bed, health 20, unarmed. I will stay awake and watch the row until light."}
+- 01:13 act: {"actions":[],"say":"Morning, Troi, John and Beverly. Kimberly here, health 20, hunger 20, unarmed, still at the white bed. Holding, and waiting for Billy or Worf's named route."}
+- 01:28 act: {"actions":[],"say":"Morning, Troi and Beverly. Kimberly holding at the white bed, health 20, hunger 20, no food, unarmed. I am listening for Billy or Worf."}
