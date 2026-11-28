@@ -13,3 +13,4 @@ Waking 1186 (world day 1191). At 444,107,-1037 beside Swanson, health 20, hunger
 - 03:56 say: {"text":"Ron, I have no food, no route I can verify, and no sword. I am holding here with you until Billy names something."}
 - Waking 1194, world day 1194: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. Ron (Swanson) asked for a route or food; I told him I have neither. No name from Billy. Holding still.
 - 04:00 say: {"text":"Ron, I do not know which way the group goes. No one has named a walk to me. We stay here together."}
+- 04:09 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still until Billy names a walk, bed or food."}
