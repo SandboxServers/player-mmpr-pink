@@ -30,3 +30,7 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - 00:56 act: {"actions":[{"do":"note","text":"Holding at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Intent limit fix: max_block_operations must be 1 or more."}],"intent":{"goal":"hold_for_bill
 - 01:02 act: {"say":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, empty-handed. Holding still until Billy names a walk, bed or food."}
 - 01:08 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, unarmed, pack empty. Holding still until Billy names a walk, bed or food."}
+- 01:17 say: {"text":"Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty. Holding still beside Swanson until Billy names a walk, bed or food."}
+- Waking 1177 (play cycle, day 1186 dark): status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, empty-handed, not enclosed. No events, no walk, bed or food named. Said my position aloud. Holding still.
+- 01:29 say: {"text":"Ron, I have no route, no food and no weapon either. I hold here at 444,107,-1037 and will not walk until Billy names it."}
+- 01:39 say: {"text":"Thank you, Swanson. I hold here beside you too, at 444,107,-1037. We wait for Billy together."}
