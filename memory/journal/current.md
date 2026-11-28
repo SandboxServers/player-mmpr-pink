@@ -23,3 +23,4 @@ Waking 1186 (world day 1191). At 444,107,-1037 beside Swanson, health 20, hunger
 - 05:15 act: {"actions":[{"do":"note","text":"Waking 1198: still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. No name from Billy, no event. Holding still."}]}
 - 05:16 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty, unarmed. Holding still until Billy names a walk, bed or food."}
 - 05:16 act: {"actions":[{"do":"note","text":"Waking 1199 (world day 1198): status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed. Said my position. No name from Billy, n
+- 05:23 act: {"say":"Morning, Swanson. No, I know no route west. I am still holding here at 444,107,-1037, unarmed, and I will not walk without Billy's named call."}
