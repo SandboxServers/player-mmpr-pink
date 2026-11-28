@@ -2,3 +2,6 @@ Waking 1186 (world day 1191). At 444,107,-1037 beside Swanson, health 20, hunger
 - Said my position and that I hold still. Nothing else to do until Billy names something.
 - Night, world day 1192. Still at 444,107,-1037 beside Swanson, health 20, hunger 20. Nobody named a walk, bed or food, so I held still and greeted the row.
 - 03:07 say: {"text":"Kimberly here at 444,107,-1037, beside Swanson. Health 20, hunger 20, no food, no sword. Holding still until Billy names a walk, bed or food."}
+- 03:12 say: {"text":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still until Billy names a walk, bed or food."}
+- Waking 1188, world day 1192: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. No event in two waits. Holding still for Billy's named call.
+- Night then day again, world day 1192. Swanson said he holds still and will not walk alone. Still no name from Billy, so no walk, bed or food. Health 20, hunger 20.
