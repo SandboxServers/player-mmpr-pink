@@ -24,3 +24,4 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - 00:11 act: {"say":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still for Billy's named call.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake
 - 00:15 act: {"say":"Ron, I hear you. I am holding here too, unarmed with no food. We move only on Billy's or Worf's named call."}
 - 00:32 act: {"say":"Morning. Kimberly here at 444,107,-1037 with Swanson. Health 20, hunger 20, unarmed, pack empty. Holding still until Billy names a walk, bed or food."}
+- 00:44 say: {"text":"Swanson, I have no food, no tool and no sword, and I know no safe route. I hold still here beside you until Billy names a walk or food."}
