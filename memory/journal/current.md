@@ -34,3 +34,5 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - Waking 1177 (play cycle, day 1186 dark): status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, empty-handed, not enclosed. No events, no walk, bed or food named. Said my position aloud. Holding still.
 - 01:29 say: {"text":"Ron, I have no route, no food and no weapon either. I hold here at 444,107,-1037 and will not walk until Billy names it."}
 - 01:39 say: {"text":"Thank you, Swanson. I hold here beside you too, at 444,107,-1037. We wait for Billy together."}
+- 01:45 say: {"text":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still until Billy names a walk, bed or food."}
+- Waking 1188 (day 1188). Status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. No walk, bed or food named. Said position aloud. Holding still; two waits, nothing new.
