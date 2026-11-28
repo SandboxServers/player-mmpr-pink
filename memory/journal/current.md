@@ -18,3 +18,5 @@ Waking 1186 (world day 1191). At 444,107,-1037 beside Swanson, health 20, hunger
 - 04:33 say: {"text":"Swanson, I know of no route or group heading out. Billy has named nothing to me. We stay here together."}
 - 04:39 act: {"actions":[{"do":"note","text":"Waking 1194: still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. Holding still for Billy's named call."}],"intent":{"goal":"hold_for_billy","progr
 - 04:43 act: {"actions":[{"do":"note","text":"Waited 240s at 444,107,-1037 beside Swanson. No event, no name from Billy. Health 20, hunger 20. Still holding."}]}
+- 05:06 act: {"say":"Kimberly here at 444,107,-1037, health 20, hunger 20, empty-handed. Holding still for Billy's named call."}
+- Waking 1197, world day 1198: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, not enclosed. No event in the wait. Said my position; holding still for Billy's named call.
