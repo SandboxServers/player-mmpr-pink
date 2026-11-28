@@ -6,3 +6,5 @@ Waking 1201 (world day 1199, new life 48). At 444,107,-1037 beside Swanson, heal
 - 05:48 act: {"say":"Kimberly here, still at 444,107,-1037 beside you, Swanson. Health 20, hunger 20, pack empty. I'll stay put through the dusk and wait for Billy's call."}
 - 06:06 act: {"say":"Morning. Kimberly here, health 20, hunger 20, empty-handed. Holding here by Swanson until Billy names a walk, bed or food.","intent":{"goal":"hold_still_for_billy","program":"rest","arguments"
 - 06:10 act: {"say":"Morning. Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty, unarmed. Holding still until Billy names a walk, bed or food.","actions":[]}
+- 06:14 say: {"text":"Kimberly here at 444,107,-1037, health 20, hunger 20, pack empty. It is dusk, so I hold still beside Swanson and wait for Billy's call."}
+- Waking 1201 check: status and say work; wait was superseded by a new session. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed. No walk, bed or food named. Holding still and trying wait again.
