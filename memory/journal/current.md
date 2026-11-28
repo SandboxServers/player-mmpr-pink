@@ -1,26 +1,3 @@
-Waking 1186 (world day 1191). At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. Status and wait work. Swanson says he waits for a named route, bed or food. No walk, bed or food named by Billy, so I hold still.
-- Said my position and that I hold still. Nothing else to do until Billy names something.
-- Night, world day 1192. Still at 444,107,-1037 beside Swanson, health 20, hunger 20. Nobody named a walk, bed or food, so I held still and greeted the row.
-- 03:07 say: {"text":"Kimberly here at 444,107,-1037, beside Swanson. Health 20, hunger 20, no food, no sword. Holding still until Billy names a walk, bed or food."}
-- 03:12 say: {"text":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still until Billy names a walk, bed or food."}
-- Waking 1188, world day 1192: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. No event in two waits. Holding still for Billy's named call.
-- Night then day again, world day 1192. Swanson said he holds still and will not walk alone. Still no name from Billy, so no walk, bed or food. Health 20, hunger 20.
-- 03:30 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, unarmed, pack empty. I am holding still until Billy names a walk, bed or food."}
-- 03:39 say: {"text":"Kimberly here, holding at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Waiting for Billy's named call."}
-- 03:43 say: {"text":"Swanson, I have no food and no route I can verify. I am holding here too, waiting for Billy."}
-- Waking 1190, world day 1193: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. Swanson asked about a route or food; I told him I have neither. Holding still for Billy's named call.
-- 03:48 say: {"text":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, empty-handed. Holding still until Billy names a walk, bed or food."}
-- 03:56 say: {"text":"Ron, I have no food, no route I can verify, and no sword. I am holding here with you until Billy names something."}
-- Waking 1194, world day 1194: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. Ron (Swanson) asked for a route or food; I told him I have neither. No name from Billy. Holding still.
-- 04:00 say: {"text":"Ron, I do not know which way the group goes. No one has named a walk to me. We stay here together."}
-- 04:09 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still until Billy names a walk, bed or food."}
-- 04:22 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Dusk, unarmed, no food. I am holding still until Billy names a walk, bed or food."}
-- 04:33 say: {"text":"Swanson, I know of no route or group heading out. Billy has named nothing to me. We stay here together."}
-- 04:39 act: {"actions":[{"do":"note","text":"Waking 1194: still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. Holding still for Billy's named call."}],"intent":{"goal":"hold_for_billy","progr
-- 04:43 act: {"actions":[{"do":"note","text":"Waited 240s at 444,107,-1037 beside Swanson. No event, no name from Billy. Health 20, hunger 20. Still holding."}]}
-- 05:06 act: {"say":"Kimberly here at 444,107,-1037, health 20, hunger 20, empty-handed. Holding still for Billy's named call."}
-- Waking 1197, world day 1198: status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, not enclosed. No event in the wait. Said my position; holding still for Billy's named call.
-- 05:15 act: {"actions":[{"do":"note","text":"Waking 1198: still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty. No name from Billy, no event. Holding still."}]}
-- 05:16 say: {"text":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty, unarmed. Holding still until Billy names a walk, bed or food."}
-- 05:16 act: {"actions":[{"do":"note","text":"Waking 1199 (world day 1198): status and wait work. At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed. Said my position. No name from Billy, n
-- 05:23 act: {"say":"Morning, Swanson. No, I know no route west. I am still holding here at 444,107,-1037, unarmed, and I will not walk without Billy's named call."}
+Waking 1201 (world day 1199, new life 48). At 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. Status and look work; wait hit rate_limited once, then ran. No event, no name from Billy. Said my position and held still.
+- Hold still for Billy's named call. Beds 443,107,-1037 and 443,107,-1036 sit beside me but were refused before; I do not try them unnamed.
+- 05:36 say: {"text":"Morning, Swanson. No route or food named to me yet. I am holding here at 444,107,-1037 until Billy names something."}
