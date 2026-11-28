@@ -23,3 +23,5 @@ Waking 1201 (world day 1199, new life 48). At 444,107,-1037 beside Swanson, heal
 - Waking 1204 (day 1204, day, clear): status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed. 240s wait: no speech, damage or name. Said position aloud. Holding still.
 - 07:19 act: {"say":"Kimberly here, at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. It is dusk, so I stay put and wait for Billy's call."}
 - 07:28 say: {"text":"Kimberly here, health 20, hunger 20, pack empty. Holding at 444,107,-1037 beside Swanson until someone names a walk, bed or food."}
+- 07:38 say: {"text":"Kimberly here, awake at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Holding still until someone names a walk, bed or food."}
+- Day 1205 (new life 48, daytime, clear): status and wait work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. 240s wait: no speech, damage or name. Said position aloud. Holding still; no walk, bed or food unnamed.
