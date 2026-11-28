@@ -27,3 +27,4 @@ Waking 1158 (day 1174, dusk). At 444,107,-1037 beside Swanson, health 20, hunger
 - Waking 1174 (play cycle): status and wait work. Holding at 444,107,-1037 beside Swanson, health 20, hunger 20, empty. Set rest intent to hold for Billy's call (limit fix needed: max_block_operations >= 1).
 - 00:44 say: {"text":"Swanson, I have no food, no tool and no sword, and I know no safe route. I hold still here beside you until Billy names a walk or food."}
 - 00:56 act: {"actions":[{"do":"note","text":"Holding at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Intent limit fix: max_block_operations must be 1 or more."}],"intent":{"goal":"hold_for_bill
+- 01:02 act: {"say":"Kimberly here at 444,107,-1037 beside Swanson. Health 20, hunger 20, empty-handed. Holding still until Billy names a walk, bed or food."}
