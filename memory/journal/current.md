@@ -30,3 +30,4 @@ Waking 1201 (world day 1199, new life 48). At 444,107,-1037 beside Swanson, heal
 - 08:02 say: {"text":"Kimberly here, still at the beds beside you, Swanson. I know of no route, food or tool being offered. Billy has named nothing to me. I am holding still.
 - Waking 1206 (day 1206, dark, clear): status, wait, look work. Still at 444,107,-1037 beside Swanson, health 20, hunger 20, pack empty, unarmed, not enclosed. Swanson spoke; I answered that I know of no route, food or tool. No name from Billy. Holding still."}
 - 08:02 say: {"text":"Kimberly here, holding at 444,107,-1037 beside Swanson. Health 20, hunger 20, pack empty. Waiting for Billy's named call."}
+- 08:19 say: {"text":"Morning, Swanson. No word from Billy yet. I'm still holding here, health 20, hunger 20, and I'll move only on his named call."}
